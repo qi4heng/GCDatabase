@@ -759,6 +759,62 @@
         "ml_get_message": "迷ったけど、ゾンビの仮装ならわたしのじめじめした性格に合うかなって。\nちょっと大胆すぎたかな……？　でも、館長が喜んでくれたら嬉しいな。",
         "zh_ml_name": "怪异之夜的自缚"
     },
+     {
+     	"zh_ml_name":"破灭的Alter",
+     	"zh_ml_flavor_text": "惧怕失去的星之少女，追求着永恒。面对那试图逃离容身之处的利刃，她藏起了泪水。",
+        "zh_ml_get_message": "其实我也明白……没有人会认可我，\n没有人会爱我……那不就只能把一切都破坏掉吗？",
+        "id": 4010211,
+        "unit_id": 2,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 3,
+        "color_type": 1,
+        "collabo_type": 0,
+        "another_type": 1,
+        "hp": 3135,
+        "atk": 121,
+        "mnd": 50,
+        "def": 75,
+        "dex": 95,
+        "spd": 59,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 15480002,
+        "skill_id1": 20211001,
+        "skill_id2": 20211002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 10211001,
+        "ultimate_skill_id": 30211001,
+        "duplicated_item_id": 1120211,
+        "duplicated_item_count": 1,
+        "sort_order": 211,
+        "image_index": 4010211,
+        "ai_group_id": 0,
+        "sound_index": 4010211,
+        "country_type": 0,
+        "strong_skill_setting": "2|0|0|0|3",
+        "start_time": "2025-12-21 13:00:00",
+        "ml_name": [
+            "破滅のオルタ",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "喪失を恐れた星の乙女は、永遠を求める。\n居場所を逃さまいとする刃に涙を隠して。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "いつか裏切られるなら\n今のうちにあなたを消すね",
+            "en"
+        ],
+        "ml_get_message": [
+            "ほんとはわたしだってわかってるの……わたしなんて誰も評価してくれない、\n愛してもらえない……なら、ぜんぶ壊しちゃっていいと思わない？",
+            "en"
+        ]
+    },
     {
         "zh_ml_flavor_text": "雕刻时穿的衣服。\n用锤子敲打凿子就会出现魔法。",
         "zh_ml_get_message": "我是雕刻家，多纳泰罗哦！\n今后一起加油吧，馆长！",
@@ -1558,6 +1614,62 @@
         "ml_illustrator_name": "（仮）",
         "ml_get_message": "真相がすぐにわからないなら、意地でも見つけ出すしかない。\nたとえどんな手を使ってもね……そうしなければ、犠牲は増えるだけだ。",
         "zh_ml_name": "自责的Alter"
+    },
+ {
+ 		"zh_ml_name":"照明真实的圣鹿",
+ 	    "zh_ml_flavor_text": "在黑暗的夜路上也能照亮道路的驯鹿侦探。\n摇响脖子上的铃铛，为了解决事件而奔走！",
+        "zh_ml_get_message": "根据我的推理，我觉得送礼物的驯鹿是一种妖怪。\n毕竟普通的驯鹿是不会飞的！",
+        "id": 4010411,
+        "unit_id": 4,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 1,
+        "color_type": 3,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 2917,
+        "atk": 77,
+        "mnd": 65,
+        "def": 63,
+        "dex": 51,
+        "spd": 78,
+        "mov": 4,
+        "mov_type": 1,
+        "factor_id": 15130006,
+        "skill_id1": 20411001,
+        "skill_id2": 20411002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 10411001,
+        "ultimate_skill_id": 30411001,
+        "duplicated_item_id": 1120411,
+        "duplicated_item_count": 1,
+        "sort_order": 411,
+        "image_index": 4010411,
+        "ai_group_id": 0,
+        "sound_index": 4010411,
+        "country_type": 0,
+        "strong_skill_setting": "2|0|0|0|3",
+        "start_time": "2025-12-15 13:30:00",
+        "ml_name": [
+            "真実を照らす聖鹿",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "暗い夜道も明るく照らすトナカイ探偵。\n首につけた鈴を鳴らし、事件解決に奔走！",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "このトナカイ探偵が\n聖夜にプレゼントを運ぶよ！",
+            "en"
+        ],
+        "ml_get_message": [
+            "わたしの推理によると、プレゼントを運ぶトナカイは妖怪の一種だと思うんだ。\nなんといっても、普通のトナカイは空を飛ばないからね！",
+            "en"
+        ]
     },
     {
         "zh_ml_flavor_text": "休息日等外出时的风格。\n遇到艺术犯罪时，用围巾战斗。",
@@ -5516,6 +5628,62 @@
         "ml_illustrator_name": "（仮）",
         "ml_get_message": "館長はお化けを信じますか？　私は、いれば面白いなと思っておりますわ。\nほら、たとえばあそこに……なんて、ふふ……冗談ですわよ！",
         "zh_ml_name": "知识就是力量"
+    },
+   {
+   		"zh_ml_name":"狂暴圣诞老人",
+     	"zh_ml_flavor_text": "能轻松举起沉重的礼物袋\n以力量自豪的圣诞老人风格。",
+        "zh_ml_get_message": "充满心意的礼物，能为身边的人带来笑容。\n如果能将这样的礼物送出，会非常幸福呢。",
+        "id": 4011508,
+        "unit_id": 15,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 3,
+        "color_type": 4,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 2875,
+        "atk": 116,
+        "mnd": 57,
+        "def": 52,
+        "dex": 52,
+        "spd": 84,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 15130004,
+        "skill_id1": 21508001,
+        "skill_id2": 21508002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 11508001,
+        "ultimate_skill_id": 31508001,
+        "duplicated_item_id": 1121508,
+        "duplicated_item_count": 1,
+        "sort_order": 1503,
+        "image_index": 4011508,
+        "ai_group_id": 0,
+        "sound_index": 4011508,
+        "country_type": 0,
+        "strong_skill_setting": "3|0|0|0|2",
+        "start_time": "2025-12-15 13:30:00",
+        "ml_name": [
+            "暴れん坊のサンタ",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "重たいプレゼント袋を軽々と持ち上げる\n力自慢なサンタクローススタイル。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "プレゼント配りは\n最高のトレーニングですわ！",
+            "en"
+        ],
+        "ml_get_message": [
+            "心のこもったプレゼントは、まわりの人たちまで笑顔にできるものです。\nそんな贈り物を届けることができれば、とても幸せですわね。",
+            "en"
+        ]
     },
     {
         "zh_ml_flavor_text": "拿着阿玛蒂型的小提琴，\n演奏出觉悟的旋律的艺术风格。",

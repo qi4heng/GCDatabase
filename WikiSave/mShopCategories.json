@@ -1610,6 +1610,34 @@
         "end_time": ""
     },
     {
+        "id": 696,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "メリースノーメイデン",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
+        "id": 697,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "心を掻き立てる旋律",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 701,
         "type": 5,
         "group_type": 0,
@@ -3581,6 +3609,62 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 23094,
+        "end_time": ""
+    },
+    {
+        "id": 846,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：メリースノーメイデン",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21090,
+        "end_time": ""
+    },
+    {
+        "id": 847,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：イマージュ復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 27045,
+        "end_time": ""
+    },
+    {
+        "id": 848,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：レイド応援",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 65001,
+        "end_time": ""
+    },
+    {
+        "id": 849,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：心を掻き立てる旋律",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 23096,
         "end_time": ""
     },
     {

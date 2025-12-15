@@ -600,6 +600,36 @@
         "duration": 0
     },
     {
+        "id": 2044,
+        "ml_name": [
+            "クリスマスログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 203,
+        "start_time": "2025-12-15 13:30:00",
+        "end_time": "2025-12-26 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2045,
+        "ml_name": [
+            "新年カウントダウンログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 204,
+        "start_time": "2025-12-23 13:00:00",
+        "end_time": "2025-12-31 23:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2156,6 +2186,51 @@
         "priority": 201,
         "start_time": "2025-12-08 13:00:00",
         "end_time": "2025-12-15 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13229,
+        "ml_name": [
+            "メリースノーメイデンログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2025-12-15 13:30:00",
+        "end_time": "2025-12-26 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13604,
+        "ml_name": [
+            "糸杉のつながりと星のきらめきログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2025-12-21 13:00:00",
+        "end_time": "2025-12-29 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 15008,
+        "ml_name": [
+            "心を掻き立てる旋律ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2025-12-23 13:00:00",
+        "end_time": "2026-01-05 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

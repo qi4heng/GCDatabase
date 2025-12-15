@@ -448,5 +448,32 @@
         ],
         "order": 50,
         "effect_types": "64"
+    },
+    {
+        "id": 51,
+        "ml_name": [
+            "エレメント弱点回数威力上昇",
+            ""
+        ],
+        "order": 51,
+        "effect_types": "65"
+    },
+    {
+        "id": 52,
+        "ml_name": [
+            "フォーム付与回数威力上昇",
+            ""
+        ],
+        "order": 52,
+        "effect_types": "67"
+    },
+    {
+        "id": 53,
+        "ml_name": [
+            "ソウル回収",
+            ""
+        ],
+        "order": 53,
+        "effect_types": "61"
     }
 ]

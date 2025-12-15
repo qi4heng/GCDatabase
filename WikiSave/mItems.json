@@ -225,6 +225,56 @@
         "is_visible": false
     },
     {
+        "id": 1010010,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※1/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2025-12-21 13:00:00",
+        "end_time": "2026-01-07 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1010011,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※1/14まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2025-12-23 13:00:00",
+        "end_time": "2026-01-14 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1015001,
         "item_type": 101,
         "value1": 120,
@@ -397,6 +447,31 @@
         ],
         "start_time": "2025-11-21 13:00:00",
         "end_time": "2025-11-28 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1015008,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※1/5まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2025-12-23 13:00:00",
+        "end_time": "2026-01-05 23:59:59",
         "is_visible": false
     },
     {
@@ -625,6 +700,56 @@
         "is_visible": false
     },
     {
+        "id": 1020010,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※1/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2025-12-21 13:00:00",
+        "end_time": "2026-01-07 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1020011,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※1/14まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2025-12-23 13:00:00",
+        "end_time": "2026-01-14 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1025001,
         "item_type": 102,
         "value1": 12,
@@ -797,6 +922,31 @@
         ],
         "start_time": "2025-11-21 13:00:00",
         "end_time": "2025-11-28 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1025008,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※1/5まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2025-12-23 13:00:00",
+        "end_time": "2026-01-05 23:59:59",
         "is_visible": false
     },
     {
@@ -2700,6 +2850,31 @@
         "is_visible": false
     },
     {
+        "id": 1120211,
+        "item_type": 112,
+        "value1": 4010211,
+        "value2": 0,
+        "sort": 59,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120211,
+        "ml_name": [
+            "【破滅のオルタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ゴッホの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120301,
         "item_type": 112,
         "value1": 4010301,
@@ -3185,6 +3360,31 @@
         "image_index": 1120410,
         "ml_name": [
             "【自責のオルタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セキエンの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120411,
+        "item_type": 112,
+        "value1": 4010411,
+        "value2": 0,
+        "sort": 69,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120411,
+        "ml_name": [
+            "【真実を照らす聖鹿】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -5650,6 +5850,31 @@
         "is_visible": false
     },
     {
+        "id": 1121508,
+        "item_type": 112,
+        "value1": 4011508,
+        "value2": 0,
+        "sort": 121,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121508,
+        "ml_name": [
+            "【暴れん坊のサンタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "モリゾの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1125101,
         "item_type": 112,
         "value1": 0,
@@ -7022,6 +7247,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2025-12-05 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1140008,
+        "item_type": 112,
+        "value1": 0,
+        "value2": 0,
+        "sort": 162,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1140001,
+        "ml_name": [
+            "無名のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "特定のオーブと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-16 12:59:59",
         "is_visible": false
     },
     {
@@ -11575,6 +11825,31 @@
         "is_visible": false
     },
     {
+        "id": 1511097,
+        "item_type": 151,
+        "value1": 429,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511097,
+        "ml_name": [
+            "ストーリーキー【メリースノーメイデン】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「メリースノーメイデン」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "クリスマスを祝う物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1520001,
         "item_type": 152,
         "value1": 0,
@@ -15650,6 +15925,31 @@
         "is_visible": false
     },
     {
+        "id": 1630169,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630169,
+        "ml_name": [
+            "メリースノーメイデンガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "メリースノーメイデンピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2025-12-26 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630170,
         "item_type": 702,
         "value1": 0,
@@ -15675,6 +15975,31 @@
         "is_visible": false
     },
     {
+        "id": 1630171,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630100,
+        "ml_name": [
+            "イマージュ復刻ピックアップガチャチケット18",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきイマージュ復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イマージュ復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2025-12-23 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630172,
         "item_type": 702,
         "value1": 0,
@@ -15697,6 +16022,56 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2025-12-17 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630175,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630142,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～ゴッホ～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～ゴッホ～チケットを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2025-12-29 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630176,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630176,
+        "ml_name": [
+            "心を掻き立てる旋律ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "心を掻き立てる旋律ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-07 12:59:59",
         "is_visible": false
     },
     {
@@ -19300,6 +19675,56 @@
         "is_visible": false
     },
     {
+        "id": 1640150,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640150,
+        "ml_name": [
+            "メリースノーメイデンのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でメリースノーメイデンピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2025-12-28 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640151,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640151,
+        "ml_name": [
+            "イマージュ復刻のしおり18",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でイマージュ復刻ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2025-12-25 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640152,
         "item_type": 162,
         "value1": 0,
@@ -19322,6 +19747,56 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2025-12-19 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640156,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640156,
+        "ml_name": [
+            "心を掻き立てる旋律のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で心を掻き立てる旋律ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-09 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640157,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640008,
+        "ml_name": [
+            "レイド応援のしおり赤",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-07 12:59:59",
         "is_visible": false
     },
     {
@@ -22275,6 +22750,56 @@
         "is_visible": false
     },
     {
+        "id": 1650121,
+        "item_type": 801,
+        "value1": 3229,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650121,
+        "ml_name": [
+            "雪片のクリスマスオーナメント",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「メリースノーメイデン」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "クリスマスツリーに飾る木製のオーナメント。\nツリーの装飾はあればあるほど華やかで良い、はずである。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650122,
+        "item_type": 803,
+        "value1": 5008,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650094,
+        "ml_name": [
+            "死の結晶・緑",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「【A.D.F.】心を掻き立てる旋律」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1660003,
         "item_type": 171,
         "value1": 3106,
@@ -23389,6 +23914,31 @@
         ],
         "ml_description": [
             "レイドイベント「貴方を喰らうその理由」に挑戦するために必要となる挑戦券。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大規模な戦闘に挑戦するために必要となるスクロール。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1661008,
+        "item_type": 171,
+        "value1": 5008,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1661001,
+        "ml_name": [
+            "レイド挑戦券",
+            "EN"
+        ],
+        "ml_description": [
+            "レイドイベント「心を掻き立てる旋律」に挑戦するために必要となる挑戦券。",
             "EN"
         ],
         "ml_flavor_text": [

@@ -194,5 +194,33 @@
         "m_quest_stage_id": 6071004,
         "defeat_boss_number": 4,
         "open_time": "2025-11-27 13:00:00"
+    },
+    {
+        "id": 29,
+        "m_event_id": 5008,
+        "m_quest_stage_id": 6081001,
+        "defeat_boss_number": 0,
+        "open_time": "2025-12-23 13:00:00"
+    },
+    {
+        "id": 30,
+        "m_event_id": 5008,
+        "m_quest_stage_id": 6081002,
+        "defeat_boss_number": 1,
+        "open_time": "2025-12-25 13:00:00"
+    },
+    {
+        "id": 31,
+        "m_event_id": 5008,
+        "m_quest_stage_id": 6081003,
+        "defeat_boss_number": 3,
+        "open_time": "2025-12-28 13:00:00"
+    },
+    {
+        "id": 32,
+        "m_event_id": 5008,
+        "m_quest_stage_id": 6081004,
+        "defeat_boss_number": 4,
+        "open_time": "2025-12-29 13:00:00"
     }
 ]

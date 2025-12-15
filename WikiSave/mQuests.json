@@ -1428,6 +1428,23 @@
         ]
     },
     {
+        "id": 429,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "429",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2025-12-15 13:30:00",
+        "end_time": "2025-12-26 12:59:59",
+        "ml_name": [
+            "メリースノーメイデン",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2227,6 +2244,23 @@
         ]
     },
     {
+        "id": 608,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2025-12-23 13:00:00",
+        "end_time": "2026-01-05 12:59:59",
+        "ml_name": [
+            "心を掻き立てる旋律",
+            ""
+        ]
+    },
+    {
         "id": 301,
         "chapter_no": 0,
         "quest_type": 3,
@@ -2563,6 +2597,23 @@
         "end_time": "2025-10-29 12:59:59",
         "ml_name": [
             "【A.S.】赤と青が混じり合うとき",
+            ""
+        ]
+    },
+    {
+        "id": 1103,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2025-12-21 13:00:00",
+        "end_time": "2025-12-29 12:59:59",
+        "ml_name": [
+            "【A.S.】糸杉のつながりと星のきらめき",
             ""
         ]
     }

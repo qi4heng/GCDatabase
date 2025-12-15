@@ -6022,5 +6022,113 @@
         "condition_id": 736801,
         "condition_type": 807,
         "relational_value": 4020087
+    },
+    {
+        "id": 1033,
+        "condition_id": 1080412,
+        "condition_type": 803,
+        "relational_value": 4010411
+    },
+    {
+        "id": 1034,
+        "condition_id": 736901,
+        "condition_type": 806,
+        "relational_value": 4010411
+    },
+    {
+        "id": 1035,
+        "condition_id": 1081508,
+        "condition_type": 803,
+        "relational_value": 4011508
+    },
+    {
+        "id": 1036,
+        "condition_id": 737001,
+        "condition_type": 806,
+        "relational_value": 4011508
+    },
+    {
+        "id": 1037,
+        "condition_id": 1080211,
+        "condition_type": 803,
+        "relational_value": 4010211
+    },
+    {
+        "id": 1038,
+        "condition_id": 737101,
+        "condition_type": 806,
+        "relational_value": 4010211
+    },
+    {
+        "id": 1039,
+        "condition_id": 118111,
+        "condition_type": 808,
+        "relational_value": 4110211
+    },
+    {
+        "id": 1040,
+        "condition_id": 737201,
+        "condition_type": 400,
+        "relational_value": 0
+    },
+    {
+        "id": 1041,
+        "condition_id": 737301,
+        "condition_type": 401,
+        "relational_value": 0
+    },
+    {
+        "id": 1042,
+        "condition_id": 737401,
+        "condition_type": 500,
+        "relational_value": 0
+    },
+    {
+        "id": 1043,
+        "condition_id": 737501,
+        "condition_type": 1200,
+        "relational_value": 0
+    },
+    {
+        "id": 1044,
+        "condition_id": 737601,
+        "condition_type": 400,
+        "relational_value": 0
+    },
+    {
+        "id": 1045,
+        "condition_id": 737701,
+        "condition_type": 401,
+        "relational_value": 0
+    },
+    {
+        "id": 1046,
+        "condition_id": 737801,
+        "condition_type": 500,
+        "relational_value": 0
+    },
+    {
+        "id": 1047,
+        "condition_id": 737901,
+        "condition_type": 1200,
+        "relational_value": 0
+    },
+    {
+        "id": 1064,
+        "condition_id": 109256,
+        "condition_type": 804,
+        "relational_value": 4020086
+    },
+    {
+        "id": 1065,
+        "condition_id": 114086,
+        "condition_type": 801,
+        "relational_value": 4020086
+    },
+    {
+        "id": 1066,
+        "condition_id": 738301,
+        "condition_type": 807,
+        "relational_value": 4020086
     }
 ]

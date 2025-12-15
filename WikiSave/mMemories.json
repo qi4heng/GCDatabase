@@ -1633,5 +1633,50 @@
         "sub_effect_id1": 63130019,
         "sell_price": 10656,
         "start_time": "2025-12-08 13:00:00"
+    },
+    {
+        "id": 4120111,
+        "ml_name": [
+            "サンタクロースVS雪女",
+            "en"
+        ],
+        "index": "110",
+        "rarity": 4,
+        "image_index": 4120118,
+        "main_effect_id1": 54130004,
+        "main_effect_id2": 54131506,
+        "sub_effect_id1": 63130015,
+        "sell_price": 3552,
+        "start_time": "2025-12-08 13:00:00"
+    },
+    {
+        "id": 4120112,
+        "ml_name": [
+            "ようこそ、クリスマスアート展へ！",
+            "en"
+        ],
+        "index": "111",
+        "rarity": 5,
+        "image_index": 4120113,
+        "main_effect_id1": 55130002,
+        "main_effect_id2": 55080006,
+        "sub_effect_id1": 63130017,
+        "sell_price": 10656,
+        "start_time": "2025-12-15 13:00:00"
+    },
+    {
+        "id": 4120113,
+        "ml_name": [
+            "目覚めの音楽は明るく陽気に",
+            "en"
+        ],
+        "index": "112",
+        "rarity": 4,
+        "image_index": 4120119,
+        "main_effect_id1": 54130003,
+        "main_effect_id2": 54130902,
+        "sub_effect_id1": 63130001,
+        "sell_price": 3552,
+        "start_time": "2025-12-23 13:00:00"
     }
 ]

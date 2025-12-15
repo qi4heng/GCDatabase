@@ -1800,6 +1800,31 @@
         "close_time": "2025-11-29 12:59:59"
     },
     {
+        "id": 3229,
+        "ml_title": [
+            "メリースノーメイデン",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 429,
+        "top_character_id": 4010411,
+        "top_background_image": "3001312",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3229,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1090,
+        "m_shop_category_id": 696,
+        "latter_half_shop_category_id": 0,
+        "priority": 106,
+        "banner_image_index": 13229,
+        "start_time": "2025-12-15 13:30:00",
+        "latter_half_start_time": "",
+        "end_time": "2025-12-26 12:59:59",
+        "close_time": "2025-12-28 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",
@@ -2475,6 +2500,31 @@
         "close_time": "2025-10-31 12:59:59"
     },
     {
+        "id": 3604,
+        "ml_title": [
+            "【A.S.】糸杉のつながりと星のきらめき",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1103,
+        "top_character_id": 4010211,
+        "top_background_image": "3011400",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3604,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1092,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 107,
+        "banner_image_index": 13604,
+        "start_time": "2025-12-21 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2025-12-29 12:59:59",
+        "close_time": "2025-12-31 12:59:59"
+    },
+    {
         "id": 5001,
         "ml_title": [
             "【A.D.F.】悲劇の幕開けを防ぐため",
@@ -2648,5 +2698,30 @@
         "latter_half_start_time": "",
         "end_time": "2025-11-28 12:59:59",
         "close_time": "2025-11-30 12:59:59"
+    },
+    {
+        "id": 5008,
+        "ml_title": [
+            "【A.D.F.】心を掻き立てる旋律",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 608,
+        "top_character_id": 4020086,
+        "top_background_image": "3011000",
+        "m_event_bgm_setting_id": 6,
+        "m_event_bonus_group_id": 5008,
+        "m_event_point_group_id": 5008,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3096,
+        "m_shop_category_id": 697,
+        "latter_half_shop_category_id": 0,
+        "priority": 108,
+        "banner_image_index": 15008,
+        "start_time": "2025-12-23 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-01-05 12:59:59",
+        "close_time": "2026-01-07 12:59:59"
     }
 ]
