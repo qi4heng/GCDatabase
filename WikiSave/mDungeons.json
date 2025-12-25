@@ -202,5 +202,17 @@
         "bgm_id": 10110,
         "start_time": "2025-12-01 04:00:00",
         "end_time": "2026-01-01 03:59:59"
+    },
+    {
+        "id": 118,
+        "ml_title": [
+            "シーズン18",
+            ""
+        ],
+        "m_dungeon_floor_group_id": 18,
+        "m_dungeon_rule_group_id": 18,
+        "bgm_id": 10110,
+        "start_time": "2026-01-01 04:00:00",
+        "end_time": "2026-02-01 03:59:59"
     }
 ]

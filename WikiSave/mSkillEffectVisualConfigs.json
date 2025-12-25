@@ -2169,5 +2169,148 @@
         "invoke_effect_id": 62004,
         "invoke_unit_color": "#ffff4d",
         "view_unit_type": 1
+    },
+    {
+        "id": 168,
+        "effect_type": 11,
+        "effect_attributes": 29,
+        "ml_name": [
+            "真眼",
+            ""
+        ],
+        "image_index": 3024,
+        "invoke_effect_id": 64000,
+        "invoke_unit_color": "#c48282",
+        "view_unit_type": 2
+    },
+    {
+        "id": 169,
+        "effect_type": 13,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避アップ",
+            ""
+        ],
+        "image_index": 1011,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 170,
+        "effect_type": 14,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避アップ",
+            ""
+        ],
+        "image_index": 1011,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 171,
+        "effect_type": 48,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避アップ",
+            ""
+        ],
+        "image_index": 1011,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 172,
+        "effect_type": 49,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避アップ",
+            ""
+        ],
+        "image_index": 1011,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 173,
+        "effect_type": 51,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避アップ",
+            ""
+        ],
+        "image_index": 1011,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 174,
+        "effect_type": 52,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避アップ",
+            ""
+        ],
+        "image_index": 1011,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 175,
+        "effect_type": 48,
+        "effect_attributes": 10,
+        "ml_name": [
+            "必殺アップ",
+            ""
+        ],
+        "image_index": 1010,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 176,
+        "effect_type": 49,
+        "effect_attributes": 10,
+        "ml_name": [
+            "必殺アップ",
+            ""
+        ],
+        "image_index": 1010,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 177,
+        "effect_type": 51,
+        "effect_attributes": 10,
+        "ml_name": [
+            "必殺アップ",
+            ""
+        ],
+        "image_index": 1010,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 178,
+        "effect_type": 52,
+        "effect_attributes": 10,
+        "ml_name": [
+            "必殺アップ",
+            ""
+        ],
+        "image_index": 1010,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
     }
 ]

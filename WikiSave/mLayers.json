@@ -3650,6 +3650,62 @@
         "ml_get_message": "館長……それとも、ご主人様って呼ばれる方がいい？\n今の私は犬っぽいから、好きな方で呼んであげるよ。",
         "zh_ml_name": "漫步奇观"
     },
+   {
+        "id": 4010911,
+        "unit_id": 9,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 3,
+        "color_type": 4,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 3271,
+        "atk": 102,
+        "mnd": 52,
+        "def": 57,
+        "dex": 35,
+        "spd": 38,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 15130005,
+        "skill_id1": 20911001,
+        "skill_id2": 20911002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 10911001,
+        "ultimate_skill_id": 30911001,
+        "duplicated_item_id": 1120911,
+        "duplicated_item_count": 1,
+        "sort_order": 911,
+        "image_index": 4010911,
+        "ai_group_id": 0,
+        "sound_index": 4010911,
+        "country_type": 0,
+        "strong_skill_setting": "0|3|2|0|0",
+        "start_time": "2026-01-01 00:00:00",
+        "ml_name": [
+            "夢のせて駆ける空",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "晴れ渡る青空のような清楚な振袖。\n凧を揚げて、今年一年の幸せを願う。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "この凧みたいに高く舞えたら\nきっと気持ちいい気がするね",
+            "en"
+        ],
+        "ml_get_message": [
+            "１年の計はお正月にあったりなかったりするらしいよ。\n私は館長に会えたから、きっといい年になると思う。",
+            "en"
+        ]，
+        "zh_ml_name";''载梦驰骋的天空",
+        "zh_ml_flavor_text": "如晴朗蓝天般清爽的振袖和服。\n放飞风筝，祈愿新的一年幸福安康。",
+        "zh_ml_get_message": "一年之计似乎在也不在于春。\n我遇见了馆长，所以想必今年也一定会顺利。"
+    },
     {
         "zh_ml_flavor_text": "兼具便服和工作服的风格。\n也能用护身用的短剑战斗的万能服装。",
         "zh_ml_get_message": "你觉得天才这个词指的是什么？\n让我来告诉你吧。天才就是拉斐尔·萨拉萨拉——也就是我。",
@@ -4090,7 +4146,7 @@
         "ml_get_message": "お世話になるわ、館長さん。わたしは時間と質を大切にしたいの……。\nだから迷惑を掛けることもあるかもしれないけど、よろしくね。",
         "zh_ml_name": "精明的经营者"
     },
-    {
+   {
         "zh_ml_flavor_text": "作为守护城市和平的艺术家的普通服装。\n用注入魔力的丝线，与死亡的艺术战斗。",
         "zh_ml_get_message": "我想守护艺术的未来，还有孩子们的未来。\n我一直在思考自己能做些什么。",
         "id": 4011102,
@@ -4737,6 +4793,62 @@
         "zh_ml_name": "高举荣耀的金杯"
     },
     {
+        "id": 4011209,
+        "unit_id": 12,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 1,
+        "color_type": 3,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 3126,
+        "atk": 94,
+        "mnd": 42,
+        "def": 63,
+        "dex": 55,
+        "spd": 78,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 15130004,
+        "skill_id1": 21209001,
+        "skill_id2": 21209002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 11209001,
+        "ultimate_skill_id": 31209001,
+        "duplicated_item_id": 1121209,
+        "duplicated_item_count": 1,
+        "sort_order": 1209,
+        "image_index": 4011209,
+        "ai_group_id": 0,
+        "sound_index": 4011209,
+        "country_type": 0,
+        "strong_skill_setting": "0|0|0|2|3",
+        "start_time": "2026-01-05 13:00:00",
+        "ml_name": [
+            "煩悩乱舞",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "まるで煩悩から解放されたような\n清らかなオーラを放つ巫女スタイル。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "かしこみかしこみ……\nうーん、新たな天職かもね！",
+            "en"
+        ],
+        "ml_get_message": [
+            "やぁ館長。まさかわたしが巫女服なんて着るとはね。\n柄じゃないから恥ずかしいけど……。でも役得もある。悩ましいねぇ。",
+            "en"
+        ],
+        "zh_ml_name":"烦恼乱舞",
+        "zh_ml_flavor_text": "诚惶诚恐……\n唔，说不定是份新天职呢！",
+        "zh_ml_get_message": "呀，馆长。没想到我会穿巫女服吧。\n不太合我风格所以有点害羞……不过也有好处。真让人烦恼呀。"
+    },
+    {
         "zh_ml_flavor_text": "在外面画画时穿的围裙。\n带着笼子包寻找想画的风景♪",
         "zh_ml_get_message": "我是画家塞尚。\n今后请多多关照～。",
         "id": 4011301,
@@ -5309,7 +5421,7 @@
         "ml_get_message": "素敵なお嫁さんになる予定のボッティチェリだよ！\nだから館長……ボクのこと、もらってくれるよね？",
         "zh_ml_name": "绝对结婚宣言！"
     },
-    {
+   {
         "zh_ml_flavor_text": "她笔下的画，也点缀着人心。\n那丰富的感受性，简直就像魔法一样",
         "zh_ml_get_message": "我会大显身手让你重新迷上我的！\n好好看着吧，馆长！",
         "id": 4011406,
@@ -5348,6 +5460,62 @@
         "ml_illustrator_name": "（仮）",
         "ml_get_message": "ボクの大活躍で惚れ直させてあげるからね！\nしっかり見ててよ、館長っ！",
         "zh_ml_name": "魔导士的冒险"
+    },
+   {
+        "id": 4011407,
+        "unit_id": 14,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 3,
+        "color_type": 3,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 2708,
+        "atk": 88,
+        "mnd": 42,
+        "def": 73,
+        "dex": 51,
+        "spd": 67,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 15130003,
+        "skill_id1": 21407001,
+        "skill_id2": 21407002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 11407001,
+        "ultimate_skill_id": 31407001,
+        "duplicated_item_id": 1121407,
+        "duplicated_item_count": 1,
+        "sort_order": 1404,
+        "image_index": 4011407,
+        "ai_group_id": 0,
+        "sound_index": 4011407,
+        "country_type": 0,
+        "strong_skill_setting": "0|2|0|0|3",
+        "start_time": "2026-01-01 00:00:00",
+        "ml_name": [
+            "満福の搗き手",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "大胆な着こなしで魅せる振袖スタイル。\nお餅をついて、威勢のいい一年の始まり！",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "ぺったんぺったん……っと\nふふん、上手でしょ！",
+            "en"
+        ],
+        "ml_get_message": [
+            "お餅つきならボクに任せて！\n新年早々、館長の胃袋とハートを鷲掴みにしちゃうぞ！",
+            "en"
+        ]，
+        "zh_ml_name";''满福的捣糕手",
+        "zh_ml_flavor_text": "以大胆穿搭展现魅力的振袖风格。\n捣制年糕，迎来气势如虹的一年之始！",
+        "zh_ml_get_message": "捣年糕就交给我吧！\n新年伊始，就要牢牢抓住馆长的胃和心！"
     },
     {
         "zh_ml_flavor_text": "重视活动性的休闲风格。\n胸口的胸针其实是隐藏的拳套",

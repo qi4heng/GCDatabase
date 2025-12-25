@@ -2425,6 +2425,31 @@
         "close_time": "2025-12-13 12:59:59"
     },
     {
+        "id": 3325,
+        "ml_title": [
+            "煩悩NO NEW YEAR！？",
+            ""
+        ],
+        "event_type": 3,
+        "m_quest_id": 725,
+        "top_character_id": 4010911,
+        "top_background_image": "3001709",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3325,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1094,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 109,
+        "banner_image_index": 13325,
+        "start_time": "2026-01-01 00:00:00",
+        "latter_half_start_time": "2026-01-05 13:00:00",
+        "end_time": "2026-01-14 12:59:59",
+        "close_time": "2026-01-16 12:59:59"
+    },
+    {
         "id": 3601,
         "ml_title": [
             "【A.S.】ありえない出会いと最初の試練",

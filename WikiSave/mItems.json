@@ -4625,6 +4625,31 @@
         "is_visible": false
     },
     {
+        "id": 1120911,
+        "item_type": 112,
+        "value1": 4010911,
+        "value2": 0,
+        "sort": 97,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120911,
+        "ml_name": [
+            "【夢のせて駆ける空】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ロダンの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121001,
         "item_type": 112,
         "value1": 4011001,
@@ -5300,6 +5325,31 @@
         "is_visible": false
     },
     {
+        "id": 1121209,
+        "item_type": 112,
+        "value1": 4011209,
+        "value2": 0,
+        "sort": 112,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121209,
+        "ml_name": [
+            "【煩悩乱舞】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ブグローの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121301,
         "item_type": 112,
         "value1": 4011301,
@@ -5660,6 +5710,31 @@
         "image_index": 1121406,
         "ml_name": [
             "【魔導士の冒険】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボッティチェリの新たな才能を引き出すと言われているオーブ\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121407,
+        "item_type": 112,
+        "value1": 4011407,
+        "value2": 0,
+        "sort": 124,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121407,
+        "ml_name": [
+            "【満福の搗き手】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -11850,6 +11925,31 @@
         "is_visible": false
     },
     {
+        "id": 1511098,
+        "item_type": 151,
+        "value1": 725,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511098,
+        "ml_name": [
+            "ストーリーキー【煩悩NO NEW YEAR！？】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「煩悩NO NEW YEAR！？」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "新年の物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1520001,
         "item_type": 152,
         "value1": 0,
@@ -16025,6 +16125,56 @@
         "is_visible": false
     },
     {
+        "id": 1630173,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630173,
+        "ml_name": [
+            "煩悩NO NEW YEAR！？ガチャチケットA",
+            "EN"
+        ],
+        "ml_description": [
+            "煩悩NO NEW YEAR！？ピックアップガチャAを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-14 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630174,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630174,
+        "ml_name": [
+            "煩悩NO NEW YEAR！？ガチャチケットB",
+            "EN"
+        ],
+        "ml_description": [
+            "煩悩NO NEW YEAR！？ピックアップガチャBを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-14 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630175,
         "item_type": 702,
         "value1": 0,
@@ -16072,6 +16222,56 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-01-07 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630179,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット26",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-01 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630180,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット27",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-09 12:59:59",
         "is_visible": false
     },
     {
@@ -19750,6 +19950,81 @@
         "is_visible": false
     },
     {
+        "id": 1640153,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640153,
+        "ml_name": [
+            "煩悩NO NEW YEAR！？のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で煩悩NO NEW YEAR！？ピックアップガチャAのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640154,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640154,
+        "ml_name": [
+            "スタイル復刻のしおり26",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640155,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640155,
+        "ml_name": [
+            "スタイル復刻のしおり27",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-11 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640156,
         "item_type": 162,
         "value1": 0,
@@ -19797,6 +20072,56 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-01-07 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640159,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640046,
+        "ml_name": [
+            "★5スタイルのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640160,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640047,
+        "ml_name": [
+            "★5イマージュのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5イマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-16 12:59:59",
         "is_visible": false
     },
     {
@@ -22793,6 +23118,56 @@
         ],
         "ml_flavor_text": [
             "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650123,
+        "item_type": 801,
+        "value1": 3325,
+        "value2": 0,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650123,
+        "ml_name": [
+            "神社の玉串",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「煩悩NO NEW YEAR！？」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "榊の小枝に紙垂をつけた、神への捧げもの。\n主に、巫女が神に奉納する舞などの神事に使用する。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650124,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3325,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650124,
+        "ml_name": [
+            "正月の鏡餅",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「煩悩NO NEW YEAR！？」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大小二つの餅を重ねた、正月の代表的な飾りの1つ。\n最終的に食すことで、一年の健康と無病息災を願う。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",

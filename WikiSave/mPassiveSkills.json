@@ -1915,11 +1915,11 @@
         "rarity": 5,
         "image_index": 1130003,
         "ml_name": [
-            "バトル開始時、自身に物理シールド付与/一定体力以下で自身に攻撃増加（重複可）・精神増加（重複可）・風シールド付与",
+            "バトル開始時、自身に風シールド付与/一定体力以下で自身に攻撃増加（重複可）・精神増加（重複可）・風シールド付与",
             ""
         ],
         "ml_description": [
-            "バトル開始時、自身に<help=physical_shield>物理シールド</help>付与/一定体力以下で自身に攻撃[[effects_power_2]%]増加（重複可）・精神[[effects_power_3]%]増加（重複可）・<help=wind_shield>風シールド</help>付与",
+            "バトル開始時、自身に<help=wind_shield>風シールド</help>付与/一定体力以下で自身に攻撃[[effects_power_2]%]増加（重複可）・精神[[effects_power_3]%]増加（重複可）・<help=wind_shield>風シールド</help>付与",
             ""
         ]
     },
@@ -2115,6 +2115,19 @@
         ],
         "ml_description": [
             "再行動（行動回数＋[[effects_power_2]]）/不動/ターン開始時、攻撃デバフ解除",
+            ""
+        ]
+    },
+    {
+        "id": 35330056,
+        "rarity": 5,
+        "image_index": 1110014,
+        "ml_name": [
+            "ターン終了時、攻撃増加・精神増加",
+            ""
+        ],
+        "ml_description": [
+            "ターン終了時、攻撃[[effects_power_1]%]増加・精神[[effects_power_2]%]増加",
             ""
         ]
     },
@@ -5031,6 +5044,71 @@
         ]
     },
     {
+        "id": 55440019,
+        "rarity": 5,
+        "image_index": 5640001,
+        "ml_name": [
+            "物理シールド・全",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、味方全員に物理シールド付与[[effects_power_1]]",
+            ""
+        ]
+    },
+    {
+        "id": 55440020,
+        "rarity": 5,
+        "image_index": 5640002,
+        "ml_name": [
+            "炎シールド・全",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、味方全員に炎シールド付与[[effects_power_1]]",
+            ""
+        ]
+    },
+    {
+        "id": 55440021,
+        "rarity": 5,
+        "image_index": 5640003,
+        "ml_name": [
+            "水シールド・全",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、味方全員に水シールド付与[[effects_power_1]]",
+            ""
+        ]
+    },
+    {
+        "id": 55440022,
+        "rarity": 5,
+        "image_index": 5640004,
+        "ml_name": [
+            "風シールド・全",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、味方全員に風シールド付与[[effects_power_1]]",
+            ""
+        ]
+    },
+    {
+        "id": 55440023,
+        "rarity": 5,
+        "image_index": 5640005,
+        "ml_name": [
+            "雷シールド・全",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、味方全員に雷シールド付与[[effects_power_1]]",
+            ""
+        ]
+    },
+    {
         "id": 63130001,
         "rarity": 3,
         "image_index": 1130001,
@@ -5703,6 +5781,45 @@
         ],
         "ml_description": [
             "エネミーのアイボリー(白)の防御+[[effects_power]%]",
+            ""
+        ]
+    },
+    {
+        "id": 75130019,
+        "rarity": 5,
+        "image_index": 1390002,
+        "ml_name": [
+            "青属性有利＋（50%）",
+            ""
+        ],
+        "ml_description": [
+            "味方のセルリアン（青）のカーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
+            ""
+        ]
+    },
+    {
+        "id": 74130019,
+        "rarity": 4,
+        "image_index": 1130002,
+        "ml_name": [
+            "エネミーのカーマイン(赤)の攻撃+60%",
+            ""
+        ],
+        "ml_description": [
+            "エネミーのカーマイン(赤)の攻撃+[[effects_power]%]",
+            ""
+        ]
+    },
+    {
+        "id": 73130019,
+        "rarity": 4,
+        "image_index": 1130004,
+        "ml_name": [
+            "エネミーのカーマイン(赤)の防御+30%",
+            ""
+        ],
+        "ml_description": [
+            "エネミーのアイボリー(赤)の防御+[[effects_power]%]",
             ""
         ]
     },
@@ -7067,7 +7184,7 @@
             ""
         ],
         "ml_description": [
-            "バトル開始時の熱情[[effects_power]]増加/雷強[[effects_power_2]%]増加/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・味方全員の入魂ゲージ[[effects_power_5]]増加/ソウル獲得時の入魂ゲージ増加量[[effects_power_6]%]補正",
+            "バトル開始時の熱情[[effects_power]]増加/雷エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・味方全員の入魂ゲージ[[effects_power_5]]増加/ソウル獲得時の入魂ゲージ増加量[[effects_power_6]%]補正",
             ""
         ]
     },
@@ -7080,7 +7197,7 @@
             ""
         ],
         "ml_description": [
-            "水エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法または絶技で引き寄せ発生時、味方全員の器用[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
+            "水エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法または絶技で引き寄せ発生時、味方全員の器用[[effects_power_3]%]増加＜[[effects_turn_3]ターン]＞",
             ""
         ]
     },

@@ -18998,6 +18998,121 @@
         ]
     },
     {
+        "id": 10912030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4010911_1030",
+        "ml_word": [
+            "東方の国のお正月の楽しみ方、わりと気に入ってる。\n違う文化に触れるのって楽しい気がするよね。\nもっともっと色んな文化を知ってみたいな。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010911,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10912040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010911_1040",
+        "ml_word": [
+            "凧あげのコツは、風向きを読むことらしいよ。\n――どう館長？　上手にあげられてるっぽい？\nふふ、私の意外な才能を発見……\nと言っても、過言ではないはず。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010911,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10912050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010911_1050",
+        "ml_word": [
+            "ふぅ……振袖らしきこの服は、\n胸が締め付けられて、苦しいような気がする。\nでも、館長がかわいいって言ってくれたら……\n少し楽になるかも。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010911,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10912060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010911_1060",
+        "ml_word": [
+            "新年が明けたような感じがするね。\n館長、今年はどんな１年にしたい？\n私は変わらずに、創作に打ち込むことができたら、\nそれで幸せ……って、思うかな。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010911,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10912070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4010911_1070",
+        "ml_word": [
+            "うーん…………。\nあっ、考え事してたら、いつの間にか凧が遠くに……！\nおそらく、戻さなきゃ……！",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010911,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 11002030,
         "scene_type": 1,
         "trigger": 5,
@@ -22103,6 +22218,121 @@
         ]
     },
     {
+        "id": 11210030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4011209_1030",
+        "ml_word": [
+            "お正月の神社にいるとだね、とにかく晴れ着の\n美少女たちを、たくさん見ることができるんだよ。\nもう……それだけで他のすべてを補って余りある。\nずっとお正月ならいいのに。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-01-05 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011209,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11210040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011209_1040",
+        "ml_word": [
+            "新年か……差し込む日差しも眩しく感じるよ。\nいや、それより眩しいのは、\n美少女の晴れ着からチラリと覗く生肌かな？\nうんうん、今年もいい１年になりそうだ！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-01-05 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011209,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11210050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011209_1050",
+        "ml_word": [
+            "ここで、手をこうして……清めの儀式を――\nっ！？　か、館長、今の見てた？\nいや、ちょっと巫女舞の練習をね……\nまだ不慣れだからさ。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-01-05 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011209,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11210060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011209_1060",
+        "ml_word": [
+            "そんなにぼーっとして、なにを考えてるの？\nまさか、館長にも邪念があるとか……？\nそういうことなら、わたしが払ってあげよう。ふふふ。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-01-05 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011209,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11210070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4011209_1070",
+        "ml_word": [
+            "着物を着る時は、下着をつけないものらしい。\n体の曲線を強調させないのが、\n“東方の美”なんだとか……。\nふぅむ…………素晴らしくえっちだね！",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-01-05 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011209,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 11302030,
         "scene_type": 1,
         "trigger": 5,
@@ -23821,6 +24051,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 14,
         "layer_id": 4011406,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11408030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4011407_1030",
+        "ml_word": [
+            "お餅って色んな食べ方があって飽きないよね～。\n館長はどんな風にして食べるのが好き？\nお醤油？　きな粉？　おしるこに入れちゃう？\n館長のためならいくらでも作っちゃうよ！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 14,
+        "layer_id": 4011407,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11408040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011407_1040",
+        "ml_word": [
+            "よいしょっ、よいしょっ……と！\nえへへ、もうちょっと待っててね、館長！\nボクがついたお餅、いっぱい食べさせてあげるから！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 14,
+        "layer_id": 4011407,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11408050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011407_1050",
+        "ml_word": [
+            "うがぁー！　何度着ても胸元が崩れちゃうよー！\n館長ぉ〜、ボクひとりじゃ直せないから手伝って〜\n……って、なんでそっぽむくんだよぉ！\nもう、別にエッチな目で見てくれてもいいのに……。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 14,
+        "layer_id": 4011407,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11408060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011407_1060",
+        "ml_word": [
+            "去年もいい年だったけど、\n今年はもーっといい年にするぞ！\nということで館長っ。\n今年もボクのことたっくさん構ってよね！　約束！",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 14,
+        "layer_id": 4011407,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11408070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4011407_1070",
+        "ml_word": [
+            "お餅の食べ過ぎには注意しなきゃ。\nお姉ちゃんみたいに太りたくないし……。\nで、でも館長なら、ボクがもちもちになっても\nきっと愛してくれるよね……？",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 14,
+        "layer_id": 4011407,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [

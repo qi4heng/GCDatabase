@@ -292,5 +292,12 @@
         "effect_id": 49,
         "effect_count": 0,
         "turn_cycle": 0
+    },
+    {
+        "id": 43,
+        "m_skill_special_effect_id": 29,
+        "effect_id": 50,
+        "effect_count": 2,
+        "turn_cycle": 0
     }
 ]

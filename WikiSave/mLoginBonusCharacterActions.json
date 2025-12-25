@@ -8656,5 +8656,113 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 204601,
+        "login_bonus_id": 2046,
+        "layer_id": 4011407,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4011400_1160",
+        "ml_word": [
+            "館長あてになんか届いてるよ！\nわざわざ持ってきてあげたのだ！\nえらい？　えらい？",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 204602,
+        "login_bonus_id": 2046,
+        "layer_id": 4011407,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4011400_1170",
+        "ml_word": [
+            "次は、こんなのがもらえるって。\n顔出すだけでいいんだし、\nもらえるもんはもらっとこうよ！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 204603,
+        "login_bonus_id": 2046,
+        "layer_id": 4011407,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4011400_1180",
+        "ml_word": [
+            "コンプリート！　やったね！\nさすがはボクの館長！\nその調子でボクにも毎日かまえ！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1332501,
+        "login_bonus_id": 13325,
+        "layer_id": 4010911,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010900_1160",
+        "ml_word": [
+            "館長宛ての物資のような何か。\n有効に使うといいかもしれない。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1332502,
+        "login_bonus_id": 13325,
+        "layer_id": 4010911,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010900_1170",
+        "ml_word": [
+            "これが次の予定のはず。\nあくまで予定だけど。たぶん。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1332503,
+        "login_bonus_id": 13325,
+        "layer_id": 4010911,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4010900_1180",
+        "ml_word": [
+            "コンプリートらしいよ。\n館長ががんばった結果かも。\nいつも会えて、私も嬉しい。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
     }
 ]

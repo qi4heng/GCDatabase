@@ -3838,5 +3838,125 @@
         "m_skill_special_effect_detail_id": 42,
         "level": 20,
         "effect_value": 2000
+    },
+    {
+        "id": 682,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 1,
+        "effect_value": 1000
+    },
+    {
+        "id": 683,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 2,
+        "effect_value": 1100
+    },
+    {
+        "id": 684,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 3,
+        "effect_value": 1210
+    },
+    {
+        "id": 685,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 4,
+        "effect_value": 1310
+    },
+    {
+        "id": 686,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 5,
+        "effect_value": 1420
+    },
+    {
+        "id": 687,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 6,
+        "effect_value": 1520
+    },
+    {
+        "id": 688,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 7,
+        "effect_value": 1630
+    },
+    {
+        "id": 689,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 8,
+        "effect_value": 1730
+    },
+    {
+        "id": 690,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 9,
+        "effect_value": 1840
+    },
+    {
+        "id": 691,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 10,
+        "effect_value": 1940
+    },
+    {
+        "id": 692,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 11,
+        "effect_value": 2050
+    },
+    {
+        "id": 693,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 12,
+        "effect_value": 2150
+    },
+    {
+        "id": 694,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 13,
+        "effect_value": 2260
+    },
+    {
+        "id": 695,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 14,
+        "effect_value": 2360
+    },
+    {
+        "id": 696,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 15,
+        "effect_value": 2470
+    },
+    {
+        "id": 697,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 16,
+        "effect_value": 2570
+    },
+    {
+        "id": 698,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 17,
+        "effect_value": 2680
+    },
+    {
+        "id": 699,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 18,
+        "effect_value": 2780
+    },
+    {
+        "id": 700,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 19,
+        "effect_value": 2890
+    },
+    {
+        "id": 701,
+        "m_skill_special_effect_detail_id": 43,
+        "level": 20,
+        "effect_value": 3000
     }
 ]

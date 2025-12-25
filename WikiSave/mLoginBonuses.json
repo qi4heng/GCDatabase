@@ -630,6 +630,21 @@
         "duration": 0
     },
     {
+        "id": 2046,
+        "ml_name": [
+            "謹賀新年ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 517,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2026-01-14 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2231,6 +2246,21 @@
         "priority": 201,
         "start_time": "2025-12-23 13:00:00",
         "end_time": "2026-01-05 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13325,
+        "ml_name": [
+            "煩悩NO NEW YEAR！？ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2026-01-14 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

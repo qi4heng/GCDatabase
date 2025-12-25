@@ -1848,6 +1848,27 @@
         "ml_effect_flavor": []
     },
     {
+        "id": 4110703,
+        "enhance_group_id": 15,
+        "disassemble_group_id": 115,
+        "rarity": 5,
+        "site_type": 1,
+        "unit_id": 7,
+        "lock_type": 2,
+        "reduce_element_type": 3,
+        "image_index": 4110703,
+        "country_type": 0,
+        "ml_name": [
+            "泉の精の蔦冠",
+            ""
+        ],
+        "ml_flavor_text": [
+            "泉の精から加護を受けた蔦の冠。神秘的な力が湧き出る。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
         "id": 4110708,
         "enhance_group_id": 35,
         "disassemble_group_id": 135,

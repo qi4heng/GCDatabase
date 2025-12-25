@@ -1853,6 +1853,23 @@
         ]
     },
     {
+        "id": 725,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-01-01 00:00:00",
+        "end_time": "2026-01-14 12:59:59",
+        "ml_name": [
+            "煩悩NO NEW YEAR！？",
+            ""
+        ]
+    },
+    {
         "id": 800,
         "chapter_no": 0,
         "quest_type": 4,
@@ -2121,6 +2138,23 @@
         "end_time": "9999-12-31 23:59:59",
         "ml_name": [
             "ダンジョンシーズン17",
+            ""
+        ]
+    },
+    {
+        "id": 818,
+        "chapter_no": 0,
+        "quest_type": 4,
+        "order": 1,
+        "first_reward_reset_type": 3,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-01-01 04:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_name": [
+            "ダンジョンシーズン18",
             ""
         ]
     },
@@ -2529,6 +2563,23 @@
         "end_time": "2026-01-01 03:59:59",
         "ml_name": [
             "リサーチクエスト：インスピレーション12月",
+            ""
+        ]
+    },
+    {
+        "id": 915,
+        "chapter_no": 0,
+        "quest_type": 5,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 915,
+        "start_time": "2026-01-01 04:00:00",
+        "end_time": "2026-02-01 03:59:59",
+        "ml_name": [
+            "リサーチクエスト：インスピレーション01月",
             ""
         ]
     },

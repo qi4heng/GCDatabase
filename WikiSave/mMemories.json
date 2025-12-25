@@ -1678,5 +1678,35 @@
         "sub_effect_id1": 63130001,
         "sell_price": 3552,
         "start_time": "2025-12-23 13:00:00"
+    },
+    {
+        "id": 4120114,
+        "ml_name": [
+            "東方の神に感謝！",
+            "en"
+        ],
+        "index": "113",
+        "rarity": 4,
+        "image_index": 4120121,
+        "main_effect_id1": 54130003,
+        "main_effect_id2": 54131201,
+        "sub_effect_id1": 63130004,
+        "sell_price": 3552,
+        "start_time": "2026-01-01 00:00:00"
+    },
+    {
+        "id": 4120115,
+        "ml_name": [
+            "晴れのち、お餅！",
+            "en"
+        ],
+        "index": "114",
+        "rarity": 5,
+        "image_index": 4120128,
+        "main_effect_id1": 55130001,
+        "main_effect_id2": 55440019,
+        "sub_effect_id1": 63130004,
+        "sell_price": 10656,
+        "start_time": "2026-01-01 00:00:00"
     }
 ]
