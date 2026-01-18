@@ -759,9 +759,9 @@
         "ml_get_message": "迷ったけど、ゾンビの仮装ならわたしのじめじめした性格に合うかなって。\nちょっと大胆すぎたかな……？　でも、館長が喜んでくれたら嬉しいな。",
         "zh_ml_name": "怪异之夜的自缚"
     },
-     {
-     	"zh_ml_name":"破灭的Alter",
-     	"zh_ml_flavor_text": "惧怕失去的星之少女，追求着永恒。面对那试图逃离容身之处的利刃，她藏起了泪水。",
+    {
+        "zh_ml_name": "破灭的Alter",
+        "zh_ml_flavor_text": "惧怕失去的星之少女，追求着永恒。面对那试图逃离容身之处的利刃，她藏起了泪水。",
         "zh_ml_get_message": "其实我也明白……没有人会认可我，\n没有人会爱我……那不就只能把一切都破坏掉吗？",
         "id": 4010211,
         "unit_id": 2,
@@ -1615,9 +1615,9 @@
         "ml_get_message": "真相がすぐにわからないなら、意地でも見つけ出すしかない。\nたとえどんな手を使ってもね……そうしなければ、犠牲は増えるだけだ。",
         "zh_ml_name": "自责的Alter"
     },
- {
+    {
         "zh_ml_name": "照明真实的圣鹿",
- 	"zh_ml_flavor_text": "在黑暗的夜路上也能照亮道路的驯鹿侦探。\n摇响脖子上的铃铛，为了解决事件而奔走！",
+        "zh_ml_flavor_text": "在黑暗的夜路上也能照亮道路的驯鹿侦探。\n摇响脖子上的铃铛，为了解决事件而奔走！",
         "zh_ml_get_message": "根据我的推理，我觉得送礼物的驯鹿是一种妖怪。\n毕竟普通的驯鹿是不会飞的！",
         "id": 4010411,
         "unit_id": 4,
@@ -2845,61 +2845,61 @@
         "zh_ml_name": "开幕大烟火"
     },
     {
-      "id": 4010711,
-      "unit_id": 7,
-      "rarity": 5,
-      "unit_type": 0,
-      "weapon_type": 0,
-      "color_type": 4,
-      "collabo_type": 0,
-      "another_type": 1,
-      "hp": 5037,
-      "atk": 87,
-      "mnd": 43,
-      "def": 116,
-      "dex": 95,
-      "spd": 145,
-      "mov": 5,
-      "mov_type": 1,
-      "factor_id": 15480002,
-      "skill_id1": 20711001,
-      "skill_id2": 20711002,
-      "limit_passive_skill_id": 15420001,
-      "attack_skill_id": 10711001,
-      "ultimate_skill_id": 30711001,
-      "duplicated_item_id": 1120711,
-      "duplicated_item_count": 1,
-      "sort_order": 711,
-      "image_index": 4010711,
-      "ai_group_id": 0,
-      "sound_index": 4010711,
-      "country_type": 0,
-      "strong_skill_setting": "3|0|2|0|0",
-      "start_time": "2026-01-20 13:00:00",
-      "ml_name": [
-         "傲慢のオルタ",
-         "en"
-      ],
-      "ml_flavor_text": [
-         "理想を現実に打ちのめされた才女は、\n悪を刎ね飛ばし血濡れた理想を望む。",
-         "en"
-      ],
-      "ml_illustrator_name": [
-         "（仮）",
-         "en"
-      ],
-      "ml_rare_get_message": [
-         "私はオリジナルほど甘くない\n……それを覚えておいて",
-         "en"
-      ],
-      "ml_get_message": [
-         "アングルのオルタ……彼女とは違う、もうひとりのアングルよ。\nでも、正しいのは私の方。オリジナルよりもね……。",
-         "en"
-      ],
-      "zh_ml_name":"傲慢的Alter",
-      "zh_ml_flavor_text":"其理想曾为现实所挫的才女，\n如今欲斩尽邪恶，重拾那血染的理想",
-      "zh_ml_get_messeage":"我是安格尔的Alter……与她不同的、另一个安格尔。\n不过，正确的一方是我哦。比本体更正确……"
-   },
+        "id": 4010711,
+        "unit_id": 7,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 0,
+        "color_type": 4,
+        "collabo_type": 0,
+        "another_type": 1,
+        "hp": 5037,
+        "atk": 87,
+        "mnd": 43,
+        "def": 116,
+        "dex": 95,
+        "spd": 145,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 15480002,
+        "skill_id1": 20711001,
+        "skill_id2": 20711002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 10711001,
+        "ultimate_skill_id": 30711001,
+        "duplicated_item_id": 1120711,
+        "duplicated_item_count": 1,
+        "sort_order": 711,
+        "image_index": 4010711,
+        "ai_group_id": 0,
+        "sound_index": 4010711,
+        "country_type": 0,
+        "strong_skill_setting": "3|0|2|0|0",
+        "start_time": "2026-01-20 13:00:00",
+        "ml_name": [
+            "傲慢のオルタ",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "理想を現実に打ちのめされた才女は、\n悪を刎ね飛ばし血濡れた理想を望む。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "私はオリジナルほど甘くない\n……それを覚えておいて",
+            "en"
+        ],
+        "ml_get_message": [
+            "アングルのオルタ……彼女とは違う、もうひとりのアングルよ。\nでも、正しいのは私の方。オリジナルよりもね……。",
+            "en"
+        ],
+        "zh_ml_name": "傲慢的Alter",
+        "zh_ml_flavor_text": "其理想曾为现实所挫的才女，\n如今欲斩尽邪恶，重拾那血染的理想",
+        "zh_ml_get_messeage": "我是安格尔的Alter……与她不同的、另一个安格尔。\n不过，正确的一方是我哦。比本体更正确……"
+    },
     {
         "zh_ml_flavor_text": "看似休闲，实则全力游玩的服装。\n飞镖中蕴含着魔力，可以当作武器使用。",
         "zh_ml_get_message": "我是画家爱德华·马奈！兴趣是在咖啡厅里谈论艺术～\n难得加入了梦幻美术馆，我会和前辈一起努力的～！",
@@ -3706,7 +3706,7 @@
         "ml_get_message": "館長……それとも、ご主人様って呼ばれる方がいい？\n今の私は犬っぽいから、好きな方で呼んであげるよ。",
         "zh_ml_name": "漫步奇观"
     },
-   {
+    {
         "id": 4010911,
         "unit_id": 9,
         "rarity": 5,
@@ -4202,7 +4202,7 @@
         "ml_get_message": "お世話になるわ、館長さん。わたしは時間と質を大切にしたいの……。\nだから迷惑を掛けることもあるかもしれないけど、よろしくね。",
         "zh_ml_name": "精明的经营者"
     },
-   {
+    {
         "zh_ml_flavor_text": "作为守护城市和平的艺术家的普通服装。\n用注入魔力的丝线，与死亡的艺术战斗。",
         "zh_ml_get_message": "我想守护艺术的未来，还有孩子们的未来。\n我一直在思考自己能做些什么。",
         "id": 4011102,
@@ -5477,7 +5477,7 @@
         "ml_get_message": "素敵なお嫁さんになる予定のボッティチェリだよ！\nだから館長……ボクのこと、もらってくれるよね？",
         "zh_ml_name": "绝对结婚宣言！"
     },
-   {
+    {
         "zh_ml_flavor_text": "她笔下的画，也点缀着人心。\n那丰富的感受性，简直就像魔法一样",
         "zh_ml_get_message": "我会大显身手让你重新迷上我的！\n好好看着吧，馆长！",
         "id": 4011406,
@@ -5517,7 +5517,7 @@
         "ml_get_message": "ボクの大活躍で惚れ直させてあげるからね！\nしっかり見ててよ、館長っ！",
         "zh_ml_name": "魔导士的冒险"
     },
-   {
+    {
         "id": 4011407,
         "unit_id": 14,
         "rarity": 5,
@@ -5853,8 +5853,8 @@
         "ml_get_message": "館長はお化けを信じますか？　私は、いれば面白いなと思っておりますわ。\nほら、たとえばあそこに……なんて、ふふ……冗談ですわよ！",
         "zh_ml_name": "知识就是力量"
     },
-   {
-        "zh_ml_name":"狂暴圣诞老人",
+    {
+        "zh_ml_name": "狂暴圣诞老人",
         "zh_ml_flavor_text": "能轻松举起沉重的礼物袋\n以力量自豪的圣诞老人风格。",
         "zh_ml_get_message": "充满心意的礼物，能为身边的人带来笑容。\n如果能将这样的礼物送出，会非常幸福呢。",
         "id": 4011508,
