@@ -2219,7 +2219,7 @@
         "filter_param": 1,
         "target_num": 2,
         "ignore_range": 1,
-        "description": "範囲内外問わずカーマインの発動者と近い味方1体"
+        "description": "範囲内外問わずカーマインの近い味方1体"
     },
     {
         "id": 2312,
@@ -2230,7 +2230,7 @@
         "filter_param": 1,
         "target_num": 3,
         "ignore_range": 1,
-        "description": "範囲内外問わずカーマインの発動者と近い味方2体"
+        "description": "範囲内外問わずカーマインの近い味方2体"
     },
     {
         "id": 2313,
@@ -2241,7 +2241,7 @@
         "filter_param": 1,
         "target_num": 4,
         "ignore_range": 1,
-        "description": "範囲内外問わずカーマインの発動者と近い味方3体"
+        "description": "範囲内外問わずカーマインの近い味方3体"
     },
     {
         "id": 2321,
@@ -2252,7 +2252,7 @@
         "filter_param": 2,
         "target_num": 2,
         "ignore_range": 1,
-        "description": "範囲内外問わずセルリアンの発動者と近い味方1体"
+        "description": "範囲内外問わずセルリアンの近い味方1体"
     },
     {
         "id": 2322,
@@ -2263,7 +2263,7 @@
         "filter_param": 2,
         "target_num": 3,
         "ignore_range": 1,
-        "description": "範囲内外問わずセルリアンの発動者と近い味方2体"
+        "description": "範囲内外問わずセルリアンの近い味方2体"
     },
     {
         "id": 2323,
@@ -2274,7 +2274,7 @@
         "filter_param": 2,
         "target_num": 4,
         "ignore_range": 1,
-        "description": "範囲内外問わずセルリアンの発動者と近い味方3体"
+        "description": "範囲内外問わずセルリアンの近い味方3体"
     },
     {
         "id": 2331,
@@ -2285,7 +2285,7 @@
         "filter_param": 3,
         "target_num": 2,
         "ignore_range": 1,
-        "description": "範囲内外問わずビリジアンの発動者と近い味方1体"
+        "description": "範囲内外問わずビリジアンの近い味方1体"
     },
     {
         "id": 2332,
@@ -2296,7 +2296,7 @@
         "filter_param": 3,
         "target_num": 3,
         "ignore_range": 1,
-        "description": "範囲内外問わずビリジアンの発動者と近い味方2体"
+        "description": "範囲内外問わずビリジアンの近い味方2体"
     },
     {
         "id": 2333,
@@ -2307,7 +2307,7 @@
         "filter_param": 3,
         "target_num": 4,
         "ignore_range": 1,
-        "description": "範囲内外問わずビリジアンの発動者と近い味方3体"
+        "description": "範囲内外問わずビリジアンの近い味方3体"
     },
     {
         "id": 2341,
@@ -2318,7 +2318,7 @@
         "filter_param": 4,
         "target_num": 2,
         "ignore_range": 1,
-        "description": "範囲内外問わずアイボリーの発動者と近い味方1体"
+        "description": "範囲内外問わずアイボリーの近い味方1体"
     },
     {
         "id": 2342,
@@ -2329,7 +2329,7 @@
         "filter_param": 4,
         "target_num": 3,
         "ignore_range": 1,
-        "description": "範囲内外問わずアイボリーの発動者と近い味方2体"
+        "description": "範囲内外問わずアイボリーの近い味方2体"
     },
     {
         "id": 2343,
@@ -2340,7 +2340,7 @@
         "filter_param": 4,
         "target_num": 4,
         "ignore_range": 1,
-        "description": "範囲内外問わずアイボリーの発動者と近い味方3体"
+        "description": "範囲内外問わずアイボリーの近い味方3体"
     },
     {
         "id": 2351,
@@ -2351,7 +2351,7 @@
         "filter_param": 5,
         "target_num": 2,
         "ignore_range": 1,
-        "description": "範囲内外問わずバイオレットの発動者と近い味方1体"
+        "description": "範囲内外問わずバイオレットの近い味方1体"
     },
     {
         "id": 2352,
@@ -2362,7 +2362,7 @@
         "filter_param": 5,
         "target_num": 3,
         "ignore_range": 1,
-        "description": "範囲内外問わずバイオレットの発動者と近い味方2体"
+        "description": "範囲内外問わずバイオレットの近い味方2体"
     },
     {
         "id": 2353,
@@ -2373,7 +2373,7 @@
         "filter_param": 5,
         "target_num": 4,
         "ignore_range": 1,
-        "description": "範囲内外問わずバイオレットの発動者と近い味方3体"
+        "description": "範囲内外問わずバイオレットの近い味方3体"
     },
     {
         "id": 2301,

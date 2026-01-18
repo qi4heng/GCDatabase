@@ -425,7 +425,7 @@
         "level_group_id": 395,
         "start_time": "2000-01-01 00:00:00",
         "create_group": [3],
-        "create_time": 66,
+        "create_time": 666,
         "creator": "拉斐尔",
         "proto_creator": "拉斐尔·桑西",
         "proto_collector": "梵蒂冈宫（梵蒂冈）",
@@ -819,7 +819,7 @@
         "id": 2000035,
         "ml_name": [
             "般若",
-            "{{ruby|般若|bōrě}}"
+            "般若"
         ],
         "ml_description": [
             "鬼女の形相をかたどったお面。女性の嫉妬、怨み、悲しみなどが籠った形相は、女性の二面性を表現していると言われる",
@@ -1483,7 +1483,7 @@
         "create_group": [13],
         "create_time": 288,
         "creator": "石燕",
-        "proto_creator": "（石燕）",
+        "proto_creator": "",
         "proto_collector": "-",
         "note": "游戏原创剧情作品，模仿鸟山石燕《画图百鬼夜行》系列的《山童》，藏于国立国会图书馆（日本）"
     },
@@ -1505,9 +1505,9 @@
         "level_group_id": 45332801,
         "start_time": "2025-07-09 13:00:00",
         "create_group": [3],
-        "create_time": 288,
+        "create_time": 888,
         "creator": "拉斐尔",
-        "proto_creator": "（拉斐尔）",
+        "proto_creator": "",
         "proto_collector": "-",
         "note": "游戏原创剧情作品，模仿拉斐尔的《怀抱独角兽的少女肖像画》，藏于罗马博尔盖塞美术馆（意大利）"
     },
@@ -1531,7 +1531,7 @@
         "create_group": [5],
         "create_time": 288,
         "creator": "米开朗基罗",
-        "proto_creator": "（米开朗基罗）",
+        "proto_creator": "",
         "proto_collector": "-",
         "note": "游戏原创剧情作品，模仿米开朗基罗的《德尔斐女先知》，为西斯廷教堂（梵蒂冈）天顶壁画的一部分"
     },
@@ -1555,7 +1555,7 @@
         "create_group": [2],
         "create_time": 288,
         "creator": "罗丹",
-        "proto_creator": "（罗丹）",
+        "proto_creator": "",
         "proto_collector": "-",
         "note": "游戏原创剧情作品，可能模仿罗丹的《少女》（Young Girl）但名称采用了《帽上戴玫瑰的少女》（Young Girl with Roses on Her Hat），前者藏于斯坦福大学康托艺术中心（美国），后者藏于罗丹博物馆（法国）"
     },
@@ -1579,7 +1579,7 @@
         "create_group": [14],
         "create_time": 288,
         "creator": "多纳泰罗",
-        "proto_creator": "（多纳泰罗）",
+        "proto_creator": "",
         "proto_collector": "-",
         "note": "游戏原创剧情作品，可能模仿多纳泰罗的《尼科洛·达乌扎诺的半身像》（Bust of Niccolo da Uzzano），藏于巴杰罗美术馆（意大利）"
     },

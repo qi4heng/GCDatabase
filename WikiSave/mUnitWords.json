@@ -8648,6 +8648,236 @@
         ]
     },
     {
+        "id": 7120020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40107119_1020",
+        "ml_word": [
+            "私にはあなたたちの甘さが理解できないわ。\n救うに値するのは善良な市民だけのはず。\n全ての人を救おうなんて……傲慢よ。",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40107119_1030",
+        "ml_word": [
+            "なぜ、理想と現実のギャップに苦しむの？\nあなたたちは世の中を変える力を持っているはず。\n変えてしまえばいいのよ……その手で。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40107119_1040",
+        "ml_word": [
+            "私はネリーナとは違うわ。\n個人的な快楽じゃなく、正義のために戦う。\n……戦っているはずよ。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40107119_1050",
+        "ml_word": [
+            "あなたたちにも信念があるのはわかったわ……。\nでも、これからも苦難は続くでしょう。\nいつまでも同じ気持ちでいられるといいけどね……。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_40107119_1520",
+        "ml_word": [
+            "来てくれたのね、館長。\nあなたがいないと始まらないのよ。\nさあ、なにから手をつけましょうか？",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40107119_1530",
+        "ml_word": [
+            "館長って意外とマイペースなところがあるわよね……。\nでも、それで成果を上げ続けてきたんだから、\nあなたは大したものよ……。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40107119_1540",
+        "ml_word": [
+            "こうして美術館に来る人たちを見ていても、\n市民のほとんどは誠実で無害な人たちなのよね……。\nやはり悪は捨て置けないという気持ちになるわ……。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40107119_1550",
+        "ml_word": [
+            "クランを見ていると、少し気持ちが揺らぐわ……。\nあの子がのびのびと舞い踊れるような自由な社会は、\n私のやり方でも作っていけるのかしら……。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40107119_1560",
+        "ml_word": [
+            "どうしたの？　……甘えたくなったの？\n館長も大変な立場だものね。少しくらいならいいわよ。\n……他の人には許さないけど、あなただけは特別。",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 7120570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_40107119_1570",
+        "ml_word": [
+            "んっ！　……触りたいなら、先に一声かけなさいよ。\nあなたなら、別に拒みはしないから。",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 10102030,
         "scene_type": 1,
         "trigger": 5,
@@ -16691,6 +16921,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 7,
         "layer_id": 4010710,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10712030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4010711_1030",
+        "ml_word": [
+            "アテネスは今日も美しいわね……。\nだからこそ、この街で悪事を働く連中は許せない。\nいずれ私の手で根絶やしにしてやりたいわ……。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10712040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010711_1040",
+        "ml_word": [
+            "オリジナルのやり方は甘すぎるわ……。\nでも、まだしばらく見守っててあげる。\nこの天秤が傾ききるまで。\nすべてに見放されて燃え尽きるまで……。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10712050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010711_1050",
+        "ml_word": [
+            "すべての人達に手を差し伸べることは不可能……。\nだったら、救えない悪人は切り捨てないとね。\n善良な市民こそ守られるべきだもの。\nそれに……悪人が破滅していく様は面白いじゃない？",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10712060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010711_1060",
+        "ml_word": [
+            "私……館長のこと心から信じているのよ。\nあなたなら私の正義を否定しない。\nあなたなら私のことを理解してくれる。\nそうでしょう？　ふふっ……。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10712070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4010711_1070",
+        "ml_word": [
+            "安全な街……誰もが安心して暮らせる街を。\nそれだけのことなのに、どうしてこんなに拒むの？\nみんな同じ思いのはずでしょう？\nなのに、私が間違っているとでもいうの……？",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010711,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [

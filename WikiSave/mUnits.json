@@ -865,15 +865,15 @@
          "en"
       ],
       "ml_birthday": [
-         "不明です！",
+         "不明！<br>（<span lang=\"ja\">不明です！</span>）",
          "en"
       ],
       "ml_height": [
-         "平均的かと！",
+         "平均水平！<br>（<span lang=\"ja\">平均的かと！</span>）",
          "en"
       ],
       "ml_size": [
-         "乙女の秘密です",
+         "这是少女的秘密<br>（<span lang=\"ja\">乙女の秘密です</span>）",
          "en"
       ],
       "zh_ml_name": "玛蒂亚",
@@ -920,15 +920,15 @@
          "en"
       ],
       "ml_birthday": [
-         "忘れちゃった",
+         "已经忘了<br>（<span lang=\"ja\">忘れちゃった</span>）",
          "en"
       ],
       "ml_height": [
-         "んっ…小さいよ…",
+         "嗯…好矮小啊…<br>（<span lang=\"ja\">んっ…小さいよ…</span>）",
          "en"
       ],
       "ml_size": [
-         "内緒…んっ！",
+         "保密…嗯！<br>（<span lang=\"ja\">内緒…んっ！</span>）",
          "en"
       ],
       "zh_ml_name": "瓦伦波恩",
@@ -979,11 +979,11 @@
          "en"
       ],
       "ml_height": [
-         "ミーナ６匹分…？",
+         "6只米娜长…？<br>（<span lang=\"ja\">ミーナ６匹分…？</span>）",
          "en"
       ],
       "ml_size": [
-         "シークレット",
+         "secret<br>（<span lang=\"ja\">シークレット</span>）",
          "en"
       ],
       "zh_ml_name": "埃尔加",
@@ -1038,7 +1038,7 @@
          "en"
       ],
       "ml_size": [
-         "どう思う？",
+         "哎，真无趣啊<br>（<span lang=\"ja\">さぁ、興味ないわ</span>）",
          "en"
       ],
       "zh_ml_name": "帕格尼尼",
@@ -1089,11 +1089,11 @@
          "en"
       ],
       "ml_height": [
-         "低め",
+         "偏矮<br>（<span lang=\"ja\">低め</span>）",
          "en"
       ],
       "ml_size": [
-         "ひみつです",
+         ""这是秘密<br>（<span lang=\"ja\">ひみつです</span>）",
          "en"
       ],
       "zh_ml_name": "吉野",

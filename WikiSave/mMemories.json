@@ -656,7 +656,7 @@
         "main_effect_id1": 54130006,
         "main_effect_id2": 54130005,
         "sub_effect_id1": 63130015,
-        "sell_price": 3552,
+        "sell_price": 100000,
         "start_time": "2001-01-01 00:00:00"
     },
     {
@@ -1708,5 +1708,35 @@
         "sub_effect_id1": 63130004,
         "sell_price": 10656,
         "start_time": "2026-01-01 00:00:00"
+    },
+    {
+        "id": 4120116,
+        "ml_name": [
+            "思い出にメロディを添えて",
+            "en"
+        ],
+        "index": "115",
+        "rarity": 5,
+        "image_index": 4120129,
+        "main_effect_id1": 55130001,
+        "main_effect_id2": 55440022,
+        "sub_effect_id1": 63130003,
+        "sell_price": 10656,
+        "start_time": "2026-01-13 13:00:00"
+    },
+    {
+        "id": 4120117,
+        "ml_name": [
+            "射抜く眼光、獲物を逃さず",
+            "en"
+        ],
+        "index": "116",
+        "rarity": 4,
+        "image_index": 4120122,
+        "main_effect_id1": 54130004,
+        "main_effect_id2": 54130505,
+        "sub_effect_id1": 63130006,
+        "sell_price": 3552,
+        "start_time": "2026-01-22 13:00:00"
     }
 ]

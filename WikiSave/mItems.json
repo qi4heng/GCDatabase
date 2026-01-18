@@ -275,6 +275,56 @@
         "is_visible": false
     },
     {
+        "id": 1010012,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※2/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-02-07 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1010013,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※1/24まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-01-13 13:30:00",
+        "end_time": "2026-01-24 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1015001,
         "item_type": 101,
         "value1": 120,
@@ -472,6 +522,31 @@
         ],
         "start_time": "2025-12-23 13:00:00",
         "end_time": "2026-01-05 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1015009,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※1/30まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-01-30 23:59:59",
         "is_visible": false
     },
     {
@@ -750,6 +825,56 @@
         "is_visible": false
     },
     {
+        "id": 1020012,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※2/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-02-07 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1020013,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※1/24まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-01-13 13:30:00",
+        "end_time": "2026-01-24 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1025001,
         "item_type": 102,
         "value1": 12,
@@ -947,6 +1072,31 @@
         ],
         "start_time": "2025-12-23 13:00:00",
         "end_time": "2026-01-05 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1025009,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※1/30まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-01-30 23:59:59",
         "is_visible": false
     },
     {
@@ -4110,6 +4260,31 @@
         "image_index": 1120710,
         "ml_name": [
             "【開幕スターマイン】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アングルの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120711,
+        "item_type": 112,
+        "value1": 4010711,
+        "value2": 0,
+        "sort": 88,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120711,
+        "ml_name": [
+            "【傲慢のオルタ】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -11950,6 +12125,31 @@
         "is_visible": false
     },
     {
+        "id": 1511123,
+        "item_type": 151,
+        "value1": 430,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511060,
+        "ml_name": [
+            "ストーリーキー【復刻版 ハートフル・アンサンブル】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「復刻版 ハートフル・アンサンブル」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アンサンブルの物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1520001,
         "item_type": 152,
         "value1": 0,
@@ -16225,6 +16425,56 @@
         "is_visible": false
     },
     {
+        "id": 1630177,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630177,
+        "ml_name": [
+            "復刻版 ハートフル・アンサンブルガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "復刻版 ハートフル・アンサンブルピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-24 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630178,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630142,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～アングル～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～アングル～チケットを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-28 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630179,
         "item_type": 702,
         "value1": 0,
@@ -16272,6 +16522,106 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-01-09 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630182,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630182,
+        "ml_name": [
+            "本能の銃弾と存在の理由ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "本能の銃弾と存在の理由ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-01 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630183,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット28",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-24 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630184,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット29",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630185,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630100,
+        "ml_name": [
+            "イマージュ復刻ピックアップガチャチケット19",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきイマージュ復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イマージュ復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-25 12:59:59",
         "is_visible": false
     },
     {
@@ -20075,6 +20425,31 @@
         "is_visible": false
     },
     {
+        "id": 1640158,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640158,
+        "ml_name": [
+            "復刻版 ハートフル・アンサンブルのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で復刻版 ハートフル・アンサンブルピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-26 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640159,
         "item_type": 162,
         "value1": 0,
@@ -20122,6 +20497,131 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-01-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640161,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640049,
+        "ml_name": [
+            "スタイル復刻のしおり28",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-26 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640162,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640162,
+        "ml_name": [
+            "スタイル復刻のしおり29",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-05 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640163,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640163,
+        "ml_name": [
+            "イマージュ復刻のしおり19",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でイマージュ復刻ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-01-27 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640165,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640165,
+        "ml_name": [
+            "本能の銃弾と存在の理由のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で本能の銃弾と存在の理由ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640166,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640149,
+        "ml_name": [
+            "レイド応援のしおり白",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-01 12:59:59",
         "is_visible": false
     },
     {
@@ -23175,6 +23675,81 @@
         "is_visible": false
     },
     {
+        "id": 1650125,
+        "item_type": 803,
+        "value1": 5009,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650118,
+        "ml_name": [
+            "死の結晶・紫",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「【A.D.F.】本能の銃弾と存在の理由」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650141,
+        "item_type": 801,
+        "value1": 3230,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650067,
+        "ml_name": [
+            "フォニムの結晶・薄青",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「復刻版 ハートフル・アンサンブル」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "音楽魔法から発生するエネルギーが具現化した結晶。\n演奏家や音精達には馴染が深い物のようだ。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650142,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3230,
+        "sort": 261,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650068,
+        "ml_name": [
+            "フォニムの結晶・黄",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「復刻版 ハートフル・アンサンブル」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "音楽魔法から発生するエネルギーが具現化した結晶。\n演奏家や音精達には馴染が深い物のようだ。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1660003,
         "item_type": 171,
         "value1": 3106,
@@ -24314,6 +24889,31 @@
         ],
         "ml_description": [
             "レイドイベント「心を掻き立てる旋律」に挑戦するために必要となる挑戦券。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大規模な戦闘に挑戦するために必要となるスクロール。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1661009,
+        "item_type": 171,
+        "value1": 5009,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1661001,
+        "ml_name": [
+            "レイド挑戦券",
+            "EN"
+        ],
+        "ml_description": [
+            "レイドイベント「本能の銃弾と存在の理由」に挑戦するために必要となる挑戦券。",
             "EN"
         ],
         "ml_flavor_text": [

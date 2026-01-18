@@ -26572,6 +26572,62 @@
         ]
     },
     {
+        "id": 108304,
+        "type": 1,
+        "series_no": 1080711,
+        "sub_series_no": 1,
+        "condition_id": 1080711,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アングル【傲慢のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【傲慢のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108305,
+        "type": 1,
+        "series_no": 1080711,
+        "sub_series_no": 2,
+        "condition_id": 1080711,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アングル【傲慢のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【傲慢のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 109004,
         "type": 1,
         "series_no": 53,
@@ -31269,6 +31325,62 @@
         ],
         "ml_description": [
             "シーブル信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109259,
+        "type": 1,
+        "series_no": 40200881,
+        "sub_series_no": 1,
+        "condition_id": 109259,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109259,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "スニューウ信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "スニューウ信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109260,
+        "type": 1,
+        "series_no": 40200881,
+        "sub_series_no": 2,
+        "condition_id": 109259,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109260,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "スニューウ信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "スニューウ信愛ストーリー2開放",
             "en"
         ],
         "ml_hint": [
@@ -37233,6 +37345,34 @@
         ],
         "ml_description": [
             "シーブルがレベル上限に到達",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 114087,
+        "type": 1,
+        "series_no": 40200882,
+        "sub_series_no": 1,
+        "condition_id": 114087,
+        "condition_value": 80,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 114087,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "スニューウがレベル上限に到達",
+            "en"
+        ],
+        "ml_description": [
+            "スニューウがレベル上限に到達",
             "en"
         ],
         "ml_hint": [
@@ -47761,6 +47901,34 @@
         ],
         "ml_description": [
             "破滅の結晶星球Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118094,
+        "type": 1,
+        "series_no": 118094,
+        "sub_series_no": 1,
+        "condition_id": 118112,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "傲慢の結晶戦斧Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "傲慢の結晶戦斧Lv10達成",
             "en"
         ],
         "ml_hint": [
@@ -92241,6 +92409,286 @@
         ],
         "ml_description": [
             "シーブルを限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738401,
+        "type": 5,
+        "series_no": 7384,
+        "sub_series_no": 1,
+        "condition_id": 738401,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-01-28 12:59:59",
+        "ml_title": [
+            "アングル【傲慢のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【傲慢のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738402,
+        "type": 5,
+        "series_no": 7384,
+        "sub_series_no": 2,
+        "condition_id": 738401,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-01-28 12:59:59",
+        "ml_title": [
+            "アングル【傲慢のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【傲慢のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738403,
+        "type": 5,
+        "series_no": 7384,
+        "sub_series_no": 3,
+        "condition_id": 738401,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-01-28 12:59:59",
+        "ml_title": [
+            "アングル【傲慢のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【傲慢のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738404,
+        "type": 5,
+        "series_no": 7384,
+        "sub_series_no": 4,
+        "condition_id": 738401,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-01-28 12:59:59",
+        "ml_title": [
+            "アングル【傲慢のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【傲慢のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738405,
+        "type": 5,
+        "series_no": 7384,
+        "sub_series_no": 5,
+        "condition_id": 738401,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-01-28 12:59:59",
+        "ml_title": [
+            "アングル【傲慢のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【傲慢のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738501,
+        "type": 5,
+        "series_no": 7385,
+        "sub_series_no": 1,
+        "condition_id": 738501,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 738501,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-01 12:59:59",
+        "ml_title": [
+            "スニューウを限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "スニューウを限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738502,
+        "type": 5,
+        "series_no": 7385,
+        "sub_series_no": 2,
+        "condition_id": 738501,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 738502,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-01 12:59:59",
+        "ml_title": [
+            "スニューウを限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "スニューウを限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738503,
+        "type": 5,
+        "series_no": 7385,
+        "sub_series_no": 3,
+        "condition_id": 738501,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 738503,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-01 12:59:59",
+        "ml_title": [
+            "スニューウを限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "スニューウを限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738504,
+        "type": 5,
+        "series_no": 7385,
+        "sub_series_no": 4,
+        "condition_id": 738501,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 738504,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-01 12:59:59",
+        "ml_title": [
+            "スニューウを限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "スニューウを限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738505,
+        "type": 5,
+        "series_no": 7385,
+        "sub_series_no": 5,
+        "condition_id": 738501,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 738505,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-01 12:59:59",
+        "ml_title": [
+            "スニューウを限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "スニューウを限界突破+5にしよう",
             "en"
         ],
         "ml_hint": [

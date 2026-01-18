@@ -1616,8 +1616,8 @@
         "zh_ml_name": "自责的Alter"
     },
  {
-            "zh_ml_name":"照明真实的圣鹿",
- 	    "zh_ml_flavor_text": "在黑暗的夜路上也能照亮道路的驯鹿侦探。\n摇响脖子上的铃铛，为了解决事件而奔走！",
+        "zh_ml_name": "照明真实的圣鹿",
+ 	"zh_ml_flavor_text": "在黑暗的夜路上也能照亮道路的驯鹿侦探。\n摇响脖子上的铃铛，为了解决事件而奔走！",
         "zh_ml_get_message": "根据我的推理，我觉得送礼物的驯鹿是一种妖怪。\n毕竟普通的驯鹿是不会飞的！",
         "id": 4010411,
         "unit_id": 4,
@@ -2845,6 +2845,62 @@
         "zh_ml_name": "开幕大烟火"
     },
     {
+      "id": 4010711,
+      "unit_id": 7,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 0,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 1,
+      "hp": 5037,
+      "atk": 87,
+      "mnd": 43,
+      "def": 116,
+      "dex": 95,
+      "spd": 145,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15480002,
+      "skill_id1": 20711001,
+      "skill_id2": 20711002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10711001,
+      "ultimate_skill_id": 30711001,
+      "duplicated_item_id": 1120711,
+      "duplicated_item_count": 1,
+      "sort_order": 711,
+      "image_index": 4010711,
+      "ai_group_id": 0,
+      "sound_index": 4010711,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|2|0|0",
+      "start_time": "2026-01-20 13:00:00",
+      "ml_name": [
+         "傲慢のオルタ",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "理想を現実に打ちのめされた才女は、\n悪を刎ね飛ばし血濡れた理想を望む。",
+         "en"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "私はオリジナルほど甘くない\n……それを覚えておいて",
+         "en"
+      ],
+      "ml_get_message": [
+         "アングルのオルタ……彼女とは違う、もうひとりのアングルよ。\nでも、正しいのは私の方。オリジナルよりもね……。",
+         "en"
+      ],
+      "zh_ml_name":"傲慢的Alter",
+      "zh_ml_flavor_text":"其理想曾为现实所挫的才女，\n如今欲斩尽邪恶，重拾那血染的理想",
+      "zh_ml_get_messeage":"我是安格尔的Alter……与她不同的、另一个安格尔。\n不过，正确的一方是我哦。比本体更正确……"
+   },
+    {
         "zh_ml_flavor_text": "看似休闲，实则全力游玩的服装。\n飞镖中蕴含着魔力，可以当作武器使用。",
         "zh_ml_get_message": "我是画家爱德华·马奈！兴趣是在咖啡厅里谈论艺术～\n难得加入了梦幻美术馆，我会和前辈一起努力的～！",
         "id": 4010801,
@@ -3701,8 +3757,8 @@
         "ml_get_message": [
             "１年の計はお正月にあったりなかったりするらしいよ。\n私は館長に会えたから、きっといい年になると思う。",
             "en"
-        ]，
-        "zh_ml_name";''载梦驰骋的天空",
+        ],
+        "zh_ml_name": "载梦驰骋的天空",
         "zh_ml_flavor_text": "如晴朗蓝天般清爽的振袖和服。\n放飞风筝，祈愿新的一年幸福安康。",
         "zh_ml_get_message": "一年之计似乎在也不在于春。\n我遇见了馆长，所以想必今年也一定会顺利。"
     },
@@ -4844,7 +4900,7 @@
             "やぁ館長。まさかわたしが巫女服なんて着るとはね。\n柄じゃないから恥ずかしいけど……。でも役得もある。悩ましいねぇ。",
             "en"
         ],
-        "zh_ml_name":"烦恼乱舞",
+        "zh_ml_name": "烦恼乱舞",
         "zh_ml_flavor_text": "诚惶诚恐……\n唔，说不定是份新天职呢！",
         "zh_ml_get_message": "呀，馆长。没想到我会穿巫女服吧。\n不太合我风格所以有点害羞……不过也有好处。真让人烦恼呀。"
     },
@@ -5512,8 +5568,8 @@
         "ml_get_message": [
             "お餅つきならボクに任せて！\n新年早々、館長の胃袋とハートを鷲掴みにしちゃうぞ！",
             "en"
-        ]，
-        "zh_ml_name";''满福的捣糕手",
+        ],
+        "zh_ml_name": "满福的捣糕手",
         "zh_ml_flavor_text": "以大胆穿搭展现魅力的振袖风格。\n捣制年糕，迎来气势如虹的一年之始！",
         "zh_ml_get_message": "捣年糕就交给我吧！\n新年伊始，就要牢牢抓住馆长的胃和心！"
     },

@@ -1445,6 +1445,23 @@
         ]
     },
     {
+        "id": 430,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "430",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-01-13 13:30:00",
+        "end_time": "2026-01-24 12:59:59",
+        "ml_name": [
+            "復刻版 ハートフル・アンサンブル",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2295,6 +2312,23 @@
         ]
     },
     {
+        "id": 609,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-01-30 12:59:59",
+        "ml_name": [
+            "本能の銃弾と存在の理由",
+            ""
+        ]
+    },
+    {
         "id": 301,
         "chapter_no": 0,
         "quest_type": 3,
@@ -2665,6 +2699,23 @@
         "end_time": "2025-12-29 12:59:59",
         "ml_name": [
             "【A.S.】糸杉のつながりと星のきらめき",
+            ""
+        ]
+    },
+    {
+        "id": 1104,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-01-28 12:59:59",
+        "ml_name": [
+            "【A.S.】理想と現実、正義と悪",
             ""
         ]
     }

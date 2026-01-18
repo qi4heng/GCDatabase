@@ -1825,6 +1825,31 @@
         "close_time": "2025-12-28 12:59:59"
     },
     {
+        "id": 3230,
+        "ml_title": [
+            "復刻版 ハートフル・アンサンブル",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 430,
+        "top_character_id": 4015301,
+        "top_background_image": "3010300",
+        "m_event_bgm_setting_id": 4,
+        "m_event_bonus_group_id": 3230,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1098,
+        "m_shop_category_id": 698,
+        "latter_half_shop_category_id": 699,
+        "priority": 110,
+        "banner_image_index": 13230,
+        "start_time": "2026-01-13 13:30:00",
+        "latter_half_start_time": "2026-01-19 13:00:00",
+        "end_time": "2026-01-24 12:59:59",
+        "close_time": "2026-01-26 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",
@@ -2550,6 +2575,31 @@
         "close_time": "2025-12-31 12:59:59"
     },
     {
+        "id": 3605,
+        "ml_title": [
+            "【A.S.】理想と現実、正義と悪",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1104,
+        "top_character_id": 4010711,
+        "top_background_image": "3003800",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3605,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1100,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 111,
+        "banner_image_index": 13605,
+        "start_time": "2026-01-20 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-01-28 12:59:59",
+        "close_time": "2026-01-30 12:59:59"
+    },
+    {
         "id": 5001,
         "ml_title": [
             "【A.D.F.】悲劇の幕開けを防ぐため",
@@ -2748,5 +2798,30 @@
         "latter_half_start_time": "",
         "end_time": "2026-01-05 12:59:59",
         "close_time": "2026-01-07 12:59:59"
+    },
+    {
+        "id": 5009,
+        "ml_title": [
+            "【A.D.F.】本能の銃弾と存在の理由",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 609,
+        "top_character_id": 4020088,
+        "top_background_image": "3011000",
+        "m_event_bgm_setting_id": 6,
+        "m_event_bonus_group_id": 5009,
+        "m_event_point_group_id": 5009,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3098,
+        "m_shop_category_id": 700,
+        "latter_half_shop_category_id": 0,
+        "priority": 112,
+        "banner_image_index": 15009,
+        "start_time": "2026-01-22 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-01-30 12:59:59",
+        "close_time": "2026-02-01 12:59:59"
     }
 ]

@@ -4266,5 +4266,104 @@
             ""
         ],
         "image_count": 1
+    },
+    {
+        "id": 50091,
+        "event_id": 5009,
+        "latter_half_event_id": 0,
+        "type": 1,
+        "ml_title": [
+            "イベントの遊び方",
+            ""
+        ],
+        "image_count": 2
+    },
+    {
+        "id": 50092,
+        "event_id": 5009,
+        "latter_half_event_id": 0,
+        "type": 2,
+        "ml_title": [
+            "ボーナスイマージュ",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 50093,
+        "event_id": 5009,
+        "latter_half_event_id": 0,
+        "type": 3,
+        "ml_title": [
+            "イベント注意事項",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 50094,
+        "event_id": 5009,
+        "latter_half_event_id": 0,
+        "type": 4,
+        "ml_title": [
+            "ボーナスメモリー",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 50095,
+        "event_id": 5009,
+        "latter_half_event_id": 0,
+        "type": 5,
+        "ml_title": [
+            "アテネスの防衛に成功",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 32301,
+        "event_id": 3230,
+        "latter_half_event_id": 3230,
+        "type": 1,
+        "ml_title": [
+            "イベントの遊び方",
+            ""
+        ],
+        "image_count": 2
+    },
+    {
+        "id": 32302,
+        "event_id": 3230,
+        "latter_half_event_id": 3230,
+        "type": 2,
+        "ml_title": [
+            "ボーナススタイル",
+            ""
+        ],
+        "image_count": 3
+    },
+    {
+        "id": 32303,
+        "event_id": 3230,
+        "latter_half_event_id": 3230,
+        "type": 3,
+        "ml_title": [
+            "イベント注意事項",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 32304,
+        "event_id": 3230,
+        "latter_half_event_id": 3230,
+        "type": 4,
+        "ml_title": [
+            "ボーナスメモリー",
+            ""
+        ],
+        "image_count": 1
     }
 ]

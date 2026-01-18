@@ -2378,5 +2378,45 @@
         "m_quest_stage_ids": "",
         "start_time": "2026-01-08 13:00:00",
         "end_time": "2026-01-22 12:59:59"
+    },
+    {
+        "id": 6118,
+        "campaign_type": 6,
+        "campaign_value": 125,
+        "quest_type": 1,
+        "stage_type": 1,
+        "m_quest_stage_ids": "",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-06 12:59:59"
+    },
+    {
+        "id": 6119,
+        "campaign_type": 6,
+        "campaign_value": 125,
+        "quest_type": 1,
+        "stage_type": 6,
+        "m_quest_stage_ids": "",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-06 12:59:59"
+    },
+    {
+        "id": 6120,
+        "campaign_type": 6,
+        "campaign_value": 125,
+        "quest_type": 2,
+        "stage_type": 4,
+        "m_quest_stage_ids": "",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-06 12:59:59"
+    },
+    {
+        "id": 6121,
+        "campaign_type": 6,
+        "campaign_value": 125,
+        "quest_type": 3,
+        "stage_type": 1,
+        "m_quest_stage_ids": "",
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-02-06 12:59:59"
     }
 ]

@@ -22846,5 +22846,277 @@
         "start_time": "2022-08-01 00:00:00",
         "end_time": "2030-08-01 23:59:59",
         "subunit_id": 4020087
+    },
+    {
+        "id": 1393,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4020088_1400",
+        "ml_word": [
+            "あ、かんちょーさ～ん。\nねえねえ、あたしここにいなきゃダメぇ？\n向いてないよぉ、受付なんてさ～。\nお客さんの子どもたちとかくれんぼしてていい？",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1394,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4020088_1410",
+        "ml_word": [
+            "えーん、部屋の中でじっとしてるの苦手だよぉ。\nこれがかくれんぼだったらなぁ。いつまでも\nじーっと息ひそめてられるんだけどな～。\n受付台の下に隠れてみよっかな！",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1395,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020088_1420",
+        "ml_word": [
+            "息は雪原に、気配は空気に溶かすもの。\n狙った獲物は絶対に逃がさない。\n――それが狩人のプライドだからね！",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1396,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020088_1430",
+        "ml_word": [
+            "かくれんぼは得意だよ。\nだって、獲物に見つかったら逃げられちゃうもん。\nかんちょーさんもあたしと勝負してみる？　\nあたしが勝ったらね、たくさん褒めてほしいな！",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1397,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020088_1440",
+        "ml_word": [
+            "あたし、熱いのは苦手だけどかんちょーさんの\nあったかい手は好きだな〜。\nね、もっとさわって、たくさんぎゅーってして？",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1398,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4020088_1450",
+        "ml_word": [
+            "あれ？　かんちょーさんどこだろう。\n……はっ！　かくれんぼかな！？\nふふーん。絶対に見つけてあげるんだからね！",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1399,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020088_1460",
+        "ml_word": [
+            "あけましておめでとーかんちょーさん！\n新年のごちそう、いっぱい食べてる？\n足りなかったら肉の調達してくるよ？",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1400,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020088_1470",
+        "ml_word": [
+            "ハッピーバレンタイン！\nはい、甘酸っぱくておいしいベリーチョコだよ♪\nうん、あたしがベリーが好きだから！\nえへへ。",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1401,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020088_1480",
+        "ml_word": [
+            "あたしの格好、\nちょっとハロウィンの仮装っぽくない？\nさっきも街で子どもたちに囲まれちゃって……\n一緒に遊んできた♪",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1402,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020088_1490",
+        "ml_word": [
+            "メリークリスマス、かんちょーさん。\nクリスマスのごちそうといえば、\nやっぱり肉料理だよね。\n材料調達はあたしにお任せ！",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1403,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020088_1500",
+        "ml_word": [
+            "もう年末だね～。\nこの時期は狩人のじゅよーも増える！\nみんな新年に向けて色々準備するからね。\nさー、今日も森で狩りだ！　山で狩りだー！",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1404,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020088_1510",
+        "ml_word": [
+            "誕生日おめでと、かんちょーさん♪\nいいな～、お誕生日パーティーやるんでしょ？\nあたしもケーキとお肉食べていい？\nえへっ。",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1405,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020088_1520",
+        "ml_word": [
+            "森か山に狩りに行きたいなぁ。\nそしたらね、獲物をいーっぱい獲ってきてあげる！\nみんなでバーベキューパーティーなんてどう？\nおいしいよ～、えっへっへ。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1406,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4020088_1530",
+        "ml_word": [
+            "狩りの時って、頭が切り替わるんだよね。\n見える世界が変わるっていうか……。\nだから普段と雰囲気全然違うねってよく言われるよ。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1407,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020088_1540",
+        "ml_word": [
+            "んしょ、っと……。\nあ、かんちょーさん。\nごめんごめん、今銃の手入れしてたんだ。\n狩人の命だからね～、これだけは欠かさないよ！",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
+    },
+    {
+        "id": 1408,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020088_1550",
+        "ml_word": [
+            "あたし、かんちょーさんにくっつくの大好きなんだぁ。\n体がすぐ熱くなっちゃうのに、嫌じゃないの。\n不思議だよね～。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020088
     }
 ]

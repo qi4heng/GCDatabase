@@ -6238,5 +6238,41 @@
         "condition_id": 410141,
         "condition_type": 2100,
         "relational_value": 0
+    },
+    {
+        "id": 1068,
+        "condition_id": 1080711,
+        "condition_type": 803,
+        "relational_value": 4010711
+    },
+    {
+        "id": 1069,
+        "condition_id": 738401,
+        "condition_type": 806,
+        "relational_value": 4010711
+    },
+    {
+        "id": 1070,
+        "condition_id": 118112,
+        "condition_type": 808,
+        "relational_value": 4110711
+    },
+    {
+        "id": 1071,
+        "condition_id": 109259,
+        "condition_type": 804,
+        "relational_value": 4020088
+    },
+    {
+        "id": 1072,
+        "condition_id": 114087,
+        "condition_type": 801,
+        "relational_value": 4020088
+    },
+    {
+        "id": 1073,
+        "condition_id": 738501,
+        "condition_type": 807,
+        "relational_value": 4020088
     }
 ]

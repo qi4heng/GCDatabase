@@ -645,6 +645,21 @@
         "duration": 0
     },
     {
+        "id": 2047,
+        "ml_name": [
+            "イベント復刻記念ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 518,
+        "start_time": "2026-01-13 13:30:00",
+        "end_time": "2026-01-24 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2261,6 +2276,51 @@
         "priority": 201,
         "start_time": "2026-01-01 00:00:00",
         "end_time": "2026-01-14 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13230,
+        "ml_name": [
+            "復刻版 ハートフル・アンサンブルログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-01-13 13:30:00",
+        "end_time": "2026-01-24 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13605,
+        "ml_name": [
+            "理想と現実、正義と悪ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-01-20 13:00:00",
+        "end_time": "2026-01-28 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 15009,
+        "ml_name": [
+            "本能の銃弾と存在の理由ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-01-22 13:00:00",
+        "end_time": "2026-01-30 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }
