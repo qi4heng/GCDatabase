@@ -7,11 +7,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "体力アップ小",
-            ""
+            "体力UP小"
         ],
         "ml_description": [
-            "<help=constitution>体力</help>[[effects_power]%]増加",
-            ""
+            "<help:constitution>体力</help>effects_power%増加",
+            "<help:constitution>体力</help>增加effects_power%"
         ]
     },
     {
@@ -22,11 +22,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "攻撃アップ小",
-            ""
+            "攻击UP小"
         ],
         "ml_description": [
-            "<help=offence>攻撃</help>[[effects_power]%]増加",
-            ""
+            "<help:offence>攻撃</help>effects_power%増加",
+            "<help:offence>攻击</help>增加effects_power%"
         ]
     },
     {
@@ -37,11 +37,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "精神アップ小",
-            ""
+            "精神UP小"
         ],
         "ml_description": [
-            "<help=will>精神</help>[[effects_power]%]増加",
-            ""
+            "<help:will>精神</help>effects_power%増加",
+            "<help:will>精神</help>增加effects_power%"
         ]
     },
     {
@@ -52,11 +52,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "防御アップ小",
-            ""
+            "防御UP小"
         ],
         "ml_description": [
-            "<help=defence>防御</help>[[effects_power]%]増加",
-            ""
+            "<help:defence>防御</help>effects_power%増加",
+            "<help:defence>防御</help>增加effects_power%"
         ]
     },
     {
@@ -67,11 +67,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "器用アップ小",
-            ""
+            "器用UP小"
         ],
         "ml_description": [
-            "<help=dexterity>器用</help>[[effects_power]%]増加",
-            ""
+            "<help:dexterity>器用</help>effects_power%増加",
+            "<help:dexterity>器用</help>增加effects_power%"
         ]
     },
     {
@@ -82,11 +82,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "敏捷アップ小",
-            ""
+            "敏捷UP小"
         ],
         "ml_description": [
-            "<help=agility>敏捷</help>[[effects_power]%]増加",
-            ""
+            "<help:agility>敏捷</help>effects_power%増加",
+            "<help:agility>敏捷</help>增加effects_power%"
         ]
     },
     {
@@ -97,11 +97,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "体力アップ中",
-            ""
+            "体力UP中"
         ],
         "ml_description": [
-            "<help=constitution>体力</help>[[effects_power]%]増加",
-            ""
+            "<help:constitution>体力</help>effects_power%増加",
+            "<help:constitution>体力</help>增加effects_power%"
         ]
     },
     {
@@ -112,11 +112,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "攻撃アップ中",
-            ""
+            "攻击UP中"
         ],
         "ml_description": [
-            "<help=offence>攻撃</help>[[effects_power]%]増加",
-            ""
+            "<help:offence>攻撃</help>effects_power%増加",
+            "<help:offence>攻击</help>增加effects_power%"
         ]
     },
     {
@@ -127,11 +127,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "精神アップ中",
-            ""
+            "精神UP中"
         ],
         "ml_description": [
-            "<help=will>精神</help>[[effects_power]%]増加",
-            ""
+            "<help:will>精神</help>effects_power%増加",
+            "<help:will>精神</help>增加effects_power%"
         ]
     },
     {
@@ -142,11 +142,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "防御アップ中",
-            ""
+            "防御UP中"
         ],
         "ml_description": [
-            "<help=defence>防御</help>[[effects_power]%]増加",
-            ""
+            "<help:defence>防御</help>effects_power%増加",
+            "<help:defence>防御</help>增加effects_power%"
         ]
     },
     {
@@ -157,11 +157,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "器用アップ中",
-            ""
+            "器用UP中"
         ],
         "ml_description": [
-            "<help=dexterity>器用</help>[[effects_power]%]増加",
-            ""
+            "<help:dexterity>器用</help>effects_power%増加",
+            "<help:dexterity>器用</help>增加effects_power%"
         ]
     },
     {
@@ -172,11 +172,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "敏捷アップ中",
-            ""
+            "敏捷UP中"
         ],
         "ml_description": [
-            "<help=agility>敏捷</help>[[effects_power]%]増加",
-            ""
+            "<help:agility>敏捷</help>effects_power%増加",
+            "<help:agility>敏捷</help>增加effects_power%"
         ]
     },
     {
@@ -187,11 +187,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "火傷抵抗",
-            ""
+            "火伤抵抗"
         ],
         "ml_description": [
-            "<help=burn>火傷</help>抵抗[[effects_power]]増加",
-            ""
+            "<help:burn>火傷</help>抵抗effects_power増加",
+            "<help:burn>火伤</help>抵抗增加effects_power"
         ]
     },
     {
@@ -202,11 +202,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "猛毒抵抗",
-            ""
+            "猛毒抵抗"
         ],
         "ml_description": [
-            "<help=poison>猛毒</help>抵抗[[effects_power]]増加",
-            ""
+            "<help:poison>猛毒</help>抵抗effects_power増加",
+            "<help:poison>猛毒</help>抵抗增加effects_power"
         ]
     },
     {
@@ -217,11 +217,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "影縫抵抗",
-            ""
+            "影缝抵抗"
         ],
         "ml_description": [
-            "<help=nail>影縫</help>抵抗[[effects_power]]増加",
-            ""
+            "<help:nail>影縫</help>抵抗effects_power増加",
+            "<help:nail>影缝</help>抵抗增加effects_power"
         ]
     },
     {
@@ -232,11 +232,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "感電抵抗",
-            ""
+            "感电抵抗"
         ],
         "ml_description": [
-            "<help=shock>感電</help>抵抗[[effects_power]]増加",
-            ""
+            "<help:shock>感電</help>抵抗effects_power増加",
+            "<help:shock>感电</help>抵抗增加effects_power"
         ]
     },
     {
@@ -247,11 +247,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "幸運アップ中",
-            ""
+            "幸运UP中"
         ],
         "ml_description": [
-            "<help=luck>幸運</help>[[effects_power]]増加",
-            ""
+            "<help:luck>幸運</help>effects_power増加",
+            "<help:luck>幸运</help>增加effects_power"
         ]
     },
     {
@@ -262,11 +262,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "熱情アップ中",
-            ""
+            "热情UP中"
         ],
         "ml_description": [
-            "バトル開始時の<help=passion>熱情</help>[[effects_power]]増加",
-            ""
+            "バトル開始時の<help:passion>熱情</help>effects_power増加",
+            "战斗开始时<help:passion>热情</help>增加effects_power"
         ]
     },
     {
@@ -277,11 +277,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂ゲージ増中",
-            ""
+            "入魂量增中"
         ],
         "ml_description": [
-            "バトル開始時の入魂ゲージ[[effects_power]]%増加",
-            ""
+            "バトル開始時の入魂ゲージeffects_power%増加",
+            "战斗开始时入魂量增加effects_power%"
         ]
     },
     {
@@ -292,11 +292,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "ソウル増幅中",
-            ""
+            "魂球增幅中"
         ],
         "ml_description": [
-            "ソウル獲得時の入魂ゲージ増加量[[effects_power]%]補正",
-            ""
+            "ソウル獲得時の入魂ゲージ増加量effects_power%補正",
+            "获得魂球时的入魂量增加量修正effects_power%"
         ]
     },
     {
@@ -307,11 +307,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "破壊回復中",
-            ""
+            "破坏回复中"
         ],
         "ml_description": [
-            "<help=object>オブジェクト</help>破壊時に与ダメージの[[effects_power]%]体力回復",
-            ""
+            "<help:object>オブジェクト</help>破壊時に与ダメージのeffects_power%体力回復",
+            "破坏<help:object>放置物</help>时回复所给伤害量effects_power%的体力"
         ]
     },
     {
@@ -322,11 +322,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "火傷付与",
-            ""
+            "火伤付与"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象に確率で<help=burn>火傷</help>付与＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象に確率で<help:burn>火傷</help>付与＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，effects_rate%概率赋予命中对象<help:burn>火伤</help>＜effects_turn_1回合＞"
         ]
     },
     {
@@ -337,11 +337,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "猛毒付与",
-            ""
+            "猛毒付与"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象に確率で<help=poison>猛毒</help>付与＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象に確率で<help:poison>猛毒</help>付与＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，effects_rate%概率赋予命中对象<help:poison>猛毒</help>＜effects_turn_1回合＞"
         ]
     },
     {
@@ -352,11 +352,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "影縫付与",
-            ""
+            "影缝付与"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象に確率で<help=nail>影縫</help>付与＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象に確率で<help:nail>影縫</help>付与＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，effects_rate%概率赋予命中对象<help:nail>影缝</help>＜effects_turn_1回合＞"
         ]
     },
     {
@@ -367,11 +367,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "感電付与",
-            ""
+            "感电付与"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象に確率で<help=shock>感電</help>付与＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象に確率で<help:shock>感電</help>付与＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，effects_rate%概率赋予命中对象<help:shock>感电</help>＜effects_turn_1回合＞"
         ]
     },
     {
@@ -382,11 +382,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "忍耐付与/防御アップ小",
-            ""
+            "忍耐付与/防御UP小"
         ],
         "ml_description": [
-            "<help=constitution>体力</help>が0以下になる場合、一度だけ<help=constitution>体力</help>1で踏みとどまる/<help=defence>防御</help>[[effects_power_2]%]増加",
-            ""
+            "<help:constitution>体力</help>が0以下になる場合、一度だけ<help:constitution>体力</help>1で踏みとどまる/<help:defence>防御</help>effects_power_2%増加",
+            "<help:constitution>体力</help>降至0以下时，仅一次以1点<help:constitution>体力</help>驻留场上/<help:defence>防御</help>増加effects_power_2%"
         ]
     },
     {
@@ -397,11 +397,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "幻影付与/精神アップ小",
-            ""
+            "幻影付与/精神UP小"
         ],
         "ml_description": [
-            "一度だけダメージを無効化/<help=will>精神</help>[[effects_power_2]%]増加",
-            ""
+            "一度だけダメージを無効化/<help:will>精神</help>effects_power_2%増加",
+            "仅一次使伤害无效化/<help:will>精神</help>增加effects_power_2%"
         ]
     },
     {
@@ -412,11 +412,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "奮起",
-            ""
+            "奋起"
         ],
         "ml_description": [
             "毎ターン入魂ゲージ微増",
-            ""
+            "每回合入魂量微增"
         ]
     },
     {
@@ -427,11 +427,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "再生",
-            ""
+            "再生"
         ],
         "ml_description": [
-            "毎ターン<help=constitution>体力</help>一定割合回復",
-            ""
+            "毎ターン<help:constitution>体力</help>一定割合回復",
+            "每回合回复effects_power%的体力"
         ]
     },
     {
@@ -442,11 +442,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "天啓",
-            ""
+            "天启"
         ],
         "ml_description": [
-            "ターン開始時、極稀に技法の<help=cool_time>クールタイム</help>減少",
-            ""
+            "ターン開始時、極稀に技法の<help:cool_time>クールタイム</help>減少",
+            "回合开始时，以effects_power%的极低概率减少技能的<help:cool_time>冷却时间</help>"
         ]
     },
     {
@@ -457,11 +457,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "俊足付与/敏捷アップ小",
-            ""
+            "俊足付与/敏捷UP小"
         ],
         "ml_description": [
-            "３ターンに１回移動力＋１/<help=agility>敏捷</help>[[effects_power_2]%]増加",
-            ""
+            "３ターンに１回移動力＋１/<help:agility>敏捷</help>effects_power_2%増加",
+            "每3回合移动力+1/<help:agility>敏捷</help>增加effects_power_2%"
         ]
     },
     {
@@ -472,11 +472,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "不動付与/器用アップ小",
-            ""
+            "不动付与/器用UP小"
         ],
         "ml_description": [
-            "<help=knock_back>弾き飛ばし</help>・<help=tractor>引き寄せ</help>の強制移動を無効化/<help=dexterity>器用</help>[[effects_power_2]%]増加",
-            ""
+            "<help:knock_back>弾き飛ばし</help>・<help:tractor>引き寄せ</help>の強制移動を無効化/<help:dexterity>器用</help>effects_power_2%増加",
+            "使<help:knock_back>弹飞</help>、<help:tractor>吸引</help>的强制移动无效化/<help:dexterity>器用</help>增加effects_power_2%"
         ]
     },
     {
@@ -487,11 +487,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "体力アップ大",
-            ""
+            "体力UP大"
         ],
         "ml_description": [
-            "<help=constitution>体力</help>[[effects_power]%]増加",
-            ""
+            "<help:constitution>体力</help>effects_power%増加",
+            "<help:constitution>体力</help>增加effects_power%"
         ]
     },
     {
@@ -502,11 +502,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "攻撃アップ大",
-            ""
+            "攻击UP大"
         ],
         "ml_description": [
-            "<help=offence>攻撃</help>[[effects_power]%]増加",
-            ""
+            "<help:offence>攻撃</help>effects_power%増加",
+            "<help:offence>攻击</help>增加effects_power%"
         ]
     },
     {
@@ -517,11 +517,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "精神アップ大",
-            ""
+            "精神UP大"
         ],
         "ml_description": [
-            "<help=will>精神</help>[[effects_power]%]増加",
-            ""
+            "<help:will>精神</help>effects_power%増加",
+            "<help:will>精神</help>增加effects_power%"
         ]
     },
     {
@@ -532,11 +532,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "防御アップ大",
-            ""
+            "防御UP大"
         ],
         "ml_description": [
-            "<help=defence>防御</help>[[effects_power]%]増加",
-            ""
+            "<help:defence>防御</help>effects_power%増加",
+            "<help:defence>防御</help>增加effects_power%"
         ]
     },
     {
@@ -547,11 +547,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "器用アップ大",
-            ""
+            "器用UP大"
         ],
         "ml_description": [
-            "<help=dexterity>器用</help>[[effects_power]%]増加",
-            ""
+            "<help:dexterity>器用</help>effects_power%増加",
+            "<help:dexterity>器用</help>增加effects_power%"
         ]
     },
     {
@@ -562,11 +562,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "敏捷アップ大",
-            ""
+            "敏捷UP大"
         ],
         "ml_description": [
-            "<help=agility>敏捷</help>[[effects_power]%]増加",
-            ""
+            "<help:agility>敏捷</help>effects_power%増加",
+            "<help:agility>敏捷</help>增加effects_power%"
         ]
     },
     {
@@ -577,11 +577,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "幸運アップ大",
-            ""
+            "幸运UP大"
         ],
         "ml_description": [
-            "<help=luck>幸運</help>[[effects_power]]増加",
-            ""
+            "<help:luck>幸運</help>effects_power増加",
+            "<help:luck>幸运</help>增加effects_power"
         ]
     },
     {
@@ -592,11 +592,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "攻撃デバフ",
-            ""
+            "攻击减益"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象の<help=offence>攻撃</help>[[effects_power]%]減少＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象の<help:offence>攻撃</help>effects_power%減少＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，命中对象的<help:offence>攻击</help>减少effects_power%＜effects_turn_1回合＞"
         ]
     },
     {
@@ -607,11 +607,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "精神デバフ",
-            ""
+            "精神减益"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象の<help=will>精神</help>[[effects_power]%]減少＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象の<help:will>精神</help>effects_power%減少＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，命中对象的<help:will>精神</help>减少effects_power%＜effects_turn_1回合＞"
         ]
     },
     {
@@ -622,11 +622,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "防御デバフ",
-            ""
+            "防御减益"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象の<help=defence>防御</help>[[effects_power]%]減少＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象の<help:defence>防御</help>effects_power%減少＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，命中对象的<help:defence>防御</help>减少effects_power%＜effects_turn_1回合＞"
         ]
     },
     {
@@ -637,11 +637,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "器用デバフ",
-            ""
+            "器用减益"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象の<help=dexterity>器用</help>[[effects_power]%]減少＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象の<help:dexterity>器用</help>effects_power%減少＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，命中对象的<help:dexterity>器用</help>减少effects_power%＜effects_turn_1回合＞"
         ]
     },
     {
@@ -652,11 +652,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "敏捷デバフ",
-            ""
+            "敏捷减益"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象の<help=agility>敏捷</help>[[effects_power]%]減少＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象の<help:agility>敏捷</help>effects_power%減少＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，命中对象的<help:agility>敏捷</help>减少effects_power%＜effects_turn_1回合＞"
         ]
     },
     {
@@ -667,11 +667,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "幸運デバフ",
-            ""
+            "幸运减益"
         ],
         "ml_description": [
-            "<help=normal_attack>通常攻撃</help>時、命中対象の<help=luck>幸運</help>[[effects_power]]減少＜[[effects_turn_1]ターン]＞",
-            ""
+            "<help:normal_attack>通常攻撃</help>時、命中対象の<help:luck>幸運</help>effects_power減少＜effects_turn_1ターン＞",
+            "<help:normal_attack>普通攻击</help>时，命中对象的<help:luck>幸运</help>减少effects_power＜effects_turn_1回合＞"
         ]
     },
     {
@@ -682,11 +682,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "追加行動",
-            ""
+            "追加行动"
         ],
         "ml_description": [
-            "ターン開始時、[[effects_rate]%]の確率で<help=bonus_action>追加行動</help>（行動回数＋[[effects_power]]）",
-            ""
+            "ターン開始時、effects_rate%の確率で<help:bonus_action>追加行動</help>（行動回数＋effects_power）",
+            "回合开始时，effects_rate%概率<help:bonus_action>追加行动</help>（行动回数+effects_power）"
         ]
     },
     {
@@ -697,11 +697,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "ソウル増幅大",
-            ""
+            "魂球增幅大"
         ],
         "ml_description": [
-            "ソウル獲得時の入魂ゲージ増加量[[effects_power]%]補正",
-            ""
+            "ソウル獲得時の入魂ゲージ増加量effects_power%補正",
+            "获得魂球时的入魂量增加量修正effects_power%"
         ]
     },
     {
@@ -712,11 +712,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "破壊回復大",
-            ""
+            "破坏回复大"
         ],
         "ml_description": [
-            "<help=object>オブジェクト</help>破壊時に与ダメージの[[effects_power]%]体力回復",
-            ""
+            "<help:object>オブジェクト</help>破壊時に与ダメージのeffects_power%体力回復",
+            "破坏<help:object>放置物</help>时回复所给伤害量effects_power%的体力"
         ]
     },
     {
@@ -727,11 +727,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "支援：回復中",
-            ""
+            "支援：回复中"
         ],
         "ml_description": [
-            "移動後、隣接味方に威力[[main_effects_power_1]%]の回復。CT：[[cool_times]]",
-            ""
+            "移動後、隣接味方に威力main_effects_power_1%の回復。CT：cool_times",
+            "移动后，给予邻接己方main_effects_power_1%威力的回复。冷却时间：cool_times"
         ]
     },
     {
@@ -742,11 +742,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "支援：回復大",
-            ""
+            "支援：回复大"
         ],
         "ml_description": [
-            "移動後、隣接味方に威力[[main_effects_power_1]%]の回復。CT：[[cool_times]]",
-            ""
+            "移動後、隣接味方に威力main_effects_power_1%の回復。CT：cool_times",
+            "移动后，给予邻接己方main_effects_power_1%威力的回复。冷却时间：cool_times"
         ]
     },
     {
@@ -757,11 +757,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "支援：気炎",
-            ""
+            "支援：气焰"
         ],
         "ml_description": [
-            "移動後、隣接味方に<help=ignite>気炎</help>付与。CT：[[cool_times]]",
-            ""
+            "移動後、隣接味方に<help:ignite>気炎</help>付与。CT：cool_times",
+            "移动后，赋予邻接己方<help:ignite>气焰</help>。冷却时间：cool_times"
         ]
     },
     {
@@ -772,11 +772,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "支援：水月",
-            ""
+            "支援：水月"
         ],
         "ml_description": [
-            "移動後、隣接味方に<help=blue_moon>水月</help>付与。CT：[[cool_times]]",
-            ""
+            "移動後、隣接味方に<help:blue_moon>水月</help>付与。CT：cool_times",
+            "移动后，赋予邻接己方<help:blue_moon>水月</help>。冷却时间：cool_times"
         ]
     },
     {
@@ -787,11 +787,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "支援：疾風",
-            ""
+            "支援：疾风"
         ],
         "ml_description": [
-            "移動後、隣接味方に<help=whirlwind>疾風</help>付与。CT：[[cool_times]]",
-            ""
+            "移動後、隣接味方に<help:whirlwind>疾風</help>付与。CT：cool_times",
+            "移动后，赋予邻接己方<help:whirlwind>疾风</help>。冷却时间：cool_times"
         ]
     },
     {
@@ -802,11 +802,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "支援：迅雷",
-            ""
+            "支援：迅雷"
         ],
         "ml_description": [
-            "移動後、隣接味方に<help=thunderclap>迅雷</help>付与。CT：[[cool_times]]",
-            ""
+            "移動後、隣接味方に<help:thunderclap>迅雷</help>付与。CT：cool_times",
+            "移动后，赋予邻接己方<help:thunderclap>迅雷</help>。冷却时间：cool_times"
         ]
     },
     {
@@ -817,11 +817,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "支援：入魂増",
-            ""
+            "支援：入魂增"
         ],
         "ml_description": [
-            "移動後、隣接味方に入魂ゲージ[[side_effects_power_1]]増加。CT：[[cool_times]]ターン",
-            ""
+            "移動後、隣接味方に入魂ゲージside_effects_power_1増加。CT：cool_timesターン",
+            "移动后，邻接己方入魂量增加side_effects_power_1。冷却时间：cool_times回合"
         ]
     },
     {
@@ -832,11 +832,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "防精魂・中",
-            ""
+            "防精魂・中"
         ],
         "ml_description": [
-            "<help=defence>防御</help>[[effects_power_1]%]増加/<help=will>精神</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:defence>防御</help>effects_power_1%増加/<help:will>精神</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:defence>防御</help>增加effects_power_1%/<help:will>精神</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -847,11 +847,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "器敏魂・中",
-            ""
+            "器敏魂・中"
         ],
         "ml_description": [
-            "<help=dexterity>器用</help>[[effects_power_1]%]増加/<help=agility>敏捷</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:dexterity>器用</help>effects_power_1%増加/<help:agility>敏捷</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:dexterity>器用</help>增加effects_power_1%/<help:agility>敏捷</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -862,11 +862,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "体精魂・中",
-            ""
+            "体精魂・中"
         ],
         "ml_description": [
-            "<help=constitution>体力</help>[[effects_power_1]%]増加/<help=will>精神</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:constitution>体力</help>effects_power_1%増加/<help:will>精神</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:constitution>体力</help>增加effects_power_1%/<help:will>精神</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -877,11 +877,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "攻敏魂・中",
-            ""
+            "攻敏魂・中"
         ],
         "ml_description": [
-            "<help=offence>攻撃</help>[[effects_power_1]%]増加/<help=agility>敏捷</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:offence>攻撃</help>effects_power_1%増加/<help:agility>敏捷</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:offence>攻击</help>增加effects_power_1%/<help:agility>敏捷</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -892,11 +892,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "体器魂・中",
-            ""
+            "体器魂・中"
         ],
         "ml_description": [
-            "<help=constitution>体力</help>[[effects_power_1]%]増加/<help=dexterity>器用</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:constitution>体力</help>effects_power_1%増加/<help:dexterity>器用</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:constitution>体力</help>增加effects_power_1%/<help:dexterity>器用</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -907,11 +907,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "体敏魂・中",
-            ""
+            "体敏魂・中"
         ],
         "ml_description": [
-            "<help=constitution>体力</help>[[effects_power_1]%]増加/<help=agility>敏捷</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:constitution>体力</help>effects_power_1%増加/<help:agility>敏捷</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:constitution>体力</help>增加effects_power_1%/<help:agility>敏捷</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -922,11 +922,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "攻防魂・中",
-            ""
+            "攻防魂・中"
         ],
         "ml_description": [
-            "<help=offence>攻撃</help>[[effects_power_1]%]増加/<help=defence>防御</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:offence>攻撃</help>effects_power_1%増加/<help:defence>防御</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:offence>攻击</help>增加effects_power_1%/<help:defence>防御</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -937,11 +937,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "攻精魂・中",
-            ""
+            "攻精魂・中"
         ],
         "ml_description": [
-            "<help=offence>攻撃</help>[[effects_power_1]%]増加/<help=will>精神</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:offence>攻撃</help>effects_power_1%増加/<help:will>精神</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:offence>攻击</help>增加effects_power_1%/<help:will>精神</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -952,11 +952,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "精器魂・中",
-            ""
+            "精器魂・中"
         ],
         "ml_description": [
-            "<help=will>精神</help>[[effects_power_1]%]増加/<help=dexterity>器用</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:will>精神</help>effects_power_1%増加/<help:dexterity>器用</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:will>精神</help>增加effects_power_1%/<help:dexterity>器用</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -967,11 +967,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "精敏魂・中",
-            ""
+            "精敏魂・中"
         ],
         "ml_description": [
-            "<help=will>精神</help>[[effects_power_1]%]増加/<help=agility>敏捷</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:will>精神</help>effects_power_1%増加/<help:agility>敏捷</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:will>精神</help>增加effects_power_1%/<help:agility>敏捷</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -982,11 +982,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "防器魂・中",
-            ""
+            "防器魂・中"
         ],
         "ml_description": [
-            "<help=defence>防御</help>[[effects_power]%]増加/<help=dexterity>器用</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:defence>防御</help>effects_power%増加/<help:dexterity>器用</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:defence>防御</help>增加effects_power%/<help:dexterity>器用</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -997,11 +997,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "防敏魂・中",
-            ""
+            "防敏魂・中"
         ],
         "ml_description": [
-            "<help=defence>防御</help>[[effects_power]%]増加/<help=agility>敏捷</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
-            ""
+            "<help:defence>防御</help>effects_power%増加/<help:agility>敏捷</help>effects_power_2%増加/バトル開始時の入魂ゲージeffects_power_3%増加",
+            "<help:defence>防御</help>增加effects_power%/<help:agility>敏捷</help>增加effects_power_2%/战斗开始时的入魂量增加effects_power_3%"
         ]
     },
     {
@@ -1012,11 +1012,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "赤属性有利＋",
-            ""
+            "红属性有利+"
         ],
         "ml_description": [
-            "スタイルがカーマイン（赤）時、ビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
-            ""
+            "スタイルがカーマイン（赤）時、ビリジアン（緑）に対してのダメージeffects_power%上昇",
+            "服装为红色属性时，对绿色属性的伤害提升effects_power%"
         ]
     },
     {
@@ -1027,11 +1027,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "青属性有利＋",
-            ""
+            "蓝属性有利+"
         ],
         "ml_description": [
-            "スタイルがセルリアン（青）時、カーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
-            ""
+            "スタイルがセルリアン（青）時、カーマイン（赤）に対してのダメージeffects_power%上昇",
+            "服装为蓝色属性时，对红色属性的伤害提升effects_power%"
         ]
     },
     {
@@ -1042,11 +1042,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "緑属性有利＋",
-            ""
+            "绿属性有利+"
         ],
         "ml_description": [
-            "スタイルがビリジアン（緑）時、セルリアン（青）に対してのダメージ[[effects_power]%]上昇",
-            ""
+            "スタイルがビリジアン（緑）時、セルリアン（青）に対してのダメージeffects_power%上昇",
+            "服装为绿色属性时，对蓝色属性的伤害提升effects_power%"
         ]
     },
     {
@@ -1057,11 +1057,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "白属性有利＋",
-            ""
+            "白属性有利+"
         ],
         "ml_description": [
-            "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-            ""
+            "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージeffects_power%上昇",
+            "服装为白色属性时，对紫色属性的伤害提升effects_power%"
         ]
     },
     {
@@ -1072,11 +1072,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "紫属性有利＋",
-            ""
+            "紫属性有利+"
         ],
         "ml_description": [
-            "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-            ""
+            "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージeffects_power%上昇",
+            "服装为紫色属性时，对白色属性的伤害提升effects_power%"
         ]
     },
     {
@@ -1087,11 +1087,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "工芸特攻",
-            ""
+            "工艺特攻"
         ],
         "ml_description": [
-            "系統：工芸に対してダメージ[[effects_power]%]上昇",
-            ""
+            "系統：工芸に対してダメージeffects_power%上昇",
+            "对系统：工艺的伤害提升effects_power%"
         ]
     },
     {
@@ -1102,11 +1102,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "絵画特攻",
-            ""
+            "绘画特攻"
         ],
         "ml_description": [
-            "系統：絵画に対してダメージ[[effects_power]%]上昇",
-            ""
+            "系統：絵画に対してダメージeffects_power%上昇",
+            "对系统：绘画的伤害提升effects_power%"
         ]
     },
     {
@@ -1117,11 +1117,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "彫刻特攻",
-            ""
+            "雕刻特攻"
         ],
         "ml_description": [
-            "系統：彫刻に対してダメージ[[effects_power]%]上昇",
-            ""
+            "系統：彫刻に対してダメージeffects_power%上昇",
+            "对系统：雕刻的伤害提升effects_power%"
         ]
     },
     {
@@ -1132,11 +1132,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "芸道特攻",
-            ""
+            "艺道特攻"
         ],
         "ml_description": [
-            "系統：芸道に対してダメージ[[effects_power]%]上昇",
-            ""
+            "系統：芸道に対してダメージeffects_power%上昇",
+            "对系统：艺道的伤害提升effects_power%"
         ]
     },
     {
@@ -1147,11 +1147,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時即行動",
-            ""
+            "入魂时即行动"
         ],
         "ml_description": [
-            "入魂後に即時追加行動（毎ターン[[effects_power_1]]回まで）<hidden=effects_power_2>/移動力[[effects_power_2]]増加。1回行動後解除</hidden>",
-            ""
+            "入魂後に即時追加行動（毎ターンeffects_power_1回まで）<hidden:effects_power_2>/移動力effects_power_2増加。1回行動後解除</hidden>",
+            "入魂后即刻追加行动（每回合最多effects_power_1次）<hidden:effects_power_2>/移动力增加effects_power_2。1次行动后解除</hidden>"
         ]
     },
     {
@@ -1162,11 +1162,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時気炎付与",
-            ""
+            "入魂时气焰付与"
         ],
         "ml_description": [
-            "入魂時、自身に<help=ignite>気炎</help>付与",
-            ""
+            "入魂時、自身に<help:ignite>気炎</help>付与",
+            "入魂时，赋予自身<help:ignite>气焰</help>"
         ]
     },
     {
@@ -1177,11 +1177,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時水月付与",
-            ""
+            "入魂时水月付与"
         ],
         "ml_description": [
-            "入魂時、自身に<help=blue_moon>水月</help>付与",
-            ""
+            "入魂時、自身に<help:blue_moon>水月</help>付与",
+            "入魂时，赋予自身<help:blue_moon>水月</help>"
         ]
     },
     {
@@ -1192,11 +1192,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時疾風付与",
-            ""
+            "入魂时疾风付与"
         ],
         "ml_description": [
-            "入魂時、自身に<help=whirlwind>疾風</help>付与",
-            ""
+            "入魂時、自身に<help:whirlwind>疾風</help>付与",
+            "入魂时，赋予自身<help:whirlwind>疾风</help>"
         ]
     },
     {
@@ -1207,11 +1207,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時迅雷付与",
-            ""
+            "入魂时迅雷付与"
         ],
         "ml_description": [
-            "入魂時、自身に<help=thunderclap>迅雷</help>付与",
-            ""
+            "入魂時、自身に<help:thunderclap>迅雷</help>付与",
+            "入魂时，赋予自身<help:thunderclap>迅雷</help>"
         ]
     },
     {
@@ -1222,11 +1222,11 @@
         "inheritance_group": 1,
         "ml_name": [
             "入魂時攻撃変更・長十字",
-            ""
+            "入魂时攻击变更・长十字"
         ],
         "ml_description": [
-            "<help=empower_attack>入魂時攻撃</help>を範囲内の敵に物理ダメージ(物理<help=element>エレメント</help>)を与える<help=long cross>長十字</help>に変更",
-            ""
+            "<help:empower_attack>入魂時攻撃</help>を範囲内の敵に物理ダメージ(物理<help:element>エレメント</help>)を与える<help:long cross>長十字</help>に変更",
+            "<help:empower_attack>入魂时攻击</help>变更为对范围内敌方造成物理伤害（物理<help:element>元素</help>）的<help:long cross>长十字</help>攻击"
         ]
     },
     {
@@ -1237,11 +1237,11 @@
         "inheritance_group": 1,
         "ml_name": [
             "入魂時攻撃変更・広十字",
-            ""
+            "入魂时攻击变更・广十字"
         ],
         "ml_description": [
-            "<help=empower_attack>入魂時攻撃</help>を範囲内の敵に物理ダメージ(物理<help=element>エレメント</help>)を与える<help=wide cross>広十字</help>に変更",
-            ""
+            "<help:empower_attack>入魂時攻撃</help>を範囲内の敵に物理ダメージ(物理<help:element>エレメント</help>)を与える<help:wide cross>広十字</help>に変更",
+            "<help:empower_attack>入魂时攻击</help>变更为对范围内敌方造成物理伤害（物理<help:element>元素</help>）的<help:wide cross>广十字</help>攻击"
         ]
     },
     {
@@ -1252,11 +1252,11 @@
         "inheritance_group": 1,
         "ml_name": [
             "入魂時攻撃強化(必殺)",
-            ""
+            "入魂时攻击强化（必杀）"
         ],
         "ml_description": [
             "入魂時攻撃の必殺増加",
-            ""
+            "<help:empower_attack>入魂时攻击</help>的<help:critical>必杀</help>增加effects_power"
         ]
     },
     {
@@ -1267,11 +1267,11 @@
         "inheritance_group": 1,
         "ml_name": [
             "入魂時攻撃変更・防御無視",
-            ""
+            "入魂时攻击变更・无视防御"
         ],
         "ml_description": [
-            "<help=empower_attack>入魂時攻撃</help>を範囲内の敵に防御無視の物理ダメージ(物理<help=element>エレメント</help>)を与える効果に変更",
-            ""
+            "<help:empower_attack>入魂時攻撃</help>を範囲内の敵に防御無視の物理ダメージ(物理<help:element>エレメント</help>)を与える効果に変更",
+            "<help:empower_attack>入魂时攻击</help>效果变更为对范围内敌方造成无视防御的物理伤害（物理<help:element>元素</help>）"
         ]
     },
     {
@@ -1282,11 +1282,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時攻撃アップ3T",
-            ""
+            "入魂时攻击UP3回"
         ],
         "ml_description": [
-            "入魂時、自身に<help=offence>攻撃</help>[[effects_power]%]増加＜[[effects_turn_1]ターン]＞(重複可)",
-            ""
+            "入魂時、自身に<help:offence>攻撃</help>effects_power%増加＜effects_turn_1ターン＞(重複可)",
+            "入魂时，自身<help:offence>攻击</help>增加effects_power%＜effects_turn_1回合＞（可叠加）"
         ]
     },
     {
@@ -1297,11 +1297,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時防御アップ3T",
-            ""
+            "入魂时防御UP3回"
         ],
         "ml_description": [
-            "入魂時、自身に<help=defence>防御</help>[[effects_power]%]増加＜[[effects_turn_1]ターン]＞(重複可)",
-            ""
+            "入魂時、自身に<help:defence>防御</help>effects_power%増加＜effects_turn_1ターン＞(重複可)",
+            "入魂时，自身<help:defence>防御</help>增加effects_power%＜effects_turn_1回合＞（可叠加）"
         ]
     },
     {
@@ -1312,11 +1312,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時精神アップ3T",
-            ""
+            "入魂时精神UP3回"
         ],
         "ml_description": [
-            "入魂時、自身に<help=will>精神</help>[[effects_power]%]増加＜[[effects_turn_1]ターン]＞(重複可)",
-            ""
+            "入魂時、自身に<help:will>精神</help>effects_power%増加＜effects_turn_1ターン＞(重複可)",
+            "入魂时，自身<help:will>精神</help>增加effects_power%＜effects_turn_1回合＞（可叠加）"
         ]
     },
     {
@@ -1327,11 +1327,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時必殺アップ3T",
-            ""
+            "入魂时必杀UP3回"
         ],
         "ml_description": [
-            "入魂時、自身に<help=critical>必殺</help>[[effects_power]]増加＜[[effects_turn_1]ターン]＞(重複可)",
-            ""
+            "入魂時、自身に<help:critical>必殺</help>effects_power増加＜effects_turn_1ターン＞(重複可)",
+            "入魂时，自身<help:critical>必杀</help>增加effects_power＜effects_turn_1回合＞（可叠加）"
         ]
     },
     {
@@ -1342,11 +1342,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時攻撃大アップ1T",
-            ""
+            "入魂时攻击大UP1回"
         ],
         "ml_description": [
-            "入魂時、自身に<help=offence>攻撃</help>[[effects_power]%]増加＜[[effects_turn_1]ターン]＞",
-            ""
+            "入魂時、自身に<help:offence>攻撃</help>effects_power%増加＜effects_turn_1ターン＞",
+            "入魂时，自身<help:offence>攻击</help>增加effects_power%＜effects_turn_1回合＞"
         ]
     },
     {
@@ -1357,11 +1357,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時猛毒完全耐性3T",
-            ""
+            "入魂时猛毒完全耐性3回"
         ],
         "ml_description": [
-            "入魂時、自身が<help=poison>猛毒</help>耐性を得る＜[[effects_turn_1]ターン]＞/精神[[effects_power_2]%]増加",
-            ""
+            "入魂時、自身が<help:poison>猛毒</help>耐性を得る＜effects_turn_1ターン＞/精神effects_power_2%増加",
+            "入魂时，自身获得<help:poison>猛毒</help>耐性＜effects_turn_1回合＞/精神增加effects_power_2%"
         ]
     },
     {
@@ -1372,11 +1372,11 @@
         "inheritance_group": 0,
         "ml_name": [
             "入魂時睡眠完全耐性3T",
-            ""
+            "入魂时睡眠完全耐性3回"
         ],
         "ml_description": [
-            "入魂時、自身が<help=sleep>睡眠</help>耐性を得る＜[[effects_turn_1]ターン]＞/精神[[effects_power_2]%]増加",
-            ""
+            "入魂時、自身が<help:sleep>睡眠</help>耐性を得る＜effects_turn_1ターン＞/精神effects_power_2%増加",
+            "入魂时，自身获得<help:sleep>睡眠</help>耐性＜effects_turn_1回合＞/精神增加effects_power_2%"
         ]
     }
 ]

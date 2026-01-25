@@ -1,3 +1,5 @@
+LIST.bat
+LIST.TXT
 mActionPatterns.json
 mActiveSkillMainEffectLevels.json
 mActiveSkillMainEffects.json
@@ -85,6 +87,13 @@ mLoginBonuses.json
 mLoginBonusGroupItems.json
 mLoginBonusLotteries.json
 mLoginBonusLotteryGroups.json
+mMainEffectLevelIndex.json
+mMainEffectLevels1.json
+mMainEffectLevels2_1.json
+mMainEffectLevels2_2.json
+mMainEffectLevels2_3.json
+mMainEffectLevels3.json
+mMainEffectLevelsx.json
 mMemories.json
 mMissionConditions.json
 mMissionRewards.json
@@ -144,6 +153,13 @@ mShopPeriods.json
 mShopProductDetails.json
 mShopProducts.json
 mShopTabs.json
+mSideEffectLevelIndex.json
+mSideEffectLevels2_1.json
+mSideEffectLevels2_2.json
+mSideEffectLevels2_3.json
+mSideEffectLevels2_4.json
+mSideEffectLevels3.json
+mSideEffectLevelsx.json
 mSkillEffectTurns.json
 mSkillEffectVisualConfigs.json
 mSkillSpecialEffectDetails.json
