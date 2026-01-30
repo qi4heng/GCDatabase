@@ -2506,5 +2506,16 @@
         "target_num": 3,
         "ignore_range": 1,
         "description": "範囲内外問わず入魂ゲージが一番高い味方3体"
+    },
+    {
+        "id": 9000,
+        "type_bits": 256,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "マス効果付与"
     }
 ]

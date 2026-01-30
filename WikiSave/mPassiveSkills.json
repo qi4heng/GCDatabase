@@ -2132,6 +2132,19 @@
         ]
     },
     {
+        "id": 35330057,
+        "rarity": 5,
+        "image_index": 1130002,
+        "ml_name": [
+            "一定体力以下で味方全員に攻撃・敏捷増加",
+            ""
+        ],
+        "ml_description": [
+            "一定体力以下で味方全員に攻撃・敏捷[[effects_power_1]%]増加",
+            ""
+        ]
+    },
+    {
         "id": 53130001,
         "rarity": 3,
         "image_index": 1130001,
@@ -3640,6 +3653,84 @@
         ]
     },
     {
+        "id": 54131601,
+        "rarity": 4,
+        "image_index": 4131601,
+        "ml_name": [
+            "ルノワール体力アップ・中",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの体力[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 54131602,
+        "rarity": 4,
+        "image_index": 4131602,
+        "ml_name": [
+            "ルノワール攻撃アップ・中",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの攻撃[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 54131603,
+        "rarity": 4,
+        "image_index": 4131603,
+        "ml_name": [
+            "ルノワール精神アップ・中",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの精神[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 54131604,
+        "rarity": 4,
+        "image_index": 4131604,
+        "ml_name": [
+            "ルノワール防御アップ・中",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの防御[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 54131605,
+        "rarity": 4,
+        "image_index": 4131605,
+        "ml_name": [
+            "ルノワール器用アップ・中",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの器用[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 54131606,
+        "rarity": 4,
+        "image_index": 4131606,
+        "ml_name": [
+            "ルノワール敏捷アップ・中",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの敏捷[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
         "id": 55130101,
         "rarity": 5,
         "image_index": 4130101,
@@ -4810,6 +4901,84 @@
         ]
     },
     {
+        "id": 55131601,
+        "rarity": 5,
+        "image_index": 4131601,
+        "ml_name": [
+            "ルノワール体力アップ・大",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの体力[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55131602,
+        "rarity": 5,
+        "image_index": 4131602,
+        "ml_name": [
+            "ルノワール攻撃アップ・大",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの攻撃[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55131603,
+        "rarity": 5,
+        "image_index": 4131603,
+        "ml_name": [
+            "ルノワール精神アップ・大",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの精神[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55131604,
+        "rarity": 5,
+        "image_index": 4131604,
+        "ml_name": [
+            "ルノワール防御アップ・大",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの防御[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55131605,
+        "rarity": 5,
+        "image_index": 4131605,
+        "ml_name": [
+            "ルノワール器用アップ・大",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの器用[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55131606,
+        "rarity": 5,
+        "image_index": 4131606,
+        "ml_name": [
+            "ルノワール敏捷アップ・大",
+            ""
+        ],
+        "ml_description": [
+            "ルノワールの敏捷[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
         "id": 55300000,
         "rarity": 5,
         "image_index": 1300000,
@@ -5820,6 +5989,45 @@
         ],
         "ml_description": [
             "エネミーのアイボリー(赤)の防御+[[effects_power]%]",
+            ""
+        ]
+    },
+    {
+        "id": 75130020,
+        "rarity": 5,
+        "image_index": 1390001,
+        "ml_name": [
+            "赤属性有利＋（50%）",
+            ""
+        ],
+        "ml_description": [
+            "味方のカーマイン（赤）のビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
+            ""
+        ]
+    },
+    {
+        "id": 74130020,
+        "rarity": 4,
+        "image_index": 1130002,
+        "ml_name": [
+            "エネミーのビリジアン(緑)の攻撃+60%",
+            ""
+        ],
+        "ml_description": [
+            "エネミーのビリジアン(緑)の攻撃+[[effects_power]%]",
+            ""
+        ]
+    },
+    {
+        "id": 73130020,
+        "rarity": 4,
+        "image_index": 1130004,
+        "ml_name": [
+            "エネミーのビリジアン(緑)の防御+30%",
+            ""
+        ],
+        "ml_description": [
+            "エネミーのビリジアン(緑)の防御+[[effects_power]%]",
             ""
         ]
     },
@@ -7211,6 +7419,45 @@
         ],
         "ml_description": [
             "バトル開始時の熱情[[effects_power]]増加/物理エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の熱情[[effects_power_3]]増加・味方全員の入魂ゲージ[[effects_power_4]]増加・敵全体の防御[[effects_power_5]%]減少＜[[effects_turn_5]ターン]＞・幸運[[effects_power_6]]減少＜[[effects_turn_6]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 43160101,
+        "rarity": 5,
+        "image_index": 1320000,
+        "ml_name": [
+            "精髄：【薄幸の絵描き】",
+            ""
+        ],
+        "ml_description": [
+            "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加",
+            ""
+        ]
+    },
+    {
+        "id": 44160201,
+        "rarity": 5,
+        "image_index": 1080000,
+        "ml_name": [
+            "精髄：【夢、つむいで】",
+            ""
+        ],
+        "ml_description": [
+            "系統：絵画に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 45160301,
+        "rarity": 5,
+        "image_index": 1300004,
+        "ml_name": [
+            "精髄：【幸福クリエイター】",
+            ""
+        ],
+        "ml_description": [
+            "雷エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技で効果マス付与発動時、自身の敏捷[[effects_power_3]%]増加",
             ""
         ]
     },

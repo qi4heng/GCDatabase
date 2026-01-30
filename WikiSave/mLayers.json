@@ -1256,7 +1256,63 @@
         "zh_ml_name": "狂野狮子"
     },
     {
-        "zh_ml_flavor_text": "这是画图时穿的衣服。\n也能用来自东方的短弓战斗。",
+        "id": 4010312,
+        "unit_id": 3,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 1,
+        "color_type": 2,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 3707,
+        "atk": 60,
+        "mnd": 79,
+        "def": 70,
+        "dex": 49,
+        "spd": 39,
+        "mov": 4,
+        "mov_type": 1,
+        "factor_id": 15130001,
+        "skill_id1": 20312001,
+        "skill_id2": 20312002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 10312001,
+        "ultimate_skill_id": 30312001,
+        "duplicated_item_id": 1120312,
+        "duplicated_item_count": 1,
+        "sort_order": 312,
+        "image_index": 4010312,
+        "ai_group_id": 0,
+        "sound_index": 4010312,
+        "country_type": 0,
+        "strong_skill_setting": "3|0|2|0|0",
+        "start_time": "2026-01-30 13:30:00",
+        "ml_name": [
+            "Florist Life",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "笑顔溢れるフローリストスタイル。\n花に想いを込め、人々の心を彩っていく。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "お花パワーで\nイキイキしちゃおー！",
+            "en"
+        ],
+        "ml_get_message": [
+            "いらっしゃいませー！　今日のあたしはお花屋さんだよ！\nえへへっ、館長くんはどんなお花が欲しい？",
+            "en"
+        ],
+        "zh_ml_flavor_text": "笑容洋溢的花艺师风格。将心意寄予花朵，为人们的心间缀上色彩。",
+        "zh_ml_get_message": "欢迎光临～！今天咱可是花店姑娘哦！欸嘿嘿，馆长想要什么花呀？",
+        "zh_ml_name": "Florist Life"
+    },
+    {
+        "zh_ml_flavor_text": "画图时穿的衣服。\n也能用来自东方的短弓战斗。",
         "zh_ml_get_message": "我是名侦探兼画家的石燕。在EXODIA中也算是小有名气。\n不过，也有人只说过一次话就再也不靠近我了……真是不可思议。",
         "id": 4010401,
         "unit_id": 4,
@@ -2443,6 +2499,62 @@
             "en"
         ],
         "zh_ml_name": "蒐集王"
+    },
+    {
+        "id": 4010611,
+        "unit_id": 6,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 1,
+        "color_type": 2,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 2545,
+        "atk": 64,
+        "mnd": 88,
+        "def": 50,
+        "dex": 79,
+        "spd": 55,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 15130003,
+        "skill_id1": 20611001,
+        "skill_id2": 20611002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 10611001,
+        "ultimate_skill_id": 30611001,
+        "duplicated_item_id": 1120611,
+        "duplicated_item_count": 1,
+        "sort_order": 611,
+        "image_index": 4010611,
+        "ai_group_id": 0,
+        "sound_index": 4010611,
+        "country_type": 0,
+        "strong_skill_setting": "0|0|3|2|0",
+        "start_time": "2026-01-30 13:30:00",
+        "ml_name": [
+            "朽ちぬ花",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "静謐な美しさ漂う花の女神スタイル。\n草花が絡む杖で死の芸術の命を枯らす。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "枯れて朽ちゆく花もまた\nう、美しいと思いませんか？",
+            "en"
+        ],
+        "ml_get_message": [
+            "は、花の女神のようだなんて言って、褒めてくれる人もいますが、\nあたしはせいぜい、ド、ドライフラワーの死神でしょうね。",
+            "en"
+        ],
+        "zh_ml_name": "不朽之花",
+        "zh_ml_flavor_text": "静谧之美流淌的花之女神造型。以藤蔓缠花的法杖，令死之艺术的生机凋零。",
+        "zh_ml_get_message": "虽然也有人夸我像花之女神什么的……但人家顶多算个枯、枯花死神啦。"
     },
     {
         "zh_ml_flavor_text": "作为雅典市议员工作时的制服。\n战斗时挥舞指挥棒，正确引导同伴",
@@ -5908,6 +6020,174 @@
             "心のこもったプレゼントは、まわりの人たちまで笑顔にできるものです。\nそんな贈り物を届けることができれば、とても幸せですわね。",
             "en"
         ]
+    },
+    {
+        "id": 4011601,
+        "unit_id": 16,
+        "rarity": 3,
+        "unit_type": 0,
+        "weapon_type": 1,
+        "color_type": 3,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 1316,
+        "atk": 32,
+        "mnd": 18,
+        "def": 26,
+        "dex": 19,
+        "spd": 37,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 13130006,
+        "skill_id1": 21601001,
+        "skill_id2": 0,
+        "limit_passive_skill_id": 0,
+        "attack_skill_id": 11401001,
+        "ultimate_skill_id": 31601001,
+        "duplicated_item_id": 1121601,
+        "duplicated_item_count": 1,
+        "sort_order": 1601,
+        "image_index": 4011601,
+        "ai_group_id": 0,
+        "sound_index": 4011601,
+        "country_type": 0,
+        "strong_skill_setting": "1|0|0|0|0",
+        "start_time": "2026-01-30 13:30:00",
+        "ml_name": [
+            "薄幸の絵描き",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "常に“かわいい”を忘れない彼女の\nこだわりを感じさせる作業着スタイル。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "ルノの作品で、みなさんに\n幸せになってほしいんです！",
+            "en"
+        ],
+        "ml_get_message": [
+            "えと、改めまして、キュティピエ・ルノワールっていいます……！　\n『幸福の画家』って呼ばれてるのに不幸体質だなんて、変、ですよね……？",
+            "en"
+        ],
+        "zh_ml_name": "不幸的画家",
+        "zh_ml_flavor_text": "一套彰显她始终不忘“可爱”信条的工作装。",
+        "zh_ml_get_message": "那、那个，重新自我介绍一下，我叫皮埃尔·雷诺阿……！明明是被称为“幸福的画家”，却有着不幸体质……是不是很、很奇怪呀……？"
+    },
+    {
+        "id": 4011602,
+        "unit_id": 16,
+        "rarity": 4,
+        "unit_type": 0,
+        "weapon_type": 0,
+        "color_type": 4,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 1917,
+        "atk": 61,
+        "mnd": 42,
+        "def": 32,
+        "dex": 25,
+        "spd": 75,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 14130006,
+        "skill_id1": 21602001,
+        "skill_id2": 21602002,
+        "limit_passive_skill_id": 0,
+        "attack_skill_id": 11402001,
+        "ultimate_skill_id": 31602001,
+        "duplicated_item_id": 1121602,
+        "duplicated_item_count": 1,
+        "sort_order": 1602,
+        "image_index": 4011602,
+        "ai_group_id": 0,
+        "sound_index": 4011602,
+        "country_type": 0,
+        "strong_skill_setting": "1|0|0|0|2",
+        "start_time": "2026-02-03 13:00:00",
+        "ml_name": [
+            "夢、つむいで",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "街の平和を守る藝術家としての通常衣装。\n針モチーフの剣で繊細な戦いを見せる。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "もう自分に嘘はつきません、\nルノは幸福の画家ですから！",
+            "en"
+        ],
+        "ml_get_message": [
+            "ルノは館長さんと一緒に、幸せになりたいです……って、これじゃまるで\nプ、プロポー……あの、えと、なんでもありませんっ！！",
+            "en"
+        ],
+        "zh_ml_name": "编织梦想吧",
+        "zh_ml_flavor_text": "作为守护城市和平的艺术家日常装束。手持以针为灵感的细剑，展现精巧而凌厉的战斗。",
+        "zh_ml_get_message": "雷诺想和馆长一起获得幸福……啊、这话简直像是求、求婚……那、那个，请当我什么都没说！！"
+    },
+    {
+        "id": 4011603,
+        "unit_id": 16,
+        "rarity": 5,
+        "unit_type": 0,
+        "weapon_type": 1,
+        "color_type": 5,
+        "collabo_type": 0,
+        "another_type": 0,
+        "hp": 2668,
+        "atk": 110,
+        "mnd": 79,
+        "def": 44,
+        "dex": 49,
+        "spd": 98,
+        "mov": 5,
+        "mov_type": 1,
+        "factor_id": 15130006,
+        "skill_id1": 21603001,
+        "skill_id2": 21603002,
+        "limit_passive_skill_id": 15420001,
+        "attack_skill_id": 11403001,
+        "ultimate_skill_id": 31603001,
+        "duplicated_item_id": 1121603,
+        "duplicated_item_count": 1,
+        "sort_order": 1603,
+        "image_index": 4011603,
+        "ai_group_id": 0,
+        "sound_index": 4011603,
+        "country_type": 0,
+        "strong_skill_setting": "2|0|0|0|3",
+        "start_time": "2026-02-03 13:00:00",
+        "ml_name": [
+            "幸福クリエイター",
+            "en"
+        ],
+        "ml_flavor_text": [
+            "理想を形にした乙女モード全開スタイル。\nその多幸感で押し寄せる不運を跳ね返す。",
+            "en"
+        ],
+        "ml_illustrator_name": [
+            "（仮）",
+            "en"
+        ],
+        "ml_rare_get_message": [
+            "かわいいでいっぱいの世界、\nルノが創りあげてみせます！",
+            "en"
+        ],
+        "ml_get_message": [
+            "自分で仕立てたこのお洋服、とっても上手にできました……！\nえへへ、やっぱりフリルは正義ですよね！",
+            "en"
+        ],
+        "zh_ml_name": "幸福创造者",
+        "zh_ml_flavor_text": "将理想化作现实的少女模式全开造型。以满溢的幸福弹开袭来的不幸。",
+        "zh_ml_get_message": "这件自己缝制的洋装，做得非常成功呢……！欸嘿嘿，果然褶边就是正义没错吧！"
     },
     {
         "zh_ml_flavor_text": "手持阿玛蒂模型的小提琴，\n奏响觉悟之旋律的艺术风格。",

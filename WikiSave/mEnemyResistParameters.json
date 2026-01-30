@@ -1062,6 +1062,24 @@
         "is_parry_invalid": 0
     },
     {
+        "id": 230,
+        "burn_resist_power": 999,
+        "poison_resist_power": 999,
+        "sewing_resist_power": 30,
+        "shock_resist_power": 999,
+        "stun_resist_power": 999,
+        "sleep_resist_power": 999,
+        "charm_resist_power": 30,
+        "emb_phy_resist_power": 0,
+        "emb_fire_resist_power": 0,
+        "emb_water_resist_power": 0,
+        "emb_wind_resist_power": 0,
+        "emb_thunder_resist_power": 0,
+        "poison_damage_rate": 0,
+        "collision_damage_rate": -8000,
+        "is_parry_invalid": 0
+    },
+    {
         "id": 500,
         "burn_resist_power": 50,
         "poison_resist_power": 50,

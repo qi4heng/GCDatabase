@@ -1194,5 +1194,44 @@
         "spd": 84,
         "mov": 0,
         "reduce_value": 44
+    },
+    {
+        "id": 11601,
+        "equipment_id": 4111601,
+        "hp": 14,
+        "atk": 0,
+        "mnd": 0,
+        "def": 39,
+        "dex": 0,
+        "luk": 0,
+        "spd": 14,
+        "mov": 0,
+        "reduce_value": 25
+    },
+    {
+        "id": 11602,
+        "equipment_id": 4111602,
+        "hp": 280,
+        "atk": 0,
+        "mnd": 84,
+        "def": 28,
+        "dex": 0,
+        "luk": 0,
+        "spd": 0,
+        "mov": 0,
+        "reduce_value": 44
+    },
+    {
+        "id": 11603,
+        "equipment_id": 4111603,
+        "hp": 0,
+        "atk": 0,
+        "mnd": 0,
+        "def": 0,
+        "dex": 0,
+        "luk": 35,
+        "spd": 46,
+        "mov": 0,
+        "reduce_value": 27
     }
 ]

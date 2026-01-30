@@ -5180,6 +5180,258 @@
         ]
     },
     {
+        "id": 103136,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 1,
+        "condition_id": 103128,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv2達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv2達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103137,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 2,
+        "condition_id": 103128,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv3達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv3達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103138,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 3,
+        "condition_id": 103128,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv4達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv4達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103139,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 4,
+        "condition_id": 103128,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv5達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv5達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103140,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 5,
+        "condition_id": 103128,
+        "condition_value": 6,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv6達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv6達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103141,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 6,
+        "condition_id": 103128,
+        "condition_value": 7,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv7達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv7達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103142,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 7,
+        "condition_id": 103128,
+        "condition_value": 8,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv8達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv8達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103143,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 8,
+        "condition_id": 103128,
+        "condition_value": 9,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv9達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv9達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103144,
+        "type": 1,
+        "series_no": 38,
+        "sub_series_no": 9,
+        "condition_id": 103128,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール信愛Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール信愛Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 103501,
         "type": 1,
         "series_no": 5101,
@@ -15085,6 +15337,566 @@
         ],
         "ml_description": [
             "ボッティチェリLv200達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104301,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 1,
+        "condition_id": 104301,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104302,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 2,
+        "condition_id": 104301,
+        "condition_value": 20,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv20達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv20達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104303,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 3,
+        "condition_id": 104301,
+        "condition_value": 30,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv30達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv30達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104304,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 4,
+        "condition_id": 104301,
+        "condition_value": 40,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv40達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv40達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104305,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 5,
+        "condition_id": 104301,
+        "condition_value": 50,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv50達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv50達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104306,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 6,
+        "condition_id": 104301,
+        "condition_value": 60,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv60達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv60達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104307,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 7,
+        "condition_id": 104301,
+        "condition_value": 70,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv70達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv70達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104308,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 8,
+        "condition_id": 104301,
+        "condition_value": 80,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv80達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv80達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104309,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 9,
+        "condition_id": 104301,
+        "condition_value": 90,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv90達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv90達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104310,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 10,
+        "condition_id": 104301,
+        "condition_value": 100,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv100達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv100達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104311,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 11,
+        "condition_id": 104301,
+        "condition_value": 110,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv110達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv110達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104312,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 12,
+        "condition_id": 104301,
+        "condition_value": 120,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv120達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv120達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104313,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 13,
+        "condition_id": 104301,
+        "condition_value": 130,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv130達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv130達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104314,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 14,
+        "condition_id": 104301,
+        "condition_value": 140,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv140達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv140達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104315,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 15,
+        "condition_id": 104301,
+        "condition_value": 150,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv150達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv150達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104316,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 16,
+        "condition_id": 104301,
+        "condition_value": 160,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv160達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv160達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104317,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 17,
+        "condition_id": 104301,
+        "condition_value": 170,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv170達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv170達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104318,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 18,
+        "condition_id": 104301,
+        "condition_value": 180,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv180達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv180達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104319,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 19,
+        "condition_id": 104301,
+        "condition_value": 190,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv190達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv190達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104320,
+        "type": 1,
+        "series_no": 39,
+        "sub_series_no": 20,
+        "condition_id": 104301,
+        "condition_value": 200,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールLv200達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールLv200達成",
             "en"
         ],
         "ml_hint": [
@@ -26621,6 +27433,286 @@
         ],
         "ml_description": [
             "アングル【傲慢のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108306,
+        "type": 1,
+        "series_no": 1080312,
+        "sub_series_no": 1,
+        "condition_id": 1080312,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ドナテッロ【Florist Life】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【Florist Life】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108307,
+        "type": 1,
+        "series_no": 1080312,
+        "sub_series_no": 2,
+        "condition_id": 1080312,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ドナテッロ【Florist Life】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【Florist Life】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108308,
+        "type": 1,
+        "series_no": 1080600,
+        "sub_series_no": 1,
+        "condition_id": 1080600,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "レンブラント【朽ちぬ花】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【朽ちぬ花】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108309,
+        "type": 1,
+        "series_no": 1080600,
+        "sub_series_no": 2,
+        "condition_id": 1080600,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "レンブラント【朽ちぬ花】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【朽ちぬ花】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108310,
+        "type": 1,
+        "series_no": 1081601,
+        "sub_series_no": 1,
+        "condition_id": 1081601,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール【薄幸の絵描き】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【薄幸の絵描き】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108311,
+        "type": 1,
+        "series_no": 1081601,
+        "sub_series_no": 2,
+        "condition_id": 1081601,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール【薄幸の絵描き】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【薄幸の絵描き】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108312,
+        "type": 1,
+        "series_no": 1081602,
+        "sub_series_no": 1,
+        "condition_id": 1081602,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール【夢、つむいで】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【夢、つむいで】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108313,
+        "type": 1,
+        "series_no": 1081602,
+        "sub_series_no": 2,
+        "condition_id": 1081602,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール【夢、つむいで】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【夢、つむいで】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108314,
+        "type": 1,
+        "series_no": 1081603,
+        "sub_series_no": 1,
+        "condition_id": 1081603,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール【幸福クリエイター】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【幸福クリエイター】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108315,
+        "type": 1,
+        "series_no": 1081603,
+        "sub_series_no": 2,
+        "condition_id": 1081603,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール【幸福クリエイター】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【幸福クリエイター】ストーリー2開放",
             "en"
         ],
         "ml_hint": [
@@ -45796,11 +46888,11 @@
         "start_time": "2001-01-01 00:00:00",
         "end_time": "9999-12-31 23:59:59",
         "ml_title": [
-            "DMM GAME PLAYERでプレイする",
+            "DMM GAMES PLAYERでプレイする",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERでプレイする",
+            "DMM GAMES PLAYERでプレイする",
             "en"
         ],
         "ml_hint": [
@@ -47929,6 +49021,90 @@
         ],
         "ml_description": [
             "傲慢の結晶戦斧Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118095,
+        "type": 1,
+        "series_no": 118095,
+        "sub_series_no": 1,
+        "condition_id": 118113,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールのケープLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールのケープLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118096,
+        "type": 1,
+        "series_no": 118096,
+        "sub_series_no": 1,
+        "condition_id": 118114,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールのボンネットLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールのボンネットLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118097,
+        "type": 1,
+        "series_no": 118097,
+        "sub_series_no": 1,
+        "condition_id": 118115,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワールのブーツLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワールのブーツLv10達成",
             "en"
         ],
         "ml_hint": [
@@ -58244,11 +59420,11 @@
         "start_time": "2023-12-26 04:00:00",
         "end_time": "2024-01-12 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERで1日ログインしよう",
+            "DMM GAMES PLAYERで1日ログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERで1日ログインしよう",
+            "DMM GAMES PLAYERで1日ログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -58272,11 +59448,11 @@
         "start_time": "2023-12-26 04:00:00",
         "end_time": "2024-01-12 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERで2日ログインしよう",
+            "DMM GAMES PLAYERで2日ログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERで2日ログインしよう",
+            "DMM GAMES PLAYERで2日ログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -58300,11 +59476,11 @@
         "start_time": "2023-12-26 04:00:00",
         "end_time": "2024-01-12 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERで3日ログインしよう",
+            "DMM GAMES PLAYERで3日ログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERで3日ログインしよう",
+            "DMM GAMES PLAYERで3日ログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -58328,11 +59504,11 @@
         "start_time": "2023-12-26 04:00:00",
         "end_time": "2024-01-12 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERで4日ログインしよう",
+            "DMM GAMES PLAYERで4日ログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERで4日ログインしよう",
+            "DMM GAMES PLAYERで4日ログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -58356,11 +59532,11 @@
         "start_time": "2023-12-26 04:00:00",
         "end_time": "2024-01-12 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERで5日ログインしよう",
+            "DMM GAMES PLAYERで5日ログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERで5日ログインしよう",
+            "DMM GAMES PLAYERで5日ログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -58384,11 +59560,11 @@
         "start_time": "2023-12-26 04:00:00",
         "end_time": "2024-01-12 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERで6日ログインしよう",
+            "DMM GAMES PLAYERで6日ログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERで6日ログインしよう",
+            "DMM GAMES PLAYERで6日ログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -58412,11 +59588,11 @@
         "start_time": "2023-12-26 04:00:00",
         "end_time": "2024-01-12 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERで7日ログインしよう",
+            "DMM GAMES PLAYERで7日ログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERで7日ログインしよう",
+            "DMM GAMES PLAYERで7日ログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -62528,11 +63704,11 @@
         "start_time": "2024-04-25 04:00:00",
         "end_time": "2024-05-09 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -64376,11 +65552,11 @@
         "start_time": "2024-07-12 13:30:00",
         "end_time": "2024-07-31 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -66784,11 +67960,11 @@
         "start_time": "2024-10-31 13:30:00",
         "end_time": "2024-11-20 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -75688,11 +76864,11 @@
         "start_time": "2025-02-17 13:30:00",
         "end_time": "2025-03-03 11:59:59",
         "ml_title": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -78180,11 +79356,11 @@
         "start_time": "2025-04-30 13:30:00",
         "end_time": "2025-06-01 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -88904,11 +90080,11 @@
         "start_time": "2025-10-31 13:30:00",
         "end_time": "2025-12-03 12:59:59",
         "ml_title": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_description": [
-            "DMM GAME PLAYERでログインしよう",
+            "DMM GAMES PLAYERでログインしよう",
             "en"
         ],
         "ml_hint": [
@@ -92689,6 +93865,426 @@
         ],
         "ml_description": [
             "スニューウを限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738601,
+        "type": 5,
+        "series_no": 7386,
+        "sub_series_no": 1,
+        "condition_id": 738601,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ドナテッロ【Florist Life】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【Florist Life】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738602,
+        "type": 5,
+        "series_no": 7386,
+        "sub_series_no": 2,
+        "condition_id": 738601,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ドナテッロ【Florist Life】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【Florist Life】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738603,
+        "type": 5,
+        "series_no": 7386,
+        "sub_series_no": 3,
+        "condition_id": 738601,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ドナテッロ【Florist Life】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【Florist Life】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738604,
+        "type": 5,
+        "series_no": 7386,
+        "sub_series_no": 4,
+        "condition_id": 738601,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ドナテッロ【Florist Life】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【Florist Life】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738605,
+        "type": 5,
+        "series_no": 7386,
+        "sub_series_no": 5,
+        "condition_id": 738601,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ドナテッロ【Florist Life】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【Florist Life】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738701,
+        "type": 5,
+        "series_no": 7387,
+        "sub_series_no": 1,
+        "condition_id": 738701,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "レンブラント【朽ちぬ花】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【朽ちぬ花】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738702,
+        "type": 5,
+        "series_no": 7387,
+        "sub_series_no": 2,
+        "condition_id": 738701,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "レンブラント【朽ちぬ花】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【朽ちぬ花】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738703,
+        "type": 5,
+        "series_no": 7387,
+        "sub_series_no": 3,
+        "condition_id": 738701,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "レンブラント【朽ちぬ花】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【朽ちぬ花】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738704,
+        "type": 5,
+        "series_no": 7387,
+        "sub_series_no": 4,
+        "condition_id": 738701,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "レンブラント【朽ちぬ花】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【朽ちぬ花】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738705,
+        "type": 5,
+        "series_no": 7387,
+        "sub_series_no": 5,
+        "condition_id": 738701,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "レンブラント【朽ちぬ花】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【朽ちぬ花】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738801,
+        "type": 5,
+        "series_no": 7388,
+        "sub_series_no": 1,
+        "condition_id": 738801,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ルノワール【幸福クリエイター】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【幸福クリエイター】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738802,
+        "type": 5,
+        "series_no": 7388,
+        "sub_series_no": 2,
+        "condition_id": 738801,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ルノワール【幸福クリエイター】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【幸福クリエイター】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738803,
+        "type": 5,
+        "series_no": 7388,
+        "sub_series_no": 3,
+        "condition_id": 738801,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ルノワール【幸福クリエイター】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【幸福クリエイター】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738804,
+        "type": 5,
+        "series_no": 7388,
+        "sub_series_no": 4,
+        "condition_id": 738801,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ルノワール【幸福クリエイター】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【幸福クリエイター】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738805,
+        "type": 5,
+        "series_no": 7388,
+        "sub_series_no": 5,
+        "condition_id": 738801,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-03 13:00:00",
+        "end_time": "2026-02-12 12:59:59",
+        "ml_title": [
+            "ルノワール【幸福クリエイター】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【幸福クリエイター】を限界突破+5にしよう",
             "en"
         ],
         "ml_hint": [
@@ -97393,6 +98989,286 @@
         ],
         "ml_description": [
             "ダンジョンシーズン18フロア10を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800269,
+        "type": 5,
+        "series_no": 800269,
+        "sub_series_no": 1,
+        "condition_id": 800269,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800149,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア1を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア1を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800270,
+        "type": 5,
+        "series_no": 800270,
+        "sub_series_no": 2,
+        "condition_id": 800270,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800150,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア2を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア2を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800271,
+        "type": 5,
+        "series_no": 800271,
+        "sub_series_no": 3,
+        "condition_id": 800271,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800151,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア3を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア3を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800272,
+        "type": 5,
+        "series_no": 800272,
+        "sub_series_no": 4,
+        "condition_id": 800272,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800152,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア4を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア4を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800273,
+        "type": 5,
+        "series_no": 800273,
+        "sub_series_no": 5,
+        "condition_id": 800273,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800153,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア5を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア5を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800274,
+        "type": 5,
+        "series_no": 800274,
+        "sub_series_no": 6,
+        "condition_id": 800274,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800154,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア6を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア6を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800275,
+        "type": 5,
+        "series_no": 800275,
+        "sub_series_no": 7,
+        "condition_id": 800275,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800155,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア7を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア7を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800276,
+        "type": 5,
+        "series_no": 800276,
+        "sub_series_no": 8,
+        "condition_id": 800276,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800156,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア8を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア8を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800277,
+        "type": 5,
+        "series_no": 800277,
+        "sub_series_no": 9,
+        "condition_id": 800277,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800157,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア9を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア9を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800278,
+        "type": 5,
+        "series_no": 800278,
+        "sub_series_no": 10,
+        "condition_id": 800278,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800158,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-01 04:00:00",
+        "end_time": "2026-03-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン19フロア10を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン19フロア10を攻略",
             "en"
         ],
         "ml_hint": [

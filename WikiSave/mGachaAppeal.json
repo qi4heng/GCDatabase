@@ -2747,6 +2747,96 @@
         ]
     },
     {
+        "id": 11022,
+        "gacha_group_id": 1102,
+        "display_layer_id": 4010312,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "セルリアンの味方全員の最大体力増加後、回復技法に繋げて精神バフとシールド付与で耐久力を高めよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・水弱点を突く毎に威力\n　加算&工芸特攻&敏捷デ\n　バフの水範囲攻撃技法\n・水シールド付与＆セル\n　リアンの味方全員に精\n　神バフの範囲回復技法",
+            ""
+        ]
+    },
+    {
+        "id": 11021,
+        "gacha_group_id": 1102,
+        "display_layer_id": 4010611,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "状態異常付与&特攻の範囲攻撃と2種類のバフ解除！セルリアンの味方へ攻撃バフと疾風付与の範囲回復で状況に合わせた立ち回りをしよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・敏捷デバフ&バフ解除\n　の絶技\n・セルリアンの味方に攻\n　撃バフ&疾風付与の風\n　範囲回復技法",
+            ""
+        ]
+    },
+    {
+        "id": 11032,
+        "gacha_group_id": 1103,
+        "display_layer_id": 4010312,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "セルリアンの味方全員の最大体力増加後、回復技法に繋げて精神バフとシールド付与で耐久力を高めよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・水弱点を突く毎に威力\n　加算&工芸特攻&敏捷デ\n　バフの水範囲攻撃技法\n・水シールド付与＆セル\n　リアンの味方全員に精\n　神バフの範囲回復技法",
+            ""
+        ]
+    },
+    {
+        "id": 11031,
+        "gacha_group_id": 1103,
+        "display_layer_id": 4010611,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "状態異常付与&特攻の範囲攻撃と2種類のバフ解除！セルリアンの味方へ攻撃バフと疾風付与の範囲回復で状況に合わせた立ち回りをしよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・敏捷デバフ&バフ解除\n　の絶技\n・セルリアンの味方に攻\n　撃バフ&疾風付与の風\n　範囲回復技法",
+            ""
+        ]
+    },
+    {
+        "id": 11041,
+        "gacha_group_id": 1104,
+        "display_layer_id": 4011603,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "攻撃範囲のマスに効果を付与する能力を所持！味方に攻撃バフを与えるマスは次に行動する味方のルートを意識して狙ってみよう！敵にダメージを与えるマスは多く通過するように攻撃範囲を意識しよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・攻撃バフ効果マス付与\n　&彫刻特攻&味方に移動\n　バフの雷範囲攻撃技法\n・ダメージ効果マス付与\n　&火傷付与の雷範囲攻\n　撃技法",
+            ""
+        ]
+    },
+    {
+        "id": 11051,
+        "gacha_group_id": 1105,
+        "display_layer_id": 4011603,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "攻撃範囲のマスに効果を付与する能力を所持！味方に攻撃バフを与えるマスは次に行動する味方のルートを意識して狙ってみよう！敵にダメージを与えるマスは多く通過するように攻撃範囲を意識しよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・攻撃バフ効果マス付与\n　&彫刻特攻&味方に移動\n　バフの雷範囲攻撃技法\n・ダメージ効果マス付与\n　&火傷付与の雷範囲攻\n　撃技法",
+            ""
+        ]
+    },
+    {
         "id": 20011,
         "gacha_group_id": 2001,
         "display_layer_id": 0,
@@ -7547,6 +7637,66 @@
         ]
     },
     {
+        "id": 60321,
+        "gacha_group_id": 6032,
+        "display_layer_id": 4011104,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "絶技で猛毒を付与した敵を威力上昇効果の技法で撃破して再行動を狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・猛毒を付与する絶技\n・猛毒状態の敵に威力上昇＆敵撃破時に確率で再行動の攻撃技法",
+            ""
+        ]
+    },
+    {
+        "id": 60322,
+        "gacha_group_id": 6032,
+        "display_layer_id": 4010208,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "技法と絶技でソウル系オブジェクトを召喚し、味方の入魂をサポートしよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・絶技でメガソウル召喚\n　（最大３）＆体力の一\n　番低い味方を回復\n・影縫状態の敵に威力上\n　昇＆ソウル召喚の技法",
+            ""
+        ]
+    },
+    {
+        "id": 60323,
+        "gacha_group_id": 6032,
+        "display_layer_id": 4010807,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "敵に合わせて2種のデバフとエレメント攻撃を使い分け対応しよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・防御と精神減少\n　デバッファー\n・物理と炎エレメント\n　2種のフォーム付与",
+            ""
+        ]
+    },
+    {
+        "id": 60324,
+        "gacha_group_id": 6032,
+        "display_layer_id": 4010505,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "味方全員に気炎付与で一気に攻め立てよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・感電状態の敵に\n　威力上昇のアタッカー\n・絶技で味方全員に\n　熱情増加と気炎付与！",
+            ""
+        ]
+    },
+    {
         "id": 65011,
         "gacha_group_id": 6501,
         "display_layer_id": 4010705,
@@ -9423,6 +9573,66 @@
         ],
         "ml_ex_feature_text": [
             "・工芸と火傷状態の敵に\n　威力上昇の炎エレメン\n　ト攻撃技法\n・絶技で味方全員の状態\n　異常解除&敵を引き寄\n　せ",
+            ""
+        ]
+    },
+    {
+        "id": 65731,
+        "gacha_group_id": 6573,
+        "display_layer_id": 4010809,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "3種のデバフでエネミーの弱体化と、ソウル召喚＆風フォーム付与で味方を支援しながら戦おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・精神と敏捷デバフ&\n　自身の状態異常解除\n　の絶技\n・芸道の敵に威力上昇&\n　攻撃デバフの風エレメ\n　ント技法",
+            ""
+        ]
+    },
+    {
+        "id": 65732,
+        "gacha_group_id": 6573,
+        "display_layer_id": 4011506,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "芸道と彫刻のエネミーに大ダメージを与える雷エレメントアタッカー！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・芸道の敵に威力上昇の\n　技法と絶技を所持\n・彫刻の敵に威力上昇＆\n　命中対象に器用と敏捷\n　デバフ＆敵撃破時CT短\n　縮の雷エレメント技法",
+            ""
+        ]
+    },
+    {
+        "id": 65741,
+        "gacha_group_id": 6574,
+        "display_layer_id": 4010809,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "3種のデバフでエネミーの弱体化と、ソウル召喚＆風フォーム付与で味方を支援しながら戦おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・精神と敏捷デバフ&\n　自身の状態異常解除\n　の絶技\n・芸道の敵に威力上昇&\n　攻撃デバフの風エレメ\n　ント技法",
+            ""
+        ]
+    },
+    {
+        "id": 65742,
+        "gacha_group_id": 6574,
+        "display_layer_id": 4011506,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "芸道と彫刻のエネミーに大ダメージを与える雷エレメントアタッカー！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・芸道の敵に威力上昇の\n　技法と絶技を所持\n・彫刻の敵に威力上昇＆\n　命中対象に器用と敏捷\n　デバフ＆敵撃破時CT短\n　縮の雷エレメント技法",
             ""
         ]
     },
@@ -12084,6 +12294,51 @@
         ],
         "ml_ex_feature_text": [
             "・「天啓」を付与する\n　ポテンシャルを所持\n・味方全体の精神を\n　増加させる\n　風エレメント絶技",
+            ""
+        ]
+    },
+    {
+        "id": 75371,
+        "gacha_group_id": 7537,
+        "display_layer_id": 4010704,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "攻撃しつつシールド付与で耐久サポート！弱点付与してくるエネミーが登場するステージでは回復しながら解除で味方を助けよう",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・彫刻の敵に威力増加＆\n　自身と味方１人にシー\n　ルドと水月付与で攻防\n　一体の技法を所持\n・範囲回復&弱点解除効\n　果の回復技法で支援",
+            ""
+        ]
+    },
+    {
+        "id": 75372,
+        "gacha_group_id": 7537,
+        "display_layer_id": 0,
+        "display_subunit_id": 4020066,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "「奮起」で、毎ターン入魂ゲージが増加！命中対象の敏捷を減少させ確率で影縫を付与する絶技で動きを封じて、更なる攻撃が可能！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・「奮起」を付与する\n　ポテンシャルを所持\n・命中対象の敏捷を減少\n　と確率で動きを封じる\n　影縫を付与する絶技",
+            ""
+        ]
+    },
+    {
+        "id": 75373,
+        "gacha_group_id": 7537,
+        "display_layer_id": 0,
+        "display_subunit_id": 4020067,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "所持ポテンシャルで通常攻撃時に確率で火傷を付与して技法を封じることが可能！さらに絶技では自身の攻撃を増加させるほか、自身と近くの味方1人に気炎を付与して火力支援！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・通常攻撃で火傷を付与\n　のポテンシャルを所持\n・自身の攻撃を増加させ\n　自身と近くの味方に気\n　炎を付与する火エレメ\n　ント絶技",
             ""
         ]
     },

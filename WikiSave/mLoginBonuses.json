@@ -660,6 +660,21 @@
         "duration": 0
     },
     {
+        "id": 2048,
+        "ml_name": [
+            "カムバックログインボーナスキャンペーン 第3弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 6,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 500,
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-03-10 03:59:59",
+        "comeback_span": 30,
+        "duration": 10
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2321,6 +2336,21 @@
         "priority": 201,
         "start_time": "2026-01-22 13:00:00",
         "end_time": "2026-01-30 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13326,
+        "ml_name": [
+            "アンハッピー・ペインターログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-01-30 13:30:00",
+        "end_time": "2026-02-12 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

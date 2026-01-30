@@ -2667,6 +2667,69 @@
         "ml_effect_flavor": []
     },
     {
+        "id": 4111601,
+        "enhance_group_id": 34,
+        "disassemble_group_id": 134,
+        "rarity": 4,
+        "site_type": 3,
+        "unit_id": 16,
+        "lock_type": 2,
+        "reduce_element_type": 5,
+        "image_index": 4111601,
+        "country_type": 0,
+        "ml_name": [
+            "ルノワールのケープ",
+            ""
+        ],
+        "ml_flavor_text": [
+            "ルノワール【夢、つむいで】が着用しているケープ。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4111602,
+        "enhance_group_id": 15,
+        "disassemble_group_id": 115,
+        "rarity": 5,
+        "site_type": 1,
+        "unit_id": 16,
+        "lock_type": 2,
+        "reduce_element_type": 5,
+        "image_index": 4111602,
+        "country_type": 0,
+        "ml_name": [
+            "ルノワールのボンネット",
+            ""
+        ],
+        "ml_flavor_text": [
+            "ルノワール【幸福クリエイター】が着用しているボンネット。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4111603,
+        "enhance_group_id": 44,
+        "disassemble_group_id": 144,
+        "rarity": 4,
+        "site_type": 4,
+        "unit_id": 16,
+        "lock_type": 2,
+        "reduce_element_type": 1,
+        "image_index": 4111603,
+        "country_type": 0,
+        "ml_name": [
+            "ルノワールのブーツ",
+            ""
+        ],
+        "ml_flavor_text": [
+            "ルノワール【薄幸の絵描き】が着用しているブーツ。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
         "id": 4115101,
         "enhance_group_id": 15,
         "disassemble_group_id": 115,

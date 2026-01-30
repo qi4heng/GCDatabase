@@ -825,6 +825,61 @@
       "zh_ml_flavor_text": "出身于名门贵族家庭，是货真价实的大小姐。性格直率，<br>为了目标会不惜一切努力，但另一方面，<br>在死亡艺术面前，她会化身为从战斗中找到快乐的战斗狂。<br>由于她经常做出不顾后果的突发性行动，<br>导致周围陷入混乱……。"
    },
    {
+      "id": 16,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4011601,
+      "collabo_type": 0,
+      "hp": 12800,
+      "atk": 384,
+      "mnd": 312,
+      "def": 264,
+      "dex": 240,
+      "luk": 264,
+      "spd": 432,
+      "passion": 100,
+      "sort_order": 16,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 4,
+      "main_art_type": 1,
+      "sub_art_type": 4,
+      "default_max_level": 55,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "ルノワール",
+         "en"
+      ],
+      "ml_cv_name": [
+         "藤月雪奈",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "甘くて幻想的なかわいい世界観を愛する藝術家。\n彼女が描く絵画は、見る人々をうっとりとさせるような\n幸福感に満ちた主題が多く、特に女性からの支持が厚い。\nその一方で極度の不幸体質を抱えているが、\n決して挫けることのない打たれ強い心も持っている。",
+         "en"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_ルノワール",
+         "en"
+      ],
+      "ml_birthday": [
+         "12月3日",
+         "en"
+      ],
+      "ml_height": [
+         "154cm",
+         "en"
+      ],
+      "ml_size": [
+         "B87・W59・H81",
+         "en"
+      ],
+      "zh_ml_name": "雷诺阿",
+      "zh_ml_flavor_text": "一位钟爱甜美梦幻可爱世界观的艺术家。她笔下的画作多洋溢着令人沉醉的幸福感主题，尤其深受女性喜爱。然而她自身却背负着极度不幸的体质，同时也拥有一颗永不气馁、坚韧强大的内心。"
+   },
+   {
       "id": 51,
       "level_group_id": 1,
       "love_point_level_group_id": 1,
