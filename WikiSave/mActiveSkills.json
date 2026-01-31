@@ -1300,7 +1300,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/熱情消費[[use_passion]]/命中対象を攻撃範囲の中心へ最大[[side_effects_power_1]]マスまで<help=tractor>引き寄せ</help>/1ターン前に自身が絶技使用していたら威力[[side_effects_power_2]%]上昇/命中対象に<help=move>移動</help>[[side_effects_power_3]]減少＜[[side_effects_turn_3]ターン]＞/自身に入魂ゲージ[[side_effects_power_4]]増加",
-         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/消耗<help=passion>热情</help>[[use_passion]]/将命中目标<help=tractor>吸引</help>至<help=offence>攻击</help>范围中心最多[[side_effects_power_1]]格/若1回合前自身使用了绝技则威力提升[[side_effects_power_2]%]/使命中目标<help=move>移动</help>减少[[side_effects_power_3]]＜[[side_effects_turn_3]回合]＞/自身入魂值增加[[side_effects_power_4]]"
+         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/消耗<help=passion>热情</help>[[use_passion]]/将命中目标<help=tractor>吸引</help>至攻击范围中心最多[[side_effects_power_1]]格/若1回合前自身使用了绝技则威力提升[[side_effects_power_2]%]/使命中目标<help=move>移动</help>减少[[side_effects_power_3]]＜[[side_effects_turn_3]回合]＞/自身入魂值增加[[side_effects_power_4]]"
       ]
    },
    {
@@ -4331,7 +4331,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/系統：工芸にダメージ[[side_effects_power_1]%]上昇/自身が水弱点を突いた回数に応じてダメージ[[side_effects_power_2]%]上昇（上限[[effect_attributes_2_1]]回）/命中対象に<help=agility>敏捷</help>[[side_effects_power_3]%]減少＜[[side_effects_turn_3]ターン]＞",
-         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/对系统：工艺的伤害上升[[side_effects_power_1]%]/根据自身触发水属性<help=weakpoint>弱点</help>的次数，每次提升伤害[[side_effects_power_2]%]（上限[[effect_attributes_2_1]]次）/减少命中对象的<help=agility>敏捷</help>[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]]＞"
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/对系统：工艺的伤害上升[[side_effects_power_1]%]/根据自身触发水属性<help=weakpoint>弱点</help>的次数，每次提升伤害[[side_effects_power_2]%]（上限[[effect_attributes_2_1]]次）/减少命中对象的<help=agility>敏捷</help>[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞"
       ]
    },
    {
@@ -4366,7 +4366,7 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]で範囲内の味方の<help=constitution>体力</help>回復(水)/対象に<help=water_shield>水シールド</help>付与[[side_effects_power_1]]/セルリアンの味方全員に<help=will>精神</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)",
-         "以威力[[main_effects_power_1]%]回复(水)范围内的己方的<help=constitution>体力</help>/赋予对象[[side_effects_power_1]]<help=water_shield>水护盾</help>/增加蓝色属性的己方全员<help=will>精神</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]回合]]＞(可叠加)"
+         "以威力[[main_effects_power_1]%]回复(水)范围内的己方的<help=constitution>体力</help>/赋予对象[[side_effects_power_1]]<help=water_shield>水护盾</help>/增加蓝色属性的己方全员<help=will>精神</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]回合]＞(可叠加)"
       ]
    },
    {
@@ -4402,7 +4402,7 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]/味方全員に<help=cool_time>クールタイム</help>[[side_effects_power_1]]短縮/セルリアンの味方全員に最大<help=constitution>体力</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞/",
-         "威力[[main_effects_power_1]%]/我方全员<help=cool_time>冷却时间</help>缩短[[side_effects_power_1]]回合/增加蓝色属性的己方全员最大<help=constitution>体力</help>[[side_effects_power_2]]＜[[side_effects_turn_2]回合]]＞/"
+         "威力[[main_effects_power_1]%]/我方全员<help=cool_time>冷却时间</help>缩短[[side_effects_power_1]]回合/增加蓝色属性的己方全员最大<help=constitution>体力</help>[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞/"
       ]
    },
    {
@@ -8456,7 +8456,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/自身の<help=constitution>体力</help>[[side_effects_power_1]%]消費/<help=nail>影縫</help>か<help=charm>誘惑</help>状態ならダメージ[[side_effects_power_2]%]上昇/命中対象に<help=dexterity>器用</help>バフ解除/命中対象に確率で<help=nail>影縫</help>付与＜[[side_effects_turn_4]ターン]＞",
-         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/消费自身[[side_effects_power_1]%]<help=constitution>体力</help>/如果对象处于<help=nail>影缝</help>或<help=charm>诱惑</help>则伤害提升[[side_effects_power_2]%]/解除命中对象的<help=dexterity>器用</help>增益/概率赋予命中对象<help=nail>影缝</help>＜[[side_effects_turn_4]回合]]＞"
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/消费自身[[side_effects_power_1]%]<help=constitution>体力</help>/如果对象处于<help=nail>影缝</help>或<help=charm>诱惑</help>则伤害提升[[side_effects_power_2]%]/解除命中对象的<help=dexterity>器用</help>增益/概率赋予命中对象<help=nail>影缝</help>＜[[side_effects_turn_4]回合]＞"
       ]
    },
    {
@@ -8491,7 +8491,7 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]で範囲内の味方の<help=constitution>体力</help>回復(風)/自身の<help=constitution>体力</help>[[side_effects_power_1]%]消費/範囲内のセルリアンの味方全員に<help=offence>攻撃</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)・<help=whirlwind>疾風</help>付与",
-         "以威力[[main_effects_power_1]%]回复(风)范围内的己方的<help=constitution>体力</help>/消费自身[[side_effects_power_1]%]<help=constitution>体力</help>[/范围内蓝色属性的己方全员<help=offence>攻击</help>増加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]]＞(可叠加)・并赋予<help=whirlwind>疾風</help>"
+         "以威力[[main_effects_power_1]%]回复(风)范围内的己方的<help=constitution>体力</help>/消费自身[[side_effects_power_1]%]<help=constitution>体力</help>[/范围内蓝色属性的己方全员<help=offence>攻击</help>増加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞(可叠加)・并赋予<help=whirlwind>疾風</help>"
       ]
    },
    {
@@ -8527,7 +8527,7 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]/自身の<help=constitution>体力</help>[[side_effects_power_1]%]消費/命中対象に<help=agility>敏捷</help>バフ解除/命中対象に<help=agility>敏捷</help>[[side_effects_power_3]%]減少＜[[side_effects_turn_3]ターン]＞/",
-         "威力[[main_effects_power_1]%]/消费自身[[side_effects_power_1]%]<help=constitution>体力</help>/解除命中对象的<help=agility>敏捷</help>增益/减少命中对象的<help=agility>敏捷</help>[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]]＞/"
+         "威力[[main_effects_power_1]%]/消费自身[[side_effects_power_1]%]<help=constitution>体力</help>/解除命中对象的<help=agility>敏捷</help>增益/减少命中对象的<help=agility>敏捷</help>[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞/"
       ]
    },
    {
@@ -17974,7 +17974,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/命中対象を攻撃範囲の中心へ最大[[side_effects_power_1]]マスまで<help=tractor>引き寄せ</help>/系統：芸道にダメージ[[side_effects_power_2]%]上昇/自身と最も体力が低い味方1人に<help=constitution>体力</help>[[side_effects_power_3]]回復",
-         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/将命中对象向<help=offence>攻击</help>范围中心最大<help=tractor>吸引</help>[[side_effects_power_1]]格/对系统：艺道造成的伤害提升[[side_effects_power_2]%]/自身及<help=constitution>体力</help>最低的1名己方<help=constitution>体力</help>回复[[side_effects_power_3]]"
+         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/将命中对象向攻击范围中心最大<help=tractor>吸引</help>[[side_effects_power_1]]格/对系统：艺道造成的伤害提升[[side_effects_power_2]%]/自身及<help=constitution>体力</help>最低的1名己方<help=constitution>体力</help>回复[[side_effects_power_3]]"
       ]
    },
    {
@@ -20231,7 +20231,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/自身に<help=will>精神</help>[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞/攻撃範囲に敵の<help=will>精神</help>減少<help=square_effects>効果マス</help>を付与＜[[side_effects_turn_2]ターン]＞",
-         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/增加自身的<help=will>精神</help>[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]]＞/赋予<help=offence>攻击</help>范围内的敌方<help=will>精神</help>減少<help=square_effects>效果格子</help>＜[[side_effects_turn_2]回合]]＞"
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/增加自身的<help=will>精神</help>[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞/赋予攻击范围内的格子对敌方生效的<help=will>精神</help>減少<help=square_effects>效果格子</help>＜[[side_effects_turn_2]回合]＞"
       ]
    },
    {
@@ -20266,7 +20266,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/命中対象に<help=defence>防御</help>[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞/命中対象に確率で<help=nail>影縫</help>付与＜[[side_effects_turn_2]ターン]＞",
-         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/减少命中对象的<help=defence>防御</help>[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]]＞/概率赋予命中对象<help=nail>影缝</help>＜[[side_effects_turn_2]回合]]＞"
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/减少命中对象的<help=defence>防御</help>[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞/概率赋予命中对象<help=nail>影缝</help>＜[[side_effects_turn_2]回合]＞"
       ]
    },
    {
@@ -20302,7 +20302,7 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]/自身に<help=cool_time>クールタイム</help>[[side_effects_power_1]]短縮/自身に<help=move>移動</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞/",
-         "威力[[main_effects_power_1]%]/自身的<help=cool_time>冷却时间</help>缩短[[side_effects_power_1]]回合/自身的<help=move>移动</help>増加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]]＞/"
+         "威力[[main_effects_power_1]%]/自身的<help=cool_time>冷却时间</help>缩短[[side_effects_power_1]]回合/自身的<help=move>移动</help>増加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞/"
       ]
    },
    {
@@ -20372,7 +20372,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/系統：彫刻にダメージ[[side_effects_power_1]%]上昇/範囲内の味方に<help=move>移動</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞/攻撃範囲に味方の<help=offence>攻撃</help>増加<help=square_effects>効果マス</help>を付与＜[[side_effects_turn_3]ターン]＞",
-         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/对系统：雕刻造成的伤害提升[[side_effects_power_1]%]/范围内的己方<help=move>移动</help>増加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]]＞/赋予<help=offence>攻击</help>范围内的己方<help=offence>攻击</help>増加<help=square_effects>効果格子</help>＜[[side_effects_turn_3]回合]]＞"
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/对系统：雕刻造成的伤害提升[[side_effects_power_1]%]/范围内的己方<help=move>移动</help>増加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞/赋予攻击范围内的己方<help=offence>攻击</help>増加<help=square_effects>効果格子</help>＜[[side_effects_turn_3]回合]＞"
       ]
    },
    {
@@ -20407,7 +20407,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/攻撃対象が少ないほどダメージ上昇（最大[[side_effects_power_1]%]）/命中対象に確率で<help=burn>火傷</help>付与＜[[side_effects_turn_2]ターン]＞/攻撃範囲に敵にダメージ<help=square_effects>効果マス</help>を付与＜[[side_effects_turn_3]ターン]＞",
-         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/<help=offence>攻击</help>对象越少造成伤害越高（最大[[side_effects_power_1]%]）/概率赋予命中对象<help=burn>火伤</help>＜[[side_effects_turn_2]回合]＞/赋予<help=offence>攻击</help>范围内的敌方伤害<help=square_effects>效果格子</help>＜[[side_effects_turn_3]回合]]＞"
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/攻击对象越少造成伤害越高（最大[[side_effects_power_1]%]）/概率赋予命中对象<help=burn>火伤</help>＜[[side_effects_turn_2]回合]＞/赋予攻击范围内的格子对敌方生效的伤害<help=square_effects>效果格子</help>＜[[side_effects_turn_3]回合]＞"
       ]
    },
    {
@@ -20443,7 +20443,7 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]/自身に<help=cool_time>クールタイム</help>[[side_effects_power_1]]短縮/バイオレットの味方全員に<help=move>移動</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞/",
-         "威力[[main_effects_power_1]%]/自身<help=cool_time>冷却时间</help>缩短[[side_effects_power_1]]回合/紫色属性的己方全员<help=move>移动</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]回合]]＞/"
+         "威力[[main_effects_power_1]%]/自身<help=cool_time>冷却时间</help>缩短[[side_effects_power_1]]回合/紫色属性的己方全员<help=move>移动</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]回合]＞/"
       ]
    },
    {
@@ -49918,7 +49918,7 @@
       ],
       "ml_description": [
          "マス通過時、敵の<help=will>精神</help>[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
-         "经过格子时，减少敌方的<help=will>精神</help>[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]]＞"
+         "经过格子时，减少敌方的<help=will>精神</help>[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞"
       ]
    },
    {
@@ -49952,7 +49952,7 @@
       ],
       "ml_description": [
          "マス通過時、味方の<help=offence>攻撃</help>[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞",
-         "经过格子时，己方的<help=offence>攻击</help>增加[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]]＞"
+         "经过格子时，己方的<help=offence>攻击</help>增加[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞"
       ]
    },
    {
