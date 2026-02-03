@@ -866,7 +866,7 @@
         ],
         "ml_description": [
             "ターン開始時、[[effects_rate]%]の確率で<help=bonus_action>追加行動</help>（行動回数＋[[effects_power]]）",
-            "回合开始时，[[effects_rate]%]概率<help=bonus_action>追加行动</help>（行动回数+[[effects_power]]）"
+            "回合开始时，[[effects_rate]%]概率<help=bonus_action>追加行动</help>（行动次数+[[effects_power]]）"
         ],
         "category": [
             4,
