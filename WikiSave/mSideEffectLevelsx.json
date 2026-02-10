@@ -1608,5 +1608,250 @@
         "level": 20,
         "side_effect_coefficient": 1000,
         "effect_rate": 10000
+    },
+    {
+        "id": 28359,
+        "skill_side_effect_id": 788000191,
+        "level": 1,
+        "side_effect_coefficient": 1,
+        "effect_rate": 7000
+    },
+    {
+        "id": 28360,
+        "skill_side_effect_id": 788000191,
+        "level": 2,
+        "side_effect_coefficient": 5,
+        "effect_rate": 7750
+    },
+    {
+        "id": 28361,
+        "skill_side_effect_id": 788000191,
+        "level": 3,
+        "side_effect_coefficient": 10,
+        "effect_rate": 8500
+    },
+    {
+        "id": 28362,
+        "skill_side_effect_id": 788000191,
+        "level": 4,
+        "side_effect_coefficient": 15,
+        "effect_rate": 9250
+    },
+    {
+        "id": 28363,
+        "skill_side_effect_id": 788000191,
+        "level": 5,
+        "side_effect_coefficient": 20,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28364,
+        "skill_side_effect_id": 788000201,
+        "level": 1,
+        "side_effect_coefficient": 2500,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28365,
+        "skill_side_effect_id": 788000201,
+        "level": 2,
+        "side_effect_coefficient": 3100,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28366,
+        "skill_side_effect_id": 788000201,
+        "level": 3,
+        "side_effect_coefficient": 3800,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28367,
+        "skill_side_effect_id": 788000201,
+        "level": 4,
+        "side_effect_coefficient": 4400,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28368,
+        "skill_side_effect_id": 788000201,
+        "level": 5,
+        "side_effect_coefficient": 5000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28369,
+        "skill_side_effect_id": 788000211,
+        "level": 1,
+        "side_effect_coefficient": 3000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28370,
+        "skill_side_effect_id": 788000211,
+        "level": 2,
+        "side_effect_coefficient": 4500,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28371,
+        "skill_side_effect_id": 788000211,
+        "level": 3,
+        "side_effect_coefficient": 6000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28372,
+        "skill_side_effect_id": 788000211,
+        "level": 4,
+        "side_effect_coefficient": 7500,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28373,
+        "skill_side_effect_id": 788000211,
+        "level": 5,
+        "side_effect_coefficient": 9000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28374,
+        "skill_side_effect_id": 788000212,
+        "level": 1,
+        "side_effect_coefficient": 2000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28375,
+        "skill_side_effect_id": 788000212,
+        "level": 2,
+        "side_effect_coefficient": 2400,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28376,
+        "skill_side_effect_id": 788000212,
+        "level": 3,
+        "side_effect_coefficient": 2800,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28377,
+        "skill_side_effect_id": 788000212,
+        "level": 4,
+        "side_effect_coefficient": 3100,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28378,
+        "skill_side_effect_id": 788000212,
+        "level": 5,
+        "side_effect_coefficient": 3500,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28379,
+        "skill_side_effect_id": 788000213,
+        "level": 1,
+        "side_effect_coefficient": 2000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28380,
+        "skill_side_effect_id": 788000213,
+        "level": 2,
+        "side_effect_coefficient": 2800,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28381,
+        "skill_side_effect_id": 788000213,
+        "level": 3,
+        "side_effect_coefficient": 3500,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28382,
+        "skill_side_effect_id": 788000213,
+        "level": 4,
+        "side_effect_coefficient": 4300,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28383,
+        "skill_side_effect_id": 788000213,
+        "level": 5,
+        "side_effect_coefficient": 5000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28384,
+        "skill_side_effect_id": 788000221,
+        "level": 1,
+        "side_effect_coefficient": 2000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28385,
+        "skill_side_effect_id": 788000221,
+        "level": 2,
+        "side_effect_coefficient": 3500,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28386,
+        "skill_side_effect_id": 788000221,
+        "level": 3,
+        "side_effect_coefficient": 5000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28387,
+        "skill_side_effect_id": 788000221,
+        "level": 4,
+        "side_effect_coefficient": 6500,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28388,
+        "skill_side_effect_id": 788000221,
+        "level": 5,
+        "side_effect_coefficient": 8000,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28389,
+        "skill_side_effect_id": 788000222,
+        "level": 1,
+        "side_effect_coefficient": 1,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28390,
+        "skill_side_effect_id": 788000222,
+        "level": 2,
+        "side_effect_coefficient": 1,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28391,
+        "skill_side_effect_id": 788000222,
+        "level": 3,
+        "side_effect_coefficient": 1,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28392,
+        "skill_side_effect_id": 788000222,
+        "level": 4,
+        "side_effect_coefficient": 1,
+        "effect_rate": 10000
+    },
+    {
+        "id": 28393,
+        "skill_side_effect_id": 788000222,
+        "level": 5,
+        "side_effect_coefficient": 1,
+        "effect_rate": 10000
     }
 ]

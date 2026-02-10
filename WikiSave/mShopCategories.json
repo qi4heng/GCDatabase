@@ -294,6 +294,20 @@
         "end_time": ""
     },
     {
+        "id": 412,
+        "type": 10,
+        "group_type": 0,
+        "ml_name": [
+            "結晶武器",
+            ""
+        ],
+        "m_shop_tab_id": 4,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 501,
         "type": 1,
         "group_type": 0,
@@ -1671,6 +1685,20 @@
         "group_type": 0,
         "ml_name": [
             "本能の銃弾と存在の理由",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
+        "id": 6001,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "ジュエリー・バレンタイン",
             ""
         ],
         "m_shop_tab_id": 6,
@@ -3945,6 +3973,90 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 26573,
+        "end_time": ""
+    },
+    {
+        "id": 868,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：ジュエリー・バレンタイン",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21106,
+        "end_time": ""
+    },
+    {
+        "id": 869,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：★5スタイル交換",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31006,
+        "end_time": ""
+    },
+    {
+        "id": 870,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：★5イマージュ交換",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31007,
+        "end_time": ""
+    },
+    {
+        "id": 871,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：アテネス藝術祭ガチャ ～Revival～",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21108,
+        "end_time": ""
+    },
+    {
+        "id": 872,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：イマージュ復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 27049,
+        "end_time": ""
+    },
+    {
+        "id": 873,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：スタイル復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 26575,
         "end_time": ""
     },
     {

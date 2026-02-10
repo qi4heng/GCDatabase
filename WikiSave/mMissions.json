@@ -27720,6 +27720,118 @@
         ]
     },
     {
+        "id": 108316,
+        "type": 1,
+        "series_no": 1080114,
+        "sub_series_no": 1,
+        "condition_id": 1080114,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アルテ【君待ちValentine】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【君待ちValentine】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108317,
+        "type": 1,
+        "series_no": 1080114,
+        "sub_series_no": 2,
+        "condition_id": 1080114,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アルテ【君待ちValentine】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【君待ちValentine】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108318,
+        "type": 1,
+        "series_no": 1081011,
+        "sub_series_no": 1,
+        "condition_id": 1081011,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ラファエロ【ときめきオーダー】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【ときめきオーダー】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108319,
+        "type": 1,
+        "series_no": 1081011,
+        "sub_series_no": 2,
+        "condition_id": 1081011,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ラファエロ【ときめきオーダー】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【ときめきオーダー】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 109004,
         "type": 1,
         "series_no": 53,
@@ -49105,6 +49217,34 @@
         ],
         "ml_description": [
             "ルノワールのブーツLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118098,
+        "type": 1,
+        "series_no": 118098,
+        "sub_series_no": 1,
+        "condition_id": 118116,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-17 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ミケランジェロのコルセットLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ミケランジェロのコルセットLv10達成",
             "en"
         ],
         "ml_hint": [
@@ -94285,6 +94425,286 @@
         ],
         "ml_description": [
             "ルノワール【幸福クリエイター】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738901,
+        "type": 5,
+        "series_no": 7389,
+        "sub_series_no": 1,
+        "condition_id": 738901,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "アルテ【君待ちValentine】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【君待ちValentine】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738902,
+        "type": 5,
+        "series_no": 7389,
+        "sub_series_no": 2,
+        "condition_id": 738901,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "アルテ【君待ちValentine】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【君待ちValentine】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738903,
+        "type": 5,
+        "series_no": 7389,
+        "sub_series_no": 3,
+        "condition_id": 738901,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "アルテ【君待ちValentine】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【君待ちValentine】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738904,
+        "type": 5,
+        "series_no": 7389,
+        "sub_series_no": 4,
+        "condition_id": 738901,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "アルテ【君待ちValentine】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【君待ちValentine】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 738905,
+        "type": 5,
+        "series_no": 7389,
+        "sub_series_no": 5,
+        "condition_id": 738901,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "アルテ【君待ちValentine】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【君待ちValentine】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739001,
+        "type": 5,
+        "series_no": 7390,
+        "sub_series_no": 1,
+        "condition_id": 739001,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "ラファエロ【ときめきオーダー】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【ときめきオーダー】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739002,
+        "type": 5,
+        "series_no": 7390,
+        "sub_series_no": 2,
+        "condition_id": 739001,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "ラファエロ【ときめきオーダー】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【ときめきオーダー】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739003,
+        "type": 5,
+        "series_no": 7390,
+        "sub_series_no": 3,
+        "condition_id": 739001,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "ラファエロ【ときめきオーダー】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【ときめきオーダー】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739004,
+        "type": 5,
+        "series_no": 7390,
+        "sub_series_no": 4,
+        "condition_id": 739001,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "ラファエロ【ときめきオーダー】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【ときめきオーダー】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739005,
+        "type": 5,
+        "series_no": 7390,
+        "sub_series_no": 5,
+        "condition_id": 739001,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_title": [
+            "ラファエロ【ときめきオーダー】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【ときめきオーダー】を限界突破+5にしよう",
             "en"
         ],
         "ml_hint": [

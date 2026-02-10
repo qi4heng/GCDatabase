@@ -6196,5 +6196,66 @@
             ""
         ],
         "image_index": ""
+    },
+    {
+        "id": 3231101,
+        "popup_id": 32311,
+        "page_number": 1,
+        "target_id": "",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32121_1"
+    },
+    {
+        "id": 3231102,
+        "popup_id": 32311,
+        "page_number": 2,
+        "target_id": "",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32121_2"
+    },
+    {
+        "id": 3231201,
+        "popup_id": 32312,
+        "page_number": 1,
+        "target_id": "4010111",
+        "ml_description": [
+            ""
+        ],
+        "image_index": ""
+    },
+    {
+        "id": 3231202,
+        "popup_id": 32312,
+        "page_number": 2,
+        "target_id": "4011011",
+        "ml_description": [
+            ""
+        ],
+        "image_index": ""
+    },
+    {
+        "id": 3231301,
+        "popup_id": 32313,
+        "page_number": 1,
+        "target_id": "",
+        "ml_description": [
+            "※ストーリーキーは本イベントのBATTLE1、2、3、4、5の初回クリア報酬として獲得できます。<br>\n※一部バトルステージはイベント開始翌日以降2月12日までに順次リストに追加されていきます。<br>\n※各ステージへは前提ステージをクリアすることで挑戦できるようになります。<br>\n※イベントボーナス対象のスタイルを複数編成した場合、効果は合算して適用されます。<br>\n※ランキング全体順位報酬と上位報酬はいずれか片方の報酬しか受け取れません。どちらも報酬獲得対象になっている場合は、上位報酬の獲得が優先されます。<br>\n※イベント交換期間終了後は、報酬の交換ができなくなりますのでご注意ください。",
+            ""
+        ],
+        "image_index": ""
+    },
+    {
+        "id": 3231401,
+        "popup_id": 32314,
+        "page_number": 1,
+        "target_id": "4120119",
+        "ml_description": [
+            ""
+        ],
+        "image_index": ""
     }
 ]

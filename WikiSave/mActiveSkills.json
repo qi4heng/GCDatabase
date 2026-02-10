@@ -1375,6 +1375,147 @@
       ]
    },
    {
+      "id": 10111001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 10111001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 20111001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "1308",
+      "need_passion": 130,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "4",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 3,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 20111001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 4,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "手渡しのロマンス",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/系統：絵画にダメージ[[side_effects_power_1]%]上昇/1ターン前に自身が技法使用していたら威力[[side_effects_power_2]%]上昇/自身に<help=move>移動</help>[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞/ビリジアンの近くの味方1人に<help=move>移動</help>[[side_effects_power_4]]増加＜[[side_effects_turn_4]ターン]＞/敵撃破時にこの技法の<help=cool_time>クールタイム</help>[[side_effects_power_5]]短縮",
+         "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/对系统：绘画的伤害提升[[side_effects_power_1]%]/若1回合前自身使用了技法则威力提升[[side_effects_power_2]%]/自身的<help=move>移动</help>增加[[side_effects_power_3]]＜[[side_effects_turn_3]回合]＞/绿色属性的最近的己方1人<help=move>移动</help>増加[[side_effects_power_4]]＜[[side_effects_turn_4]回合]＞/击破敌方时该技法的<help=cool_time>冷却时间</help>缩短[[side_effects_power_5]]"
+      ]
+   },
+   {
+      "id": 20111002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "6000",
+      "need_passion": 125,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 3,
+      "range_ids": "0",
+      "effect_range_id": 150,
+      "usable_times": 0,
+      "timeline_id": 20111002,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 4,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ギブミーチョコレート",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>/ビリジアンの味方全員に<help=agility>敏捷</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)/[[side_rate_3]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/<help=knock_back>弹飞</help>命中对象[[side_effects_power_1]]格/绿色属性的己方全员<help=agility>敏捷</help>増加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞(可叠加)/[[side_rate_3]%]的概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）"
+      ]
+   },
+   {
+      "id": 30111001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "1115",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 30111001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "お返しは",
+         ""
+      ],
+      "ml_name2": [
+         "３倍で",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>/<help=absorption>吸収</help>[[side_effects_power_2]%]/自身に吸収に応じて<help=agility>敏捷</help>増加（変換率[[side_effects_power_3]%]）＜[[side_effects_turn_3]ターン]＞（重複可）（バフ上限[[effect_attributes_3_5]]）/自身に<help=immovable>不動</help>付与/",
+         "威力[[main_effects_power_1]%]/<help=knock_back>弹飞</help>命中对象[[side_effects_power_1]]格/<help=absorption>吸収</help>[[side_effects_power_2]%]/根据自身吸收的值增加<help=agility>敏捷</help>（转换率[[side_effects_power_3]%]）＜[[side_effects_turn_3]回合]＞（可叠加）（增益上限[[effect_attributes_3_5]]）/赋予自身<help=immovable>不动</help>/"
+      ]
+   },
+   {
       "id": 10201001,
       "type": 1,
       "rarity": 3,
@@ -14312,6 +14453,147 @@
       ]
    },
    {
+      "id": 11011001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 11011001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 21011001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "1129",
+      "need_passion": 130,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "6",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 3,
+      "range_end_point": 5,
+      "range_ids": "0",
+      "effect_range_id": 133,
+      "usable_times": 0,
+      "timeline_id": 21011001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 4,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ブローイングキッス",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/系統：絵画にダメージ[[side_effects_power_1]%]上昇/自身に<help=true_sight>真眼</help>付与/ビリジアンの味方全員に<help=defence>防御</help>[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞(重複可)/命中対象に確率で<help=shock>感電</help>付与＜[[side_effects_turn_4]ターン]＞",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/对系统：绘画的伤害提升[[side_effects_power_1]%]/赋予自身<help=true_sight>真眼</help>/绿色属性的我方全员<help=defence>防御</help>増加[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞(可叠加)/概率赋予命中对象<help=shock>感电</help>＜[[side_effects_turn_4]回合]＞"
+      ]
+   },
+   {
+      "id": 21011002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "4408",
+      "need_passion": 125,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 5,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 21011002,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 4,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ラシャスオーラ",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/1ターン前に自身が絶技使用していたら威力[[side_effects_power_1]%]上昇/<help=shock>感電</help>か<help=stun>気絶</help>状態ならダメージ[[side_effects_power_2]%]上昇/敵撃破時にこの技法の<help=cool_time>クールタイム</help>[[side_effects_power_3]]短縮",
+         "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/若1回合前自身使用了绝技则威力提升[[side_effects_power_1]%]/若对象处于<help=shock>感电</help>或<help=stun>气绝</help>状态则伤害提升[[side_effects_power_2]%]/击破敌方时该技法的<help=cool_time>冷却时间</help>缩短[[side_effects_power_3]]"
+      ]
+   },
+   {
+      "id": 31011001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "1203",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 31011001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ご注文は",
+         ""
+      ],
+      "ml_name2": [
+         "ぼくだろ？",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/自身に入魂ゲージ[[side_effects_power_1]]増加/命中対象に確率で風<help=weakpoint>弱点</help>付与/",
+         "威力[[main_effects_power_1]%]/自身的入魂值增加[[side_effects_power_1]]/概率赋予命中対象风<help=weakpoint>弱点</help>/"
+      ]
+   },
+   {
       "id": 11101001,
       "type": 1,
       "rarity": 3,
@@ -22343,7 +22625,7 @@
       ],
       "ml_description": [
          "味方全員に<help=offence>攻撃</help>[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞/自身に<help=ignite>気炎</help>付与",
-         "赋予全体己方<help=offence>攻击</help>增加[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞/赋予自身<help=ignite>气焰</help>"
+         "全体己方<help=offence>攻击</help>增加[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞/赋予自身<help=ignite>气焰</help>"
       ]
    },
    {
@@ -49885,6 +50167,146 @@
       "ml_description": [
          "精神無視の威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/<help=nail>影縫</help>状態ならダメージ[[side_effects_power_1]%]上昇",
          "造成无视<help=will>精神</help>的威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火属性）/如果对象处于<help=nail>影缝</help>状态则伤害提升[[side_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 78800019,
+      "type": 7,
+      "rarity": 5,
+      "image_index": "70551",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "4",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 3,
+      "range_ids": "0",
+      "effect_range_id": 130,
+      "usable_times": 0,
+      "timeline_id": 0,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 2,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "報恩神業 -月白煌-",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/命中対象に確率で物理の<help=stamp>刻印</help>付与",
+         "对范围内的敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/概率赋予命中対象物理之<help=stamp>刻印</help>"
+      ]
+   },
+   {
+      "id": 78800020,
+      "type": 7,
+      "rarity": 5,
+      "image_index": "70552",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "4",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 0,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "報恩天啓 -月白襲-",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/近くの味方2人に<help=offence>攻撃</help>・<help=dexterity>器用</help>・<help=agility>敏捷</help>[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞(重複可)",
+         "对敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/最近的己方2人<help=offence>攻击</help>・<help=dexterity>器用</help>・<help=agility>敏捷</help>增加[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞(可叠加)"
+      ]
+   },
+   {
+      "id": 78800021,
+      "type": 7,
+      "rarity": 5,
+      "image_index": "70561",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "4",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 3,
+      "range_ids": "0",
+      "effect_range_id": 130,
+      "usable_times": 0,
+      "timeline_id": 0,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 2,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "魔力天啓 -緋煌-",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/攻撃対象が少ないほどダメージ上昇（最大[[side_effects_power_1]%]）/<help=absorption>吸収</help>[[side_effects_power_2]%]/自身に吸収に応じて<help=offence>攻撃</help>増加（変換率[[side_effects_power_3]%]）＜[[side_effects_turn_3]ターン]＞（重複可）（バフ上限[[effect_attributes_3_5]]",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/攻击对象越少伤害提升越高（最大[[side_effects_power_1]%]）/<help=absorption>吸收</help>[[side_effects_power_2]%]/根据自身吸收的值增加<help=offence>攻击</help>（转换率[[side_effects_power_3]%]）＜[[side_effects_turn_3]回合]＞（可叠加）（增益上限[[effect_attributes_3_5]]"
+      ]
+   },
+   {
+      "id": 78800022,
+      "type": 7,
+      "rarity": 5,
+      "image_index": "70562",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "4",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 0,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "魔力神業 -緋襲-",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/攻撃対象が少ないほどダメージ上昇（最大[[side_effects_power_1]%]）/自身に<help=Rejection>拒絶</help>付与",
+         "对范围内的敌人造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/攻击对象越少伤害提升越高（最大[[side_effects_power_1]%]）/赋予自身<help=Rejection>拒绝</help>"
       ]
    },
    {

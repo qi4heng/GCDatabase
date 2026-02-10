@@ -10396,6 +10396,121 @@
         ]
     },
     {
+        "id": 10112030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4010111_1030",
+        "ml_word": [
+            "おや、その手に持っているのは……イマージュたちから\nもらったチョコレートですか？　いやぁ、さすが館長は\nモテモテですねぇ……。あ、これはやきもちではなく、\nおいしそうだなと思っているだけですからね！？",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010111,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10112040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010111_1040",
+        "ml_word": [
+            "ハッピーバレンタイン！\nチョコは栄養価も高いと聞きます。\nこの天才美少女藝術家の私が作ったチョコなら、\n館長も元気１００倍というものです！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010111,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10112050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010111_1050",
+        "ml_word": [
+            "館長、最近はお疲れのようですね？\nでも、ご安心ください！\nこの私が、デートで館長を癒やして……。\n逆に疲れる？　どうしてですか！？",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010111,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10112060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010111_1060",
+        "ml_word": [
+            "どうですか、この服。\n館長のために趣向を凝らした勝負服ですよ。\nさぁ、存分に褒め称えてください！",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010111,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10112070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4010111_1070",
+        "ml_word": [
+            "館長はまだですか……？\nデートで私を待たせるなんて……。\nこれじゃあ、私が楽しみにしすぎて\n浮かれているみたいじゃないですか。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010111,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 10202030,
         "scene_type": 1,
         "trigger": 5,
@@ -21199,6 +21314,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 10,
         "layer_id": 4011010,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11012030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4011011_1030",
+        "ml_word": [
+            "ファンたちがみんな、この美しく天才なぼくを\n慕ってくれているのは、ぼくが一番わかってる！\nだからこそ、ファンの間に軋轢を作りたくないんだ。\n大変だが、これも天才の宿命――乗り越えてみせるさ！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011011,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11012040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011011_1040",
+        "ml_word": [
+            "ぼくは手作りのチョコレートを配りたいのに、\nファンのみんなは絶対にお金を出すって譲らないんだ。\nそのくらい、ぼくに価値を感じてくれているのは、\nとても嬉しいことなんだけどね。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011011,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11012050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011011_1050",
+        "ml_word": [
+            "いらっしゃいませ、館長。\nぼくの手作りチョコスイーツをお求めかな？\nそれとも、甘ーいぼくをオーダーしてみる？",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011011,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11012060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011011_1060",
+        "ml_word": [
+            "館長はきっと沢山のチョコを受け取るだろうから……\n山のようになった贈り物にも負けない、\n特別な一品を贈らせてほしいんだ！",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011011,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11012070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4011011_1070",
+        "ml_word": [
+            "館長のことを想いながら作っていたら、\n作りすぎてしまったよ……。\nこんなにあったら、館長も困ってしまうかな……？",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011011,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [

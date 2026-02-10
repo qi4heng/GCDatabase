@@ -11680,5 +11680,148 @@
         "rate": 6000,
         "latter_half_rate": 6000,
         "acquisition_type": 1
+    },
+    {
+        "id": 1063,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4010111,
+        "bonus_type": 1,
+        "value": 0,
+        "rate": 6000,
+        "latter_half_rate": 6000,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1064,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4010111,
+        "bonus_type": 1,
+        "value": 1,
+        "rate": 9500,
+        "latter_half_rate": 9500,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1065,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4010111,
+        "bonus_type": 1,
+        "value": 2,
+        "rate": 11500,
+        "latter_half_rate": 11500,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1066,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4010111,
+        "bonus_type": 1,
+        "value": 3,
+        "rate": 12900,
+        "latter_half_rate": 12900,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1067,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4010111,
+        "bonus_type": 1,
+        "value": 4,
+        "rate": 14000,
+        "latter_half_rate": 14000,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1068,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4010111,
+        "bonus_type": 1,
+        "value": 5,
+        "rate": 15000,
+        "latter_half_rate": 15000,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1069,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4011011,
+        "bonus_type": 1,
+        "value": 0,
+        "rate": 6000,
+        "latter_half_rate": 6000,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1070,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4011011,
+        "bonus_type": 1,
+        "value": 1,
+        "rate": 9500,
+        "latter_half_rate": 9500,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1071,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4011011,
+        "bonus_type": 1,
+        "value": 2,
+        "rate": 11500,
+        "latter_half_rate": 11500,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1072,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4011011,
+        "bonus_type": 1,
+        "value": 3,
+        "rate": 12900,
+        "latter_half_rate": 12900,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1073,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4011011,
+        "bonus_type": 1,
+        "value": 4,
+        "rate": 14000,
+        "latter_half_rate": 14000,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1074,
+        "group_id": 3231,
+        "target_type": 1,
+        "target_id": 4011011,
+        "bonus_type": 1,
+        "value": 5,
+        "rate": 15000,
+        "latter_half_rate": 15000,
+        "acquisition_type": 1
+    },
+    {
+        "id": 1075,
+        "group_id": 3231,
+        "target_type": 3,
+        "target_id": 4120119,
+        "bonus_type": 1,
+        "value": -1,
+        "rate": 2000,
+        "latter_half_rate": 2000,
+        "acquisition_type": 1
     }
 ]

@@ -5322,5 +5322,82 @@
         "time_display_type": 0,
         "start_time": "2026-02-08 13:00:00",
         "end_time": "2026-02-14 12:59:59"
+    },
+    {
+        "id": 10580,
+        "target_type": 2,
+        "target_id": 3231,
+        "target_value1": "0",
+        "priority": 587,
+        "image_index": 13231,
+        "time_display_type": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59"
+    },
+    {
+        "id": 10581,
+        "target_type": 1,
+        "target_id": 1106,
+        "target_value1": "0",
+        "priority": 587,
+        "image_index": 21106,
+        "time_display_type": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59"
+    },
+    {
+        "id": 10582,
+        "target_type": 1,
+        "target_id": 1108,
+        "target_value1": "0",
+        "priority": 588,
+        "image_index": 21108,
+        "time_display_type": 0,
+        "start_time": "2026-02-13 13:00:00",
+        "end_time": "2026-02-21 12:59:59"
+    },
+    {
+        "id": 10583,
+        "target_type": 1,
+        "target_id": 7049,
+        "target_value1": "0",
+        "priority": 589,
+        "image_index": 27049,
+        "time_display_type": 0,
+        "start_time": "2026-02-16 13:00:00",
+        "end_time": "2026-02-22 12:59:59"
+    },
+    {
+        "id": 10584,
+        "target_type": 1,
+        "target_id": 2111,
+        "target_value1": "0",
+        "priority": 590,
+        "image_index": 22111,
+        "time_display_type": 0,
+        "start_time": "2026-02-17 13:00:00",
+        "end_time": "2026-03-02 12:59:59"
+    },
+    {
+        "id": 10585,
+        "target_type": 1,
+        "target_id": 7538,
+        "target_value1": "0",
+        "priority": 593,
+        "image_index": 27538,
+        "time_display_type": 0,
+        "start_time": "2026-02-20 13:00:00",
+        "end_time": "2026-02-22 23:59:59"
+    },
+    {
+        "id": 10586,
+        "target_type": 1,
+        "target_id": 6575,
+        "target_value1": "0",
+        "priority": 596,
+        "image_index": 26575,
+        "time_display_type": 0,
+        "start_time": "2026-02-25 13:00:00",
+        "end_time": "2026-03-03 12:59:59"
     }
 ]

@@ -7462,6 +7462,97 @@
         ]
     },
     {
+        "id": 45050401,
+        "rarity": 5,
+        "image_index": 1300001,
+        "ml_name": [
+            "精髄：【天砕く使者】",
+            ""
+        ],
+        "ml_description": [
+            "炎エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技でバフ付与時、味方全員の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45570101,
+        "rarity": 5,
+        "image_index": 1300004,
+        "ml_name": [
+            "真髄：【儚い夢の花騎士】",
+            ""
+        ],
+        "ml_description": [
+            "雷エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加/技法または絶技でボス特攻発生時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45570102,
+        "rarity": 5,
+        "image_index": 1390005,
+        "ml_name": [
+            "精粋：【儚い夢の花騎士】",
+            ""
+        ],
+        "ml_description": [
+            "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身の必殺[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45570103,
+        "rarity": 5,
+        "image_index": 1320000,
+        "ml_name": [
+            "精髄：【儚い夢の花騎士】",
+            ""
+        ],
+        "ml_description": [
+            "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技でバフ付与時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・自身に<help=ignite>気炎</help>付与",
+            ""
+        ]
+    },
+    {
+        "id": 45580101,
+        "rarity": 5,
+        "image_index": 1300000,
+        "ml_name": [
+            "真髄：【鉄腕の淑女】",
+            ""
+        ],
+        "ml_description": [
+            "物理エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法または絶技でシールド付与時、自身の精神・防御[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45580102,
+        "rarity": 5,
+        "image_index": 1390004,
+        "ml_name": [
+            "精粋：【鉄腕の淑女】",
+            ""
+        ],
+        "ml_description": [
+            "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇/器用[[effects_power_2]%]増加/技法または絶技でシールド付与時、自身に<help=regeneration>再生</help>付与",
+            ""
+        ]
+    },
+    {
+        "id": 45580103,
+        "rarity": 5,
+        "image_index": 1320000,
+        "ml_name": [
+            "精髄：【鉄腕の淑女】",
+            ""
+        ],
+        "ml_description": [
+            "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法でオブジェクト召喚時、味方全員の体力[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞・防御[[effects_power_4]%]増加（重複可）＜[[effects_turn_4]ターン]＞",
+            ""
+        ]
+    },
+    {
         "id": 1130001,
         "rarity": 3,
         "image_index": 1130001,

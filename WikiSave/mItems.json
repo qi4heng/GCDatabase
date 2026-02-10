@@ -2850,6 +2850,31 @@
         "is_visible": false
     },
     {
+        "id": 1120111,
+        "item_type": 112,
+        "value1": 4010111,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120111,
+        "ml_name": [
+            "【君待ちValentine】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アルテの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120201,
         "item_type": 112,
         "value1": 4010201,
@@ -5185,6 +5210,31 @@
         "image_index": 1121010,
         "ml_name": [
             "【甘美に彩る茶会】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ラファエロの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121011,
+        "item_type": 112,
+        "value1": 4011011,
+        "value2": 0,
+        "sort": 103,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121011,
+        "ml_name": [
+            "【ときめきオーダー】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -12375,6 +12425,31 @@
         "is_visible": false
     },
     {
+        "id": 1511100,
+        "item_type": 151,
+        "value1": 431,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511100,
+        "ml_name": [
+            "ストーリーキー【ジュエリー・バレンタイン】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「ジュエリー・バレンタイン」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "宝石のようなバレンタインの物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1511123,
         "item_type": 151,
         "value1": 430,
@@ -12472,6 +12547,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1610103,
+        "item_type": 132,
+        "value1": 0,
+        "value2": 0,
+        "sort": 243,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1610103,
+        "ml_name": [
+            "ミラージュダイヤ",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップ交換所にて様々な★5専用アクセサリと交換することのできる記念硬貨。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "交換所にて別のアイテムと交換してもらえる記念品。\n青鏡の意匠がほどこされた収集癖をくすぐられる一品。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-23 12:59:59",
         "is_visible": false
     },
     {
@@ -12593,106 +12693,6 @@
         ],
         "ml_flavor_text": [
             "プレミアム10連ガチャを引くことができるチケット。\n絵筆を持つ女神の石像が描かれている。",
-            "EN"
-        ],
-        "start_time": "2001-01-01 00:00:00",
-        "end_time": "9999-12-31 23:59:59",
-        "is_visible": false
-    },
-    {
-        "id": 1630003,
-        "item_type": 702,
-        "value1": 0,
-        "value2": 0,
-        "sort": 233,
-        "is_visible_quest_detail": 1,
-        "rarity": 4,
-        "image_index": 1630003,
-        "ml_name": [
-            "★4以上確定ガチャチケット",
-            "EN"
-        ],
-        "ml_description": [
-            "★4以上確定ガチャを1回、実行することができるアイテム。",
-            "EN"
-        ],
-        "ml_flavor_text": [
-            "★4以上確定ガチャを引くことができるチケット。\n絵筆を持つ金色の女神の石像が描かれている。",
-            "EN"
-        ],
-        "start_time": "2001-01-01 00:00:00",
-        "end_time": "9999-12-31 23:59:59",
-        "is_visible": false
-    },
-    {
-        "id": 1630004,
-        "item_type": 702,
-        "value1": 0,
-        "value2": 0,
-        "sort": 234,
-        "is_visible_quest_detail": 1,
-        "rarity": 5,
-        "image_index": 1630004,
-        "ml_name": [
-            "★5確定ガチャチケット",
-            "EN"
-        ],
-        "ml_description": [
-            "★5以上確定ガチャを1回、実行することができるアイテム。",
-            "EN"
-        ],
-        "ml_flavor_text": [
-            "★5確定ガチャを引くことができるチケット。\n絵筆を持つ虹色の女神の石像が描かれている。",
-            "EN"
-        ],
-        "start_time": "2001-01-01 00:00:00",
-        "end_time": "9999-12-31 23:59:59",
-        "is_visible": false
-    },
-    {
-        "id": 1630005,
-        "item_type": 702,
-        "value1": 0,
-        "value2": 0,
-        "sort": 235,
-        "is_visible_quest_detail": 1,
-        "rarity": 3,
-        "image_index": 1630005,
-        "ml_name": [
-            "藝術家確定ガチャチケット",
-            "EN"
-        ],
-        "ml_description": [
-            "藝術家確定ガチャを1回、実行することができるアイテム。",
-            "EN"
-        ],
-        "ml_flavor_text": [
-            "藝術家確定ガチャを引くことができるチケット。\n美術品を生み出す画材が描かれている。",
-            "EN"
-        ],
-        "start_time": "2001-01-01 00:00:00",
-        "end_time": "9999-12-31 23:59:59",
-        "is_visible": false
-    },
-    {
-        "id": 1630006,
-        "item_type": 702,
-        "value1": 0,
-        "value2": 0,
-        "sort": 236,
-        "is_visible_quest_detail": 1,
-        "rarity": 3,
-        "image_index": 1630006,
-        "ml_name": [
-            "イマージュ確定ガチャチケット",
-            "EN"
-        ],
-        "ml_description": [
-            "イマージュ確定ガチャを1回、実行することができるアイテム。",
-            "EN"
-        ],
-        "ml_flavor_text": [
-            "イマージュ確定ガチャを引くことができるチケット。\n美術品から生み出される人の形をした素描が描かれている。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -16925,6 +16925,31 @@
         "is_visible": false
     },
     {
+        "id": 1630187,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630187,
+        "ml_name": [
+            "ジュエリー・バレンタインガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "ジュエリー・バレンタインピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-21 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630188,
         "item_type": 702,
         "value1": 0,
@@ -16947,6 +16972,81 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-02-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630189,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630189,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～Revival～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～Revival～を1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-21 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630192,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630100,
+        "ml_name": [
+            "イマージュ復刻ピックアップガチャチケット20",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきイマージュ復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イマージュ復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-22 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630193,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット31",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-03 12:59:59",
         "is_visible": false
     },
     {
@@ -21000,6 +21100,156 @@
         "is_visible": false
     },
     {
+        "id": 1640168,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640168,
+        "ml_name": [
+            "ジュエリー・バレンタインのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でジュエリー・バレンタインピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-23 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640169,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640169,
+        "ml_name": [
+            "イマージュ復刻のしおり20",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でイマージュ復刻ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-24 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640170,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640170,
+        "ml_name": [
+            "スタイル復刻のしおり31",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640171,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640171,
+        "ml_name": [
+            "アテネス藝術祭ガチャ ～Revival～のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でアテネス藝術祭ガチャ ～Revival～のアナザーサイドのスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-23 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640173,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640053,
+        "ml_name": [
+            "★5スタイルのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-23 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640174,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640054,
+        "ml_name": [
+            "★5イマージュのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5イマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-02-23 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650000,
         "item_type": 801,
         "value1": 3200,
@@ -24118,6 +24368,31 @@
         ],
         "ml_flavor_text": [
             "落ち着いた色合いの草花を閉じ込めたガラスドーム。\n永遠に枯れない花が、まるで時を止めたかのように佇む。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650128,
+        "item_type": 801,
+        "value1": 3231,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650128,
+        "ml_name": [
+            "バレンタインのアソートチョコ",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「ジュエリー・バレンタイン」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ハート型の箱に入った様々な味と形のチョコレート。\n気持ちを伝える、特別な日の贈り物にぴったりの一品。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",

@@ -1924,6 +1924,32 @@
         "close_time": "2026-01-26 12:59:59"
     },
     {
+        "id": 3231,
+        "ml_title": [
+            "ジュエリー・バレンタイン",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 431,
+        "top_character_id": 4010111,
+        "top_background_image": "3000316",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3231,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1106,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6001,
+        "latter_half_shop_category_id": 0,
+        "priority": 114,
+        "banner_image_index": 13231,
+        "start_time": "2026-02-10 13:30:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-02-21 12:59:59",
+        "close_time": "2026-02-23 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",

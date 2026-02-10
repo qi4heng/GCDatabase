@@ -2217,7 +2217,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 1,
-        "target_num": 2,
+        "target_num": 1,
         "ignore_range": 1,
         "description": "範囲内外問わずカーマインの近い味方1体"
     },
@@ -2228,7 +2228,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 1,
-        "target_num": 3,
+        "target_num": 2,
         "ignore_range": 1,
         "description": "範囲内外問わずカーマインの近い味方2体"
     },
@@ -2239,7 +2239,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 1,
-        "target_num": 4,
+        "target_num": 3,
         "ignore_range": 1,
         "description": "範囲内外問わずカーマインの近い味方3体"
     },
@@ -2250,7 +2250,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 2,
-        "target_num": 2,
+        "target_num": 1,
         "ignore_range": 1,
         "description": "範囲内外問わずセルリアンの近い味方1体"
     },
@@ -2261,7 +2261,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 2,
-        "target_num": 3,
+        "target_num": 2,
         "ignore_range": 1,
         "description": "範囲内外問わずセルリアンの近い味方2体"
     },
@@ -2272,7 +2272,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 2,
-        "target_num": 4,
+        "target_num": 3,
         "ignore_range": 1,
         "description": "範囲内外問わずセルリアンの近い味方3体"
     },
@@ -2283,7 +2283,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 3,
-        "target_num": 2,
+        "target_num": 1,
         "ignore_range": 1,
         "description": "範囲内外問わずビリジアンの近い味方1体"
     },
@@ -2294,7 +2294,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 3,
-        "target_num": 3,
+        "target_num": 2,
         "ignore_range": 1,
         "description": "範囲内外問わずビリジアンの近い味方2体"
     },
@@ -2305,7 +2305,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 3,
-        "target_num": 4,
+        "target_num": 3,
         "ignore_range": 1,
         "description": "範囲内外問わずビリジアンの近い味方3体"
     },
@@ -2316,7 +2316,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 4,
-        "target_num": 2,
+        "target_num": 1,
         "ignore_range": 1,
         "description": "範囲内外問わずアイボリーの近い味方1体"
     },
@@ -2327,7 +2327,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 4,
-        "target_num": 3,
+        "target_num": 2,
         "ignore_range": 1,
         "description": "範囲内外問わずアイボリーの近い味方2体"
     },
@@ -2338,7 +2338,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 4,
-        "target_num": 4,
+        "target_num": 3,
         "ignore_range": 1,
         "description": "範囲内外問わずアイボリーの近い味方3体"
     },
@@ -2349,7 +2349,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 5,
-        "target_num": 2,
+        "target_num": 1,
         "ignore_range": 1,
         "description": "範囲内外問わずバイオレットの近い味方1体"
     },
@@ -2360,7 +2360,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 5,
-        "target_num": 3,
+        "target_num": 2,
         "ignore_range": 1,
         "description": "範囲内外問わずバイオレットの近い味方2体"
     },
@@ -2371,7 +2371,7 @@
         "sort_param": 0,
         "filter_type": 1,
         "filter_param": 5,
-        "target_num": 4,
+        "target_num": 3,
         "ignore_range": 1,
         "description": "範囲内外問わずバイオレットの近い味方3体"
     },

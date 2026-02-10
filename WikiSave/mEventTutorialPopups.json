@@ -4409,5 +4409,49 @@
             ""
         ],
         "image_count": 1
+    },
+    {
+        "id": 32311,
+        "event_id": 3231,
+        "latter_half_event_id": 3231,
+        "type": 1,
+        "ml_title": [
+            "イベントの遊び方",
+            ""
+        ],
+        "image_count": 2
+    },
+    {
+        "id": 32312,
+        "event_id": 3231,
+        "latter_half_event_id": 3231,
+        "type": 2,
+        "ml_title": [
+            "ボーナススタイル",
+            ""
+        ],
+        "image_count": 2
+    },
+    {
+        "id": 32313,
+        "event_id": 3231,
+        "latter_half_event_id": 3231,
+        "type": 3,
+        "ml_title": [
+            "イベント注意事項",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 32314,
+        "event_id": 3231,
+        "latter_half_event_id": 3231,
+        "type": 4,
+        "ml_title": [
+            "ボーナスメモリー",
+            ""
+        ],
+        "image_count": 1
     }
 ]

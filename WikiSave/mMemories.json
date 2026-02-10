@@ -1753,5 +1753,50 @@
         "sub_effect_id1": 63130002,
         "sell_price": 3552,
         "start_time": "2026-01-30 13:00:00"
+    },
+    {
+        "id": 4120119,
+        "ml_name": [
+            "甘くとろけるチョコパーティー♡",
+            "en"
+        ],
+        "index": "118",
+        "rarity": 4,
+        "image_index": 4120124,
+        "main_effect_id1": 54130006,
+        "main_effect_id2": 54131001,
+        "sub_effect_id1": 63130001,
+        "sell_price": 3552,
+        "start_time": "2026-02-10 13:00:00"
+    },
+    {
+        "id": 4120120,
+        "ml_name": [
+            "３倍返し、期待してますよ？",
+            "en"
+        ],
+        "index": "119",
+        "rarity": 5,
+        "image_index": 4120130,
+        "main_effect_id1": 55130001,
+        "main_effect_id2": 55440021,
+        "sub_effect_id1": 63130003,
+        "sell_price": 10656,
+        "start_time": "2026-02-10 13:00:00"
+    },
+    {
+        "id": 4120121,
+        "ml_name": [
+            "くまさん祭り復刻",
+            "en"
+        ],
+        "index": "120",
+        "rarity": 5,
+        "image_index": 4120131,
+        "main_effect_id1": 55130001,
+        "main_effect_id2": 55440020,
+        "sub_effect_id1": 63130003,
+        "sell_price": 10656,
+        "start_time": "2026-02-19 13:00:00"
     }
 ]

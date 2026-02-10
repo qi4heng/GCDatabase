@@ -1680,6 +1680,27 @@
         "ml_effect_flavor": []
     },
     {
+        "id": 4110503,
+        "enhance_group_id": 35,
+        "disassemble_group_id": 135,
+        "rarity": 5,
+        "site_type": 3,
+        "unit_id": 5,
+        "lock_type": 2,
+        "reduce_element_type": 2,
+        "image_index": 4110503,
+        "country_type": 0,
+        "ml_name": [
+            "ミケランジェロのコルセット",
+            ""
+        ],
+        "ml_flavor_text": [
+            "ミケランジェロ【天砕く使者】が着用しているコルセット。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
         "id": 4110504,
         "enhance_group_id": 25,
         "disassemble_group_id": 125,

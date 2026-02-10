@@ -1462,6 +1462,23 @@
         ]
     },
     {
+        "id": 431,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "431",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-02-10 13:30:00",
+        "end_time": "2026-02-21 12:59:59",
+        "ml_name": [
+            "ジュエリー・バレンタイン",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,
