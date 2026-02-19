@@ -3127,5 +3127,131 @@
             ""
         ],
         "ml_effect_flavor": []
+    },
+    {
+        "id": 4115701,
+        "enhance_group_id": 15,
+        "disassemble_group_id": 115,
+        "rarity": 5,
+        "site_type": 1,
+        "unit_id": 57,
+        "lock_type": 2,
+        "reduce_element_type": 5,
+        "image_index": 4115701,
+        "country_type": 0,
+        "ml_name": [
+            "アネモネの髪飾り",
+            ""
+        ],
+        "ml_flavor_text": [
+            "アネモネ【儚い夢の花騎士】が着用している髪飾り。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4115702,
+        "enhance_group_id": 35,
+        "disassemble_group_id": 135,
+        "rarity": 5,
+        "site_type": 3,
+        "unit_id": 57,
+        "lock_type": 2,
+        "reduce_element_type": 5,
+        "image_index": 4115702,
+        "country_type": 0,
+        "ml_name": [
+            "アネモネのマント",
+            ""
+        ],
+        "ml_flavor_text": [
+            "アネモネ【儚い夢の花騎士】が着用しているマント。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4115703,
+        "enhance_group_id": 45,
+        "disassemble_group_id": 145,
+        "rarity": 5,
+        "site_type": 4,
+        "unit_id": 57,
+        "lock_type": 2,
+        "reduce_element_type": 1,
+        "image_index": 4115703,
+        "country_type": 0,
+        "ml_name": [
+            "アネモネのブーツ",
+            ""
+        ],
+        "ml_flavor_text": [
+            "アネモネ【儚い夢の花騎士】が着用しているブーツ。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4115801,
+        "enhance_group_id": 15,
+        "disassemble_group_id": 115,
+        "rarity": 5,
+        "site_type": 1,
+        "unit_id": 58,
+        "lock_type": 2,
+        "reduce_element_type": 1,
+        "image_index": 4115801,
+        "country_type": 0,
+        "ml_name": [
+            "アイレンのカチューシャ",
+            ""
+        ],
+        "ml_flavor_text": [
+            "アイレン【鉄腕の淑女】が着用しているカチューシャ。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4115802,
+        "enhance_group_id": 35,
+        "disassemble_group_id": 135,
+        "rarity": 5,
+        "site_type": 3,
+        "unit_id": 58,
+        "lock_type": 2,
+        "reduce_element_type": 1,
+        "image_index": 4115802,
+        "country_type": 0,
+        "ml_name": [
+            "アイレンのチョーカー",
+            ""
+        ],
+        "ml_flavor_text": [
+            "アイレン【鉄腕の淑女】が着用しているチョーカー。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4115803,
+        "enhance_group_id": 45,
+        "disassemble_group_id": 145,
+        "rarity": 5,
+        "site_type": 4,
+        "unit_id": 58,
+        "lock_type": 2,
+        "reduce_element_type": 5,
+        "image_index": 4115803,
+        "country_type": 0,
+        "ml_name": [
+            "アイレンのアンクレット",
+            ""
+        ],
+        "ml_flavor_text": [
+            "アイレン【鉄腕の淑女】が着用しているアンクレット。",
+            ""
+        ],
+        "ml_effect_flavor": []
     }
 ]

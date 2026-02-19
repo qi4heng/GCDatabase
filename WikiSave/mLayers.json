@@ -7586,6 +7586,110 @@
       ]
    },
    {
+      "id": 4015701,
+      "unit_id": 57,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 5,
+      "collabo_type": 4,
+      "another_type": 0,
+      "hp": 2500,
+      "atk": 124,
+      "mnd": 79,
+      "def": 40,
+      "dex": 74,
+      "spd": 93,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 0,
+      "skill_id1": 26701001,
+      "skill_id2": 26701002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 16701001,
+      "ultimate_skill_id": 36701001,
+      "duplicated_item_id": 1125701,
+      "duplicated_item_count": 1,
+      "sort_order": 5701,
+      "image_index": 4015701,
+      "ai_group_id": 0,
+      "sound_index": 4015701,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|0|0|3",
+      "start_time": "2026-02-19 13:00:00",
+      "ml_name": [
+         "儚い夢の花騎士",
+         "幻梦之花骑士"
+      ],
+      "ml_flavor_text": [
+         "異世界より来たりし花の乙女。\n儚げな微笑みの裏で希望を信じている。",
+         "从异世界来的花之少女。\n梦幻般的微笑中是对希望的坚信"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "……えっと\n話すのは、ちょっと苦手……",
+         "......额\n聊天的话、有点不擅长......"
+      ],
+      "ml_get_message": [
+         "しばらくお世話になる……のかな。一応、できることは\nやろうと思うから……よろしくお願いします。",
+         "暂时要打扰您一阵子了...大概。\n姑且、会尽力做好力所能及之事的,\n所以...请多关照。"
+      ]
+   },
+   {
+      "id": 4015801,
+      "unit_id": 58,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 4,
+      "collabo_type": 4,
+      "another_type": 0,
+      "hp": 3634,
+      "atk": 99,
+      "mnd": 38,
+      "def": 99,
+      "dex": 66,
+      "spd": 70,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 0,
+      "skill_id1": 26801001,
+      "skill_id2": 26801002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 16801001,
+      "ultimate_skill_id": 36801001,
+      "duplicated_item_id": 1125701,
+      "duplicated_item_count": 1,
+      "sort_order": 5801,
+      "image_index": 4015801,
+      "ai_group_id": 0,
+      "sound_index": 4015801,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|0|0|2",
+      "start_time": "2026-02-19 13:00:00",
+      "ml_name": [
+         "鉄腕の淑女",
+         "铁腕的淑女"
+      ],
+      "ml_flavor_text": [
+         "鋼鉄の体を持つモンスター娘。\nアテネスの風紀を固く取り締まる。",
+         "拥有钢铁身躯的魔物娘。\n要彻底整顿雅典的风纪。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "芸術の世界……破廉恥な\nものなどございませんよね？",
+         "艺术的世界里...应该没有什么伤风败俗之物...吧？"
+      ],
+      "ml_get_message": [
+         "アイアンゴーレム娘、アイレンと申します。\n風紀の乱れでしたら、わたくしが取り締まって差し上げます。",
+         "铸铁魔像娘、艾伦是也。\n若有风纪紊乱之处，便由我来为您整肃。"
+      ]
+   },
+   {
       "id": 99901,
       "unit_id": 1,
       "rarity": 3,

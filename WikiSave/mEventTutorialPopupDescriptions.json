@@ -6257,5 +6257,116 @@
             ""
         ],
         "image_index": ""
+    },
+    {
+        "id": 3232101,
+        "popup_id": 32321,
+        "page_number": 1,
+        "target_id": "",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32321_3"
+    },
+    {
+        "id": 3232102,
+        "popup_id": 32321,
+        "page_number": 2,
+        "target_id": "",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32121_1"
+    },
+    {
+        "id": 3232103,
+        "popup_id": 32321,
+        "page_number": 3,
+        "target_id": "",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32121_2"
+    },
+    {
+        "id": 3232201,
+        "popup_id": 32322,
+        "page_number": 1,
+        "target_id": "4010308",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32322_5"
+    },
+    {
+        "id": 3232202,
+        "popup_id": 32322,
+        "page_number": 2,
+        "target_id": "4015701",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32322_1"
+    },
+    {
+        "id": 3232203,
+        "popup_id": 32322,
+        "page_number": 3,
+        "target_id": "4015801",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32322_2"
+    },
+    {
+        "id": 3232204,
+        "popup_id": 32322,
+        "page_number": 4,
+        "target_id": "4015501",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32322_3"
+    },
+    {
+        "id": 3232205,
+        "popup_id": 32322,
+        "page_number": 5,
+        "target_id": "4015601",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32322_4"
+    },
+    {
+        "id": 3232206,
+        "popup_id": 32322,
+        "page_number": 6,
+        "target_id": "4010907",
+        "ml_description": [
+            ""
+        ],
+        "image_index": "32322_6"
+    },
+    {
+        "id": 3232301,
+        "popup_id": 32323,
+        "page_number": 1,
+        "target_id": "",
+        "ml_description": [
+            "※ストーリーキーは本イベントのBATTLE1、2、3、4、5の初回クリア報酬として獲得できます。<br>\n※一部バトルステージはイベント開始翌日以降2月23日までに順次リストに追加されていきます。<br>\n※各ステージへは前提ステージをクリアすることで挑戦できるようになります。<br>\n※イベント開催期間中、後半戦として途中より追加される要素があります。後半戦開始時に掲載予定のお知らせにて詳細についてご案内させて頂きます。<br>\n※イベントボーナス対象のスタイルを複数編成した場合、効果は合算して適用されます。<br>\n※ランキング全体順位報酬と上位報酬はいずれか片方の報酬しか受け取れません。どちらも報酬獲得対象になっている場合は、上位報酬の獲得が優先されます。<br>\n※イベント交換期間終了後は、報酬の交換ができなくなりますのでご注意ください。<br>",
+            ""
+        ],
+        "image_index": ""
+    },
+    {
+        "id": 3232401,
+        "popup_id": 32324,
+        "page_number": 1,
+        "target_id": "4120048",
+        "ml_description": [
+            ""
+        ],
+        "image_index": ""
     }
 ]

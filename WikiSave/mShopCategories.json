@@ -1708,6 +1708,34 @@
         "end_time": ""
     },
     {
+        "id": 6002,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団：前半",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
+        "id": 6003,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団：後半",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 701,
         "type": 5,
         "group_type": 0,
@@ -4057,6 +4085,34 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 26575,
+        "end_time": ""
+    },
+    {
+        "id": 874,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：復刻版 VS謎のクマロボ軍団 追加前半戦",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21110,
+        "end_time": ""
+    },
+    {
+        "id": 875,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：復刻版 VS謎のクマロボ軍団 前半戦",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21126,
         "end_time": ""
     },
     {

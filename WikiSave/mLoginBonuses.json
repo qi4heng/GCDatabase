@@ -690,6 +690,21 @@
         "duration": 0
     },
     {
+        "id": 2050,
+        "ml_name": [
+            "くまさんCP開催記念！ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 519,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2381,6 +2396,21 @@
         "priority": 201,
         "start_time": "2026-02-10 13:30:00",
         "end_time": "2026-02-21 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13232,
+        "ml_name": [
+            "復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

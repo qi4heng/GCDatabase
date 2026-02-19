@@ -8096,6 +8096,742 @@
         ]
     },
     {
+        "id": 15701020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4015700_1020",
+        "ml_word": [
+            "……あ。えっと……ごめんなさい。\n貴方を嫌ってるとかじゃないんだけど……\nどう接すればいいのか、よくわからなくて。",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1030",
+        "ml_word": [
+            "掃除は好きだよ。\n美術館を勝手に片付ける訳にはいかないから、\n言われたところしかやらないけど。\nちゃんと綺麗にするから、遠慮なく言って。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4015700_1040",
+        "ml_word": [
+            "元の世界にちゃんと帰れるよね？\nごめん、ちょっと不安で……。\n貴方たちが手を尽くしてくれてることは、\nわかってるから。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1050",
+        "ml_word": [
+            "美術館の人たちが、\n見ず知らずの私に協力してくれてる……。\n申し訳なさは感じてるけど、疑ってはいないよ。\n昔よりは少しだけ、人を信じられるようになったから。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701460,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1460",
+        "ml_word": [
+            "あけましておめでとう。\nこの世界で新年を迎えるなんて思わなかったな。\nあ、ううん、嫌がってる訳じゃ……。\nちょっとさみしくなっただけ。新年早々ごめんね。",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701470,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1470",
+        "ml_word": [
+            "バレンタインのチョコは、えっと、用意がなくて……。\nごめんね、お世話になってるのに。\nなにもないのも失礼だから……\nはい、街で買ってきたクッキー。",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701480,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1480",
+        "ml_word": [
+            "この世界のハロウィンも、\n私の知ってるハロウィンと同じ雰囲気みたいだね。\nみんな楽しそうでいいね。\nパーティーの後片付けは、私に任せて。",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701490,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4015700_1490",
+        "ml_word": [
+            "……あっ！　い、今、私の書いてた手紙……見た？\nなんでもないの……ちょっと、サンタクロースに……。\nあの人のもとに、ちゃんと帰れますようにって……。",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701500,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1500",
+        "ml_word": [
+            "もう、１年も終わり。\n大掃除はちゃんと済ませた？\nまだなら手伝うから、一緒にがんばろう。\nそのくらいはやるよ、お世話になってるもの。",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701510,
+        "scene_type": 1,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1510",
+        "ml_word": [
+            "誕生日おめでとう。\nでも、私なんかより、貴方にお祝いを言うのに\nふさわしい人がいるでしょ？\n早くその人のところに行ってあげて。ね。",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1520",
+        "ml_word": [
+            "私が受付なんて任されちゃって大丈夫かな？\n近くに必ず誰かいてくれるから、\n困ったら助けてもらってるけどね。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4015700_1530",
+        "ml_word": [
+            "ぼーっとしてると、考え込んじゃう。\n前向きにならなきゃだめだよね。\n……アングルさんのヴァイオリン、聴きたいな……。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1540",
+        "ml_word": [
+            "アネモネの花言葉は『儚い夢』『薄れゆく希望』……。\nそういう、少し暗いのが多いんだ。\nでも、そうじゃないのもあるよ。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015700_1550",
+        "ml_word": [
+            "鍛錬は怠らないようにしてるよ。\nだって私は騎士団所属の花騎士だからね。\n戦いは……本当は好きじゃないけど。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4015700_1560",
+        "ml_word": [
+            "え、と……おしゃべり……なに話せばいいんだろ。\nあー……貴方はどんな飲み物が好き？\n私は渋いお茶が好きなんだ。",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15701570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4015700_1570",
+        "ml_word": [
+            "色んな世界で、色んな不思議なことが起こるよね。\nこんなことに巻き込まれちゃったけど……\nでも、きっといい思い出になる。\n私も、そう思えるようになったよ。",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4015800_1020",
+        "ml_word": [
+            "わたくし、島では風紀を取り締まっております。\n嘆かわしいことに破廉恥なモンスター娘が多くて……。\nこの世界では、そんな必要がないといいのですが。",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015800_1030",
+        "ml_word": [
+            "露出が多いだけでは、破廉恥とは言えない……。\n芸術の世界には、そういった視点もあるようです。\nそれが真実か欺瞞か……慎重に検討しませんと。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4015800_1040",
+        "ml_word": [
+            "わたくしは鉄の塊です。アイアンゴーレム娘ですから。\n体もカチカチに硬いですよ。……やっ、柔らかくなる\nことなんてありません！　破廉恥な！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4015800_1050",
+        "ml_word": [
+            "中には破廉恥な作品もあるようですが……\nここはよい美術館ですね。\n……主様もお連れしたいです。ふふ……♪",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801460,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4015800_1460",
+        "ml_word": [
+            "あけましておめでとうございます。\n島のことは気にかかりますが……\n今はこの世界の新年を、素直に祝いましょう。",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801470,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4015800_1470",
+        "ml_word": [
+            "バレンタイン！　ああ、バレンタインですか！\nこの世界にもあるのですね！\n風紀乱れ放題のあのバレンタインが！\nあぁ～～～っ！",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801480,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4015800_1480",
+        "ml_word": [
+            "ハロウィン……仮装と言う名の元に、\n破廉恥な格好をする方が余りに多いのではないですか。\nあぁ……っ！　駄目です、取り締まらねば！",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801490,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4015800_1490",
+        "ml_word": [
+            "クリスマスですか……プレゼントと称して、\n破廉恥グッズのやりとりなどしていませんよね？\nセイなる夜だからと、破廉恥行為に及んでませんよね？",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801500,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015800_1500",
+        "ml_word": [
+            "ふぅ、１年も終わりですか。\n風紀の乱れを正すために、走り回る日々……\nそれが島での暮らしです。来年こそは……！",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801510,
+        "scene_type": 1,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4015800_1510",
+        "ml_word": [
+            "お誕生日と伺いましたよ。おめでとうございます。\n異世界住民の身ではありますが、\nお世話にはなっておりますので。\nお祝いくらいは、させていただきますよ。",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4015800_1520",
+        "ml_word": [
+            "わたくしは普段、この大きな両手で歩行します。\nお尻を出す格好になってしまうのは、そのため。\nいやらしい目で見るのは破廉恥です！",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4015800_1530",
+        "ml_word": [
+            "ふむ……館長様はご不在のようですね。\n今のうちにサンソヴィーノさんにお話を……。\n破廉恥な芸術品がないか確かめなくては。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4015800_1540",
+        "ml_word": [
+            "創世記よりも昔から存在しているのがゴーレム娘です。\nわたくしも長い眠りから目覚めたのですが……\n島がすっかり破廉恥になっていて……嘆かわしい！",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4015800_1550",
+        "ml_word": [
+            "芸術品を見せていただいています……。\nむっ、なんです、この破廉恥な絵は！？\n作者の名前は……ええと……ブグロー？\nや、やはり……！？",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4015800_1560",
+        "ml_word": [
+            "とにかく、主様に迫るモンスター娘が多くて困ります。\n破廉恥、破廉恥、風紀の乱れ！　という有り様。\nああ、居ても立ってもいられません！",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15801570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015800_1570",
+        "ml_word": [
+            "わたくしの主様はとてもおかわいらし……コホン。\nええと、立派な……？　方なのですが。\n少々自制心に欠けるのが玉にキズ。\nお仕置きもやむを得ませんよね。",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 1110020,
         "scene_type": 2,
         "trigger": 3,
@@ -27294,6 +28030,236 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 56,
         "layer_id": 4015601,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15702030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015701_1030",
+        "ml_word": [
+            "ふぅ……あ、ごめんなさい。\nちょっと考え事をしてて。\nうん……元の世界のこと。\n大丈夫、任されてる仕事はちゃんとやるから。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 4015701,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15702040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4015701_1040",
+        "ml_word": [
+            "美術館……掃除のしがいがありそうな場所だね。\nお世話になるだけなのも忍びないから、\n少し張り切ってみようかな。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 4015701,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15702050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4015701_1050",
+        "ml_word": [
+            "おしゃべりは嫌いじゃないけど、ちょっと苦手……。\nだから、話し相手には向かないけど、\n掃除と戦いなら、任せて。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 4015701,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15702060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4015701_1060",
+        "ml_word": [
+            "音楽も、あるのかな。\nあるなら聞いてみたい……かも。\n私も少し、歌ったりするから。\n人前で歌うほどのものじゃ、ないけど……。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 4015701,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15702070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4015701_1070",
+        "ml_word": [
+            "あの人、心配してるかな……。\n早く帰る方法が見つかるといいんだけど。\n……ひとりで不安がってても仕方ない。\n掃除でもして、気を紛らわそっと。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 4015701,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15802030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4015801_1030",
+        "ml_word": [
+            "こちらは上品なお客様がほとんどですから、\nわたくしが取り締まることはほとんどありませんね。\nわたくしの格好を気にされない方も意外と多いですし。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 4015801,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15802040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4015801_1040",
+        "ml_word": [
+            "アテネスは島とずいぶん違うんですね。\nなにより模範的な方が多い印象を受けます。\nですが……先日の女性のような、\n破廉恥な方がいない訳ではないようですね。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 4015801,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15802050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4015801_1050",
+        "ml_word": [
+            "館長様には大変お世話になっておりますが、\n破廉恥極まりない品物を所持するのはいかがかと。\nこちらの書物は没収させていただきますね。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 4015801,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15802060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4015801_1060",
+        "ml_word": [
+            "わたくしの服装について、ですか？\nこの手では服を着ることができませんので。\nそもそも、わたくしの格好を破廉恥と捉える\n考えそのものを正す必要があると考えます。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 4015801,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15802070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4015801_1070",
+        "ml_word": [
+            "わたくしがいないとなると、\nゲシュペンス島の風紀が非常に乱れることでしょう。\n主様がちゃんと自制していることを願うばかりです。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 4015801,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [

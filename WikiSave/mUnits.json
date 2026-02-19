@@ -1210,6 +1210,116 @@
       ]
    },
    {
+      "id": 57,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4015701,
+      "collabo_type": 4,
+      "hp": 12000,
+      "atk": 432,
+      "mnd": 312,
+      "def": 240,
+      "dex": 360,
+      "luk": 240,
+      "spd": 408,
+      "passion": 100,
+      "sort_order": 57,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 5,
+      "main_art_type": 1,
+      "sub_art_type": 2,
+      "default_max_level": 75,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "アネモネ",
+         "en",
+         "银莲花"
+      ],
+      "ml_cv_name": [
+         "非公開",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "「儚い夢」を宿す紫の花の加護を受けた花騎士。\n歌と掃除が好きで、槍の腕前は一線級。\n人と距離を置く癖は自分を守ってきた名残だが、\n誰かに触れられることを怖がりながらも、\n差し出された手は信じてみたいと思っている。",
+         "en",
+         "寄宿「幻梦」之紫花加护的花骑士。\n钟爱歌咏与清扫，枪法位列顶尖。\n与人保持距离的习惯是长久以来守护自我的印记\n——虽仍畏惧被他者触碰，却愿试着相信那双伸出的手。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_アネモネ",
+         "en"
+      ],
+      "ml_birthday": [
+         "？？？",
+         "en"
+      ],
+      "ml_height": [
+         "？？？",
+         "en"
+      ],
+      "ml_size": [
+         "？？？",
+         "en"
+      ]
+   },
+   {
+      "id": 58,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4015801,
+      "collabo_type": 4,
+      "hp": 14400,
+      "atk": 408,
+      "mnd": 216,
+      "def": 408,
+      "dex": 336,
+      "luk": 240,
+      "spd": 288,
+      "passion": 100,
+      "sort_order": 58,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 4,
+      "main_art_type": 5,
+      "sub_art_type": 4,
+      "default_max_level": 75,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "アイレン",
+         "en",
+         "艾伦"
+      ],
+      "ml_cv_name": [
+         "非公開",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "創世より在りし、鉄の躯を持つ古代のモンスター娘。\n巨腕で地を這い、島の風紀を見張る鉄壁の守護者。\nその正義は硬く、欲望に曇る者を許さない。\n没収したハレンチグッズは、彼女の勲章。\n興奮すると、鋼鉄の肌も柔らかく蕩けてしまうらしい。",
+         "en",
+         "自创世之初便存在的拥有钢铁之躯的古代怪物娘。\n以巨臂匍匐大地，守望岛屿风纪的铁壁守护者。\n其正义坚硬如钢，绝不宽恕为欲望蒙蔽之人。\n没收的伤风败俗之物即是她的勋章。\n一旦兴奋起来，钢铁般的肌肤亦会变得柔软甚至融化。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_アイレン",
+         "en"
+      ],
+      "ml_birthday": [
+         "不明<br>（<span lang=\"ja\">不明でございます</span>）",
+         "en"
+      ],
+      "ml_height": [
+         "普通<br>（<span lang=\"ja\">普通でございます</span>）",
+         "en"
+      ],
+      "ml_size": [
+         "不知廉耻！<br>（<span lang=\"ja\">破廉恥っ！</span>）",
+         "en"
+      ]
+   },
+   {
       "id": 998,
       "level_group_id": 1,
       "love_point_level_group_id": 1,

@@ -325,6 +325,31 @@
         "is_visible": false
     },
     {
+        "id": 1010014,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※3/5まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1015001,
         "item_type": 101,
         "value1": 120,
@@ -872,6 +897,31 @@
         ],
         "start_time": "2026-01-13 13:30:00",
         "end_time": "2026-01-24 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1020014,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※3/5まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 23:59:59",
         "is_visible": false
     },
     {
@@ -2589,6 +2639,81 @@
         ],
         "ml_description": [
             "ヨシノとカトレアのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、大いなる発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1115701,
+        "item_type": 111,
+        "value1": 0,
+        "value2": 4,
+        "sort": 63,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1115701,
+        "ml_name": [
+            "くまさん祭りの命鏡B・小",
+            "EN"
+        ],
+        "ml_description": [
+            "アネモネとアイレンのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、小さな発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1115702,
+        "item_type": 111,
+        "value1": 0,
+        "value2": 4,
+        "sort": 64,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1115702,
+        "ml_name": [
+            "くまさん祭りの命鏡B・中",
+            "EN"
+        ],
+        "ml_description": [
+            "アネモネとアイレンのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、新鮮な発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1115703,
+        "item_type": 111,
+        "value1": 0,
+        "value2": 4,
+        "sort": 65,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1115703,
+        "ml_name": [
+            "くまさん祭りの命鏡B・大",
+            "EN"
+        ],
+        "ml_description": [
+            "アネモネとアイレンのベースアップ強化に必要なアイテム。",
             "EN"
         ],
         "ml_flavor_text": [
@@ -6450,6 +6575,31 @@
         "is_visible": false
     },
     {
+        "id": 1125701,
+        "item_type": 112,
+        "value1": 0,
+        "value2": 4,
+        "sort": 125,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1125701,
+        "ml_name": [
+            "【くまさん祭り】のオーブB",
+            "EN"
+        ],
+        "ml_description": [
+            "アネモネとアイレンの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1130001,
         "item_type": 113,
         "value1": 1,
@@ -8814,6 +8964,31 @@
         ],
         "ml_description": [
             "ヨシノとカトレアに経験値を与えることのできるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "心を激しく揺さぶる書物。その技術やセンスを\n飛躍させる哲学や技術について豊富に記されている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1165701,
+        "item_type": 116,
+        "value1": 0,
+        "value2": 4,
+        "sort": 202,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1165701,
+        "ml_name": [
+            "【くまさん祭り】の藝術家の書B",
+            "EN"
+        ],
+        "ml_description": [
+            "アネモネとアイレンに経験値を与えることのできるアイテム。",
             "EN"
         ],
         "ml_flavor_text": [
@@ -12468,6 +12643,31 @@
         ],
         "ml_flavor_text": [
             "アンサンブルの物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1511125,
+        "item_type": 151,
+        "value1": 432,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511064,
+        "ml_name": [
+            "ストーリーキー【復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "くまさん祭りの扉を開くための鍵。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -17000,6 +17200,56 @@
         "is_visible": false
     },
     {
+        "id": 1630190,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630202,
+        "ml_name": [
+            "復刻版 VS謎のクマロボ軍団 追加前半戦ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団 追加前半戦ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630191,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630191,
+        "ml_name": [
+            "復刻版 VS謎のクマロボ軍団 後半戦ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団 後半戦ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630192,
         "item_type": 702,
         "value1": 0,
@@ -17047,6 +17297,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-03-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630202,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630190,
+        "ml_name": [
+            "復刻版 VS謎のクマロボ軍団 前半戦ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団 前半戦ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-05 12:59:59",
         "is_visible": false
     },
     {
@@ -21200,6 +21475,31 @@
         "is_visible": false
     },
     {
+        "id": 1640172,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640182,
+        "ml_name": [
+            "復刻版 爆上がれ くまさん祭りのしおりB",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団 追加前半戦ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-07 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640173,
         "item_type": 162,
         "value1": 0,
@@ -21247,6 +21547,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-02-23 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640182,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640172,
+        "ml_name": [
+            "復刻版 爆上がれ くまさん祭りのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団 前半戦ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-07 12:59:59",
         "is_visible": false
     },
     {
@@ -24450,6 +24775,56 @@
         "is_visible": false
     },
     {
+        "id": 1650151,
+        "item_type": 801,
+        "value1": 3232,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650072,
+        "ml_name": [
+            "クマロボメダル・銅",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "謎のクマロボ集団が落としていったメダル。\n一見本物の硬貨のようだが、実はおもちゃのように軽いのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650152,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3232,
+        "sort": 261,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650073,
+        "ml_name": [
+            "クマロボメダル・銀",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "謎のクマロボ集団が落としていったメダル。\n一見本物の硬貨のようだが、実はおもちゃのように軽いのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1660003,
         "item_type": 171,
         "value1": 3106,
@@ -26997,6 +27372,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2025-03-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 9010005,
+        "item_type": 161,
+        "value1": 0,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 9010005,
+        "ml_name": [
+            "くまさんCPバトンチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "『チームくまさんタイトル 合同CP』のリレーミッション参加の証",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『チームくまさんタイトル 合同CP』のリレーミッション参加に必要なチケット。保管しておくと良いことがあるらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
         "is_visible": false
     }
 ]

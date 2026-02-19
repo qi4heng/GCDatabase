@@ -3047,6 +3047,156 @@
         ]
     },
     {
+        "id": 11102,
+        "gacha_group_id": 1110,
+        "display_layer_id": 4015701,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "バフで自身を強化し、ボスエネミーに対してダメージ上昇効果と雷弱点付与を組み合わせることで大ダメージを狙う雷エレメント特化アタッカー",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・ボスエネミーへの攻撃\n　でダメージ上昇効果を\n　所持\n・自身に攻撃・必殺・回\n　避など多種多様なバフ\n　を付与",
+            ""
+        ]
+    },
+    {
+        "id": 11101,
+        "gacha_group_id": 1110,
+        "display_layer_id": 4015801,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "絶技からCT短縮を加速させバフの重ねがけ、移動デバフや気絶付与で敵を制圧しよう！\n回復技法と同時に召喚するオブジェクト【お菓子のゴーレムトークン】は範囲攻撃を行う！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・範囲回復&最大体力増\n　加&入魂ゲージ増加&\n　オブジェクト召喚\n・猛毒と気絶に対して解\n　除不可の抵抗バフ",
+            ""
+        ]
+    },
+    {
+        "id": 11112,
+        "gacha_group_id": 1111,
+        "display_layer_id": 4015701,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "バフで自身を強化し、ボスエネミーに対してダメージ上昇効果と雷弱点付与を組み合わせることで大ダメージを狙う雷エレメント特化アタッカー",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・ボスエネミーへの攻撃\n　でダメージ上昇効果を\n　所持\n・自身に攻撃・必殺・回\n　避など多種多様なバフ\n　を付与",
+            ""
+        ]
+    },
+    {
+        "id": 11111,
+        "gacha_group_id": 1111,
+        "display_layer_id": 4015801,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "絶技からCT短縮を加速させバフの重ねがけ、移動デバフや気絶付与で敵を制圧しよう！\n回復技法と同時に召喚するオブジェクト【お菓子のゴーレムトークン】は範囲攻撃を行う！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・範囲回復&最大体力増\n　加&入魂ゲージ増加&\n　オブジェクト召喚\n・猛毒と気絶に対して解\n　除不可の抵抗バフ",
+            ""
+        ]
+    },
+    {
+        "id": 11121,
+        "gacha_group_id": 1112,
+        "display_layer_id": 4010907,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "敵全体へデバフを付与する鳥居オブジェクトと風弱点付与で敵を弱体化させ、弱点付与状態の敵には威力増加を狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・敵の攻撃と幸運を減少\n　する「鳥居」を召喚！\n・風弱点付与と風弱点付\n　与状態の敵に威力増加\n・自身とオブジェクトの\n　体力を回復",
+            ""
+        ]
+    },
+    {
+        "id": 11131,
+        "gacha_group_id": 1113,
+        "display_layer_id": 4010907,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "敵全体へデバフを付与する鳥居オブジェクトと風弱点付与で敵を弱体化させ、弱点付与状態の敵には威力増加を狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・敵の攻撃と幸運を減少\n　する「鳥居」を召喚！\n・風弱点付与と風弱点付\n　与状態の敵に威力増加\n・自身とオブジェクトの\n　体力を回復",
+            ""
+        ]
+    },
+    {
+        "id": 11262,
+        "gacha_group_id": 1126,
+        "display_layer_id": 4015501,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "味方へのバフと敵への弱点付与でサポートしつつ、弱点付与状態の敵には威力上昇の技法で大ダメージを狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・物理と炎の弱点付与の\n　技法＆絶技を所持\n・弱点付与状態の敵に\n　ダメージ上昇",
+            ""
+        ]
+    },
+    {
+        "id": 11261,
+        "gacha_group_id": 1126,
+        "display_layer_id": 4015601,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "範囲攻撃の敵対象が少ないほど威力増加するので、状況に合わせて攻撃する敵の数を調整しよう！シールドは破壊されるまで敵の攻撃から体力が減らされなくなります",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・攻撃対象が少ないほど\n　威力増加効果\n・シールド付与効果で\n　耐久力アップ",
+            ""
+        ]
+    },
+    {
+        "id": 11272,
+        "gacha_group_id": 1127,
+        "display_layer_id": 4015501,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "味方へのバフと敵への弱点付与でサポートしつつ、弱点付与状態の敵には威力上昇の技法で大ダメージを狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・物理と炎の弱点付与の\n　技法＆絶技を所持\n・弱点付与状態の敵に\n　ダメージ上昇",
+            ""
+        ]
+    },
+    {
+        "id": 11271,
+        "gacha_group_id": 1127,
+        "display_layer_id": 4015601,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "範囲攻撃の敵対象が少ないほど威力増加するので、状況に合わせて攻撃する敵の数を調整しよう！シールドは破壊されるまで敵の攻撃から体力が減らされなくなります",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・攻撃対象が少ないほど\n　威力増加効果\n・シールド付与効果で\n　耐久力アップ",
+            ""
+        ]
+    },
+    {
         "id": 20011,
         "gacha_group_id": 2001,
         "display_layer_id": 0,

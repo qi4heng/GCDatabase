@@ -1479,6 +1479,23 @@
         ]
     },
     {
+        "id": 432,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "432",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_name": [
+            "復刻版 爆上がれ 夢幻美術館VS謎のクマロボ軍団",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,

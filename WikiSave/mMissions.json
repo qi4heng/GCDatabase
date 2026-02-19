@@ -6944,6 +6944,510 @@
         ]
     },
     {
+        "id": 103555,
+        "type": 1,
+        "series_no": 5701,
+        "sub_series_no": 1,
+        "condition_id": 103555,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103127,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv2達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv2達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103556,
+        "type": 1,
+        "series_no": 5701,
+        "sub_series_no": 2,
+        "condition_id": 103555,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103128,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv3達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv3達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103557,
+        "type": 1,
+        "series_no": 5701,
+        "sub_series_no": 3,
+        "condition_id": 103555,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103129,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv4達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv4達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103558,
+        "type": 1,
+        "series_no": 5701,
+        "sub_series_no": 4,
+        "condition_id": 103555,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103130,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv5達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv5達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103559,
+        "type": 1,
+        "series_no": 5701,
+        "sub_series_no": 5,
+        "condition_id": 103555,
+        "condition_value": 6,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103131,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv6達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv6達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103560,
+        "type": 1,
+        "series_no": 5701,
+        "sub_series_no": 6,
+        "condition_id": 103555,
+        "condition_value": 7,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103132,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv7達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv7達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103561,
+        "type": 1,
+        "series_no": 5701,
+        "sub_series_no": 7,
+        "condition_id": 103555,
+        "condition_value": 8,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103133,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv8達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv8達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103562,
+        "type": 1,
+        "series_no": 5701,
+        "sub_series_no": 8,
+        "condition_id": 103555,
+        "condition_value": 9,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103134,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv9達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv9達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103563,
+        "type": 1,
+        "series_no": 5711,
+        "sub_series_no": 1,
+        "condition_id": 103555,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103563,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ信愛Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ信愛Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103564,
+        "type": 1,
+        "series_no": 5801,
+        "sub_series_no": 1,
+        "condition_id": 103564,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103127,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv2達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv2達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103565,
+        "type": 1,
+        "series_no": 5801,
+        "sub_series_no": 2,
+        "condition_id": 103564,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103128,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv3達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv3達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103566,
+        "type": 1,
+        "series_no": 5801,
+        "sub_series_no": 3,
+        "condition_id": 103564,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103129,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv4達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv4達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103567,
+        "type": 1,
+        "series_no": 5801,
+        "sub_series_no": 4,
+        "condition_id": 103564,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103130,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv5達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv5達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103568,
+        "type": 1,
+        "series_no": 5801,
+        "sub_series_no": 5,
+        "condition_id": 103564,
+        "condition_value": 6,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103131,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv6達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv6達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103569,
+        "type": 1,
+        "series_no": 5801,
+        "sub_series_no": 6,
+        "condition_id": 103564,
+        "condition_value": 7,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103132,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv7達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv7達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103570,
+        "type": 1,
+        "series_no": 5801,
+        "sub_series_no": 7,
+        "condition_id": 103564,
+        "condition_value": 8,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103133,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv8達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv8達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103571,
+        "type": 1,
+        "series_no": 5801,
+        "sub_series_no": 8,
+        "condition_id": 103564,
+        "condition_value": 9,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103134,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv9達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv9達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103572,
+        "type": 1,
+        "series_no": 5811,
+        "sub_series_no": 1,
+        "condition_id": 103564,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103572,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン信愛Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン信愛Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 104001,
         "type": 1,
         "series_no": 13,
@@ -17073,6 +17577,398 @@
         ],
         "ml_description": [
             "カトレアLv70達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104543,
+        "type": 1,
+        "series_no": 5702,
+        "sub_series_no": 1,
+        "condition_id": 104543,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104281,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104544,
+        "type": 1,
+        "series_no": 5702,
+        "sub_series_no": 2,
+        "condition_id": 104543,
+        "condition_value": 20,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104282,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネLv20達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネLv20達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104545,
+        "type": 1,
+        "series_no": 5702,
+        "sub_series_no": 3,
+        "condition_id": 104543,
+        "condition_value": 30,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104283,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネLv30達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネLv30達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104546,
+        "type": 1,
+        "series_no": 5702,
+        "sub_series_no": 4,
+        "condition_id": 104543,
+        "condition_value": 40,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104284,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネLv40達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネLv40達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104547,
+        "type": 1,
+        "series_no": 5702,
+        "sub_series_no": 5,
+        "condition_id": 104543,
+        "condition_value": 50,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104285,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネLv50達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネLv50達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104548,
+        "type": 1,
+        "series_no": 5702,
+        "sub_series_no": 6,
+        "condition_id": 104543,
+        "condition_value": 60,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104286,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネLv60達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネLv60達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104549,
+        "type": 1,
+        "series_no": 5702,
+        "sub_series_no": 7,
+        "condition_id": 104543,
+        "condition_value": 70,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104287,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネLv70達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネLv70達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104550,
+        "type": 1,
+        "series_no": 5802,
+        "sub_series_no": 1,
+        "condition_id": 104550,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104281,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104551,
+        "type": 1,
+        "series_no": 5802,
+        "sub_series_no": 2,
+        "condition_id": 104550,
+        "condition_value": 20,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104282,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンLv20達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンLv20達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104552,
+        "type": 1,
+        "series_no": 5802,
+        "sub_series_no": 3,
+        "condition_id": 104550,
+        "condition_value": 30,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104283,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンLv30達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンLv30達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104553,
+        "type": 1,
+        "series_no": 5802,
+        "sub_series_no": 4,
+        "condition_id": 104550,
+        "condition_value": 40,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104284,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンLv40達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンLv40達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104554,
+        "type": 1,
+        "series_no": 5802,
+        "sub_series_no": 5,
+        "condition_id": 104550,
+        "condition_value": 50,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104285,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンLv50達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンLv50達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104555,
+        "type": 1,
+        "series_no": 5802,
+        "sub_series_no": 6,
+        "condition_id": 104550,
+        "condition_value": 60,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104286,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンLv60達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンLv60達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104556,
+        "type": 1,
+        "series_no": 5802,
+        "sub_series_no": 7,
+        "condition_id": 104550,
+        "condition_value": 70,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104287,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンLv70達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンLv70達成",
             "en"
         ],
         "ml_hint": [
@@ -27825,6 +28721,118 @@
         ],
         "ml_description": [
             "ラファエロ【ときめきオーダー】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108320,
+        "type": 1,
+        "series_no": 1085701,
+        "sub_series_no": 1,
+        "condition_id": 1085701,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ【儚い夢の花騎士】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ【儚い夢の花騎士】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108321,
+        "type": 1,
+        "series_no": 1085701,
+        "sub_series_no": 2,
+        "condition_id": 1085701,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネ【儚い夢の花騎士】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ【儚い夢の花騎士】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108322,
+        "type": 1,
+        "series_no": 1085801,
+        "sub_series_no": 1,
+        "condition_id": 1085801,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン【鉄腕の淑女】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン【鉄腕の淑女】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108323,
+        "type": 1,
+        "series_no": 1085801,
+        "sub_series_no": 2,
+        "condition_id": 1085801,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレン【鉄腕の淑女】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン【鉄腕の淑女】ストーリー2開放",
             "en"
         ],
         "ml_hint": [
@@ -49749,6 +50757,174 @@
         ],
         "ml_description": [
             "成熟した魅力のハイヒールLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118519,
+        "type": 1,
+        "series_no": 118519,
+        "sub_series_no": 1,
+        "condition_id": 118117,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネの髪飾りLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネの髪飾りLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118520,
+        "type": 1,
+        "series_no": 118520,
+        "sub_series_no": 1,
+        "condition_id": 118118,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネのマントLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネのマントLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118521,
+        "type": 1,
+        "series_no": 118521,
+        "sub_series_no": 1,
+        "condition_id": 118119,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アネモネのブーツLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネのブーツLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118522,
+        "type": 1,
+        "series_no": 118522,
+        "sub_series_no": 1,
+        "condition_id": 118120,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンのカチューシャLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンのカチューシャLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118523,
+        "type": 1,
+        "series_no": 118523,
+        "sub_series_no": 1,
+        "condition_id": 118121,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンのチョーカーLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンのチョーカーLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118524,
+        "type": 1,
+        "series_no": 118524,
+        "sub_series_no": 1,
+        "condition_id": 118122,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アイレンのアンクレットLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "アイレンのアンクレットLv10達成",
             "en"
         ],
         "ml_hint": [
@@ -94705,6 +95881,426 @@
         ],
         "ml_description": [
             "ラファエロ【ときめきオーダー】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739101,
+        "type": 5,
+        "series_no": 7391,
+        "sub_series_no": 1,
+        "condition_id": 739101,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アネモネ【儚い夢の花騎士】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ【儚い夢の花騎士】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739102,
+        "type": 5,
+        "series_no": 7391,
+        "sub_series_no": 2,
+        "condition_id": 739101,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アネモネ【儚い夢の花騎士】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ【儚い夢の花騎士】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739103,
+        "type": 5,
+        "series_no": 7391,
+        "sub_series_no": 3,
+        "condition_id": 739101,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アネモネ【儚い夢の花騎士】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ【儚い夢の花騎士】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739104,
+        "type": 5,
+        "series_no": 7391,
+        "sub_series_no": 4,
+        "condition_id": 739101,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アネモネ【儚い夢の花騎士】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ【儚い夢の花騎士】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739105,
+        "type": 5,
+        "series_no": 7391,
+        "sub_series_no": 5,
+        "condition_id": 739101,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アネモネ【儚い夢の花騎士】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アネモネ【儚い夢の花騎士】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739201,
+        "type": 5,
+        "series_no": 7392,
+        "sub_series_no": 1,
+        "condition_id": 739201,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アイレン【鉄腕の淑女】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン【鉄腕の淑女】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739202,
+        "type": 5,
+        "series_no": 7392,
+        "sub_series_no": 2,
+        "condition_id": 739201,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アイレン【鉄腕の淑女】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン【鉄腕の淑女】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739203,
+        "type": 5,
+        "series_no": 7392,
+        "sub_series_no": 3,
+        "condition_id": 739201,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アイレン【鉄腕の淑女】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン【鉄腕の淑女】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739204,
+        "type": 5,
+        "series_no": 7392,
+        "sub_series_no": 4,
+        "condition_id": 739201,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アイレン【鉄腕の淑女】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン【鉄腕の淑女】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739205,
+        "type": 5,
+        "series_no": 7392,
+        "sub_series_no": 5,
+        "condition_id": 739201,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "アイレン【鉄腕の淑女】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アイレン【鉄腕の淑女】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739301,
+        "type": 5,
+        "series_no": 7393,
+        "sub_series_no": 1,
+        "condition_id": 739301,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 559001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "DMM GAMES PLAYERでログインしよう",
+            "en"
+        ],
+        "ml_description": [
+            "DMM GAMES PLAYERでログインしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739401,
+        "type": 5,
+        "series_no": 7394,
+        "sub_series_no": 1,
+        "condition_id": 739401,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 739401,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "イベントBATTLE3クリア（くまさん祭りクエストミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "イベントBATTLE3クリア（くまさん祭りクエストミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739402,
+        "type": 5,
+        "series_no": 7394,
+        "sub_series_no": 2,
+        "condition_id": 739402,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 739402,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-19 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "イベントBATTLE5クリア（くまさん祭りクエストミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "イベントBATTLE5クリア（くまさん祭りクエストミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739501,
+        "type": 5,
+        "series_no": 7395,
+        "sub_series_no": 1,
+        "condition_id": 739501,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 739501,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-23 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "イベントEXTRA3クリア（くまさん祭りクエストミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "イベントEXTRA3クリア（くまさん祭りクエストミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739502,
+        "type": 5,
+        "series_no": 7395,
+        "sub_series_no": 2,
+        "condition_id": 739502,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 739502,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-23 13:00:00",
+        "end_time": "2026-03-05 12:59:59",
+        "ml_title": [
+            "イベントEXTRA5クリア（くまさん祭りクエストミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "イベントEXTRA5クリア（くまさん祭りクエストミッション）",
             "en"
         ],
         "ml_hint": [
