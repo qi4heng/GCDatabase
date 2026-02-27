@@ -2413,5 +2413,20 @@
         "end_time": "2026-03-05 12:59:59",
         "comeback_span": 0,
         "duration": 0
+    },
+    {
+        "id": 13327,
+        "ml_name": [
+            "桃の宴と乙女たちの恋の花ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
     }
 ]

@@ -1038,5 +1038,165 @@
             "ひゃあ！　おっとっと……！　ふぅ……。\nあやうく、転んでボックスを壊しちゃうところでした。\nもう大丈夫なので、安心して引いてくださいね。",
             "en"
         ]
+    },
+    {
+        "id": 1021,
+        "type": 0,
+        "timing": 1,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4010400_1660",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33270,
+        "layer_id": 4010405,
+        "ml_word": [
+            "よく来たね館長！\nさぁ、君は何を引くかな？\nわたしの推理によると――",
+            "en"
+        ]
+    },
+    {
+        "id": 1022,
+        "type": 0,
+        "timing": 2,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010400_1670",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33270,
+        "layer_id": 4010405,
+        "ml_word": [
+            "ふむ、なかなかの品だね。\n使い道はいくらでもありそうだ。",
+            "en"
+        ]
+    },
+    {
+        "id": 1023,
+        "type": 0,
+        "timing": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010400_1680",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33270,
+        "layer_id": 4010405,
+        "ml_word": [
+            "ふふふ……ついに引き当てたね。\n君は必ず真の報酬にたどり着くと思っていたよ。",
+            "en"
+        ]
+    },
+    {
+        "id": 1024,
+        "type": 0,
+        "timing": 5,
+        "motion": "surprise",
+        "expression": "surprise",
+        "sound_asset": "stv_4010400_1690",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33270,
+        "layer_id": 4010405,
+        "ml_word": [
+            "もう中身は空だが……まだ挑戦するみたいだね？　\n探求心が強いのはいいことだ。",
+            "en"
+        ]
+    },
+    {
+        "id": 1025,
+        "type": 0,
+        "timing": 6,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010400_1700",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33270,
+        "layer_id": 4010405,
+        "ml_word": [
+            "新しい箱を用意したよ。\nさらなる報酬を求めて、引き続けようじゃないか！",
+            "en"
+        ]
+    },
+    {
+        "id": 1026,
+        "type": 0,
+        "timing": 1,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4010700_1660",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33271,
+        "layer_id": 4010712,
+        "ml_word": [
+            "館長、会えて嬉しいわ。\n報酬はこの箱に用意したから、遠慮なく引いていって。",
+            "en"
+        ]
+    },
+    {
+        "id": 1027,
+        "type": 0,
+        "timing": 2,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010700_1670",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33271,
+        "layer_id": 4010712,
+        "ml_word": [
+            "いい調子よ、館長。\n次は何が出るのかしら？\n焦らずにいきましょうね。",
+            "en"
+        ]
+    },
+    {
+        "id": 1028,
+        "type": 0,
+        "timing": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010700_1680",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33271,
+        "layer_id": 4010712,
+        "ml_word": [
+            "さすがね！　いいものが引けてよかった。\nまぁ……あなたならできると信じていたけど……。",
+            "en"
+        ]
+    },
+    {
+        "id": 1029,
+        "type": 0,
+        "timing": 5,
+        "motion": "surprise",
+        "expression": "surprise",
+        "sound_asset": "stv_4010700_1690",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33271,
+        "layer_id": 4010712,
+        "ml_word": [
+            "えっ、もうなくなったの？\nわかったわ、すぐに補充を手配するわね。",
+            "en"
+        ]
+    },
+    {
+        "id": 1030,
+        "type": 0,
+        "timing": 6,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010700_1700",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "event_box_gacha_group_id": 33271,
+        "layer_id": 4010712,
+        "ml_word": [
+            "お待たせ、館長。\n追加のボックスだけど、\n中身はこれで足りるかしら……？",
+            "en"
+        ]
     }
 ]

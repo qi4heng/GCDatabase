@@ -2688,6 +2688,27 @@
         "ml_effect_flavor": []
     },
     {
+        "id": 4111505,
+        "enhance_group_id": 35,
+        "disassemble_group_id": 135,
+        "rarity": 5,
+        "site_type": 3,
+        "unit_id": 15,
+        "lock_type": 2,
+        "reduce_element_type": 3,
+        "image_index": 4111505,
+        "country_type": 0,
+        "ml_name": [
+            "モリゾのエプロン",
+            ""
+        ],
+        "ml_flavor_text": [
+            "モリゾ【汗滴るメイド修行】が着用しているエプロン。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
         "id": 4111601,
         "enhance_group_id": 34,
         "disassemble_group_id": 134,

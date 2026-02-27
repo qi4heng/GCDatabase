@@ -2652,6 +2652,32 @@
         "close_time": "2026-02-14 12:59:59"
     },
     {
+        "id": 3327,
+        "ml_title": [
+            "桃の宴と乙女たちの恋の花",
+            ""
+        ],
+        "event_type": 3,
+        "m_quest_id": 727,
+        "top_character_id": 4010212,
+        "top_background_image": "3011804",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3327,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1114,
+        "latter_half_gacha_group_id": 1116,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 116,
+        "banner_image_index": 13327,
+        "start_time": "2026-02-27 13:30:00",
+        "latter_half_start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "close_time": "2026-03-14 12:59:59"
+    },
+    {
         "id": 3601,
         "ml_title": [
             "【A.S.】ありえない出会いと最初の試練",

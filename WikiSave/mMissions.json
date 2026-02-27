@@ -28840,6 +28840,174 @@
         ]
     },
     {
+        "id": 108324,
+        "type": 1,
+        "series_no": 1080212,
+        "sub_series_no": 1,
+        "condition_id": 1080212,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ゴッホ【桃香る雛の祈り】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【桃香る雛の祈り】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108325,
+        "type": 1,
+        "series_no": 1080212,
+        "sub_series_no": 2,
+        "condition_id": 1080212,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ゴッホ【桃香る雛の祈り】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【桃香る雛の祈り】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108326,
+        "type": 1,
+        "series_no": 1080400,
+        "sub_series_no": 1,
+        "condition_id": 1080400,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "セキエン【九尾の妖狐姫】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "セキエン【九尾の妖狐姫】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108327,
+        "type": 1,
+        "series_no": 1080400,
+        "sub_series_no": 2,
+        "condition_id": 1080400,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "セキエン【九尾の妖狐姫】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "セキエン【九尾の妖狐姫】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108328,
+        "type": 1,
+        "series_no": 1080712,
+        "sub_series_no": 1,
+        "condition_id": 1080712,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アングル【雅なる春の奏楽】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【雅なる春の奏楽】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108329,
+        "type": 1,
+        "series_no": 1080712,
+        "sub_series_no": 2,
+        "condition_id": 1080712,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アングル【雅なる春の奏楽】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【雅なる春の奏楽】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 109004,
         "type": 1,
         "series_no": 53,
@@ -50253,6 +50421,34 @@
         ],
         "ml_description": [
             "ミケランジェロのコルセットLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118099,
+        "type": 1,
+        "series_no": 118099,
+        "sub_series_no": 1,
+        "condition_id": 118124,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-02 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "モリゾのエプロンLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "モリゾのエプロンLv10達成",
             "en"
         ],
         "ml_hint": [
@@ -96308,6 +96504,426 @@
         ]
     },
     {
+        "id": 739601,
+        "type": 5,
+        "series_no": 7396,
+        "sub_series_no": 1,
+        "condition_id": 739601,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739602,
+        "type": 5,
+        "series_no": 7396,
+        "sub_series_no": 2,
+        "condition_id": 739601,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739603,
+        "type": 5,
+        "series_no": 7396,
+        "sub_series_no": 3,
+        "condition_id": 739601,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739604,
+        "type": 5,
+        "series_no": 7396,
+        "sub_series_no": 4,
+        "condition_id": 739601,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739605,
+        "type": 5,
+        "series_no": 7396,
+        "sub_series_no": 5,
+        "condition_id": 739601,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【桃香る雛の祈り】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739701,
+        "type": 5,
+        "series_no": 7397,
+        "sub_series_no": 1,
+        "condition_id": 739701,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "セキエン【九尾の妖狐姫】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セキエン【九尾の妖狐姫】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739702,
+        "type": 5,
+        "series_no": 7397,
+        "sub_series_no": 2,
+        "condition_id": 739701,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "セキエン【九尾の妖狐姫】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セキエン【九尾の妖狐姫】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739703,
+        "type": 5,
+        "series_no": 7397,
+        "sub_series_no": 3,
+        "condition_id": 739701,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "セキエン【九尾の妖狐姫】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セキエン【九尾の妖狐姫】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739704,
+        "type": 5,
+        "series_no": 7397,
+        "sub_series_no": 4,
+        "condition_id": 739701,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "セキエン【九尾の妖狐姫】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セキエン【九尾の妖狐姫】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739705,
+        "type": 5,
+        "series_no": 7397,
+        "sub_series_no": 5,
+        "condition_id": 739701,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "セキエン【九尾の妖狐姫】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セキエン【九尾の妖狐姫】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739801,
+        "type": 5,
+        "series_no": 7398,
+        "sub_series_no": 1,
+        "condition_id": 739801,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "アングル【雅なる春の奏楽】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【雅なる春の奏楽】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739802,
+        "type": 5,
+        "series_no": 7398,
+        "sub_series_no": 2,
+        "condition_id": 739801,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "アングル【雅なる春の奏楽】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【雅なる春の奏楽】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739803,
+        "type": 5,
+        "series_no": 7398,
+        "sub_series_no": 3,
+        "condition_id": 739801,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "アングル【雅なる春の奏楽】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【雅なる春の奏楽】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739804,
+        "type": 5,
+        "series_no": 7398,
+        "sub_series_no": 4,
+        "condition_id": 739801,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "アングル【雅なる春の奏楽】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【雅なる春の奏楽】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739805,
+        "type": 5,
+        "series_no": 7398,
+        "sub_series_no": 5,
+        "condition_id": 739801,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "ml_title": [
+            "アングル【雅なる春の奏楽】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【雅なる春の奏楽】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 800101,
         "type": 5,
         "series_no": 800101,
@@ -101285,6 +101901,286 @@
         ],
         "ml_description": [
             "ダンジョンシーズン19フロア10を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800279,
+        "type": 5,
+        "series_no": 800279,
+        "sub_series_no": 1,
+        "condition_id": 800279,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800149,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア1を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア1を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800280,
+        "type": 5,
+        "series_no": 800280,
+        "sub_series_no": 2,
+        "condition_id": 800280,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800150,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア2を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア2を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800281,
+        "type": 5,
+        "series_no": 800281,
+        "sub_series_no": 3,
+        "condition_id": 800281,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800151,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア3を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア3を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800282,
+        "type": 5,
+        "series_no": 800282,
+        "sub_series_no": 4,
+        "condition_id": 800282,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800152,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア4を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア4を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800283,
+        "type": 5,
+        "series_no": 800283,
+        "sub_series_no": 5,
+        "condition_id": 800283,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800153,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア5を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア5を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800284,
+        "type": 5,
+        "series_no": 800284,
+        "sub_series_no": 6,
+        "condition_id": 800284,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800154,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア6を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア6を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800285,
+        "type": 5,
+        "series_no": 800285,
+        "sub_series_no": 7,
+        "condition_id": 800285,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800155,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア7を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア7を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800286,
+        "type": 5,
+        "series_no": 800286,
+        "sub_series_no": 8,
+        "condition_id": 800286,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800156,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア8を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア8を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800287,
+        "type": 5,
+        "series_no": 800287,
+        "sub_series_no": 9,
+        "condition_id": 800287,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800157,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア9を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア9を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800288,
+        "type": 5,
+        "series_no": 800288,
+        "sub_series_no": 10,
+        "condition_id": 800288,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800158,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン20フロア10を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン20フロア10を攻略",
             "en"
         ],
         "ml_hint": [

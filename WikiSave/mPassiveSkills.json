@@ -6032,6 +6032,45 @@
         ]
     },
     {
+        "id": 75130021,
+        "rarity": 5,
+        "image_index": 1390003,
+        "ml_name": [
+            "緑属性有利＋（50%）",
+            ""
+        ],
+        "ml_description": [
+            "味方のビリジアン（緑）のセルリアン（青）に対してのダメージ[[effects_power]%]上昇",
+            ""
+        ]
+    },
+    {
+        "id": 74130021,
+        "rarity": 4,
+        "image_index": 1130002,
+        "ml_name": [
+            "エネミーのセルリアン(青)の攻撃+60%",
+            ""
+        ],
+        "ml_description": [
+            "エネミーのセルリアン(青)の攻撃+[[effects_power]%]",
+            ""
+        ]
+    },
+    {
+        "id": 73130021,
+        "rarity": 4,
+        "image_index": 1130004,
+        "ml_name": [
+            "エネミーのセルリアン(青)の防御+30%",
+            ""
+        ],
+        "ml_description": [
+            "エネミーのビリジアン(青)の防御+[[effects_power]%]",
+            ""
+        ]
+    },
+    {
         "id": 90130001,
         "rarity": 5,
         "image_index": 1130001,
@@ -7549,6 +7588,19 @@
         ],
         "ml_description": [
             "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法でオブジェクト召喚時、味方全員の体力[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞・防御[[effects_power_4]%]増加（重複可）＜[[effects_turn_4]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45150501,
+        "rarity": 5,
+        "image_index": 1080000,
+        "ml_name": [
+            "精髄：【汗滴るメイド修行】",
+            ""
+        ],
+        "ml_description": [
+            "系統：工芸に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加/技法または絶技で系統特攻発生時、自身の攻撃・敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・睡眠抵抗[[effects_power_4]]増加＜[[effects_turn_4]ターン]＞",
             ""
         ]
     },

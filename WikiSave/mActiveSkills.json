@@ -2816,7 +2816,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/熱情消費[[use_passion]]/攻撃対象が少ないほどダメージ上昇（最大[[side_effects_power_1]%]）/<help=soul get>ソウル回収</help>/敵撃破時に[[side_rate_3]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで）/敵撃破時に入魂ゲージ100%以上ならば入魂発動",
-         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/消耗<help=passion>热情</help>[[use_passion]]/攻击对象越少伤害越高（最大[[side_effects_power_1]%]）/回收魂石/击败敌人时有[[side_rate_3]%]概率触发<help=re_action>再行动</help>（每回合最多1次）/击败敌人时若入魂值达100%则发动入魂"
+         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/消耗<help=passion>热情</help>[[use_passion]]/攻击对象越少伤害越高（最大[[side_effects_power_1]%]）/<help=soul get>魂球回收</help>/击败敌人时有[[side_rate_3]%]概率触发<help=re_action>再行动</help>（每回合最多1次）/击败敌人时若入魂值达100%则发动入魂"
       ]
    },
    {
@@ -2888,6 +2888,147 @@
       "ml_description": [
          "威力[[main_effects_power_1]%]/自身に<help=cool_time>クールタイム</help>[[side_effects_power_1]]短縮/自身に<help=passion>熱情</help>[[side_effects_power_2]]増加/自身に<help=Rejection>拒絶</help>付与/「[[ml_name_4]]」召喚（最大[[side_effects_power_4]]）/",
          "威力[[main_effects_power_1]%]/自身<help=cool_time>冷却时间</help>缩短[[side_effects_power_1]]回合/自身<help=passion>热情</help>增加[[side_effects_power_2]]/赋予自身拒絶/召唤「[[ml_name_4]]」（最多[[side_effects_power_4]]个）/"
+      ]
+   },
+   {
+      "id": 10212001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 10212001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 20212001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "6300",
+      "need_passion": 120,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 150,
+      "usable_times": 0,
+      "timeline_id": 20212001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 5,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "女雛の舞",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/オブジェクト召喚を使用するたびにダメージ[[side_effects_power_1]%]上昇（上限[[effect_attributes_1_1]]回）/1ターン前に自身が絶技使用していたら威力[[side_effects_power_2]%]上昇/命中対象に<help=dexterity>器用</help>[[side_effects_power_3]%]減少＜[[side_effects_turn_3]ターン]＞/命中対象に確率で<help=shock>感電</help>付与＜[[side_effects_turn_4]ターン]＞",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/每当使用放置物召唤时伤害提升[[side_effects_power_1]%]（最多[[effect_attributes_1_1]]次）/若1回合前自身使用了绝技则威力提升[[side_effects_power_2]%]/使命中目标的<help=dexterity>器用</help>减少[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞/概率赋予命中目标<help=shock>感电</help>＜[[side_effects_turn_4]回合]＞"
+      ]
+   },
+   {
+      "id": 20212002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "4408",
+      "need_passion": 130,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "4",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 2,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 20212002,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 5,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "桃花かぐわし",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/系統：絵画にダメージ[[side_effects_power_1]%]上昇/<help=shock>感電</help>状態ならダメージ[[side_effects_power_2]%]上昇/「[[ml_name_3]]」召喚（最大[[side_effects_power_3]]）/アイボリーの味方全員に<help=wind_shield>風シールド</help>付与[[side_effects_power_4]]",
+         "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/对系统：绘画的伤害提升[[side_effects_power_1]%]/若目标处于<help=shock>感电</help>状态则伤害提升[[side_effects_power_2]%]/召唤「[[ml_name_3]]」（最多[[side_effects_power_3]]个）/赋予白色属性的己方全员<help=wind_shield>风护盾</help>[[side_effects_power_4]]"
+      ]
+   },
+   {
+      "id": 30212001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "0901",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 30212001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "健やかなる",
+         ""
+      ],
+      "ml_name2": [
+         "成長",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/アイボリーの味方全員に<help=dexterity>器用</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)/",
+         "威力[[main_effects_power_1]%]/召唤「[[ml_name_1]]」（最多[[side_effects_power_1]]个）/赋予白色属性的己方全员<help=dexterity>器用</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）"
       ]
    },
    {
@@ -5076,6 +5217,147 @@
       ]
    },
    {
+      "id": 10405001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 10405001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 20405001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "6500",
+      "need_passion": 130,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 2,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 141,
+      "usable_times": 0,
+      "timeline_id": 20405001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 2,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "殺生の石礫",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/炎弱点付与状態の敵にダメージ[[side_effects_power_1]%]上昇/自身が炎弱点を突いた回数に応じてダメージ[[side_effects_power_2]%]上昇（上限[[effect_attributes_2_1]]回）/命中対象に<help=agility>敏捷</help>[[side_effects_power_3]%]減少＜[[side_effects_turn_3]ターン]＞/命中対象に確率で炎の<help=stamp>刻印</help>付与＜[[side_effects_turn_4]ターン]＞",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/对处于火弱点赋予状态的敌人伤害提升[[side_effects_power_1]%]/根据自身触发火弱点的次数伤害提升[[side_effects_power_2]%]（最多[[effect_attributes_2_1]]次）/使命中目标的<help=agility>敏捷</help>减少[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞/概率赋予命中目标火之<help=stamp>刻印</help>＜[[side_effects_turn_4]回合]＞"
+      ]
+   },
+   {
+      "id": 20405002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "1201",
+      "need_passion": 120,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 50,
+      "usable_times": 0,
+      "timeline_id": 20405002,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 2,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "焔扇舞",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/命中対象に確率で炎<help=weakpoint>弱点</help>付与/<help=soul get>ソウル回収</help>/自身と近くの味方1人に入魂ゲージ[[side_effects_power_3]]増加",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/概率赋予命中目标火<help=weakpoint>弱点</help>/<help=soul get>魂球回收</help>/赋予自身和附近的一名己方入魂值增加[[side_effects_power_3]]"
+      ]
+   },
+   {
+      "id": 30405001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "5402",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 30405001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "絶世の",
+         ""
+      ],
+      "ml_name2": [
+         "美狐",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/命中対象を[[side_effects_power_1]]マス<help=tractor>引き寄せ</help>/命中対象に確率で炎<help=weakpoint>弱点</help>付与/炎弱点付与状態の敵にダメージ[[side_effects_power_3]%]上昇/",
+         "造成威力[[main_effects_power_1]%]的伤害/将命中目标<help=tractor>吸引</help>[[side_effects_power_1]]格/概率赋予命中目标火<help=weakpoint>弱点</help>/对处于火弱点赋予状态的敌人伤害提升[[side_effects_power_3]%]"
+      ]
+   },
+   {
       "id": 10406001,
       "type": 1,
       "rarity": 5,
@@ -5882,7 +6164,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/[[side_rate_1]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）/自身に<help=move>移動</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞/命中対象に確率で雷<help=weakpoint>弱点</help>付与",
-         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/有[[side_rate_1]%]概率触发<help=re_action>再行动</help>（每回合最多1次。自身技法・绝技不可重复）/自身<help=move>移动</help>增加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞/以一定概率赋予命中对象雷<help=weakpoint>弱点</help>"
+         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/有[[side_rate_1]%]概率触发<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）/自身<help=move>移动</help>增加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞/以一定概率赋予命中对象雷<help=weakpoint>弱点</help>"
       ]
    },
    {
@@ -10188,6 +10470,147 @@
       ]
    },
    {
+      "id": 10712001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 10712001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 20712001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "1117",
+      "need_passion": 125,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 2,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 42,
+      "usable_times": 0,
+      "timeline_id": 20712001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "桜雫の調べ",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/系統：芸道にダメージ[[side_effects_power_1]%]上昇/<help=sleep>睡眠</help>状態ならダメージ[[side_effects_power_2]%]上昇/命中対象に確率で<help=sleep>睡眠</help>付与＜[[side_effects_turn_3]ターン]＞/バイオレットの味方全員に<help=regeneration>再生</help>付与",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/对系统：艺道的伤害提升[[side_effects_power_1]%]/若目标处于<help=sleep>睡眠</help>状态则伤害提升[[side_effects_power_2]%]/概率赋予命中目标<help=sleep>睡眠</help>＜[[side_effects_turn_3]回合]＞/赋予紫色属性的己方全员<help=regeneration>再生</help>"
+      ]
+   },
+   {
+      "id": 20712002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "6000",
+      "need_passion": 120,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "6",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 2,
+      "range_ids": "0",
+      "effect_range_id": 151,
+      "usable_times": 0,
+      "timeline_id": 20712002,
+      "icon_frame_id": 125,
+      "is_show_range": true,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "静かな余韻",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]で範囲内の味方の<help=constitution>体力</help>回復(物理)/自身に<help=offence>攻撃</help>[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞(重複可)/対象に<help=passion>熱情</help>[[side_effects_power_2]]増加/[[side_rate_3]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）",
+         "以威力[[main_effects_power_1]%]回复范围内己方<help=constitution>体力</help>（物理）/自身<help=offence>攻击</help>增加[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞（可叠加）/目标<help=passion>热情</help>增加[[side_effects_power_2]]/以[[side_rate_3]%]的概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）"
+      ]
+   },
+   {
+      "id": 30712001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "2000",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 30712001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "雛壇上の",
+         ""
+      ],
+      "ml_name2": [
+         "楽人",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/味方全員に<help=negative_condition>状態異常</help>[[side_effects_power_1]]つ解除/味方全員に最大<help=constitution>体力</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞(重複可)/",
+         "造成威力[[main_effects_power_1]%]的伤害/解除己方全员<help=negative_condition>状态异常</help>[[side_effects_power_1]]个/己方全员最大<help=constitution>体力</help>增加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞（可叠加）"
+      ]
+   },
+   {
       "id": 10801001,
       "type": 1,
       "rarity": 3,
@@ -13038,7 +13461,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/[[side_rate_1]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）/アイボリーの味方全員に<help=move>移動</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞/出現中、最も精神が高い敵1体の<help=will>精神</help>を減少する「[[ml_name_3]]」召喚（最大[[side_effects_power_3]]）",
-         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/[[side_rate_1]%]概率<help=re_action>再行动</help>（每回合最多1次，不可与自身的技法・绝技叠加）/提升白色属性的己方全员<help=move>移动</help>[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞/召唤「[[ml_name_3]]」（最大[[side_effects_power_3]]），/出现期间减少<help=will>精神</help>最高的1名敌人的<help=will>精神</help>"
+         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/[[side_rate_1]%]概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）/提升白色属性的己方全员<help=move>移动</help>[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞/召唤「[[ml_name_3]]」（最大[[side_effects_power_3]]），/出现期间减少<help=will>精神</help>最高的1名敌人的<help=will>精神</help>"
       ]
    },
    {
@@ -14378,7 +14801,7 @@
       ],
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/攻撃対象が少ないほどダメージ上昇（最大[[side_effects_power_1]%]）/自身と最も攻撃が高い味方1人に<help=ignite>気炎</help>付与/[[side_rate_4]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）",
-         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/攻击对象越少伤害提升越高（最大[[side_effects_power_1]%]）/赋予自身及<help=offence>攻击</help>最高的1名己方<help=ignite>气焰</help>/[[side_rate_4]%]概率<help=re_action>再行动</help>（每回合最多1次。自身技法、绝技不可叠加）"
+         "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/攻击对象越少伤害提升越高（最大[[side_effects_power_1]%]）/赋予自身及<help=offence>攻击</help>最高的1名己方<help=ignite>气焰</help>/[[side_rate_4]%]概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）"
       ]
    },
    {
@@ -14449,7 +14872,7 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]/範囲内の味方に<help=thunderclap>迅雷</help>付与/自身に<help=cool_time>クールタイム</help>[[side_effects_power_2]]短縮/[[side_rate_3]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）/",
-         "威力[[main_effects_power_1]%]/赋予范围内己方<help=thunderclap>迅雷</help>/自身<help=cool_time>冷却时间</help>缩短[[side_effects_power_2]]回合/[[side_rate_3]%]概率<help=re_action>再行动</help>（每回合最多1次。自身技法、绝技不可叠加）/"
+         "威力[[main_effects_power_1]%]/赋予范围内己方<help=thunderclap>迅雷</help>/自身<help=cool_time>冷却时间</help>缩短[[side_effects_power_2]]回合/[[side_rate_3]%]概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）/"
       ]
    },
    {
@@ -19173,7 +19596,7 @@
       ],
       "ml_description": [
          "範囲内の敵に精神無視の威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/<help=move_position_range>位置移動（範囲）</help>/[[side_rate_2]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）/敵撃破時に入魂ゲージ100%以上ならば入魂発動/自身に<help=critical>必殺</help>[[side_effects_power_4]]増加＜[[side_effects_turn_4]ターン]＞/最も攻撃が高い味方1人に<help=critical>必殺</help>[[side_effects_power_5]]増加＜[[side_effects_turn_5]ターン]＞",
-         "对范围内敌人造成无视<help=will>精神</help>的威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/<help=move>移动</help>位置（范围）/[[side_rate_2]%]概率<help=re_action>再行动</help>（每回合最多1次，不可与自身的技法・绝技叠加）/击破敌人时若入魂值达100%以上则发动入魂/提升自身<help=critical>必杀</help>[[side_effects_power_4]]＜[[side_effects_turn_4]回合]＞/提升己方<help=offence>攻击</help>最高的1人<help=critical>必杀</help>[[side_effects_power_5]]＜[[side_effects_turn_5]回合]＞"
+         "对范围内敌人造成无视<help=will>精神</help>的威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/<help=move>移动</help>位置（范围）/[[side_rate_2]%]概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）/击破敌人时若入魂值达100%以上则发动入魂/提升自身<help=critical>必杀</help>[[side_effects_power_4]]＜[[side_effects_turn_4]回合]＞/提升己方<help=offence>攻击</help>最高的1人<help=critical>必杀</help>[[side_effects_power_5]]＜[[side_effects_turn_5]回合]＞"
       ]
    },
    {
@@ -45564,6 +45987,76 @@
       "ml_description": [
          "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/命中対象に確率で風<help=weakpoint>弱点</help>付与",
          "对范围内敌人造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/以一定概率赋予命中目标风<help=element>元素</help>弱点"
+      ]
+   },
+   {
+      "id": 29500267,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "1106",
+      "need_passion": 115,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "2",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 501,
+      "usable_times": 0,
+      "timeline_id": 29500020,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 4,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         ""
+      ],
+      "ml_name2": [
+         "穢れた花粉",
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/命中対象に<help=will>精神</help>[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞/命中対象に確率で<help=poison>猛毒</help>付与＜[[side_effects_turn_2]ターン]＞",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/使命中目标的<help=will>精神</help>减少[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞/概率赋予命中目标<help=poison>猛毒</help>＜[[side_effects_turn_2]回合]＞"
+      ]
+   },
+   {
+      "id": 29500268,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "4406",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 564,
+      "usable_times": 0,
+      "timeline_id": 29500019,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 4,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         ""
+      ],
+      "ml_name2": [
+         "濁炎の蔦",
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/<help=poison>猛毒</help>状態ならダメージ[[side_effects_power_1]%]上昇",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/若目标处于<help=poison>猛毒</help>状态则伤害提升[[side_effects_power_1]%]"
       ]
    },
    {

@@ -3853,6 +3853,150 @@
         "end_time": "2026-03-05 12:59:59"
     },
     {
+        "id": 1114,
+        "section_id": 0,
+        "ml_name": [
+            "桃の宴と乙女たちの恋の花ガチャA",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 612,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010212|4010405",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010212|4010405",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1114",
+        "background_asset_id": 3001700,
+        "m_shop_category_id": "876",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59"
+    },
+    {
+        "id": 1115,
+        "section_id": 0,
+        "ml_name": [
+            "有償限定 桃の宴と乙女たちの恋の花ガチャA",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 613,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010212|4010405",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010212|4010405",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1115",
+        "background_asset_id": 3001702,
+        "m_shop_category_id": "876",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59"
+    },
+    {
+        "id": 1116,
+        "section_id": 0,
+        "ml_name": [
+            "桃の宴と乙女たちの恋の花ガチャB",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 617,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010712",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010712",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1116",
+        "background_asset_id": 3001700,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59"
+    },
+    {
+        "id": 1117,
+        "section_id": 0,
+        "ml_name": [
+            "有償限定 桃の宴と乙女たちの恋の花ガチャB",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 618,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010712",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010712",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1117",
+        "background_asset_id": 3001702,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59"
+    },
+    {
         "id": 1126,
         "section_id": 0,
         "ml_name": [
@@ -8178,6 +8322,191 @@
         ],
         "start_time": "2026-02-17 13:00:00",
         "end_time": "2026-03-02 12:59:59"
+    },
+    {
+        "id": 2116,
+        "section_id": 0,
+        "ml_name": [
+            "モリゾ生誕祭5ステップガチャ",
+            ""
+        ],
+        "ml_description": [
+            "モリゾ生誕祭5ステップガチャ",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 616,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011503|4011504|4011505|4011506",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5|5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo2045",
+        "background_asset_id": 3001200,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,{rare5}確定",
+            ""
+        ],
+        "start_time": "2026-03-02 13:00:00",
+        "end_time": "2026-03-15 12:59:59"
+    },
+    {
+        "id": 2117,
+        "section_id": 2117,
+        "ml_name": [
+            "選んで回せるモリゾ生誕祭ガチャ",
+            ""
+        ],
+        "ml_description": [
+            "選んで回せるモリゾ生誕祭ガチャ",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 6,
+        "priority": 615,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011503",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "6",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top_appeal2065",
+        "logo_asset": "gacha_logo2117",
+        "background_asset_id": 3001202,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,{rare5}確定",
+            ""
+        ],
+        "start_time": "2026-03-02 13:00:00",
+        "end_time": "2026-03-15 12:59:59"
+    },
+    {
+        "id": 2118,
+        "section_id": 2117,
+        "ml_name": [
+            "選んで回せるモリゾ生誕祭ガチャ",
+            ""
+        ],
+        "ml_description": [
+            "選んで回せるモリゾ生誕祭ガチャ",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 6,
+        "priority": 615,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011504",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "6",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top_appeal2065",
+        "logo_asset": "gacha_logo2117",
+        "background_asset_id": 3001202,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,{rare5}確定",
+            ""
+        ],
+        "start_time": "2026-03-02 13:00:00",
+        "end_time": "2026-03-15 12:59:59"
+    },
+    {
+        "id": 2119,
+        "section_id": 2117,
+        "ml_name": [
+            "選んで回せるモリゾ生誕祭ガチャ",
+            ""
+        ],
+        "ml_description": [
+            "選んで回せるモリゾ生誕祭ガチャ",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 6,
+        "priority": 615,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011505",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "6",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top_appeal2065",
+        "logo_asset": "gacha_logo2117",
+        "background_asset_id": 3001202,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,{rare5}確定",
+            ""
+        ],
+        "start_time": "2026-03-02 13:00:00",
+        "end_time": "2026-03-15 12:59:59"
+    },
+    {
+        "id": 2120,
+        "section_id": 2117,
+        "ml_name": [
+            "選んで回せるモリゾ生誕祭ガチャ",
+            ""
+        ],
+        "ml_description": [
+            "選んで回せるモリゾ生誕祭ガチャ",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 6,
+        "priority": 615,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011506",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "6",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top_appeal2065",
+        "logo_asset": "gacha_logo2117",
+        "background_asset_id": 3001202,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,{rare5}確定",
+            ""
+        ],
+        "start_time": "2026-03-02 13:00:00",
+        "end_time": "2026-03-15 12:59:59"
     },
     {
         "id": 3001,
@@ -13145,6 +13474,43 @@
         "end_time": "2026-02-06 12:59:59"
     },
     {
+        "id": 6033,
+        "section_id": 0,
+        "ml_name": [
+            "カラー属性5ステップガチャ：ビリジアン",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 614,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010908|4010507|4011505|4010704",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top6028",
+        "logo_asset": "gacha_logo6018",
+        "background_asset_id": 3303710,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,{rare5}確定",
+            ""
+        ],
+        "start_time": "2026-03-01 13:00:00",
+        "end_time": "2026-03-06 12:59:59"
+    },
+    {
         "id": 6501,
         "section_id": 0,
         "ml_name": [
@@ -15918,6 +16284,79 @@
         ],
         "start_time": "2026-02-25 13:00:00",
         "end_time": "2026-03-03 12:59:59"
+    },
+    {
+        "id": 6577,
+        "section_id": 0,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャ32",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 620,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010909|4010209",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010909|4010209",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo6501",
+        "background_asset_id": 3000300,
+        "m_shop_category_id": "877",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-03-07 13:00:00",
+        "end_time": "2026-03-13 12:59:59"
+    },
+    {
+        "id": 6578,
+        "section_id": 0,
+        "ml_name": [
+            "スタイル復刻5ステップガチャ32",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 621,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010909|4010209",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010909|4010209",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo6503",
+        "background_asset_id": 3000302,
+        "m_shop_category_id": "877",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,しおり！",
+            ""
+        ],
+        "start_time": "2026-03-07 13:00:00",
+        "end_time": "2026-03-13 12:59:59"
     },
     {
         "id": 7001,
@@ -21679,6 +22118,42 @@
         ],
         "start_time": "2026-01-02 04:00:00",
         "end_time": "2026-01-14 03:59:59"
+    },
+    {
+        "id": 8072,
+        "section_id": 0,
+        "ml_name": [
+            "★5×3体確定10連ガチャ",
+            ""
+        ],
+        "ml_description": [
+            "DMMポイントで引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 619,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010711",
+        "display_subunit_id_list": "4020085",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo8072",
+        "background_asset_id": 3000300,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-03-05 12:00:00",
+        "end_time": "2026-04-06 17:59:59"
     },
     {
         "id": 9001,

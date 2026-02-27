@@ -3250,6 +3250,31 @@
         "is_visible": false
     },
     {
+        "id": 1120212,
+        "item_type": 112,
+        "value1": 4010212,
+        "value2": 0,
+        "sort": 59,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120212,
+        "ml_name": [
+            "【桃香る雛の祈り】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ゴッホの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120301,
         "item_type": 112,
         "value1": 4010301,
@@ -3635,6 +3660,31 @@
         "image_index": 1120404,
         "ml_name": [
             "【舞い散る火の狐】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セキエンの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120405,
+        "item_type": 112,
+        "value1": 4010405,
+        "value2": 0,
+        "sort": 69,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120405,
+        "ml_name": [
+            "【九尾の妖狐姫】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -4560,6 +4610,31 @@
         "image_index": 1120711,
         "ml_name": [
             "【傲慢のオルタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アングルの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120712,
+        "item_type": 112,
+        "value1": 4010712,
+        "value2": 0,
+        "sort": 88,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120712,
+        "ml_name": [
+            "【雅なる春の奏楽】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -12625,6 +12700,31 @@
         "is_visible": false
     },
     {
+        "id": 1511102,
+        "item_type": 151,
+        "value1": 727,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511102,
+        "ml_name": [
+            "ストーリーキー【桃の宴と乙女たちの恋の花】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「桃の宴と乙女たちの恋の花」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ひな祭りの物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1511123,
         "item_type": 151,
         "value1": 430,
@@ -17300,6 +17400,56 @@
         "is_visible": false
     },
     {
+        "id": 1630194,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630194,
+        "ml_name": [
+            "桃の宴と乙女たちの恋の花ガチャチケットA",
+            "EN"
+        ],
+        "ml_description": [
+            "桃の宴と乙女たちの恋の花ピックアップガチャAを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-12 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630196,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット32",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-13 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630202,
         "item_type": 702,
         "value1": 0,
@@ -21550,6 +21700,56 @@
         "is_visible": false
     },
     {
+        "id": 1640175,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640175,
+        "ml_name": [
+            "桃の宴と乙女たちの恋の花のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で桃の宴と乙女たちの恋の花ピックアップガチャAのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-14 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640176,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640176,
+        "ml_name": [
+            "スタイル復刻のしおり32",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-15 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640182,
         "item_type": 162,
         "value1": 0,
@@ -24718,6 +24918,56 @@
         ],
         "ml_flavor_text": [
             "ハート型の箱に入った様々な味と形のチョコレート。\n気持ちを伝える、特別な日の贈り物にぴったりの一品。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650129,
+        "item_type": 801,
+        "value1": 3327,
+        "value2": 0,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650129,
+        "ml_name": [
+            "ひな祭りのひし餅",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「桃の宴と乙女たちの恋の花」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "桃・白・緑の三色で彩られた、ひし形のお餅。\n女の子の健やかな成長と幸福を願う縁起物のお菓子。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650130,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3327,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650130,
+        "ml_name": [
+            "小さなおひな様人形",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「桃の宴と乙女たちの恋の花」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ちりめん生地で出来た小さいサイズのおひな様人形。\n健やかな成長を見守り、女の子の厄を引き受けるとされる。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",

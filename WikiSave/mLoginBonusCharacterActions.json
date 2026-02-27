@@ -9304,5 +9304,59 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1332701,
+        "login_bonus_id": 13327,
+        "layer_id": 4010212,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "blues",
+        "expression": "blues",
+        "sound_asset": "stv_4010200_1160",
+        "ml_word": [
+            "なにか届いてるみたい……。\n他の女の子からの手紙だったら\nどうしよう……。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1332702,
+        "login_bonus_id": 13327,
+        "layer_id": 4010212,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "blues",
+        "expression": "blues",
+        "sound_asset": "stv_4010200_1170",
+        "ml_word": [
+            "次はこれがもらえるんだって。\nわたしなんかが言っても、\n信じられないかもしれないけど。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1332703,
+        "login_bonus_id": 13327,
+        "layer_id": 4010212,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4010200_1180",
+        "ml_word": [
+            "朝起きるだけで疲れたけど、\n今日は頑張れそうな気がする。\n館長と一緒だから。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
     }
 ]

@@ -5434,6 +5434,94 @@
         "end_time": "2026-03-05 12:59:59"
     },
     {
+        "id": 10590,
+        "target_type": 3,
+        "target_id": 501,
+        "target_value1": "0",
+        "priority": 1,
+        "image_index": 31024,
+        "time_display_type": 1,
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-03-07 03:59:59"
+    },
+    {
+        "id": 10591,
+        "target_type": 2,
+        "target_id": 3327,
+        "target_value1": "0",
+        "priority": 601,
+        "image_index": 13327,
+        "time_display_type": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59"
+    },
+    {
+        "id": 10592,
+        "target_type": 1,
+        "target_id": 1114,
+        "target_value1": "0",
+        "priority": 600,
+        "image_index": 21114,
+        "time_display_type": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2026-03-12 12:59:59"
+    },
+    {
+        "id": 10593,
+        "target_type": 1,
+        "target_id": 6033,
+        "target_value1": "0",
+        "priority": 602,
+        "image_index": 26033,
+        "time_display_type": 0,
+        "start_time": "2026-03-01 13:00:00",
+        "end_time": "2026-03-06 12:59:59"
+    },
+    {
+        "id": 10594,
+        "target_type": 1,
+        "target_id": 1116,
+        "target_value1": "0",
+        "priority": 603,
+        "image_index": 21116,
+        "time_display_type": 0,
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2026-03-12 12:59:59"
+    },
+    {
+        "id": 10595,
+        "target_type": 1,
+        "target_id": 8072,
+        "target_value1": "0",
+        "priority": 604,
+        "image_index": 28072,
+        "time_display_type": 0,
+        "start_time": "2026-03-05 12:00:00",
+        "end_time": "2026-04-06 17:59:59"
+    },
+    {
+        "id": 10596,
+        "target_type": 1,
+        "target_id": 6577,
+        "target_value1": "0",
+        "priority": 605,
+        "image_index": 26577,
+        "time_display_type": 0,
+        "start_time": "2026-03-07 13:00:00",
+        "end_time": "2026-03-13 12:59:59"
+    },
+    {
+        "id": 10597,
+        "target_type": 1,
+        "target_id": 2116,
+        "target_value1": "0",
+        "priority": 606,
+        "image_index": 22116,
+        "time_display_type": 0,
+        "start_time": "2026-03-02 13:00:00",
+        "end_time": "2026-03-15 12:59:59"
+    },
+    {
         "id": 10598,
         "target_type": 1,
         "target_id": 1126,

@@ -226,5 +226,17 @@
         "bgm_id": 10110,
         "start_time": "2026-02-01 04:00:00",
         "end_time": "2026-03-01 03:59:59"
+    },
+    {
+        "id": 120,
+        "ml_title": [
+            "シーズン20",
+            ""
+        ],
+        "m_dungeon_floor_group_id": 20,
+        "m_dungeon_rule_group_id": 20,
+        "bgm_id": 10110,
+        "start_time": "2026-03-01 04:00:00",
+        "end_time": "2026-04-01 03:59:59"
     }
 ]

@@ -1015,6 +1015,58 @@
       ]
    },
    {
+      "id": 4010212,
+      "unit_id": 2,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2491,
+      "atk": 97,
+      "mnd": 47,
+      "def": 52,
+      "dex": 48,
+      "spd": 75,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130004,
+      "skill_id1": 20212001,
+      "skill_id2": 20212002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10212001,
+      "ultimate_skill_id": 30212001,
+      "duplicated_item_id": 1120212,
+      "duplicated_item_count": 1,
+      "sort_order": 212,
+      "image_index": 4010212,
+      "ai_group_id": 0,
+      "sound_index": 4010212,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|0|2|3",
+      "start_time": "2026-02-27 13:30:00",
+      "ml_name": [
+         "桃香る雛の祈り",
+         "桃香氤氲的雏祭祈愿"
+      ],
+      "ml_flavor_text": [
+         "華やかな色合いのお雛様スタイル。\n魔除けにもなる桃の枝で死の芸術を祓う。",
+         "华美艳丽的雏人偶造型。\n以兼具驱邪之力的桃枝，祓除死之艺术。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "もし、わたしがひな人形なら\n館長に隣にいてほしいな",
+         "如果我是一具雏人偶的话,\n希望馆长能陪在我身边"
+      ],
+      "ml_get_message": [
+         "ひな祭りって、温かくて、かわいくて……すごく素敵なお祭りだね。\n……うぅ……わたしはどっちもほど遠いのに、こんな格好をしていいのかな。",
+         "雏祭真是温暖又可爱...是一个非常棒的节日呢。\n...呜...我明明和这些都沾不上边，穿成这样真的可以吗？"
+      ]
+   },
+   {
       "id": 4010301,
       "unit_id": 3,
       "rarity": 3,
@@ -1783,6 +1835,58 @@
       "ml_get_message": [
          "夜の灯りが増えれば、妖怪の居場所はなくなってしまうのだろうか……。\nでも、暗すぎてもなにも見えないし……うーむ、難しい問題だよ。",
          "夜晚的灯光增加的话，妖怪的栖息地也会消失吗……。\n但是，太暗的话也什么都看不见……嗯，真是个难题。"
+      ]
+   },
+   {
+      "id": 4010405,
+      "unit_id": 4,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2542,
+      "atk": 89,
+      "mnd": 73,
+      "def": 57,
+      "dex": 60,
+      "spd": 68,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130006,
+      "skill_id1": 20405001,
+      "skill_id2": 20405002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10405001,
+      "ultimate_skill_id": 30405001,
+      "duplicated_item_id": 1120405,
+      "duplicated_item_count": 1,
+      "sort_order": 405,
+      "image_index": 4010405,
+      "ai_group_id": 0,
+      "sound_index": 4010405,
+      "country_type": 0,
+      "strong_skill_setting": "0|3|0|0|2",
+      "start_time": "2026-02-27 13:30:00",
+      "ml_name": [
+         "九尾の妖狐姫",
+         "九尾的妖狐姬"
+      ],
+      "ml_flavor_text": [
+         "狐の大妖怪をイメージした、東方より\n伝わりし豪華絢爛な着物スタイル。",
+         "以大狐妖为印象、从东方传来的豪华绚烂的和服造型"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "伝説の妖怪……！\nなんとも魅惑的な響きだね",
+         "传说中的妖怪...！\n多么魅惑的称谓啊"
+      ],
+      "ml_get_message": [
+         "もし狐の妖怪が絶世の美女に化けて出てきたら、館長ならどうする？\nやはりわたしよりも、そちらに……？　ど、どうなんだい～！？",
+         "如果狐妖化作绝世美女出现在面前，馆长会怎么做？\n果然还是觉得那边比我...？到、到底怎样啊～！"
       ]
    },
    {
@@ -3572,6 +3676,58 @@
          "アングルのオルタ……彼女とは違う、もうひとりのアングルよ。\nでも、正しいのは私の方。オリジナルよりもね……。"
       ],
       "zh_ml_get_messeage": "我是安格尔的Alter……与她不同的、另一个安格尔。\n不过，正确的一方是我哦。比本体更正确……"
+   },
+   {
+      "id": 4010712,
+      "unit_id": 7,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 5,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3154,
+      "atk": 87,
+      "mnd": 49,
+      "def": 64,
+      "dex": 97,
+      "spd": 90,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130003,
+      "skill_id1": 20712001,
+      "skill_id2": 20712002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10712001,
+      "ultimate_skill_id": 30712001,
+      "duplicated_item_id": 1120712,
+      "duplicated_item_count": 1,
+      "sort_order": 712,
+      "image_index": 4010712,
+      "ai_group_id": 0,
+      "sound_index": 4010712,
+      "country_type": 0,
+      "strong_skill_setting": "2|1|2|0|0",
+      "start_time": "2026-03-03 13:00:00",
+      "ml_name": [
+         "雅なる春の奏楽",
+         "风雅的春之奏乐"
+      ],
+      "ml_flavor_text": [
+         "春の訪れを思わせる東方伝統の正装。\n子供たちの幸福と成長を願い弦を弾く。",
+         "昭示春天之到来的东方传统正装。\n抚琴以祈愿孩童们幸福成长。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "この調べ……\nあなたに届きますように",
+         "这段旋律...希望能传达到你身边。"
+      ],
+      "ml_get_message": [
+         "ひな祭りに合わせて着替えてみたの。\n盛り上げに貢献できればいいんだけれど。",
+         "为了配合雏祭试着换上了这身衣服。要是能为节日增添一份气氛就好了。"
+      ]
    },
    {
       "id": 4010801,

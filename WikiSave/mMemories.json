@@ -1798,5 +1798,50 @@
         "sub_effect_id1": 63130003,
         "sell_price": 10656,
         "start_time": "2026-02-19 13:00:00"
+    },
+    {
+        "id": 4120122,
+        "ml_name": [
+            "桃花の宴 乙女たちの集い",
+            "en"
+        ],
+        "index": "121",
+        "rarity": 4,
+        "image_index": 4120126,
+        "main_effect_id1": 54130002,
+        "main_effect_id2": 54130406,
+        "sub_effect_id1": 63130006,
+        "sell_price": 3552,
+        "start_time": "2026-02-27 13:00:00"
+    },
+    {
+        "id": 4120123,
+        "ml_name": [
+            "健やかな成長を祈願して",
+            "en"
+        ],
+        "index": "122",
+        "rarity": 5,
+        "image_index": 4120132,
+        "main_effect_id1": 55130001,
+        "main_effect_id2": 55440023,
+        "sub_effect_id1": 63130003,
+        "sell_price": 10656,
+        "start_time": "2026-02-27 13:00:00"
+    },
+    {
+        "id": 4120124,
+        "ml_name": [
+            "はじまりの相談",
+            "en"
+        ],
+        "index": "123",
+        "rarity": 5,
+        "image_index": 4120050,
+        "main_effect_id1": 55130002,
+        "main_effect_id2": 55130002,
+        "sub_effect_id1": 63130002,
+        "sell_price": 10656,
+        "start_time": "2026-02-27 13:00:00"
     }
 ]

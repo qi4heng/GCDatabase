@@ -12397,6 +12397,121 @@
         ]
     },
     {
+        "id": 10213030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4010212_1030",
+        "ml_word": [
+            "セキエンに着付けを教えてもらったから、\n着物の構造がすごくよくわかったんだ。\n絵に応用したり、館長にもまた着付けをしたり、\n色々やってみたいな。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010212,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10213040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010212_1040",
+        "ml_word": [
+            "今の子どもたちって、みんなしっかりしてるよね。\nわたしなんかよりもよっぽど……うぅ。\nでも……もっとしっかりしないと、だよね。\n館長にも安心して、街案内を任せてほしいから……。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010212,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10213050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010212_1050",
+        "ml_word": [
+            "ひな祭りの甘酒にはアルコールが入ってないんだって。\nこれなら、わたしも美味しく飲めるかも。\n酔わないなら前みたいな失敗……しないといいな。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010212,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10213060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010212_1060",
+        "ml_word": [
+            "桃の木には、魔除けの効果があるって聞いたんだ。\nだから、桃の木の枝も用意してみたの。\n子どもたちが健やかに育ちますようにって、\n願って……。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010212,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10213070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4010212_1070",
+        "ml_word": [
+            "館長とおそろいの衣装、\n嬉しいけどなんだか緊張する……。\n本当におひな様になれたみたいで……。\nずっととドキドキしてるの、館長にバレてないよね？",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010212,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 10302030,
         "scene_type": 1,
         "trigger": 5,
@@ -14230,6 +14345,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 4,
         "layer_id": 4010404,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10406030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4010405_1030",
+        "ml_word": [
+            "コンコン！　と狐は鳴くというが、本当なのだろうか。\nう～む、がぜん気になってきた……はっ！　もしかして\nコンコン！　というのは狐の妖怪の鳴き声なのでは？\nよぅし館長！　確かめに行こうじゃないか！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 4,
+        "layer_id": 4010405,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10406040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010405_1040",
+        "ml_word": [
+            "先ほどサンソヴィーノにばったり会ったら、\n「普段と雰囲気が違う」と言われてしまってね。\n……まさか、妖怪がわたしの近くにいるからじゃ\nないだろうね！？",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 4,
+        "layer_id": 4010405,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10406050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010405_1050",
+        "ml_word": [
+            "館長、見てくれよこの衣装。素敵だろう？\n伝説の狐の妖怪をモチーフにしたものなんだけど……\nふふっ、すっかり館長も魅了されてしまったようだね！",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 4,
+        "layer_id": 4010405,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10406060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010405_1060",
+        "ml_word": [
+            "このつぶては『殺生石』かのようだね。\n美女に化ける狐の妖怪にまつわる\n恐ろしい石なのだが……。\n――この話は長くなるから、今度聞いて貰うとしよう。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 4,
+        "layer_id": 4010405,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10406070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4010405_1070",
+        "ml_word": [
+            "あっ、また館長が来客女性を楽しげに案内しているね。\n接客も業務の一環とはいえ……\nああも簡単に篭絡されてしまうのはどうかと思うよ！",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 4,
+        "layer_id": 4010405,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -18485,6 +18715,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 7,
         "layer_id": 4010711,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10713030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4010712_1030",
+        "ml_word": [
+            "やだ、館長……そんなに期待した目で見ないで。\n楽器の演奏ならなんでも得意という訳ではないの。\nそんなに見られると……その、恥ずかしいわ。\n……楽しみにしてくれるのは、嬉しいけれど……。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010712,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10713040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010712_1040",
+        "ml_word": [
+            "子どもたちのために私個人でもなにかしたくて、\n東方の楽器の練習をしたの。\nちょっと勝手が違って難しかったけれど、\n子どもたちに喜んでもらえてよかったわ。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010712,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10713050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010712_1050",
+        "ml_word": [
+            "ひな壇に飾る人形には、役割があるんですって。\nおひな様のサポートをしたり、場を盛り上げたり……。\n私も市議として、子どもたちや市民を支えられる、\nそんな存在になりたいわね。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010712,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10713060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010712_1060",
+        "ml_word": [
+            "ひな祭りは子どもの成長を願うお祭り。でも、\n大人として……藝術家としてもとても興味深いわ。\n綺麗に花が描かれた屏風や雪洞の淡い光を見ていると、\nなんだか制作意欲が湧いてくるの。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010712,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10713070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4010712_1070",
+        "ml_word": [
+            "楽しそうな親子の姿を見るとこちらまで嬉しくなるわ。\n……私もいつか、ああいう風に……。\nっ……や、やだっ、私ったらなにを想像して……！",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-03-03 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010712,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -35842,6 +36187,582 @@
         "start_time": "2022-08-01 00:00:00",
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 56,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "ベースアップ",
+            "en"
+        ]
+    },
+    {
+        "id": 15701070,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1070",
+        "ml_word": [
+            "信愛度Lv2",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 2,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv2",
+            "en"
+        ]
+    },
+    {
+        "id": 15701080,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1080",
+        "ml_word": [
+            "信愛度Lv3",
+            "en"
+        ],
+        "word_key": 1080,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 3,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv3",
+            "en"
+        ]
+    },
+    {
+        "id": 15701090,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1090",
+        "ml_word": [
+            "信愛度Lv4",
+            "en"
+        ],
+        "word_key": 1090,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv4",
+            "en"
+        ]
+    },
+    {
+        "id": 15701100,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1100",
+        "ml_word": [
+            "信愛度Lv5",
+            "en"
+        ],
+        "word_key": 1100,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 5,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv5",
+            "en"
+        ]
+    },
+    {
+        "id": 15701110,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1110",
+        "ml_word": [
+            "信愛度Lv6",
+            "en"
+        ],
+        "word_key": 1110,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 6,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv6",
+            "en"
+        ]
+    },
+    {
+        "id": 15701120,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1120",
+        "ml_word": [
+            "信愛度Lv7",
+            "en"
+        ],
+        "word_key": 1120,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv7",
+            "en"
+        ]
+    },
+    {
+        "id": 15701130,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1130",
+        "ml_word": [
+            "信愛度Lv8",
+            "en"
+        ],
+        "word_key": 1130,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 8,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv8",
+            "en"
+        ]
+    },
+    {
+        "id": 15701140,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1140",
+        "ml_word": [
+            "信愛度Lv9",
+            "en"
+        ],
+        "word_key": 1140,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 9,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv9",
+            "en"
+        ]
+    },
+    {
+        "id": 15701150,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1150",
+        "ml_word": [
+            "信愛度Lv10",
+            "en"
+        ],
+        "word_key": 1150,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv10",
+            "en"
+        ]
+    },
+    {
+        "id": 15701200,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1200",
+        "ml_word": [
+            "レベルアップ",
+            "en"
+        ],
+        "word_key": 1200,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "レベルアップ",
+            "en"
+        ]
+    },
+    {
+        "id": 15701210,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1210",
+        "ml_word": [
+            "技法強化",
+            "en"
+        ],
+        "word_key": 1210,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "技法強化",
+            "en"
+        ]
+    },
+    {
+        "id": 15701220,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1220",
+        "ml_word": [
+            "ベースアップ",
+            "en"
+        ],
+        "word_key": 1220,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 57,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "ベースアップ",
+            "en"
+        ]
+    },
+    {
+        "id": 15801070,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1070",
+        "ml_word": [
+            "信愛度Lv2",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 2,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv2",
+            "en"
+        ]
+    },
+    {
+        "id": 15801080,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1080",
+        "ml_word": [
+            "信愛度Lv3",
+            "en"
+        ],
+        "word_key": 1080,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 3,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv3",
+            "en"
+        ]
+    },
+    {
+        "id": 15801090,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1090",
+        "ml_word": [
+            "信愛度Lv4",
+            "en"
+        ],
+        "word_key": 1090,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv4",
+            "en"
+        ]
+    },
+    {
+        "id": 15801100,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1100",
+        "ml_word": [
+            "信愛度Lv5",
+            "en"
+        ],
+        "word_key": 1100,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 5,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv5",
+            "en"
+        ]
+    },
+    {
+        "id": 15801110,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1110",
+        "ml_word": [
+            "信愛度Lv6",
+            "en"
+        ],
+        "word_key": 1110,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 6,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv6",
+            "en"
+        ]
+    },
+    {
+        "id": 15801120,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1120",
+        "ml_word": [
+            "信愛度Lv7",
+            "en"
+        ],
+        "word_key": 1120,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv7",
+            "en"
+        ]
+    },
+    {
+        "id": 15801130,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1130",
+        "ml_word": [
+            "信愛度Lv8",
+            "en"
+        ],
+        "word_key": 1130,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 8,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv8",
+            "en"
+        ]
+    },
+    {
+        "id": 15801140,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1140",
+        "ml_word": [
+            "信愛度Lv9",
+            "en"
+        ],
+        "word_key": 1140,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 9,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv9",
+            "en"
+        ]
+    },
+    {
+        "id": 15801150,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1150",
+        "ml_word": [
+            "信愛度Lv10",
+            "en"
+        ],
+        "word_key": 1150,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv10",
+            "en"
+        ]
+    },
+    {
+        "id": 15801200,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1200",
+        "ml_word": [
+            "レベルアップ",
+            "en"
+        ],
+        "word_key": 1200,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "レベルアップ",
+            "en"
+        ]
+    },
+    {
+        "id": 15801210,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1210",
+        "ml_word": [
+            "技法強化",
+            "en"
+        ],
+        "word_key": 1210,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "技法強化",
+            "en"
+        ]
+    },
+    {
+        "id": 15801220,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1220",
+        "ml_word": [
+            "ベースアップ",
+            "en"
+        ],
+        "word_key": 1220,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 58,
         "layer_id": 0,
         "min_love_point_level": -1,
         "max_love_point_level": -1,

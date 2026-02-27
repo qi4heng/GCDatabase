@@ -470,7 +470,7 @@
         "main_image_index": 3200021,
         "sub_image_index": 0,
         "sound_index": 0,
-        "flavor_text": "破壊時、範囲内の敵に威力[[main_effects_power_3]%]の物理ダメージ（物理エレメント）/藝術家の移動[[side_effects_power_1]]増加＜[[side_effects_turn_1]ターン]＞/弾き飛ばし引き寄せ可",
+        "flavor_text": "破壊時、範囲内の敵に威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）/藝術家の移動[[side_effects_power_1]]増加＜[[side_effects_turn_1]ターン]＞/弾き飛ばし引き寄せ可",
         "through_ally": 0,
         "through_unit_types": 1,
         "force_movable": true
@@ -498,7 +498,7 @@
         "main_image_index": 3200021,
         "sub_image_index": 0,
         "sound_index": 0,
-        "flavor_text": "エネミーの攻撃や接触に反応して爆発/威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）/弾き飛ばし引き寄せ可/確率で自己複製/藝術家の移動[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞/",
+        "flavor_text": "エネミーの攻撃や接触に反応して爆発/威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）/弾き飛ばし引き寄せ可/確率で自己複製/藝術家の移動[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 1,
         "force_movable": true
