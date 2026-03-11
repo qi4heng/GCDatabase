@@ -5270,6 +5270,68 @@
         "adult_no_voice": 0
     },
     {
+      "id": 4020090,
+      "ml_name": [
+         "ムーラン(Made Happy♪)",
+         "en",
+         "穆兰(Made Happy♪)"
+      ],
+      "level_group_id": 5,
+      "rarity": 5,
+      "weapon_type": 1,
+      "buff_skill_id": 25090001,
+      "attack_skill_id": 15090001,
+      "ultimate_skill_id": 35090001,
+      "fusion_skill_id": 44200008,
+      "change_turn": 3,
+      "image_index": 4020090,
+      "sound_index": 4020090,
+      "ml_personality": [
+         "性格",
+         "en"
+      ],
+      "ml_birthday": [
+         "99/99",
+         "en"
+      ],
+      "ml_height": [
+         "128cm",
+         "en"
+      ],
+      "ml_size": [
+         "B83・W51・H68",
+         "en"
+      ],
+      "unit_id": 1,
+      "ml_cv_name": [
+         "花咲ねね",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "ルノワールの絵画から生まれたイマージュの少女。\n主人が仕立てたメイド風の制服衣装を纏い、\nくるっと華麗にターンを決めてカフェでの給仕に勤しむ。\nトレイにはたくさんの焼き菓子が載せられているが、\n彼女のおすすめはもちろん“ガレット”である。",
+         "en",
+         "从雷诺阿画作中诞生的形象少女。\n身着主人亲手缝制的女仆风格制服，\n轻巧华丽地旋转一圈，勤勉于咖啡馆的侍应工作。\n托盘上满载着各式烤点心\n——而她最推荐的，自然是“葛雷特酥饼”。"
+      ],
+      "ml_illustrator_name": [
+         "未記入",
+         "en"
+      ],
+      "ml_roots": [
+         "ムーラン・ド・ラ・ギャレット",
+         "en",
+         "煎饼磨坊的舞会",
+         "<span lang=\"fr\">Bal du moulin de la Galette</span>"
+      ],
+      "ml_get_message": [
+         "ゴシュジンにもらったこの制服、とっても気に入ってるのだ♪\nほら、カンチョーも、もっとよく見て、たくさん褒めてほしいのだ！",
+         "en",
+         "主人给的这件制服，我好喜欢好喜欢♪\n来嘛，馆长也再多看看，多夸夸我嘛！"
+      ],
+      "favorite_type": 4,
+      "start_time": "2026-03-23 13:00:00",
+      "adult_no_voice": 0
+    },
+    {
         "id": 99910,
         "ml_name": [
             "グラマンシュ",

@@ -2520,6 +2520,27 @@
         "ml_effect_flavor": []
     },
     {
+        "id": 4111310,
+        "enhance_group_id": 55,
+        "disassemble_group_id": 203,
+        "rarity": 5,
+        "site_type": 5,
+        "unit_id": 13,
+        "lock_type": 2,
+        "reduce_element_type": 4,
+        "image_index": 4111310,
+        "country_type": 0,
+        "ml_name": [
+            "偽善の結晶短剣",
+            ""
+        ],
+        "ml_flavor_text": [
+            "異なる未来を生きるセザンヌの力を宿した結晶武器。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
         "id": 4111401,
         "enhance_group_id": 14,
         "disassemble_group_id": 114,

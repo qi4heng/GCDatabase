@@ -705,6 +705,21 @@
         "duration": 0
     },
     {
+        "id": 2051,
+        "ml_name": [
+            "ムーラン祭ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 500,
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-03-31 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2426,6 +2441,51 @@
         "priority": 201,
         "start_time": "2026-02-27 13:30:00",
         "end_time": "2026-03-12 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13233,
+        "ml_name": [
+            "アテネス春の釣り大会ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13606,
+        "ml_name": [
+            "貫く信念は愛に寄り添われログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "2026-03-26 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 15010,
+        "ml_name": [
+            "ムーランのしあわせお給仕ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-03-31 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

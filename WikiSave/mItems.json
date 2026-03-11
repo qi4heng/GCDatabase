@@ -350,6 +350,31 @@
         "is_visible": false
     },
     {
+        "id": 1010015,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※4/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "2026-04-07 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1015001,
         "item_type": 101,
         "value1": 120,
@@ -572,6 +597,31 @@
         ],
         "start_time": "2026-01-22 13:00:00",
         "end_time": "2026-01-30 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1015010,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※3/31まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-03-31 23:59:59",
         "is_visible": false
     },
     {
@@ -925,6 +975,31 @@
         "is_visible": false
     },
     {
+        "id": 1020015,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※4/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "2026-04-07 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1025001,
         "item_type": 102,
         "value1": 12,
@@ -1147,6 +1222,31 @@
         ],
         "start_time": "2026-01-22 13:00:00",
         "end_time": "2026-01-30 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1025010,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※3/31まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-03-31 23:59:59",
         "is_visible": false
     },
     {
@@ -5900,6 +6000,31 @@
         "is_visible": false
     },
     {
+        "id": 1121210,
+        "item_type": 112,
+        "value1": 4011210,
+        "value2": 0,
+        "sort": 112,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121210,
+        "ml_name": [
+            "【港の町の釣り娘】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ブグローの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121301,
         "item_type": 112,
         "value1": 4011301,
@@ -6110,6 +6235,31 @@
         "image_index": 1121309,
         "ml_name": [
             "【寄り添いの接客】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セザンヌの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121310,
+        "item_type": 112,
+        "value1": 4011310,
+        "value2": 0,
+        "sort": 117,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121310,
+        "ml_name": [
+            "【偽善のオルタ】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -6560,6 +6710,31 @@
         "image_index": 1121603,
         "ml_name": [
             "【幸福クリエイター】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ルノワールの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121604,
+        "item_type": 112,
+        "value1": 4011604,
+        "value2": 0,
+        "sort": 120,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121604,
+        "ml_name": [
+            "【スプリングガール】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -12725,6 +12900,31 @@
         "is_visible": false
     },
     {
+        "id": 1511103,
+        "item_type": 151,
+        "value1": 433,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511103,
+        "ml_name": [
+            "ストーリーキー【アテネス春の釣り大会】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「アテネス春の釣り大会」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "春の釣り大会の物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1511123,
         "item_type": 151,
         "value1": 430,
@@ -17425,6 +17625,31 @@
         "is_visible": false
     },
     {
+        "id": 1630195,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630195,
+        "ml_name": [
+            "アテネス春の釣り大会ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス春の釣り大会ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-24 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630196,
         "item_type": 702,
         "value1": 0,
@@ -17447,6 +17672,106 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-03-13 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630197,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630197,
+        "ml_name": [
+            "ムーランのしあわせお給仕ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "ムーランのしあわせお給仕ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-02 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630199,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630100,
+        "ml_name": [
+            "イマージュ復刻ピックアップガチャチケット21",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきイマージュ復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イマージュ復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-21 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630200,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット33",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-30 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630201,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630142,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～セザンヌ～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～セザンヌ～チケットを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-26 12:59:59",
         "is_visible": false
     },
     {
@@ -21750,6 +22075,106 @@
         "is_visible": false
     },
     {
+        "id": 1640177,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640177,
+        "ml_name": [
+            "アテネス春の釣り大会のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でアテネス春の釣り大会ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-26 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640178,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640178,
+        "ml_name": [
+            "ムーランのしあわせお給仕のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でムーランのしあわせお給仕ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-04 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640179,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640179,
+        "ml_name": [
+            "イマージュ復刻のしおり21",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でイマージュ復刻ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-03-23 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640180,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640180,
+        "ml_name": [
+            "スタイル復刻のしおり33",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-01 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640182,
         "item_type": 162,
         "value1": 0,
@@ -21772,6 +22197,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-03-07 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640185,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640006,
+        "ml_name": [
+            "レイド応援のしおり青",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-02 12:59:59",
         "is_visible": false
     },
     {
@@ -24975,6 +25425,56 @@
         "is_visible": false
     },
     {
+        "id": 1650131,
+        "item_type": 801,
+        "value1": 3233,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650131,
+        "ml_name": [
+            "木彫りのルアー",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「アテネス春の釣り大会」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "魚の鱗まで再現された、細工が美しい木製ルアー。\n水中で本物の魚のように泳ぎ、獲物の食いつきを誘う。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650132,
+        "item_type": 803,
+        "value1": 5010,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650084,
+        "ml_name": [
+            "死の結晶・赤",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「ムーランのしあわせお給仕【P.C.】」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650141,
         "item_type": 801,
         "value1": 3230,
@@ -26239,6 +26739,31 @@
         ],
         "ml_description": [
             "レイドイベント「本能の銃弾と存在の理由」に挑戦するために必要となる挑戦券。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大規模な戦闘に挑戦するために必要となるスクロール。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1661010,
+        "item_type": 171,
+        "value1": 5010,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1661001,
+        "ml_name": [
+            "レイド挑戦券",
+            "EN"
+        ],
+        "ml_description": [
+            "レイドイベント「ムーランのしあわせお給仕」に挑戦するために必要となる挑戦券。",
             "EN"
         ],
         "ml_flavor_text": [

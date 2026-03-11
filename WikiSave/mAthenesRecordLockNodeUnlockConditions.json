@@ -120,6 +120,18 @@
         "value2": 4
     },
     {
+        "id": 31007,
+        "unlock_type": 1,
+        "value1": 4011310,
+        "value2": 2
+    },
+    {
+        "id": 31008,
+        "unlock_type": 1,
+        "value1": 4011310,
+        "value2": 4
+    },
+    {
         "id": 32001,
         "unlock_type": 2,
         "value1": 4020071,
@@ -160,6 +172,12 @@
         "unlock_type": 1,
         "value1": 4010711,
         "value2": 4
+    },
+    {
+        "id": 42001,
+        "unlock_type": 2,
+        "value1": 4020090,
+        "value2": 3
     },
     {
         "id": 51001,

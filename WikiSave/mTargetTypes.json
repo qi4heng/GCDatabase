@@ -1650,6 +1650,39 @@
         "description": "範囲内外問わず現在体力割合が低い味方3体"
     },
     {
+        "id": 1731,
+        "type_bits": 2,
+        "sort_type": 8,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 1,
+        "ignore_range": 1,
+        "description": "範囲内外問わず現在体力割合が高い味方1体"
+    },
+    {
+        "id": 1732,
+        "type_bits": 2,
+        "sort_type": 8,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 2,
+        "ignore_range": 1,
+        "description": "範囲内外問わず現在体力割合が高い味方2体"
+    },
+    {
+        "id": 1733,
+        "type_bits": 2,
+        "sort_type": 8,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 3,
+        "ignore_range": 1,
+        "description": "範囲内外問わず現在体力割合が高い味方3体"
+    },
+    {
         "id": 1821,
         "type_bits": 2,
         "sort_type": 3,

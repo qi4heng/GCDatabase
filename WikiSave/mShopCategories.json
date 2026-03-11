@@ -1736,6 +1736,34 @@
         "end_time": ""
     },
     {
+        "id": 6004,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "ムーランのしあわせお給仕",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
+        "id": 6005,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "アテネス春の釣り大会",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 701,
         "type": 5,
         "group_type": 0,
@@ -4141,6 +4169,76 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 26577,
+        "end_time": ""
+    },
+    {
+        "id": 878,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：レイド応援",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 65002,
+        "end_time": ""
+    },
+    {
+        "id": 879,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：ムーランのしあわせお給仕",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 23100,
+        "end_time": ""
+    },
+    {
+        "id": 880,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：アテネス春の釣り大会",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21118,
+        "end_time": ""
+    },
+    {
+        "id": 881,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：イマージュ復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 27051,
+        "end_time": ""
+    },
+    {
+        "id": 882,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：スタイル復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 26579,
         "end_time": ""
     },
     {

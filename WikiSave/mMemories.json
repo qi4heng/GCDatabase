@@ -1843,5 +1843,35 @@
         "sub_effect_id1": 63130002,
         "sell_price": 10656,
         "start_time": "2026-02-27 13:00:00"
+    },
+    {
+        "id": 4120125,
+        "ml_name": [
+            "釣りは協力プレイだ！",
+            "en"
+        ],
+        "index": "124",
+        "rarity": 4,
+        "image_index": 4120150,
+        "main_effect_id1": 54130001,
+        "main_effect_id2": 54131204,
+        "sub_effect_id1": 63130003,
+        "sell_price": 3552,
+        "start_time": "2026-03-11 13:00:00"
+    },
+    {
+        "id": 4120126,
+        "ml_name": [
+            "おすすめはガレットなのだ♪",
+            "en"
+        ],
+        "index": "125",
+        "rarity": 4,
+        "image_index": 4120151,
+        "main_effect_id1": 54130003,
+        "main_effect_id2": 54131604,
+        "sub_effect_id1": 63130004,
+        "sell_price": 3552,
+        "start_time": "2026-03-23 13:00:00"
     }
 ]

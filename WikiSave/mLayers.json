@@ -6140,6 +6140,58 @@
       ]
    },
    {
+      "id": 4011210,
+      "unit_id": 12,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 2,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3474,
+      "atk": 85,
+      "mnd": 44,
+      "def": 60,
+      "dex": 79,
+      "spd": 55,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130004,
+      "skill_id1": 21210001,
+      "skill_id2": 21210002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11210001,
+      "ultimate_skill_id": 31210001,
+      "duplicated_item_id": 1121210,
+      "duplicated_item_count": 1,
+      "sort_order": 1210,
+      "image_index": 4011210,
+      "ai_group_id": 0,
+      "sound_index": 4011210,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|3|0|0",
+      "start_time": "2026-03-11 13:30:00",
+      "ml_name": [
+         "港の町の釣り娘",
+         "港镇的钓鱼娘"
+      ],
+      "ml_flavor_text": [
+         "潮の香りを纏う釣り人スタイル。\n魚も敵も釣りまくるテクニックに注目！",
+         "身缠海潮气息的钓鱼佬造型。\n无论是鱼还是敌人都能够钓上的超绝技巧——敬请注目！"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "このわたしに、\n釣れないものなどない！",
+         "没有我钓不上的东西！"
+      ],
+      "ml_get_message": [
+         "釣り師ブグロー、ここに推参！\n魚でもパンツでも、なんでも釣ってみせるよ！",
+         "钓鱼老师布格罗、于此闪亮登场！\n鱼也好胖次也好、全都钓给你看！"
+      ]
+   },
+   {
       "id": 4011301,
       "unit_id": 13,
       "rarity": 3,
@@ -6572,6 +6624,58 @@
       "ml_get_message": [
          "今日はスーツでパリッと決めてみました～。\nちょっとかっこいいでしょう～？　ふふっ♪",
          "今天试着穿了西装，打扮得笔挺利落哦～。还算帅气吧～？ 呵呵♪"
+      ]
+   },
+   {
+      "id": 4011310,
+      "unit_id": 13,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 2,
+      "collabo_type": 0,
+      "another_type": 1,
+      "hp": 4145,
+      "atk": 92,
+      "mnd": 55,
+      "def": 56,
+      "dex": 99,
+      "spd": 152,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15480002,
+      "skill_id1": 21310001,
+      "skill_id2": 21310002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11310001,
+      "ultimate_skill_id": 31310001,
+      "duplicated_item_id": 1121310,
+      "duplicated_item_count": 1,
+      "sort_order": 1310,
+      "image_index": 4011310,
+      "ai_group_id": 0,
+      "sound_index": 4011310,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|2|3|0",
+      "start_time": "2026-03-18 13:00:00",
+      "ml_name": [
+         "偽善のオルタ",
+         "伪善的Alter"
+      ],
+      "ml_flavor_text": [
+         "善なる行為は拒絶され、嘲笑された。\nならば偽善の為に全てから目を閉じよう。",
+         "善行遭拒，反被讥嘲。\n既然如此，不如为这伪善闭上双眼，不再看这世间分毫。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "わたしの手を取って\n自由に生きてみませんか～？",
+         "试着牵起我的手，自由地活着如何～？"
+      ],
+      "ml_get_message": [
+         "敵は跡形も残らないように滅ぼします～。\nさあ館長さん、わたしを使ってください～。",
+         "把敌人赶尽杀绝~。\n来吧馆长，请使用我吧~。"
       ]
    },
    {
@@ -7451,6 +7555,58 @@
       "ml_get_message": [
          "自分で仕立てたこのお洋服、とっても上手にできました……！\nえへへ、やっぱりフリルは正義ですよね！",
          "这件自己缝制的洋装，做得非常成功呢……！欸嘿嘿，果然褶边就是正义没错吧！"
+      ]
+   },
+   {
+      "id": 4011604,
+      "unit_id": 16,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 2,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3201,
+      "atk": 93,
+      "mnd": 64,
+      "def": 54,
+      "dex": 47,
+      "spd": 103,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130006,
+      "skill_id1": 21604001,
+      "skill_id2": 21604002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11604001,
+      "ultimate_skill_id": 31604001,
+      "duplicated_item_id": 1121604,
+      "duplicated_item_count": 1,
+      "sort_order": 1604,
+      "image_index": 4011604,
+      "ai_group_id": 0,
+      "sound_index": 4011604,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|3|0|0",
+      "start_time": "2026-03-11 13:30:00",
+      "ml_name": [
+         "スプリングガール",
+         "春日少女"
+      ],
+      "ml_flavor_text": [
+         "春の訪れを喜ぶヘルシーなコーデ。\n美しく絵付けされた水瓶は彼女のお手製。",
+         "喜迎春日的元气穿搭。\n那只彩绘精美的水瓶出自她之手。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "涼しげにオシャレして楽しい\nお出かけの始まりです！",
+         "打扮得好凉爽好开心！\n要开始出门咯！"
+      ],
+      "ml_get_message": [
+         "えと、普段はアトリエに閉じこもっていることが多いので、たまには\nお出かけしなくちゃと思っていて……館長さん、付き合ってくれますか？",
+         "那个...平时我总是闷在画室里，想着偶尔也该出去走走...馆长先生，可以陪我一起吗？"
       ]
    },
    {

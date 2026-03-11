@@ -9358,5 +9358,221 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1323301,
+        "login_bonus_id": 13233,
+        "layer_id": 4011210,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4011200_1160",
+        "ml_word": [
+            "やぁ館長、おかえり！\n今日も楽しく女の子を愛でよう！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1323302,
+        "login_bonus_id": 13233,
+        "layer_id": 4011210,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4011200_1170",
+        "ml_word": [
+            "次はこれがもらえるよ！\nわくわくしてきたかな？\nまた明日、待ってるよ！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1323303,
+        "login_bonus_id": 13233,
+        "layer_id": 4011210,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4011200_1180",
+        "ml_word": [
+            "はいっ、今日が最終日！\n特別にこれをプレゼント！\nよくがんばったね！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1360601,
+        "login_bonus_id": 13606,
+        "layer_id": 4011310,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_40113109_1160",
+        "ml_word": [
+            "こちらが預かり物です～。\nぜひお役に立ててください～。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1360602,
+        "login_bonus_id": 13606,
+        "layer_id": 4011310,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_40113109_1170",
+        "ml_word": [
+            "明日の分も用意してありますから\n必ずまたいらしてくださいね？",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1360603,
+        "login_bonus_id": 13606,
+        "layer_id": 4011310,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_40113109_1180",
+        "ml_word": [
+            "渡せるものはもうありませんが、\nわたしに頼みたいことがあれば、\nいつでも言いに来てください～。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1501001,
+        "login_bonus_id": 15010,
+        "layer_id": 0,
+        "subunit_id": 4020090,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4020090_1060",
+        "ml_word": [
+            "カンチョー！　\nお待たせなのだー！\n荷物のお届けなのだ！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1501002,
+        "login_bonus_id": 15010,
+        "layer_id": 0,
+        "subunit_id": 4020090,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4020090_1070",
+        "ml_word": [
+            "むぅ！　\n次はこれがもらえるのか！\nワタシも楽しみなのだー！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1501003,
+        "login_bonus_id": 15010,
+        "layer_id": 0,
+        "subunit_id": 4020090,
+        "login_count": 5,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4020090_1080",
+        "ml_word": [
+            "準備バッチリ！\n今日も元気に\nゴアンナイするのだー！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 205101,
+        "login_bonus_id": 2051,
+        "layer_id": 0,
+        "subunit_id": 4020051,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4020051_1060",
+        "ml_word": [
+            "おはよーカンチョー！\nはい、これあげるのだ！\n今日も楽しく頑張るのだ！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 205102,
+        "login_bonus_id": 2051,
+        "layer_id": 0,
+        "subunit_id": 4020051,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4020051_1070",
+        "ml_word": [
+            "もっと欲しいのか？\nなら次はこれをあげるのだ！\nだから、また会いにくるのだ。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 205103,
+        "login_bonus_id": 2051,
+        "layer_id": 0,
+        "subunit_id": 4020051,
+        "login_count": 6,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4020051_1080",
+        "ml_word": [
+            "これで最後なのだ！\nカンチョーよく頑張ったのだ！\nお祝いに後で踊ってあげるのだ！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
     }
 ]

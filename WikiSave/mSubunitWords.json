@@ -23118,5 +23118,277 @@
         "start_time": "2022-08-01 00:00:00",
         "end_time": "2030-08-01 23:59:59",
         "subunit_id": 4020088
+    },
+    {
+        "id": 1425,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020090_1400",
+        "ml_word": [
+            "せっかくだから、今日はメイドさんとして\nカンチョーの身の回りのお世話をするのだ！\nさぁ、カンチョーはワタシになにをしてほしいのだ？\n遠慮せず言うのだー！",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1426,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020090_1410",
+        "ml_word": [
+            "ようこそなのだ～！　ご用件をどーぞ！\nなければワタシと一緒に踊るのだ！\nえへん、どうだカンチョー！\nカフェで練習したから、接客もバッチリなのだ！",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1427,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020090_1420",
+        "ml_word": [
+            "カンチョーは、なにか好きなお菓子はあるのか？\nワタシはもちろんガレットなのだ！\nざくざくほろほろの食感がサイコーで……\nじゅるりっ……思わずよだれが出ちゃうのだ〜。",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1428,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020090_1430",
+        "ml_word": [
+            "このお洋服、ゴシュジンが仕立ててくれたのだ！\nワタシのゴシュジンは、絵だけじゃなくて、\nお裁縫も大得意なのだ。\nイマージュとして誇らしいのだ。えっへん！",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1429,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020090_1440",
+        "ml_word": [
+            "おかえりなさいませ、カンチョーさま?\nえへへ、どーだ！　ゴシュジンから\n教えてもらった決め台詞なのだー！\nキュンキュンしたのだ？",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1430,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4020090_1450",
+        "ml_word": [
+            "むぅ〜……\nシャティはまたお昼寝してるのか？\nいっしょにお仕事頼まれてたのに……。\nあとで捜しにいかなきゃいけないのだ。",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1431,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4020051_1460",
+        "ml_word": [
+            "ふぁぁ……おはようなのだ……。\nえっ、もうお正月？　いつの間にー！？\nそれならオトシダマちょうだいちょうだい！",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1432,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4020051_1470",
+        "ml_word": [
+            "カンチョー！　チョコレート食べるのだ！\nはい、これはカンチョーのぶん。\nこっちはワタシのぶん。\nはんぶんこすれば、ふたりともおいしいのだ！",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1433,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020051_1480",
+        "ml_word": [
+            "トリックオアトリートなのだ！\nお菓子をくれないと、カンチョーのそばで\n永遠に踊り続けちゃうぞぉ……！\n……ほ、本当に嫌そうな顔するのやめるのだー！",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1434,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020051_1490",
+        "ml_word": [
+            "カンチョーカンチョー！\nクリスマスなのだ！　プレゼントなのだ！\nワタシ、新しいシューズが欲しいのだ！\nサンタさんを迎える踊りの練習もしてきたのだー！",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1435,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020051_1500",
+        "ml_word": [
+            "うう……寒っ……！\nこんな時は踊って体を温めるのだーっ！\nほらカンチョーも一緒に一緒に！\n来年までずっと踊ってるのだーっ！",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1436,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020051_1510",
+        "ml_word": [
+            "お？　カンチョー、今日が誕生日なのか？\nおめでとーっ！　すごいのだ！\nよーし、今日はワタシがお祝いしてあげるのだ！\n楽しい１日にしてあげるのだー！",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1437,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4020090_1520",
+        "ml_word": [
+            "ゴシュジンはきっと、ひとりで没頭する時間が必要な\nタイプなのだ。だからワタシ、本当はいつも一緒に\nいたいのを、ぐっと我慢しているのだ～！\nむむむぅ～……ガマン、ガマン～！",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1438,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020090_1530",
+        "ml_word": [
+            "ゴシュジンはワタシのこと、\nいつもかわいいって言って褒めてくれるのだ。\nゴシュジンもふわふわのふりふりでかわいいから、\nお揃いみたいで嬉しいのだー！",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1439,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020090_1540",
+        "ml_word": [
+            "じゃじゃーん！　クッキーを焼いてきたのだ！\nトクベツに、カンチョーには最初に食べさせて\nあげるのだ！　ほら、あ～ん♪\n……へへ〜、どう？　美味しかったのだ？",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
+    },
+    {
+        "id": 1440,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020090_1550",
+        "ml_word": [
+            "むぅ〜……お菓子いっぱい食べたから、\nなんだか眠たくなってきたのだ……。\nカンチョー……ワタシが居眠りしないように、\nそばで見守っててほしいのだぁ……。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020090
     }
 ]

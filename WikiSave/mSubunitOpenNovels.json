@@ -2293,5 +2293,32 @@
         "item_id": 0,
         "item_count": 0,
         "open_subunit_novel_id": 0
+    },
+    {
+        "id": 268,
+        "subunit_id": 4020090,
+        "novel_id": 40200901,
+        "item_type": 115,
+        "item_id": 1150011,
+        "item_count": 22,
+        "open_subunit_novel_id": 269
+    },
+    {
+        "id": 269,
+        "subunit_id": 4020090,
+        "novel_id": 40200902,
+        "item_type": 115,
+        "item_id": 1150012,
+        "item_count": 20,
+        "open_subunit_novel_id": 270
+    },
+    {
+        "id": 270,
+        "subunit_id": 4020090,
+        "novel_id": 40200903,
+        "item_type": 0,
+        "item_id": 0,
+        "item_count": 0,
+        "open_subunit_novel_id": 0
     }
 ]

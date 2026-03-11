@@ -29008,6 +29008,174 @@
         ]
     },
     {
+        "id": 108330,
+        "type": 1,
+        "series_no": 1080413,
+        "sub_series_no": 1,
+        "condition_id": 1080413,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ブグロー【港の町の釣り娘】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【港の町の釣り娘】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108331,
+        "type": 1,
+        "series_no": 1080413,
+        "sub_series_no": 2,
+        "condition_id": 1080413,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ブグロー【港の町の釣り娘】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【港の町の釣り娘】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108332,
+        "type": 1,
+        "series_no": 1081604,
+        "sub_series_no": 1,
+        "condition_id": 1081604,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール【スプリングガール】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【スプリングガール】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108333,
+        "type": 1,
+        "series_no": 1081604,
+        "sub_series_no": 2,
+        "condition_id": 1081604,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ルノワール【スプリングガール】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【スプリングガール】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108334,
+        "type": 1,
+        "series_no": 1080213,
+        "sub_series_no": 1,
+        "condition_id": 1080213,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "セザンヌ【偽善のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【偽善のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108335,
+        "type": 1,
+        "series_no": 1080213,
+        "sub_series_no": 2,
+        "condition_id": 1080213,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "セザンヌ【偽善のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【偽善のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 109004,
         "type": 1,
         "series_no": 53,
@@ -33761,6 +33929,62 @@
         ],
         "ml_description": [
             "スニューウ信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109261,
+        "type": 1,
+        "series_no": 40200901,
+        "sub_series_no": 1,
+        "condition_id": 109261,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109261,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ムーラン(Made Happy♪)信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ムーラン(Made Happy♪)信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109262,
+        "type": 1,
+        "series_no": 40200901,
+        "sub_series_no": 2,
+        "condition_id": 109261,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109262,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ムーラン(Made Happy♪)信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ムーラン(Made Happy♪)信愛ストーリー2開放",
             "en"
         ],
         "ml_hint": [
@@ -39753,6 +39977,34 @@
         ],
         "ml_description": [
             "スニューウがレベル上限に到達",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 114088,
+        "type": 1,
+        "series_no": 40200902,
+        "sub_series_no": 1,
+        "condition_id": 114088,
+        "condition_value": 80,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 114088,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ムーラン(Made Happy♪)がレベル上限に到達",
+            "en"
+        ],
+        "ml_description": [
+            "ムーラン(Made Happy♪)がレベル上限に到達",
             "en"
         ],
         "ml_hint": [
@@ -50449,6 +50701,34 @@
         ],
         "ml_description": [
             "モリゾのエプロンLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118100,
+        "type": 1,
+        "series_no": 118100,
+        "sub_series_no": 1,
+        "condition_id": 118123,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "偽善の結晶短剣Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "偽善の結晶短剣Lv10達成",
             "en"
         ],
         "ml_hint": [
@@ -96917,6 +97197,566 @@
         ],
         "ml_description": [
             "アングル【雅なる春の奏楽】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739901,
+        "type": 5,
+        "series_no": 7399,
+        "sub_series_no": 1,
+        "condition_id": 739901,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ブグロー【港の町の釣り娘】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【港の町の釣り娘】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739902,
+        "type": 5,
+        "series_no": 7399,
+        "sub_series_no": 2,
+        "condition_id": 739901,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ブグロー【港の町の釣り娘】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【港の町の釣り娘】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739903,
+        "type": 5,
+        "series_no": 7399,
+        "sub_series_no": 3,
+        "condition_id": 739901,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ブグロー【港の町の釣り娘】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【港の町の釣り娘】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739904,
+        "type": 5,
+        "series_no": 7399,
+        "sub_series_no": 4,
+        "condition_id": 739901,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ブグロー【港の町の釣り娘】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【港の町の釣り娘】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 739905,
+        "type": 5,
+        "series_no": 7399,
+        "sub_series_no": 5,
+        "condition_id": 739901,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ブグロー【港の町の釣り娘】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【港の町の釣り娘】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740001,
+        "type": 5,
+        "series_no": 7400,
+        "sub_series_no": 1,
+        "condition_id": 740001,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ルノワール【スプリングガール】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【スプリングガール】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740002,
+        "type": 5,
+        "series_no": 7400,
+        "sub_series_no": 2,
+        "condition_id": 740001,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ルノワール【スプリングガール】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【スプリングガール】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740003,
+        "type": 5,
+        "series_no": 7400,
+        "sub_series_no": 3,
+        "condition_id": 740001,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ルノワール【スプリングガール】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【スプリングガール】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740004,
+        "type": 5,
+        "series_no": 7400,
+        "sub_series_no": 4,
+        "condition_id": 740001,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ルノワール【スプリングガール】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【スプリングガール】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740005,
+        "type": 5,
+        "series_no": 7400,
+        "sub_series_no": 5,
+        "condition_id": 740001,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-11 13:30:00",
+        "end_time": "2026-03-24 12:59:59",
+        "ml_title": [
+            "ルノワール【スプリングガール】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ルノワール【スプリングガール】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740101,
+        "type": 5,
+        "series_no": 7401,
+        "sub_series_no": 1,
+        "condition_id": 740101,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "2026-03-26 12:59:59",
+        "ml_title": [
+            "セザンヌ【偽善のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【偽善のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740102,
+        "type": 5,
+        "series_no": 7401,
+        "sub_series_no": 2,
+        "condition_id": 740101,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "2026-03-26 12:59:59",
+        "ml_title": [
+            "セザンヌ【偽善のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【偽善のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740103,
+        "type": 5,
+        "series_no": 7401,
+        "sub_series_no": 3,
+        "condition_id": 740101,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "2026-03-26 12:59:59",
+        "ml_title": [
+            "セザンヌ【偽善のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【偽善のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740104,
+        "type": 5,
+        "series_no": 7401,
+        "sub_series_no": 4,
+        "condition_id": 740101,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "2026-03-26 12:59:59",
+        "ml_title": [
+            "セザンヌ【偽善のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【偽善のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740105,
+        "type": 5,
+        "series_no": 7401,
+        "sub_series_no": 5,
+        "condition_id": 740101,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-18 13:00:00",
+        "end_time": "2026-03-26 12:59:59",
+        "ml_title": [
+            "セザンヌ【偽善のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【偽善のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740201,
+        "type": 5,
+        "series_no": 7402,
+        "sub_series_no": 1,
+        "condition_id": 740201,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 740201,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-04-02 12:59:59",
+        "ml_title": [
+            "ムーラン(Made Happy♪)を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ムーラン(Made Happy♪)を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740202,
+        "type": 5,
+        "series_no": 7402,
+        "sub_series_no": 2,
+        "condition_id": 740201,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 740202,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-04-02 12:59:59",
+        "ml_title": [
+            "ムーラン(Made Happy♪)を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ムーラン(Made Happy♪)を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740203,
+        "type": 5,
+        "series_no": 7402,
+        "sub_series_no": 3,
+        "condition_id": 740201,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 740203,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-04-02 12:59:59",
+        "ml_title": [
+            "ムーラン(Made Happy♪)を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ムーラン(Made Happy♪)を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740204,
+        "type": 5,
+        "series_no": 7402,
+        "sub_series_no": 4,
+        "condition_id": 740201,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 740204,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-04-02 12:59:59",
+        "ml_title": [
+            "ムーラン(Made Happy♪)を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ムーラン(Made Happy♪)を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740205,
+        "type": 5,
+        "series_no": 7402,
+        "sub_series_no": 5,
+        "condition_id": 740201,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 740205,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-23 13:00:00",
+        "end_time": "2026-04-02 12:59:59",
+        "ml_title": [
+            "ムーラン(Made Happy♪)を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ムーラン(Made Happy♪)を限界突破+5にしよう",
             "en"
         ],
         "ml_hint": [
