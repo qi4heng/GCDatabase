@@ -532,6 +532,58 @@
       ]
    },
    {
+      "id": 4010112,
+      "unit_id": 1,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2683,
+      "atk": 85,
+      "mnd": 63,
+      "def": 61,
+      "dex": 56,
+      "spd": 98,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130002,
+      "skill_id1": 20112001,
+      "skill_id2": 20112002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10112001,
+      "ultimate_skill_id": 30112001,
+      "duplicated_item_id": 1120112,
+      "duplicated_item_count": 1,
+      "sort_order": 112,
+      "image_index": 4010112,
+      "ai_group_id": 0,
+      "sound_index": 4010112,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|0|2|3",
+      "start_time": "2026-03-31 13:30:00",
+      "ml_name": [
+         "青春メモリアル",
+         "青春纪念"
+      ],
+      "ml_flavor_text": [
+         "桜舞う校門を前に浮き立つ学生スタイル。\n学んでサボって、青春を大満喫！",
+         "在樱花飞舞的校门前雀跃不已的学生造型。\n时而学习，时而偷懒，尽情享受青春！"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "私にもこんな過去が\nあったのかもしれませんね",
+         "说不定我也有过这样青春洋溢的过去。"
+      ],
+      "ml_get_message": [
+         "風にたなびくスカート、そしてこの凛とした佇まい！　どうです、館長！\n私の美少女っぷりに、改めて驚きを隠せないでしょう……！",
+         "随风飘扬的裙摆，还有这凛然的身姿！如何，馆长！\n对于我这美少女的风采，想必您又一次难掩惊叹了吧......！"
+      ]
+   },
+   {
       "id": 4010201,
       "unit_id": 2,
       "rarity": 3,
@@ -4741,6 +4793,58 @@
       ]
    },
    {
+      "id": 4010912,
+      "unit_id": 9,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 3,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 4148,
+      "atk": 80,
+      "mnd": 46,
+      "def": 63,
+      "dex": 28,
+      "spd": 46,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130005,
+      "skill_id1": 20912001,
+      "skill_id2": 20912002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10912001,
+      "ultimate_skill_id": 30912001,
+      "duplicated_item_id": 1120912,
+      "duplicated_item_count": 1,
+      "sort_order": 912,
+      "image_index": 4010912,
+      "ai_group_id": 0,
+      "sound_index": 4010912,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|0|3|2",
+      "start_time": "2026-04-04 13:00:00",
+      "ml_name": [
+         "未知数の学び",
+         "充满未知的学习"
+      ],
+      "ml_flavor_text": [
+         "黒のセーラー服がシックな学生スタイル。\n勉強が苦手な彼女は一般科目で苦戦中…。",
+         "黑色水手服搭配出别致的学生造型。\n不擅长学习的她，正在一般科目上苦战..."
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "勉強は苦手みたいだけど\n学校に行くのは楽しみかも",
+         "虽然好像不太擅长学习，但是或许我还挺期待上学的呢。"
+      ],
+      "ml_get_message": [
+         "学生服に袖を通して、ピカピカのロダンだよ。\n……ちょっと、テンションが上がってるかもしれない。",
+         "是穿上了学生服，闪亮闪亮的罗丹哦。...说不定，我有点兴奋过头了呢。"
+      ]
+   },
+   {
       "id": 4011001,
       "unit_id": 10,
       "rarity": 3,
@@ -5270,6 +5374,58 @@
       "ml_get_message": [
          "この時期は、ファンのみんなのアピールが過激になりがちでね……。\nでも、心配は無用！　この天才が、すべて円満に解決してみせるさ！",
          "这种时期，粉丝们的应援总是容易变得过激呢……\n不过，无需担心！本天才一定会让一切圆满解决的！"
+      ]
+   },
+   {
+      "id": 4011012,
+      "unit_id": 10,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 2,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2178,
+      "atk": 108,
+      "mnd": 78,
+      "def": 48,
+      "dex": 54,
+      "spd": 48,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130006,
+      "skill_id1": 21012001,
+      "skill_id2": 21012002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11012001,
+      "ultimate_skill_id": 31012001,
+      "duplicated_item_id": 1121012,
+      "duplicated_item_count": 1,
+      "sort_order": 1012,
+      "image_index": 4011012,
+      "ai_group_id": 0,
+      "sound_index": 4011012,
+      "country_type": 0,
+      "strong_skill_setting": "0|3|0|2|0",
+      "start_time": "2026-03-31 13:30:00",
+      "ml_name": [
+         "学園のマドンナ",
+         "学园的女神"
+      ],
+      "ml_flavor_text": [
+         "誰もが憧れる人気者が美術学校へ！\n大量のラブレターに本人もご満悦。",
+         "万众瞩目的风云人物踏入美术学校！\n收到了大量的情书，本人亦是喜形于色。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "ぼくの隣の席に座るのは\nもちろんきみだよね？",
+         "坐在我旁边的，当然会是你吧？"
+      ],
+      "ml_get_message": [
+         "廊下を少し歩くだけで、何人もの生徒たちに告白されるんだ。\n学校中の憧れの的……あぁ、ぼくはなんて罪作りなんだろう！",
+         "只是在走廊上走几步，就会有好几个学生来向我告白。\n作为全校憧憬的焦点...啊～我真是罪孽深重啊！"
       ]
    },
    {

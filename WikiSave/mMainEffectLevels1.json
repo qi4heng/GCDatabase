@@ -10402,5 +10402,113 @@
         "skill_main_effect_id": 15090001,
         "level": 6,
         "effect_coefficient": 15000
+    },
+    {
+        "id": 17843,
+        "skill_main_effect_id": 10112001,
+        "level": 1,
+        "effect_coefficient": 12000
+    },
+    {
+        "id": 17844,
+        "skill_main_effect_id": 10112001,
+        "level": 2,
+        "effect_coefficient": 12400
+    },
+    {
+        "id": 17845,
+        "skill_main_effect_id": 10112001,
+        "level": 3,
+        "effect_coefficient": 12800
+    },
+    {
+        "id": 17846,
+        "skill_main_effect_id": 10112001,
+        "level": 4,
+        "effect_coefficient": 13200
+    },
+    {
+        "id": 17847,
+        "skill_main_effect_id": 10112001,
+        "level": 5,
+        "effect_coefficient": 13600
+    },
+    {
+        "id": 17848,
+        "skill_main_effect_id": 10112001,
+        "level": 6,
+        "effect_coefficient": 14000
+    },
+    {
+        "id": 17895,
+        "skill_main_effect_id": 10912001,
+        "level": 1,
+        "effect_coefficient": 12000
+    },
+    {
+        "id": 17896,
+        "skill_main_effect_id": 10912001,
+        "level": 2,
+        "effect_coefficient": 12400
+    },
+    {
+        "id": 17897,
+        "skill_main_effect_id": 10912001,
+        "level": 3,
+        "effect_coefficient": 12800
+    },
+    {
+        "id": 17898,
+        "skill_main_effect_id": 10912001,
+        "level": 4,
+        "effect_coefficient": 13200
+    },
+    {
+        "id": 17899,
+        "skill_main_effect_id": 10912001,
+        "level": 5,
+        "effect_coefficient": 13600
+    },
+    {
+        "id": 17900,
+        "skill_main_effect_id": 10912001,
+        "level": 6,
+        "effect_coefficient": 14000
+    },
+    {
+        "id": 17947,
+        "skill_main_effect_id": 11012001,
+        "level": 1,
+        "effect_coefficient": 12000
+    },
+    {
+        "id": 17948,
+        "skill_main_effect_id": 11012001,
+        "level": 2,
+        "effect_coefficient": 12400
+    },
+    {
+        "id": 17949,
+        "skill_main_effect_id": 11012001,
+        "level": 3,
+        "effect_coefficient": 12800
+    },
+    {
+        "id": 17950,
+        "skill_main_effect_id": 11012001,
+        "level": 4,
+        "effect_coefficient": 13200
+    },
+    {
+        "id": 17951,
+        "skill_main_effect_id": 11012001,
+        "level": 5,
+        "effect_coefficient": 13600
+    },
+    {
+        "id": 17952,
+        "skill_main_effect_id": 11012001,
+        "level": 6,
+        "effect_coefficient": 14000
     }
 ]

@@ -26878,5 +26878,421 @@
         "item_id": 1210013,
         "item_type": 122,
         "item_count": 1
+    },
+    {
+        "id": 112201,
+        "mileage_item_id": 1122,
+        "point": 10,
+        "item_id": 1150015,
+        "item_type": 115,
+        "item_count": 12
+    },
+    {
+        "id": 112202,
+        "mileage_item_id": 1122,
+        "point": 20,
+        "item_id": 1160001,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 112203,
+        "mileage_item_id": 1122,
+        "point": 30,
+        "item_id": 1150009,
+        "item_type": 115,
+        "item_count": 18
+    },
+    {
+        "id": 112204,
+        "mileage_item_id": 1122,
+        "point": 40,
+        "item_id": 1160002,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 112205,
+        "mileage_item_id": 1122,
+        "point": 50,
+        "item_id": 1150015,
+        "item_type": 115,
+        "item_count": 24
+    },
+    {
+        "id": 112206,
+        "mileage_item_id": 1122,
+        "point": 60,
+        "item_id": 1160003,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 112207,
+        "mileage_item_id": 1122,
+        "point": 70,
+        "item_id": 0,
+        "item_type": 11,
+        "item_count": 25000
+    },
+    {
+        "id": 112208,
+        "mileage_item_id": 1122,
+        "point": 90,
+        "item_id": 1110102,
+        "item_type": 111,
+        "item_count": 1
+    },
+    {
+        "id": 112209,
+        "mileage_item_id": 1122,
+        "point": 110,
+        "item_id": 1111002,
+        "item_type": 111,
+        "item_count": 1
+    },
+    {
+        "id": 112210,
+        "mileage_item_id": 1122,
+        "point": 130,
+        "item_id": 1640181,
+        "item_type": 162,
+        "item_count": 1
+    },
+    {
+        "id": 112211,
+        "mileage_item_id": 1122,
+        "point": 140,
+        "item_id": 1110102,
+        "item_type": 111,
+        "item_count": 2
+    },
+    {
+        "id": 112212,
+        "mileage_item_id": 1122,
+        "point": 160,
+        "item_id": 1111002,
+        "item_type": 111,
+        "item_count": 2
+    },
+    {
+        "id": 112213,
+        "mileage_item_id": 1122,
+        "point": 180,
+        "item_id": 1110102,
+        "item_type": 111,
+        "item_count": 3
+    },
+    {
+        "id": 112214,
+        "mileage_item_id": 1122,
+        "point": 200,
+        "item_id": 1120112,
+        "item_type": 112,
+        "item_count": 1
+    },
+    {
+        "id": 112215,
+        "mileage_item_id": 1122,
+        "point": 220,
+        "item_id": 1111002,
+        "item_type": 111,
+        "item_count": 3
+    },
+    {
+        "id": 112216,
+        "mileage_item_id": 1122,
+        "point": 250,
+        "item_id": 1121012,
+        "item_type": 112,
+        "item_count": 1
+    },
+    {
+        "id": 112217,
+        "mileage_item_id": 1122,
+        "point": 260,
+        "item_id": 1640181,
+        "item_type": 162,
+        "item_count": 1
+    },
+    {
+        "id": 112218,
+        "mileage_item_id": 1122,
+        "point": 280,
+        "item_id": 1120112,
+        "item_type": 112,
+        "item_count": 2
+    },
+    {
+        "id": 112219,
+        "mileage_item_id": 1122,
+        "point": 300,
+        "item_id": 1121012,
+        "item_type": 112,
+        "item_count": 2
+    },
+    {
+        "id": 112401,
+        "mileage_item_id": 1124,
+        "point": 10,
+        "item_id": 1150012,
+        "item_type": 115,
+        "item_count": 12
+    },
+    {
+        "id": 112402,
+        "mileage_item_id": 1124,
+        "point": 20,
+        "item_id": 1160001,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 112403,
+        "mileage_item_id": 1124,
+        "point": 30,
+        "item_id": 1150012,
+        "item_type": 115,
+        "item_count": 18
+    },
+    {
+        "id": 112404,
+        "mileage_item_id": 1124,
+        "point": 40,
+        "item_id": 1160002,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 112405,
+        "mileage_item_id": 1124,
+        "point": 50,
+        "item_id": 1150012,
+        "item_type": 115,
+        "item_count": 24
+    },
+    {
+        "id": 112406,
+        "mileage_item_id": 1124,
+        "point": 60,
+        "item_id": 1160003,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 112407,
+        "mileage_item_id": 1124,
+        "point": 70,
+        "item_id": 0,
+        "item_type": 11,
+        "item_count": 25000
+    },
+    {
+        "id": 112408,
+        "mileage_item_id": 1124,
+        "point": 90,
+        "item_id": 1110902,
+        "item_type": 111,
+        "item_count": 1
+    },
+    {
+        "id": 112409,
+        "mileage_item_id": 1124,
+        "point": 110,
+        "item_id": 1110902,
+        "item_type": 111,
+        "item_count": 2
+    },
+    {
+        "id": 112410,
+        "mileage_item_id": 1124,
+        "point": 130,
+        "item_id": 4010912,
+        "item_type": 202,
+        "item_count": 1
+    },
+    {
+        "id": 112411,
+        "mileage_item_id": 1124,
+        "point": 160,
+        "item_id": 1110902,
+        "item_type": 111,
+        "item_count": 3
+    },
+    {
+        "id": 112412,
+        "mileage_item_id": 1124,
+        "point": 200,
+        "item_id": 1120912,
+        "item_type": 112,
+        "item_count": 1
+    },
+    {
+        "id": 112413,
+        "mileage_item_id": 1124,
+        "point": 250,
+        "item_id": 1120912,
+        "item_type": 112,
+        "item_count": 1
+    },
+    {
+        "id": 112414,
+        "mileage_item_id": 1124,
+        "point": 300,
+        "item_id": 1120912,
+        "item_type": 112,
+        "item_count": 2
+    },
+    {
+        "id": 658101,
+        "mileage_item_id": 6581,
+        "point": 10,
+        "item_id": 1150009,
+        "item_type": 115,
+        "item_count": 12
+    },
+    {
+        "id": 658102,
+        "mileage_item_id": 6581,
+        "point": 20,
+        "item_id": 1160001,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 658103,
+        "mileage_item_id": 6581,
+        "point": 30,
+        "item_id": 1150003,
+        "item_type": 115,
+        "item_count": 18
+    },
+    {
+        "id": 658104,
+        "mileage_item_id": 6581,
+        "point": 40,
+        "item_id": 1160002,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 658105,
+        "mileage_item_id": 6581,
+        "point": 50,
+        "item_id": 1150009,
+        "item_type": 115,
+        "item_count": 24
+    },
+    {
+        "id": 658106,
+        "mileage_item_id": 6581,
+        "point": 60,
+        "item_id": 1160003,
+        "item_type": 116,
+        "item_count": 3
+    },
+    {
+        "id": 658107,
+        "mileage_item_id": 6581,
+        "point": 70,
+        "item_id": 0,
+        "item_type": 11,
+        "item_count": 25000
+    },
+    {
+        "id": 658108,
+        "mileage_item_id": 6581,
+        "point": 90,
+        "item_id": 1110102,
+        "item_type": 111,
+        "item_count": 1
+    },
+    {
+        "id": 658109,
+        "mileage_item_id": 6581,
+        "point": 110,
+        "item_id": 1111102,
+        "item_type": 111,
+        "item_count": 1
+    },
+    {
+        "id": 658110,
+        "mileage_item_id": 6581,
+        "point": 130,
+        "item_id": 1640183,
+        "item_type": 162,
+        "item_count": 1
+    },
+    {
+        "id": 658111,
+        "mileage_item_id": 6581,
+        "point": 140,
+        "item_id": 1110102,
+        "item_type": 111,
+        "item_count": 2
+    },
+    {
+        "id": 658112,
+        "mileage_item_id": 6581,
+        "point": 160,
+        "item_id": 1111102,
+        "item_type": 111,
+        "item_count": 2
+    },
+    {
+        "id": 658113,
+        "mileage_item_id": 6581,
+        "point": 180,
+        "item_id": 1110102,
+        "item_type": 111,
+        "item_count": 3
+    },
+    {
+        "id": 658114,
+        "mileage_item_id": 6581,
+        "point": 200,
+        "item_id": 1120107,
+        "item_type": 112,
+        "item_count": 1
+    },
+    {
+        "id": 658115,
+        "mileage_item_id": 6581,
+        "point": 220,
+        "item_id": 1111102,
+        "item_type": 111,
+        "item_count": 3
+    },
+    {
+        "id": 658116,
+        "mileage_item_id": 6581,
+        "point": 250,
+        "item_id": 1121108,
+        "item_type": 112,
+        "item_count": 1
+    },
+    {
+        "id": 658117,
+        "mileage_item_id": 6581,
+        "point": 260,
+        "item_id": 1640183,
+        "item_type": 162,
+        "item_count": 1
+    },
+    {
+        "id": 658118,
+        "mileage_item_id": 6581,
+        "point": 280,
+        "item_id": 1120107,
+        "item_type": 112,
+        "item_count": 2
+    },
+    {
+        "id": 658119,
+        "mileage_item_id": 6581,
+        "point": 300,
+        "item_id": 1121108,
+        "item_type": 112,
+        "item_count": 2
     }
 ]

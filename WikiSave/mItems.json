@@ -3100,6 +3100,31 @@
         "is_visible": false
     },
     {
+        "id": 1120112,
+        "item_type": 112,
+        "value1": 4010112,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120112,
+        "ml_name": [
+            "【青春メモリアル】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アルテの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120201,
         "item_type": 112,
         "value1": 4010201,
@@ -5275,6 +5300,31 @@
         "is_visible": false
     },
     {
+        "id": 1120912,
+        "item_type": 112,
+        "value1": 4010912,
+        "value2": 0,
+        "sort": 97,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120912,
+        "ml_name": [
+            "【未知数の学び】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ロダンの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121001,
         "item_type": 112,
         "value1": 4011001,
@@ -5535,6 +5585,31 @@
         "image_index": 1121011,
         "ml_name": [
             "【ときめきオーダー】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ラファエロの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121012,
+        "item_type": 112,
+        "value1": 4011012,
+        "value2": 0,
+        "sort": 103,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121012,
+        "ml_name": [
+            "【学園のマドンナ】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -12925,6 +13000,31 @@
         "is_visible": false
     },
     {
+        "id": 1511104,
+        "item_type": 151,
+        "value1": 728,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511104,
+        "ml_name": [
+            "ストーリーキー【青春辿る藝術家たちの学園生活】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「青春辿る藝術家たちの学園生活」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "青春の物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1511123,
         "item_type": 151,
         "value1": 430,
@@ -17700,6 +17800,31 @@
         "is_visible": false
     },
     {
+        "id": 1630198,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630198,
+        "ml_name": [
+            "青春辿る藝術家たちの学園生活ガチャチケットA",
+            "EN"
+        ],
+        "ml_description": [
+            "青春辿る藝術家たちの学園生活ピックアップガチャAを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-14 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630199,
         "item_type": 702,
         "value1": 0,
@@ -17797,6 +17922,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-03-05 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630206,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット34",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-14 12:59:59",
         "is_visible": false
     },
     {
@@ -22175,6 +22325,31 @@
         "is_visible": false
     },
     {
+        "id": 1640181,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640181,
+        "ml_name": [
+            "青春辿る藝術家たちの学園生活のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で青春辿る藝術家たちの学園生活ピックアップガチャAのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-16 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640182,
         "item_type": 162,
         "value1": 0,
@@ -22197,6 +22372,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-03-07 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640183,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640183,
+        "ml_name": [
+            "スタイル復刻のしおり34",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-14 12:59:59",
         "is_visible": false
     },
     {
@@ -25468,6 +25668,56 @@
         ],
         "ml_flavor_text": [
             "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650133,
+        "item_type": 801,
+        "value1": 3328,
+        "value2": 0,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650133,
+        "ml_name": [
+            "数学用の三角定規",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「青春辿る藝術家たちの学園生活」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "数学の授業で生徒が使用する、木製の三角定規。\n美しい平行線や垂直な線を引くことで、数式の攻略に挑む。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650134,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3328,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650134,
+        "ml_name": [
+            "勉強用のインク瓶",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「青春辿る藝術家たちの学園生活」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "勉学に励む者が愛用する、安価なインク。\n使い切る頃には、相応の知識が身についていることだろう。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",

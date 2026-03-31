@@ -3467,6 +3467,96 @@
         ]
     },
     {
+        "id": 11221,
+        "gacha_group_id": 1122,
+        "display_layer_id": 4011012,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "アイボリーの味方に攻撃と幸運バフで状態異常とクリティカルに貢献！誘惑付与から特攻でダメージと撃破時の再行動を狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・自身に真眼付与&自身\n　とアイボリーの味方1\n　人に攻撃バフの絶技\n・味方アイボリーに幸運\n　バフ&誘惑付与の位置\n　移動(直線)炎攻撃技法",
+            ""
+        ]
+    },
+    {
+        "id": 11222,
+        "gacha_group_id": 1122,
+        "display_layer_id": 4010112,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "自身とアイボリーの味方に攻撃バフをかけて、系統と状態異常特攻で大ダメージを狙うアタッカー！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・ノックバック&アイボ\n　リーの味方全員の攻撃\n　増加の絶技\n・感電付与&自身と味方\n　アイボリー1人に攻撃\n　バフの雷範囲攻撃技法",
+            ""
+        ]
+    },
+    {
+        "id": 11231,
+        "gacha_group_id": 1123,
+        "display_layer_id": 4011012,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "アイボリーの味方に攻撃と幸運バフで状態異常とクリティカルに貢献！誘惑付与から特攻でダメージと撃破時の再行動を狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・自身に真眼付与&自身\n　とアイボリーの味方1\n　人に攻撃バフの絶技\n・味方アイボリーに幸運\n　バフ&誘惑付与の位置\n　移動(直線)炎攻撃技法",
+            ""
+        ]
+    },
+    {
+        "id": 11232,
+        "gacha_group_id": 1123,
+        "display_layer_id": 4010112,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "自身とアイボリーの味方に攻撃バフをかけて、系統と状態異常特攻で大ダメージを狙うアタッカー！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・ノックバック&アイボ\n　リーの味方全員の攻撃\n　増加の絶技\n・感電付与&自身と味方\n　アイボリー1人に攻撃\n　バフの雷範囲攻撃技法",
+            ""
+        ]
+    },
+    {
+        "id": 11241,
+        "gacha_group_id": 1124,
+        "display_layer_id": 4010912,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "ビリジアンの味方へ攻撃と必殺バフ、敵には精神と器用デバフに気絶や風弱点付与で支援するサポーター！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・ビリジアンの味方に攻\n　撃バフ&風弱点付与の\n　絶技\n・風弱点付与状態に威力\n　補正&敵撃破時に再行\n　動の風単体攻撃技法",
+            ""
+        ]
+    },
+    {
+        "id": 11251,
+        "gacha_group_id": 1125,
+        "display_layer_id": 4010912,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "ビリジアンの味方へ攻撃と必殺バフ、敵には精神と器用デバフに気絶や風弱点付与で支援するサポーター！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・ビリジアンの味方に攻\n　撃バフ&風弱点付与の\n　絶技\n・風弱点付与状態に威力\n　補正&敵撃破時に再行\n　動の風単体攻撃技法",
+            ""
+        ]
+    },
+    {
         "id": 20011,
         "gacha_group_id": 2001,
         "display_layer_id": 0,
@@ -5974,8 +6064,8 @@
         ]
     },
     {
-        "id": 21172,
-        "gacha_group_id": 2117,
+        "id": 21211,
+        "gacha_group_id": 2121,
         "display_layer_id": 4011003,
         "display_subunit_id": 0,
         "appeal_asset": "",
@@ -5989,23 +6079,8 @@
         ]
     },
     {
-        "id": 21182,
-        "gacha_group_id": 2118,
-        "display_layer_id": 4011005,
-        "display_subunit_id": 0,
-        "appeal_asset": "",
-        "ml_ex_appeal_text": [
-            "2種の雷エレメント技法を持つ特殊ダメージのスペシャリスト！絶技で自身に付与する迅雷で、最大射程の延長＆受流し補正！<br><size=60%>※迅雷は1回の効果発動で解除</size>",
-            ""
-        ],
-        "ml_ex_feature_text": [
-            "・雷エレメント\n　遠距離アタッカー\n・自身への迅雷付与で\n　射程が更に拡大",
-            ""
-        ]
-    },
-    {
-        "id": 21192,
-        "gacha_group_id": 2119,
+        "id": 21212,
+        "gacha_group_id": 2121,
         "display_layer_id": 4011006,
         "display_subunit_id": 0,
         "appeal_asset": "",
@@ -6019,8 +6094,8 @@
         ]
     },
     {
-        "id": 21202,
-        "gacha_group_id": 2120,
+        "id": 21213,
+        "gacha_group_id": 2121,
         "display_layer_id": 4011004,
         "display_subunit_id": 0,
         "appeal_asset": "",
@@ -6030,6 +6105,96 @@
         ],
         "ml_ex_feature_text": [
             "・芸道の敵に有効な\n　アタッカー\n・長射程\n・自身の移動を増加",
+            ""
+        ]
+    },
+    {
+        "id": 21214,
+        "gacha_group_id": 2121,
+        "display_layer_id": 4011007,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "位置移動（範囲）で敵に近づき、体力が残った敵は感電状態特攻技法で掃討しよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・位置移動（範囲）＆敵\n　撃破時に確率で再行動\n　の風エレメント攻撃\n・彫刻と感電状態の敵に\n　威力上昇の物理エレメ\n　ント攻撃技法",
+            ""
+        ]
+    },
+    {
+        "id": 21221,
+        "gacha_group_id": 2122,
+        "display_layer_id": 4011003,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "技法の遠距離からの強力な物理エレメント攻撃が得意！技法と絶技で自身の攻撃増加させながら有利に立ち回ろう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・技法と絶技で自身の\n　攻撃増加を持ち\n　遠距離物理攻撃が得意\n・絶技で自身に迅雷付与",
+            ""
+        ]
+    },
+    {
+        "id": 21231,
+        "gacha_group_id": 2123,
+        "display_layer_id": 4011005,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "2種の雷エレメント技法を持つ特殊ダメージのスペシャリスト！絶技で自身に付与する迅雷で、最大射程の延長＆受流し補正！<br><size=60%>※迅雷は1回の効果発動で解除</size>",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・雷エレメント\n　遠距離アタッカー\n・自身への迅雷付与で\n　射程が更に拡大",
+            ""
+        ]
+    },
+    {
+        "id": 21241,
+        "gacha_group_id": 2124,
+        "display_layer_id": 4011006,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "攻撃時に味方の体力を回復する技法と、体力消費と引き換えに自身の器用を増加させる技法を使い分けよう！絶技でも味方の体力を回復！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・チームの体力回復が\n　得意\n・体力消費で強力な\n　攻撃も使用可能\n・絶技で自身に迅雷付与",
+            ""
+        ]
+    },
+    {
+        "id": 21251,
+        "gacha_group_id": 2125,
+        "display_layer_id": 4011004,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "移動増加を活かして相手の射程外から長距離攻撃を狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・芸道の敵に有効な\n　アタッカー\n・長射程\n・自身の移動を増加",
+            ""
+        ]
+    },
+    {
+        "id": 21391,
+        "gacha_group_id": 2139,
+        "display_layer_id": 4011007,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "位置移動（範囲）で敵に近づき、体力が残った敵は感電状態特攻技法で掃討しよう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・位置移動（範囲）＆敵\n　撃破時に確率で再行動\n　の風エレメント攻撃\n・彫刻と感電状態の敵に\n　威力上昇の物理エレメ\n　ント攻撃技法",
             ""
         ]
     },
@@ -8717,6 +8882,66 @@
         ]
     },
     {
+        "id": 60341,
+        "gacha_group_id": 6034,
+        "display_layer_id": 4010508,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "絶技で味方全員に水シールドを付与できるので、水エレメント攻撃をしてくる強敵から味方を守ろう！ピエタ像（サンドアート）は味方全員へ敏捷バフと一番攻撃が高い味方1人に気炎付与！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・絶技で味方全員に水シ\n　ールド付与＆ピエタ像\n　（サンドアート)召喚！\n・彫刻の敵に威力上昇＆\n　敵撃破時にCT短縮の\n　炎エレメント技法",
+            ""
+        ]
+    },
+    {
+        "id": 60342,
+        "gacha_group_id": 6034,
+        "display_layer_id": 4011207,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "重複可能の攻撃バフで自己強化して大ダメージを狙おう！\n補助効果「集中」で器用と命中バフに加え、発動した技法や絶技を受流しさせない！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・工芸と誘惑状態の敵に\n　威力上昇の水エレメン\n　ト攻撃技法\n・絶技で吸収&熱情増加\n　&攻撃バフ（重複）",
+            ""
+        ]
+    },
+    {
+        "id": 60343,
+        "gacha_group_id": 6034,
+        "display_layer_id": 4010608,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "絶技から威力上昇補正がある技法へ繋げて大ダメージを狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・感電か睡眠状態の敵に\n　威力上昇＆敏捷バフ解\n　除の雷範囲攻撃技法\n・絶技で自身の体力回復\n　と確率で感電付与",
+            ""
+        ]
+    },
+    {
+        "id": 60344,
+        "gacha_group_id": 6034,
+        "display_layer_id": 4010809,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "3種のデバフでエネミーの弱体化と、ソウル召喚＆風フォーム付与で味方を支援しながら戦おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・精神と敏捷デバフ&\n　自身の状態異常解除\n　の絶技\n・芸道の敵に威力上昇&\n　攻撃デバフの風エレメ\n　ント技法",
+            ""
+        ]
+    },
+    {
         "id": 65011,
         "gacha_group_id": 6501,
         "display_layer_id": 4010705,
@@ -10833,6 +11058,66 @@
         ],
         "ml_ex_feature_text": [
             "・絶技と技法で味方に\n　気炎付与\n・彫刻の敵に威力増加＆\n　味方全員の入魂ゲージ\n　増加雷エレメント技法",
+            ""
+        ]
+    },
+    {
+        "id": 65811,
+        "gacha_group_id": 6581,
+        "display_layer_id": 4010107,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "ノックバックと威力増加効果を絡めて大ダメージを目指そう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・味方全員に敏捷バフ&\n　ノックバック&入魂ゲ\n　ージ再チャージの絶技\n・技法は絶技使用後に威\n　力増加補正&ノックバ\n　ック&吸収効果",
+            ""
+        ]
+    },
+    {
+        "id": 65812,
+        "gacha_group_id": 6581,
+        "display_layer_id": 4011108,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "攻撃バフと風フォーム付与で風エレメントが弱点の敵を一掃しよう！攻撃バフはアイボリーの味方だと強化量が大きくなる！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・味方に攻撃バフ&アイ\n　ボリーに追加効果\n・芸道の敵と攻撃対象が\n　少ないほど威力増加&\n　自身の入魂ゲージ増加\n　の風エレメント技法",
+            ""
+        ]
+    },
+    {
+        "id": 65821,
+        "gacha_group_id": 6582,
+        "display_layer_id": 4010107,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "ノックバックと威力増加効果を絡めて大ダメージを目指そう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・味方全員に敏捷バフ&\n　ノックバック&入魂ゲ\n　ージ再チャージの絶技\n・技法は絶技使用後に威\n　力増加補正&ノックバ\n　ック&吸収効果",
+            ""
+        ]
+    },
+    {
+        "id": 65822,
+        "gacha_group_id": 6582,
+        "display_layer_id": 4011108,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "攻撃バフと風フォーム付与で風エレメントが弱点の敵を一掃しよう！攻撃バフはアイボリーの味方だと強化量が大きくなる！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・味方に攻撃バフ&アイ\n　ボリーに追加効果\n・芸道の敵と攻撃対象が\n　少ないほど威力増加&\n　自身の入魂ゲージ増加\n　の風エレメント技法",
             ""
         ]
     },
@@ -13794,6 +14079,51 @@
         ],
         "ml_ex_feature_text": [
             "・精神と敏捷、\n　入魂ゲージが増加する\n　ポテンシャルを所持\n・確率で睡眠を\n　付与することが可能な\n　水エレメント絶技",
+            ""
+        ]
+    },
+    {
+        "id": 75411,
+        "gacha_group_id": 7541,
+        "display_layer_id": 4010608,
+        "display_subunit_id": 0,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "絶技から威力上昇補正がある技法へ繋げて大ダメージを狙おう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・感電か睡眠状態の敵に\n　威力上昇＆敏捷バフ解\n　除の雷範囲攻撃技法\n・絶技で自身の体力回復\n　と確率で感電付与",
+            ""
+        ]
+    },
+    {
+        "id": 75412,
+        "gacha_group_id": 7541,
+        "display_layer_id": 0,
+        "display_subunit_id": 4020074,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "ポテンシャル「攻防魂・中」で、攻撃と防御の増加に加えて初期入魂ゲージが増加！絶技で命中対象の防御を減少させ、さらに確率で誘惑の状態異常を付与！心を惑わされたエネミーは攻撃が減少し、確率で行動不能に！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・攻撃と防御、\n　入魂ゲージが増加する\n　ポテンシャルを所持\n・確率で誘惑を\n　付与することが可能な\n　物理エレメント絶技",
+            ""
+        ]
+    },
+    {
+        "id": 75413,
+        "gacha_group_id": 7541,
+        "display_layer_id": 0,
+        "display_subunit_id": 4020035,
+        "appeal_asset": "",
+        "ml_ex_appeal_text": [
+            "ポテンシャル「幸運デバフ」で、通常攻撃命中対象の幸運減少！命中対象の防御を減少させつつ確率で影縫状態にする絶技で、移動を封じながら素早くエネミーを倒そう！",
+            ""
+        ],
+        "ml_ex_feature_text": [
+            "・通常攻撃で\n　敵の幸運を減少させる\n　ポテンシャルを所持\n・影縫を付与する\n　物理エレメント絶技",
             ""
         ]
     },

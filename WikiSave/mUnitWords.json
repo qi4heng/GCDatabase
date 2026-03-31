@@ -11477,6 +11477,121 @@
         ]
     },
     {
+        "id": 10113030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4010112_1030",
+        "ml_word": [
+            "天才である私は当然、学業の面でも優秀なんです。\nでもですね……だからといって、ほうっておかれるのは\n少し違うと言いますか……だからほら、館長！\n私のやる気が出るように、もっと面倒を見てください！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010112,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10113040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010112_1040",
+        "ml_word": [
+            "お待たせしました！　\nこの天才美少女藝術家、アルテ様の\n麗しい制服姿のお披露目ですよ！\n……ちょっと、無視しないでください！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010112,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10113050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010112_1050",
+        "ml_word": [
+            "記憶を失う前は私もこうして\n学校に通っていたのかもしれません。\nまぁ私は天才なので、\n勉強しなくても問題ありませんけどね！",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010112,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10113060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010112_1060",
+        "ml_word": [
+            "一般教養の授業は問題なく理解できます。\nそういえば私、ちゃんと読み書きできるんですよね。\nやっぱり、私は高貴な生まれだったに違いありません！",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010112,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10113070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4010112_1070",
+        "ml_word": [
+            "館長がいないうちに、お昼寝するとしましょう。\n保健室って、不思議と居心地がいいんですよね。\n……そうだ！　私専用のベッドを置いてもらえないか、\n館長に打診してみましょう！",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010112,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 10202030,
         "scene_type": 1,
         "trigger": 5,
@@ -21482,6 +21597,121 @@
         ]
     },
     {
+        "id": 10913030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4010912_1030",
+        "ml_word": [
+            "館長は賢いから先生役が似合うかもしれない。\nでも、一緒に学校に通いたい気もするし……。\n私から見て先輩？　後輩？　同級生？\n館長も学校に行くとしたら、どれがいい？",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010912,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10913040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010912_1040",
+        "ml_word": [
+            "うーん……ん〜……？　うぅ、やっぱり、\nいくら考えてもわからないっぽい……。\n館長、助けてほしい。\nこの問題、私には一生かかっても解けなさそう。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010912,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10913050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010912_1050",
+        "ml_word": [
+            "制服のデザイン、みんなそれぞれ個性が出ていて\nいい感じな気がするね。\n私のはどう？　知的に見えてるなら、嬉しいかも。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010912,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10913060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010912_1060",
+        "ml_word": [
+            "私はたぶん……いや、勉強は確実に苦手。\nでも、館長が先生になって教えてくれるなら……\n克服できないこともないかもしれないよ、ふふ。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010912,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10913070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4010912_1070",
+        "ml_word": [
+            "館長にも、おそらく学生時代があったはず。\nそう思うと、少し嫉妬しちゃうかもしれない。\n私も、もっと早く館長に出会いたかった……。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 9,
+        "layer_id": 4010912,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 11002030,
         "scene_type": 1,
         "trigger": 5,
@@ -22740,6 +22970,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 10,
         "layer_id": 4011011,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11013030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4011012_1030",
+        "ml_word": [
+            "学校生活でやってみたいことはまだまだあるんだ。\n放課後に寄り道して買い食いしたり、\nふたりきりで秘密の勉強会をしたり……。\n館長は、もちろん付き合ってくれるよね？",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011012,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11013040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011012_1040",
+        "ml_word": [
+            "ふふん、どうだい似合ってるだろう？\n制服をここまで着こなせるのはぼくくらいさ。\n学校でも、この溢れ出す輝きで\nきみの視線を独り占めしてみせるよ♪",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011012,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11013050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011012_1050",
+        "ml_word": [
+            "今のぼくの姿は、きみの瞳にどう映っているのかな。\nただの友人？　憧れの人？　あるいは……。\nふふっ、なんてね。もし館長と学校生活を送れたら、\n最高に楽しいだろうね。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011012,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11013060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011012_1060",
+        "ml_word": [
+            "やれやれ、美術学校の生徒たちから、\nこんなにラブレターをもらってしまったよ。\nみんなの気持ちはすごく嬉しいんだけど、\nぼくには心に決めた人がいるから……ね？",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011012,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11013070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4011012_1070",
+        "ml_word": [
+            "ん〜……よし、制服の乱れはなし！\n忘れ物も……うん、問題ないね。\nあとは予習もしておこうかな……。\n授業でいいところ見せたいし。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011012,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [

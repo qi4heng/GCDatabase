@@ -2704,6 +2704,32 @@
         "close_time": "2026-03-14 12:59:59"
     },
     {
+        "id": 3328,
+        "ml_title": [
+            "青春辿る藝術家たちの学園生活",
+            ""
+        ],
+        "event_type": 3,
+        "m_quest_id": 728,
+        "top_character_id": 4011012,
+        "top_background_image": "3011900",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3328,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1122,
+        "latter_half_gacha_group_id": 1124,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 120,
+        "banner_image_index": 13328,
+        "start_time": "2026-03-31 13:30:00",
+        "latter_half_start_time": "2026-04-04 13:00:00",
+        "end_time": "2026-04-14 12:59:59",
+        "close_time": "2026-04-16 12:59:59"
+    },
+    {
         "id": 3601,
         "ml_title": [
             "【A.S.】ありえない出会いと最初の試練",

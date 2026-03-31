@@ -29176,6 +29176,174 @@
         ]
     },
     {
+        "id": 108336,
+        "type": 1,
+        "series_no": 1081012,
+        "sub_series_no": 1,
+        "condition_id": 1081012,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ラファエロ【学園のマドンナ】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【学園のマドンナ】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108337,
+        "type": 1,
+        "series_no": 1081012,
+        "sub_series_no": 2,
+        "condition_id": 1081012,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ラファエロ【学園のマドンナ】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【学園のマドンナ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108338,
+        "type": 1,
+        "series_no": 1080100,
+        "sub_series_no": 1,
+        "condition_id": 1080100,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アルテ【青春メモリアル】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【青春メモリアル】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108339,
+        "type": 1,
+        "series_no": 1080100,
+        "sub_series_no": 2,
+        "condition_id": 1080100,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アルテ【青春メモリアル】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【青春メモリアル】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108340,
+        "type": 1,
+        "series_no": 1080912,
+        "sub_series_no": 1,
+        "condition_id": 1080912,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ロダン【未知数の学び】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【未知数の学び】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108341,
+        "type": 1,
+        "series_no": 1080912,
+        "sub_series_no": 2,
+        "condition_id": 1080912,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ロダン【未知数の学び】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【未知数の学び】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 109004,
         "type": 1,
         "series_no": 53,
@@ -50729,6 +50897,34 @@
         ],
         "ml_description": [
             "偽善の結晶短剣Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118101,
+        "type": 1,
+        "series_no": 118101,
+        "sub_series_no": 1,
+        "condition_id": 118131,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-03 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ジングル・ベルトLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ジングル・ベルトLv10達成",
             "en"
         ],
         "ml_hint": [
@@ -97764,6 +97960,426 @@
         ]
     },
     {
+        "id": 740301,
+        "type": 5,
+        "series_no": 7403,
+        "sub_series_no": 1,
+        "condition_id": 740301,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ラファエロ【学園のマドンナ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【学園のマドンナ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740302,
+        "type": 5,
+        "series_no": 7403,
+        "sub_series_no": 2,
+        "condition_id": 740301,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ラファエロ【学園のマドンナ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【学園のマドンナ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740303,
+        "type": 5,
+        "series_no": 7403,
+        "sub_series_no": 3,
+        "condition_id": 740301,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ラファエロ【学園のマドンナ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【学園のマドンナ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740304,
+        "type": 5,
+        "series_no": 7403,
+        "sub_series_no": 4,
+        "condition_id": 740301,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ラファエロ【学園のマドンナ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【学園のマドンナ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740305,
+        "type": 5,
+        "series_no": 7403,
+        "sub_series_no": 5,
+        "condition_id": 740301,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ラファエロ【学園のマドンナ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【学園のマドンナ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740401,
+        "type": 5,
+        "series_no": 7404,
+        "sub_series_no": 1,
+        "condition_id": 740401,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "アルテ【青春メモリアル】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【青春メモリアル】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740402,
+        "type": 5,
+        "series_no": 7404,
+        "sub_series_no": 2,
+        "condition_id": 740401,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "アルテ【青春メモリアル】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【青春メモリアル】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740403,
+        "type": 5,
+        "series_no": 7404,
+        "sub_series_no": 3,
+        "condition_id": 740401,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "アルテ【青春メモリアル】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【青春メモリアル】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740404,
+        "type": 5,
+        "series_no": 7404,
+        "sub_series_no": 4,
+        "condition_id": 740401,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "アルテ【青春メモリアル】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【青春メモリアル】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740405,
+        "type": 5,
+        "series_no": 7404,
+        "sub_series_no": 5,
+        "condition_id": 740401,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-03-31 13:30:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "アルテ【青春メモリアル】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アルテ【青春メモリアル】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740501,
+        "type": 5,
+        "series_no": 7405,
+        "sub_series_no": 1,
+        "condition_id": 740501,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ロダン【未知数の学び】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【未知数の学び】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740502,
+        "type": 5,
+        "series_no": 7405,
+        "sub_series_no": 2,
+        "condition_id": 740501,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ロダン【未知数の学び】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【未知数の学び】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740503,
+        "type": 5,
+        "series_no": 7405,
+        "sub_series_no": 3,
+        "condition_id": 740501,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ロダン【未知数の学び】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【未知数の学び】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740504,
+        "type": 5,
+        "series_no": 7405,
+        "sub_series_no": 4,
+        "condition_id": 740501,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ロダン【未知数の学び】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【未知数の学び】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 740505,
+        "type": 5,
+        "series_no": 7405,
+        "sub_series_no": 5,
+        "condition_id": 740501,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-04 13:00:00",
+        "end_time": "2026-04-14 12:59:59",
+        "ml_title": [
+            "ロダン【未知数の学び】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【未知数の学び】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 800101,
         "type": 5,
         "series_no": 800101,
@@ -103021,6 +103637,286 @@
         ],
         "ml_description": [
             "ダンジョンシーズン20フロア10を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800289,
+        "type": 5,
+        "series_no": 800289,
+        "sub_series_no": 1,
+        "condition_id": 800289,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800149,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア1を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア1を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800290,
+        "type": 5,
+        "series_no": 800290,
+        "sub_series_no": 2,
+        "condition_id": 800290,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800150,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア2を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア2を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800291,
+        "type": 5,
+        "series_no": 800291,
+        "sub_series_no": 3,
+        "condition_id": 800291,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800151,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア3を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア3を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800292,
+        "type": 5,
+        "series_no": 800292,
+        "sub_series_no": 4,
+        "condition_id": 800292,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800152,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア4を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア4を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800293,
+        "type": 5,
+        "series_no": 800293,
+        "sub_series_no": 5,
+        "condition_id": 800293,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800153,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア5を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア5を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800294,
+        "type": 5,
+        "series_no": 800294,
+        "sub_series_no": 6,
+        "condition_id": 800294,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800154,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア6を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア6を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800295,
+        "type": 5,
+        "series_no": 800295,
+        "sub_series_no": 7,
+        "condition_id": 800295,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800155,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア7を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア7を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800296,
+        "type": 5,
+        "series_no": 800296,
+        "sub_series_no": 8,
+        "condition_id": 800296,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800156,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア8を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア8を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800297,
+        "type": 5,
+        "series_no": 800297,
+        "sub_series_no": 9,
+        "condition_id": 800297,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800157,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア9を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア9を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800298,
+        "type": 5,
+        "series_no": 800298,
+        "sub_series_no": 10,
+        "condition_id": 800298,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800158,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-01 04:00:00",
+        "end_time": "2026-05-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン21フロア10を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン21フロア10を攻略",
             "en"
         ],
         "ml_hint": [

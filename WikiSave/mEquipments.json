@@ -2205,6 +2205,27 @@
         "ml_effect_flavor": []
     },
     {
+        "id": 4111004,
+        "enhance_group_id": 35,
+        "disassemble_group_id": 135,
+        "rarity": 5,
+        "site_type": 3,
+        "unit_id": 10,
+        "lock_type": 2,
+        "reduce_element_type": 5,
+        "image_index": 4111004,
+        "country_type": 0,
+        "ml_name": [
+            "ジングル・ベルト",
+            ""
+        ],
+        "ml_flavor_text": [
+            "聖夜の訪れを街中に響かせる、喜びの鈴がついたベルト。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
         "id": 4111005,
         "enhance_group_id": 15,
         "disassemble_group_id": 115,
