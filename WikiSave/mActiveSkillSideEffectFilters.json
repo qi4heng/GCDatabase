@@ -213,7 +213,7 @@
             ""
         ],
         "order": 24,
-        "effect_types": "26"
+        "effect_types": "26|72"
     },
     {
         "id": 25,
@@ -477,6 +477,15 @@
         "effect_types": "61"
     },
     {
+        "id": 54,
+        "ml_name": [
+            "天賦/補助効果を未所持に威力上昇",
+            ""
+        ],
+        "order": 54,
+        "effect_types": "66"
+    },
+    {
         "id": 55,
         "ml_name": [
             "シールド解除",
@@ -502,5 +511,68 @@
         ],
         "order": 57,
         "effect_types": "70"
+    },
+    {
+        "id": 58,
+        "ml_name": [
+            "ボス特攻",
+            ""
+        ],
+        "order": 58,
+        "effect_types": "71"
+    },
+    {
+        "id": 59,
+        "ml_name": [
+            "消去不可バフ",
+            ""
+        ],
+        "order": 59,
+        "effect_types": "73"
+    },
+    {
+        "id": 60,
+        "ml_name": [
+            "反動発動回数威力上昇",
+            ""
+        ],
+        "order": 60,
+        "effect_types": "74"
+    },
+    {
+        "id": 61,
+        "ml_name": [
+            "天賦解除",
+            ""
+        ],
+        "order": 61,
+        "effect_types": "75"
+    },
+    {
+        "id": 62,
+        "ml_name": [
+            "天賦解除無効",
+            ""
+        ],
+        "order": 62,
+        "effect_types": "76"
+    },
+    {
+        "id": 63,
+        "ml_name": [
+            "技法変化",
+            ""
+        ],
+        "order": 63,
+        "effect_types": "77"
+    },
+    {
+        "id": 64,
+        "ml_name": [
+            "主効果攻撃回数威力上昇",
+            ""
+        ],
+        "order": 64,
+        "effect_types": "78"
     }
 ]

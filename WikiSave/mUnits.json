@@ -1320,6 +1320,116 @@
       ]
    },
    {
+      "id": 59,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4015901,
+      "collabo_type": 5,
+      "hp": 13600,
+      "atk": 432,
+      "mnd": 264,
+      "def": 336,
+      "dex": 288,
+      "luk": 240,
+      "spd": 408,
+      "passion": 100,
+      "sort_order": 59,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 6,
+      "main_art_type": 4,
+      "sub_art_type": 1,
+      "default_max_level": 75,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "クインズウェイ",
+         "en",
+         "女王道"
+      ],
+      "ml_cv_name": [
+         "非公開",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "真面目で温厚な特鉄隊の騎士。イリスクラウドに\n平和をもたらすため、今日まで剣の腕を磨き続けてきた。\n自分とかけ離れた感性や価値観に対して柔軟な対応が\nできない、という一面があるものの、一度決めたことは\n最後までやり通す信念も持ち合わせている。",
+         "en",
+         "认真而温厚的特铁队骑士。\n为了给伊莉丝云带来和平，至今仍在不断磨炼剑技。\n虽然有着无法灵活应对与自己相去甚远的感性与价值观的一面，\n但同时也怀有将一旦决定之事坚持到底的信念。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_クインズウェイ",
+         "en"
+      ],
+      "ml_birthday": [
+         "9月1日",
+         "en"
+      ],
+      "ml_height": [
+         "普通",
+         "en"
+      ],
+      "ml_size": [
+         "秘密<br>（<span lang=\"ja\">秘密です</span>）",
+         "en"
+      ]
+   },
+   {
+      "id": 60,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4016001,
+      "collabo_type": 5,
+      "hp": 13600,
+      "atk": 456,
+      "mnd": 288,
+      "def": 288,
+      "dex": 360,
+      "luk": 216,
+      "spd": 384,
+      "passion": 100,
+      "sort_order": 60,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 3,
+      "main_art_type": 3,
+      "sub_art_type": 5,
+      "default_max_level": 75,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "ヴィーナス",
+         "en",
+         "维纳斯"
+      ],
+      "ml_cv_name": [
+         "天井めろん",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "新星学園星徒会の自称・フィクサー。明朗快活で行動力は\nナンバーワン。『ティンクルスターナイツ』の世界におけ\nる戦闘力は圧倒的だが、残念ながらアホの子。その出生に\nは謎が多く、本人もよく分かっていないことが多い。",
+         "en",
+         "新星学园星生会的自称·调停者。\n开朗快活，行动力第一。\n在『闪耀星骑士』的世界中战斗力堪称压倒性，\n但可惜是个傻丫头。\n其出生充满谜团，连她自己大多也不清楚。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_ヴィーナス",
+         "en"
+      ],
+      "ml_birthday": [
+         "10月11日",
+         "en"
+      ],
+      "ml_height": [
+         "158cm",
+         "en"
+      ],
+      "ml_size": [
+         "企业秘密哦。<br>（<span lang=\"ja\">キギョー秘密よ</span>）",
+         "en"
+      ]
+   },
+   {
       "id": 998,
       "level_group_id": 1,
       "love_point_level_group_id": 1,

@@ -1918,5 +1918,50 @@
         "sub_effect_id1": 63130019,
         "sell_price": 10656,
         "start_time": "2026-03-31 13:00:00"
+    },
+    {
+        "id": 4120130,
+        "ml_name": [
+            "赤ちゃんくまロボを確保せよ！",
+            "en"
+        ],
+        "index": "129",
+        "rarity": 5,
+        "image_index": 4120134,
+        "main_effect_id1": 55440025,
+        "main_effect_id2": 55440024,
+        "sub_effect_id1": 63130002,
+        "sell_price": 10656,
+        "start_time": "2026-04-13 13:00:00"
+    },
+    {
+        "id": 4120131,
+        "ml_name": [
+            "大切な場所を守るために",
+            "en"
+        ],
+        "index": "130",
+        "rarity": 4,
+        "image_index": 4120153,
+        "main_effect_id1": 54130002,
+        "main_effect_id2": 54131404,
+        "sub_effect_id1": 63130016,
+        "sell_price": 3552,
+        "start_time": "2026-04-13 13:00:00"
+    },
+    {
+        "id": 4120132,
+        "ml_name": [
+            "旅をする雲のイマージュ",
+            "en"
+        ],
+        "index": "131",
+        "rarity": 4,
+        "image_index": 4120154,
+        "main_effect_id1": 54130005,
+        "main_effect_id2": 54131602,
+        "sub_effect_id1": 63130017,
+        "sell_price": 3552,
+        "start_time": "2026-04-22 13:00:00"
     }
 ]

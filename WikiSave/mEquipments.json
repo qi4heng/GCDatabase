@@ -1155,6 +1155,27 @@
         "ml_effect_flavor": []
     },
     {
+        "id": 4110103,
+        "enhance_group_id": 45,
+        "disassemble_group_id": 145,
+        "rarity": 5,
+        "site_type": 4,
+        "unit_id": 1,
+        "lock_type": 2,
+        "reduce_element_type": 4,
+        "image_index": 4110103,
+        "country_type": 0,
+        "ml_name": [
+            "アルテのパンプス",
+            ""
+        ],
+        "ml_flavor_text": [
+            "アルテ【鳩と戯れる美少女】が着用しているパンプス。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
         "id": 4110104,
         "enhance_group_id": 35,
         "disassemble_group_id": 135,
@@ -2053,6 +2074,27 @@
         ],
         "ml_flavor_text": [
             "画材をたくさん詰め込めるカジュアルなショルダーバッグ。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4110807,
+        "enhance_group_id": 35,
+        "disassemble_group_id": 135,
+        "rarity": 5,
+        "site_type": 3,
+        "unit_id": 8,
+        "lock_type": 2,
+        "reduce_element_type": 2,
+        "image_index": 4110807,
+        "country_type": 0,
+        "ml_name": [
+            "ロイヤルケープコート",
+            ""
+        ],
+        "ml_flavor_text": [
+            "吹き荒ぶ風を受けようと、気高くはためく剣士の外套。",
             ""
         ],
         "ml_effect_flavor": []
@@ -3313,6 +3355,132 @@
         ],
         "ml_flavor_text": [
             "アイレン【鉄腕の淑女】が着用しているアンクレット。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4115901,
+        "enhance_group_id": 15,
+        "disassemble_group_id": 115,
+        "rarity": 5,
+        "site_type": 1,
+        "unit_id": 59,
+        "lock_type": 2,
+        "reduce_element_type": 1,
+        "image_index": 4115901,
+        "country_type": 0,
+        "ml_name": [
+            "クインズウェイの帽子",
+            ""
+        ],
+        "ml_flavor_text": [
+            "クインズウェイ【正道をゆく騎士】が着用している帽子。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4115902,
+        "enhance_group_id": 35,
+        "disassemble_group_id": 135,
+        "rarity": 5,
+        "site_type": 3,
+        "unit_id": 59,
+        "lock_type": 2,
+        "reduce_element_type": 2,
+        "image_index": 4115902,
+        "country_type": 0,
+        "ml_name": [
+            "クインズウェイの外套",
+            ""
+        ],
+        "ml_flavor_text": [
+            "クインズウェイ【正道をゆく騎士】が着用している外套。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4115903,
+        "enhance_group_id": 45,
+        "disassemble_group_id": 145,
+        "rarity": 5,
+        "site_type": 4,
+        "unit_id": 59,
+        "lock_type": 2,
+        "reduce_element_type": 1,
+        "image_index": 4115903,
+        "country_type": 0,
+        "ml_name": [
+            "クインズウェイのブーツ",
+            ""
+        ],
+        "ml_flavor_text": [
+            "クインズウェイ【正道をゆく騎士】が着用しているブーツ。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4116001,
+        "enhance_group_id": 15,
+        "disassemble_group_id": 115,
+        "rarity": 5,
+        "site_type": 1,
+        "unit_id": 60,
+        "lock_type": 2,
+        "reduce_element_type": 1,
+        "image_index": 4116001,
+        "country_type": 0,
+        "ml_name": [
+            "ヴィーナスのヘアアクセ",
+            ""
+        ],
+        "ml_flavor_text": [
+            "ヴィーナス【金星が描く軌跡】が着用しているヘアアクセ。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4116002,
+        "enhance_group_id": 25,
+        "disassemble_group_id": 125,
+        "rarity": 5,
+        "site_type": 2,
+        "unit_id": 60,
+        "lock_type": 2,
+        "reduce_element_type": 1,
+        "image_index": 4116002,
+        "country_type": 0,
+        "ml_name": [
+            "ヴィーナスのガントレット",
+            ""
+        ],
+        "ml_flavor_text": [
+            "ヴィーナス【金星が描く軌跡】が着用しているガントレット。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4116003,
+        "enhance_group_id": 45,
+        "disassemble_group_id": 145,
+        "rarity": 5,
+        "site_type": 4,
+        "unit_id": 60,
+        "lock_type": 2,
+        "reduce_element_type": 5,
+        "image_index": 4116003,
+        "country_type": 0,
+        "ml_name": [
+            "ヴィーナスのブーツ",
+            ""
+        ],
+        "ml_flavor_text": [
+            "ヴィーナス【金星が描く軌跡】が着用しているブーツ。",
             ""
         ],
         "ml_effect_flavor": []

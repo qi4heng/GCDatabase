@@ -2318,7 +2318,7 @@
         "effect_type": 73,
         "effect_attributes": 1,
         "ml_name": [
-            "体力アップ",
+            "体力アップ（解除不可）",
             ""
         ],
         "image_index": 1001,
@@ -2331,7 +2331,7 @@
         "effect_type": 73,
         "effect_attributes": 2,
         "ml_name": [
-            "攻撃アップ",
+            "攻撃アップ（解除不可）",
             ""
         ],
         "image_index": 1002,
@@ -2344,7 +2344,7 @@
         "effect_type": 73,
         "effect_attributes": 3,
         "ml_name": [
-            "精神アップ",
+            "精神アップ（解除不可）",
             ""
         ],
         "image_index": 1003,
@@ -2357,7 +2357,7 @@
         "effect_type": 73,
         "effect_attributes": 4,
         "ml_name": [
-            "防御アップ",
+            "防御アップ（解除不可）",
             ""
         ],
         "image_index": 1004,
@@ -2370,7 +2370,7 @@
         "effect_type": 73,
         "effect_attributes": 5,
         "ml_name": [
-            "器用アップ",
+            "器用アップ（解除不可）",
             ""
         ],
         "image_index": 1005,
@@ -2383,7 +2383,7 @@
         "effect_type": 73,
         "effect_attributes": 6,
         "ml_name": [
-            "敏捷アップ",
+            "敏捷アップ（解除不可）",
             ""
         ],
         "image_index": 1006,
@@ -2396,7 +2396,7 @@
         "effect_type": 73,
         "effect_attributes": 7,
         "ml_name": [
-            "幸運アップ",
+            "幸運アップ（解除不可）",
             ""
         ],
         "image_index": 1007,
@@ -2409,7 +2409,7 @@
         "effect_type": 73,
         "effect_attributes": 8,
         "ml_name": [
-            "移動アップ",
+            "移動アップ（解除不可）",
             ""
         ],
         "image_index": 1008,
@@ -2422,7 +2422,7 @@
         "effect_type": 73,
         "effect_attributes": 10,
         "ml_name": [
-            "必殺アップ",
+            "必殺アップ（解除不可）",
             ""
         ],
         "image_index": 1010,
@@ -2435,7 +2435,7 @@
         "effect_type": 73,
         "effect_attributes": 11,
         "ml_name": [
-            "回避アップ",
+            "回避アップ（解除不可）",
             ""
         ],
         "image_index": 1011,
@@ -2448,7 +2448,7 @@
         "effect_type": 73,
         "effect_attributes": 13,
         "ml_name": [
-            "火傷抵抗アップ",
+            "火傷抵抗アップ（解除不可）",
             ""
         ],
         "image_index": 3018,
@@ -2461,7 +2461,7 @@
         "effect_type": 73,
         "effect_attributes": 14,
         "ml_name": [
-            "猛毒抵抗アップ",
+            "猛毒抵抗アップ（解除不可）",
             ""
         ],
         "image_index": 3018,
@@ -2474,7 +2474,7 @@
         "effect_type": 73,
         "effect_attributes": 15,
         "ml_name": [
-            "影縫抵抗アップ",
+            "影縫抵抗アップ（解除不可）",
             ""
         ],
         "image_index": 3018,
@@ -2487,7 +2487,7 @@
         "effect_type": 73,
         "effect_attributes": 16,
         "ml_name": [
-            "感電抵抗アップ",
+            "感電抵抗アップ（解除不可）",
             ""
         ],
         "image_index": 3018,
@@ -2500,7 +2500,7 @@
         "effect_type": 73,
         "effect_attributes": 17,
         "ml_name": [
-            "気絶抵抗アップ",
+            "気絶抵抗アップ（解除不可）",
             ""
         ],
         "image_index": 3018,
@@ -2513,7 +2513,7 @@
         "effect_type": 73,
         "effect_attributes": 18,
         "ml_name": [
-            "睡眠抵抗アップ",
+            "睡眠抵抗アップ（解除不可）",
             ""
         ],
         "image_index": 3018,
@@ -2526,7 +2526,7 @@
         "effect_type": 73,
         "effect_attributes": 19,
         "ml_name": [
-            "誘惑抵抗アップ",
+            "誘惑抵抗アップ（解除不可）",
             ""
         ],
         "image_index": 3018,

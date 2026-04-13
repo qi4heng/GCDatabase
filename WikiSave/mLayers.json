@@ -2665,6 +2665,58 @@
       ]
    },
    {
+      "id": 4010510,
+      "unit_id": 5,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3027,
+      "atk": 104,
+      "mnd": 30,
+      "def": 75,
+      "dex": 42,
+      "spd": 52,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130002,
+      "skill_id1": 20510001,
+      "skill_id2": 20510002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10510001,
+      "ultimate_skill_id": 30510001,
+      "duplicated_item_id": 1120510,
+      "duplicated_item_count": 1,
+      "sort_order": 510,
+      "image_index": 4010510,
+      "ai_group_id": 0,
+      "sound_index": 4010510,
+      "country_type": 0,
+      "strong_skill_setting": "3|2|0|0|0",
+      "start_time": "2026-04-13 13:30:00",
+      "ml_name": [
+         "黒煙の導く先へ",
+         "向着黑烟指引的前方"
+      ],
+      "ml_flavor_text": [
+         "異世界に住む品行方正な騎士を模した\nスタイル。我が道を突き進む力が湧く。",
+         "模仿居住于异世界的品行端正骑士的\n造型。涌出一股勇往直前的力量。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "クインズウェイの誇り、\nミケの身にも纏わせてもらう",
+         "女王道的骄傲，\n让我米开也披上吧"
+      ],
+      "ml_get_message": [
+         "この制服もなかなか悪くないな。気が引き締まる。\nもっとも、ミケはあいつほど生真面目じゃないが……。",
+         "这套制服也相当不赖啊。让人精神抖擞。\n不过，米开可没有那家伙那么死板就是了...。"
+      ]
+   },
+   {
       "id": 4010601,
       "unit_id": 6,
       "rarity": 3,
@@ -5410,7 +5462,7 @@
       "start_time": "2026-03-31 13:30:00",
       "ml_name": [
          "学園のマドンナ",
-         "学园的女神"
+         "学园女神"
       ],
       "ml_flavor_text": [
          "誰もが憧れる人気者が美術学校へ！\n大量のラブレターに本人もご満悦。",
@@ -7174,6 +7226,58 @@
       ]
    },
    {
+      "id": 4011408,
+      "unit_id": 14,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 5,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2280,
+      "atk": 105,
+      "mnd": 45,
+      "def": 69,
+      "dex": 70,
+      "spd": 50,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130003,
+      "skill_id1": 21408001,
+      "skill_id2": 21408002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11408001,
+      "ultimate_skill_id": 31408001,
+      "duplicated_item_id": 1121408,
+      "duplicated_item_count": 1,
+      "sort_order": 1408,
+      "image_index": 4011408,
+      "ai_group_id": 0,
+      "sound_index": 4011408,
+      "country_type": 0,
+      "strong_skill_setting": "3|2|0|0|0",
+      "start_time": "2026-04-13 13:30:00",
+      "ml_name": [
+         "輝けヒトツボシ",
+         "闪耀吧孤星"
+      ],
+      "ml_flavor_text": [
+         "異世界に住む明朗快活な星騎士を模した\nスタイル。カリスマ的なパワーが湧く。",
+         "模仿居住于异世界的开朗快活星骑士的\n造型。涌出如领袖般的魅力能量。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "星の力を纏ったボクに\n向かうところ敵はなーし！",
+         "身披星之力的我\n所向无敌！"
+      ],
+      "ml_get_message": [
+         "美術館を陰から操る……のは無理だけど、\nヴィーナスちゃんの衣装で、大物になったつもりで頑張るよ！",
+         "像维纳斯酱在学生会那样从幕后操纵美术馆...虽然做不到，但我会穿着维纳斯酱的衣服，把自己当作是大人物一样努力的！"
+      ]
+   },
+   {
       "id": 4011501,
       "unit_id": 15,
       "rarity": 3,
@@ -8251,6 +8355,110 @@
       "ml_get_message": [
          "画家のアングルよ……よろしく。\n美術館のため、できるだけのことはするわ……。",
          "画家安格尔……请多关照。\n为了美术馆，我会尽我所能……"
+      ]
+   },
+   {
+      "id": 4015901,
+      "unit_id": 59,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 0,
+      "color_type": 5,
+      "collabo_type": 5,
+      "another_type": 0,
+      "hp": 2984,
+      "atk": 118,
+      "mnd": 54,
+      "def": 69,
+      "dex": 70,
+      "spd": 81,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 0,
+      "skill_id1": 26901001,
+      "skill_id2": 26901002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 16901001,
+      "ultimate_skill_id": 36901001,
+      "duplicated_item_id": 1125901,
+      "duplicated_item_count": 1,
+      "sort_order": 5901,
+      "image_index": 4015901,
+      "ai_group_id": 0,
+      "sound_index": 4015901,
+      "country_type": 0,
+      "strong_skill_setting": "3|2|0|0|0",
+      "start_time": "2026-04-13 13:30:00",
+      "ml_name": [
+         "正道をゆく騎士",
+         "行走于正道的骑士"
+      ],
+      "ml_flavor_text": [
+         "真面目で温厚な特鉄隊の騎士。\nアテネスの平和のために剣を振るう。",
+         "认真而温厚的特铁队骑士。\n为守护雅典的和平而挥剑。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "どの世界に身を置こうとも\n私はセントイリスの騎士です",
+         "无论置身于哪个世界，\n我都是圣伊丽丝的骑士。"
+      ],
+      "ml_get_message": [
+         "セントイリス騎士団所属、特鉄隊のクインズウェイです。\n磨き抜いたこの技、美術館の方々のお役にも立てましょう！",
+         "我是圣伊丽丝骑士团所属、特铁队的女王道。\n这千锤百炼的技艺，想必也能为美术馆的诸位派上用场！"
+      ]
+   },
+   {
+      "id": 4016001,
+      "unit_id": 60,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 4,
+      "collabo_type": 5,
+      "another_type": 0,
+      "hp": 3432,
+      "atk": 110,
+      "mnd": 51,
+      "def": 70,
+      "dex": 71,
+      "spd": 92,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 0,
+      "skill_id1": 27001001,
+      "skill_id2": 27001002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 17001001,
+      "ultimate_skill_id": 37001001,
+      "duplicated_item_id": 1125901,
+      "duplicated_item_count": 1,
+      "sort_order": 6001,
+      "image_index": 4016001,
+      "ai_group_id": 0,
+      "sound_index": 4016001,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|0|0|2",
+      "start_time": "2026-04-13 13:30:00",
+      "ml_name": [
+         "金星が描く軌跡",
+         "金星所描绘的轨迹"
+      ],
+      "ml_flavor_text": [
+         "新星学園星徒会の自称・フィクサー。\n自慢の星力でアテネスを駆け巡る！",
+         "新星学园星生会的自称·调停者。\n以引以为傲的星力驰骋于雅典！"
+      ],
+      "ml_illustrator_name": [
+         "（仮）"
+      ],
+      "ml_rare_get_message": [
+         "スターナイツの力！\nこの世界でも見せてあげる！",
+         "星骑士的力量！\n让这个世界也见识一下！"
+      ],
+      "ml_get_message": [
+         "こんなことになっちゃったけど、私が来たからには心配無用！\n新星星徒会のフィクサーこと、この九浄ヴィーナスにお任せよ！",
+         "虽然事情变成了这样，但只要我来了就不用担心！就交给新星星生会的调停者——也就是我，九净维纳斯吧！"
       ]
    }
 ]

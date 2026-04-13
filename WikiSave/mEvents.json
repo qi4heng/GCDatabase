@@ -2002,6 +2002,32 @@
         "close_time": "2026-03-26 12:59:59"
     },
     {
+        "id": 3234,
+        "ml_title": [
+            "くまべいびーず・くりえいしょん！？",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 434,
+        "top_character_id": 4015901,
+        "top_background_image": "3000312",
+        "m_event_bgm_setting_id": 7,
+        "m_event_bonus_group_id": 3234,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1130,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6006,
+        "latter_half_shop_category_id": 6007,
+        "priority": 121,
+        "banner_image_index": 13234,
+        "start_time": "2026-04-13 13:30:00",
+        "latter_half_start_time": "2026-04-20 13:00:00",
+        "end_time": "2026-04-27 13:59:59",
+        "close_time": "2026-04-29 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",
@@ -3144,5 +3170,31 @@
         "latter_half_start_time": "",
         "end_time": "2026-03-31 12:59:59",
         "close_time": "2026-04-02 12:59:59"
+    },
+    {
+        "id": 5011,
+        "ml_title": [
+            "【A.D.F.】紐解かれる歴史",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 611,
+        "top_character_id": 4020089,
+        "top_background_image": "3011000",
+        "m_event_bgm_setting_id": 6,
+        "m_event_bonus_group_id": 5011,
+        "m_event_point_group_id": 5011,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3102,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6008,
+        "latter_half_shop_category_id": 0,
+        "priority": 122,
+        "banner_image_index": 15011,
+        "start_time": "2026-04-22 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-04-30 12:59:59",
+        "close_time": "2026-05-02 12:59:59"
     }
 ]

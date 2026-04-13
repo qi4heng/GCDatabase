@@ -3694,5 +3694,313 @@
             "深夜、大木に向かって\n正拳突きを１００回",
             "en"
         ]
+    },
+    {
+        "id": 639,
+        "unit_id": 59,
+        "release_level": 2,
+        "position": 1,
+        "ml_title": [
+            "好きなもの",
+            "en"
+        ],
+        "ml_content": [
+            "カフェ",
+            "en"
+        ]
+    },
+    {
+        "id": 640,
+        "unit_id": 59,
+        "release_level": 2,
+        "position": 2,
+        "ml_title": [
+            "嫌いなこと",
+            "en"
+        ],
+        "ml_content": [
+            "不真面目な人",
+            "en"
+        ]
+    },
+    {
+        "id": 641,
+        "unit_id": 59,
+        "release_level": 2,
+        "position": 3,
+        "ml_title": [
+            "特技",
+            "en"
+        ],
+        "ml_content": [
+            "剣術",
+            "en"
+        ]
+    },
+    {
+        "id": 642,
+        "unit_id": 59,
+        "release_level": 3,
+        "position": 4,
+        "ml_title": [
+            "趣味",
+            "en"
+        ],
+        "ml_content": [
+            "カフェ巡り",
+            "en"
+        ]
+    },
+    {
+        "id": 643,
+        "unit_id": 59,
+        "release_level": 4,
+        "position": 5,
+        "ml_title": [
+            "夢",
+            "en"
+        ],
+        "ml_content": [
+            "イリスクラウドの霧を払うこと",
+            "en"
+        ]
+    },
+    {
+        "id": 644,
+        "unit_id": 59,
+        "release_level": 5,
+        "position": 6,
+        "ml_title": [
+            "悩み",
+            "en"
+        ],
+        "ml_content": [
+            "柔軟な対応が苦手なこと",
+            "en"
+        ]
+    },
+    {
+        "id": 645,
+        "unit_id": 59,
+        "release_level": 6,
+        "position": 7,
+        "ml_title": [
+            "好きな食べ物",
+            "en"
+        ],
+        "ml_content": [
+            "紅茶に合う甘いもの",
+            "en"
+        ]
+    },
+    {
+        "id": 646,
+        "unit_id": 59,
+        "release_level": 7,
+        "position": 8,
+        "ml_title": [
+            "癖になっていること",
+            "en"
+        ],
+        "ml_content": [
+            "剣の手入れ",
+            "en"
+        ]
+    },
+    {
+        "id": 647,
+        "unit_id": 59,
+        "release_level": 8,
+        "position": 9,
+        "ml_title": [
+            "嫌いなあだ名",
+            "en"
+        ],
+        "ml_content": [
+            "クインピッピ",
+            "en"
+        ]
+    },
+    {
+        "id": 648,
+        "unit_id": 59,
+        "release_level": 9,
+        "position": 10,
+        "ml_title": [
+            "いかがわしい本",
+            "en"
+        ],
+        "ml_content": [
+            "見つけるとどうしても気になってしまう",
+            "en"
+        ]
+    },
+    {
+        "id": 649,
+        "unit_id": 59,
+        "release_level": 10,
+        "position": 11,
+        "ml_title": [
+            "新しい目標",
+            "en"
+        ],
+        "ml_content": [
+            "車掌さんの護衛騎士",
+            "en"
+        ]
+    },
+    {
+        "id": 650,
+        "unit_id": 60,
+        "release_level": 2,
+        "position": 1,
+        "ml_title": [
+            "好きなもの",
+            "en"
+        ],
+        "ml_content": [
+            "新星星徒会の仲間",
+            "en"
+        ]
+    },
+    {
+        "id": 651,
+        "unit_id": 60,
+        "release_level": 2,
+        "position": 2,
+        "ml_title": [
+            "嫌いなもの",
+            "en"
+        ],
+        "ml_content": [
+            "暇",
+            "en"
+        ]
+    },
+    {
+        "id": 652,
+        "unit_id": 60,
+        "release_level": 2,
+        "position": 3,
+        "ml_title": [
+            "特技",
+            "en"
+        ],
+        "ml_content": [
+            "武器からビームが出る",
+            "en"
+        ]
+    },
+    {
+        "id": 653,
+        "unit_id": 60,
+        "release_level": 3,
+        "position": 4,
+        "ml_title": [
+            "趣味",
+            "en"
+        ],
+        "ml_content": [
+            "タロット占い",
+            "en"
+        ]
+    },
+    {
+        "id": 654,
+        "unit_id": 60,
+        "release_level": 4,
+        "position": 5,
+        "ml_title": [
+            "夢",
+            "en"
+        ],
+        "ml_content": [
+            "クロトを最強の\n魔王にすること",
+            "en"
+        ]
+    },
+    {
+        "id": 655,
+        "unit_id": 60,
+        "release_level": 5,
+        "position": 6,
+        "ml_title": [
+            "悩み",
+            "en"
+        ],
+        "ml_content": [
+            "クロトに会えない\n時間が長くて寂しい",
+            "en"
+        ]
+    },
+    {
+        "id": 656,
+        "unit_id": 60,
+        "release_level": 6,
+        "position": 7,
+        "ml_title": [
+            "好きな食べ物",
+            "en"
+        ],
+        "ml_content": [
+            "肉料理全般",
+            "en"
+        ]
+    },
+    {
+        "id": 657,
+        "unit_id": 60,
+        "release_level": 7,
+        "position": 8,
+        "ml_title": [
+            "癖になっていること",
+            "en"
+        ],
+        "ml_content": [
+            "構ってくれそうな人を\nいつでも探してしまう",
+            "en"
+        ]
+    },
+    {
+        "id": 658,
+        "unit_id": 60,
+        "release_level": 8,
+        "position": 9,
+        "ml_title": [
+            "以前の役職",
+            "en"
+        ],
+        "ml_content": [
+            "元々は星徒会長だった\nがクロトに後任を託す",
+            "en"
+        ]
+    },
+    {
+        "id": 659,
+        "unit_id": 60,
+        "release_level": 9,
+        "position": 10,
+        "ml_title": [
+            "実家の秘密",
+            "en"
+        ],
+        "ml_content": [
+            "旧家でかつ富豪の令嬢\n「メイド隊」もいる",
+            "en"
+        ]
+    },
+    {
+        "id": 660,
+        "unit_id": 60,
+        "release_level": 10,
+        "position": 11,
+        "ml_title": [
+            "意外な経歴",
+            "en"
+        ],
+        "ml_content": [
+            "記憶喪失の過去があり\n５年以上前の経歴不明",
+            "en"
+        ]
     }
 ]

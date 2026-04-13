@@ -5291,6 +5291,162 @@
         ]
     },
     {
+        "id": 55440024,
+        "rarity": 5,
+        "image_index": 1150001,
+        "ml_name": [
+            "熱情アップ・全",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、味方全員に熱情[[effects_power]]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440025,
+        "rarity": 5,
+        "image_index": 1150002,
+        "ml_name": [
+            "入魂ゲージ増加・全",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、味方全員に入魂ゲージ[[effects_power]]%増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440026,
+        "rarity": 5,
+        "image_index": 1150001,
+        "ml_name": [
+            "熱情アップ・カーマイン",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、カーマインの味方全員に熱情[[effects_power]]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440027,
+        "rarity": 5,
+        "image_index": 1150002,
+        "ml_name": [
+            "入魂ゲージ増加・カーマイン",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、カーマインの味方全員に入魂ゲージ[[effects_power]]%増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440028,
+        "rarity": 5,
+        "image_index": 1150001,
+        "ml_name": [
+            "熱情アップ・セルリアン",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、セルリアンの味方全員に熱情[[effects_power]]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440029,
+        "rarity": 5,
+        "image_index": 1150002,
+        "ml_name": [
+            "入魂ゲージ増加・セルリアン",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、セルリアンの味方全員に入魂ゲージ[[effects_power]]%増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440030,
+        "rarity": 5,
+        "image_index": 1150001,
+        "ml_name": [
+            "熱情アップ・ビリジアン",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、ビリジアンの味方全員に熱情[[effects_power]]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440031,
+        "rarity": 5,
+        "image_index": 1150002,
+        "ml_name": [
+            "入魂ゲージ増加・ビリジアン",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、ビリジアンの味方全員に入魂ゲージ[[effects_power]]%増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440032,
+        "rarity": 5,
+        "image_index": 1150001,
+        "ml_name": [
+            "熱情アップ・アイボリー",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、アイボリーの味方全員に熱情[[effects_power]]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440033,
+        "rarity": 5,
+        "image_index": 1150002,
+        "ml_name": [
+            "入魂ゲージ増加・アイボリー",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、アイボリーの味方全員に入魂ゲージ[[effects_power]]%増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440034,
+        "rarity": 5,
+        "image_index": 1150001,
+        "ml_name": [
+            "熱情アップ・バイオレット",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、バイオレットの味方全員に熱情[[effects_power]]増加",
+            ""
+        ]
+    },
+    {
+        "id": 55440035,
+        "rarity": 5,
+        "image_index": 1150002,
+        "ml_name": [
+            "入魂ゲージ増加・バイオレット",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、バイオレットの味方全員に入魂ゲージ[[effects_power]]%増加",
+            ""
+        ]
+    },
+    {
         "id": 63130001,
         "rarity": 3,
         "image_index": 1130001,
@@ -7332,6 +7488,19 @@
         ]
     },
     {
+        "id": 45080701,
+        "rarity": 5,
+        "image_index": 1080000,
+        "ml_name": [
+            "精髄：【忠実なる美剣士】",
+            ""
+        ],
+        "ml_description": [
+            "系統：工芸に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技でフォーム付与時、敵全体の敏捷[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
+            ""
+        ]
+    },
+    {
         "id": 45090401,
         "rarity": 5,
         "image_index": 1300004,
@@ -7679,6 +7848,97 @@
         ],
         "ml_description": [
             "バトル開始時の熱情[[effects_power]]増加/風エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・体力の低い味方1人を[[effects_power_5]]回復",
+            ""
+        ]
+    },
+    {
+        "id": 45590101,
+        "rarity": 5,
+        "image_index": 1300000,
+        "ml_name": [
+            "真髄：【正道をゆく騎士】",
+            ""
+        ],
+        "ml_description": [
+            "物理エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身と近くの味方2人に敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45590102,
+        "rarity": 5,
+        "image_index": 1390005,
+        "ml_name": [
+            "精粋：【正道をゆく騎士】",
+            ""
+        ],
+        "ml_description": [
+            "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身の必殺[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45590103,
+        "rarity": 5,
+        "image_index": 1320000,
+        "ml_name": [
+            "精髄：【正道をゆく騎士】",
+            ""
+        ],
+        "ml_description": [
+            "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で弱点付与または状態異常付与時、自身のクールタイム[[effects_power_3]]短縮",
+            ""
+        ]
+    },
+    {
+        "id": 45600101,
+        "rarity": 5,
+        "image_index": 1300000,
+        "ml_name": [
+            "真髄：【金星が描く軌跡】",
+            ""
+        ],
+        "ml_description": [
+            "物理エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身の幸運[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45600102,
+        "rarity": 5,
+        "image_index": 1390004,
+        "ml_name": [
+            "精粋：【金星が描く軌跡】",
+            ""
+        ],
+        "ml_description": [
+            "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇/攻撃[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身に防御[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・奮起付与",
+            ""
+        ]
+    },
+    {
+        "id": 45600103,
+        "rarity": 5,
+        "image_index": 1320000,
+        "ml_name": [
+            "精髄：【金星が描く軌跡】",
+            ""
+        ],
+        "ml_description": [
+            "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法変化時、自身に攻撃[[effects_power_3]%]増加（消去不可・重複可）＜[[effects_turn_3]ターン]＞&移動[[effects_power_4]]増加（消去不可）＜[[effects_turn_4]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 45010401,
+        "rarity": 5,
+        "image_index": 1320000,
+        "ml_name": [
+            "精髄：【鳩と戯れる美少女】",
+            ""
+        ],
+        "ml_description": [
+            "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で弾き飛ばし発生時、自身の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
             ""
         ]
     },

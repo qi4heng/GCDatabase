@@ -625,6 +625,31 @@
         "is_visible": false
     },
     {
+        "id": 1015011,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※4/30まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-04-13 13:30:00",
+        "end_time": "2026-04-30 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1020001,
         "item_type": 102,
         "value1": 3,
@@ -1247,6 +1272,31 @@
         ],
         "start_time": "2026-03-23 13:00:00",
         "end_time": "2026-03-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1025011,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※4/30まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-04-13 13:30:00",
+        "end_time": "2026-04-30 23:59:59",
         "is_visible": false
     },
     {
@@ -2825,6 +2875,81 @@
         "is_visible": false
     },
     {
+        "id": 1115901,
+        "item_type": 111,
+        "value1": 0,
+        "value2": 5,
+        "sort": 66,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1115901,
+        "ml_name": [
+            "くまさん祭りの命鏡C・小",
+            "EN"
+        ],
+        "ml_description": [
+            "クインズウェイとヴィーナスのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、小さな発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1115902,
+        "item_type": 111,
+        "value1": 0,
+        "value2": 5,
+        "sort": 67,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1115902,
+        "ml_name": [
+            "くまさん祭りの命鏡C・中",
+            "EN"
+        ],
+        "ml_description": [
+            "クインズウェイとヴィーナスのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、新鮮な発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1115903,
+        "item_type": 111,
+        "value1": 0,
+        "value2": 5,
+        "sort": 68,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1115903,
+        "ml_name": [
+            "くまさん祭りの命鏡C・大",
+            "EN"
+        ],
+        "ml_description": [
+            "クインズウェイとヴィーナスのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、大いなる発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120101,
         "item_type": 112,
         "value1": 4010101,
@@ -4185,6 +4310,31 @@
         "image_index": 1120509,
         "ml_name": [
             "【陶酔に浸る夜会】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ミケランジェロの新たな才能を引き出すと言われているオーブ\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120510,
+        "item_type": 112,
+        "value1": 4010510,
+        "value2": 0,
+        "sort": 75,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120510,
+        "ml_name": [
+            "【黒煙の導く先へ】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -6525,6 +6675,31 @@
         "is_visible": false
     },
     {
+        "id": 1121408,
+        "item_type": 112,
+        "value1": 4011408,
+        "value2": 0,
+        "sort": 124,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121408,
+        "ml_name": [
+            "【輝けヒトツボシ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボッティチェリの新たな才能を引き出すと言われているオーブ\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121501,
         "item_type": 112,
         "value1": 4011501,
@@ -6914,6 +7089,31 @@
         ],
         "ml_description": [
             "アネモネとアイレンの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1125901,
+        "item_type": 112,
+        "value1": 0,
+        "value2": 5,
+        "sort": 125,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1125901,
+        "ml_name": [
+            "【くまさん祭り】のオーブC",
+            "EN"
+        ],
+        "ml_description": [
+            "クインズウェイとヴィーナスの限界突破（強化）に必要なアイテム。",
             "EN"
         ],
         "ml_flavor_text": [
@@ -9314,6 +9514,31 @@
         ],
         "ml_description": [
             "アネモネとアイレンに経験値を与えることのできるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "心を激しく揺さぶる書物。その技術やセンスを\n飛躍させる哲学や技術について豊富に記されている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1165901,
+        "item_type": 116,
+        "value1": 0,
+        "value2": 5,
+        "sort": 202,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1165901,
+        "ml_name": [
+            "【くまさん祭り】の藝術家の書C",
+            "EN"
+        ],
+        "ml_description": [
+            "クインズウェイとヴィーナスに経験値を与えることのできるアイテム。",
             "EN"
         ],
         "ml_flavor_text": [
@@ -13018,6 +13243,31 @@
         ],
         "ml_flavor_text": [
             "青春の物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1511105,
+        "item_type": 151,
+        "value1": 434,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511105,
+        "ml_name": [
+            "ストーリーキー【くまべいびーず・くりえいしょん！？】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「くまべいびーず・くりえいしょん！？」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "くまべいびーずの扉を開くための鍵。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -17925,6 +18175,81 @@
         "is_visible": false
     },
     {
+        "id": 1630203,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630203,
+        "ml_name": [
+            "くまべいびーず・くりえいしょん！？ 前半戦ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "くまべいびーず・くりえいしょん！？ 前半戦ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-27 13:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630204,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630204,
+        "ml_name": [
+            "くまべいびーず・くりえいしょん！？ 後半戦ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "くまべいびーず・くりえいしょん！？ 後半戦ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-27 13:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630205,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630205,
+        "ml_name": [
+            "紐解かれる歴史ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "紐解かれる歴史ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-02 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630206,
         "item_type": 702,
         "value1": 0,
@@ -17947,6 +18272,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-04-14 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630210,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット35",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-02 12:59:59",
         "is_visible": false
     },
     {
@@ -22425,6 +22775,106 @@
         "is_visible": false
     },
     {
+        "id": 1640186,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640186,
+        "ml_name": [
+            "くまべいびーず・くりえいしょん！？のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でくまべいびーず・くりえいしょん！？ 前半戦ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-04-29 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640187,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640187,
+        "ml_name": [
+            "スタイル復刻のしおり35",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-04 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640188,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640188,
+        "ml_name": [
+            "紐解かれる歴史のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で紐解かれる歴史ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-04 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640189,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640005,
+        "ml_name": [
+            "レイド応援のしおり緑",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5キャラクターと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-02 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650000,
         "item_type": 801,
         "value1": 3200,
@@ -25725,6 +26175,81 @@
         "is_visible": false
     },
     {
+        "id": 1650135,
+        "item_type": 801,
+        "value1": 3234,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650072,
+        "ml_name": [
+            "クマロボメダル・銅",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「くまべいびーず・くりえいしょん！？」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "謎のクマロボ集団が落としていったメダル。\n一見本物の硬貨のようだが、実はおもちゃのように軽いのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650136,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3234,
+        "sort": 261,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650073,
+        "ml_name": [
+            "クマロボメダル・銀",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「くまべいびーず・くりえいしょん！？」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "謎のクマロボ集団が落としていったメダル。\n一見本物の硬貨のようだが、実はおもちゃのように軽いのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650137,
+        "item_type": 803,
+        "value1": 5011,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650099,
+        "ml_name": [
+            "死の結晶・青",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「【A.D.F.】紐解かれる歴史」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650141,
         "item_type": 801,
         "value1": 3230,
@@ -27014,6 +27539,31 @@
         ],
         "ml_description": [
             "レイドイベント「ムーランのしあわせお給仕」に挑戦するために必要となる挑戦券。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大規模な戦闘に挑戦するために必要となるスクロール。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1661011,
+        "item_type": 171,
+        "value1": 5011,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1661001,
+        "ml_name": [
+            "レイド挑戦券",
+            "EN"
+        ],
+        "ml_description": [
+            "レイドイベント「紐解かれる歴史」に挑戦するために必要となる挑戦券。",
             "EN"
         ],
         "ml_flavor_text": [
@@ -28418,6 +28968,31 @@
         ],
         "ml_flavor_text": [
             "『チームくまさんタイトル 合同CP』のリレーミッション参加に必要なチケット。保管しておくと良いことがあるらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 9010006,
+        "item_type": 161,
+        "value1": 0,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 9010006,
+        "ml_name": [
+            "第二回くまさん祭りチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "『第二回くまさん祭り』相互ミッション参加の証",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『第二回くまさん祭り』相互ミッションの参加に必要な異世界のチケット。 大切に保管しておくと良いことがあるらしい。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",

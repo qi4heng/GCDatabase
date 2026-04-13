@@ -565,5 +565,19 @@
         "campaign_value": 15000,
         "start_time": "2026-03-23 13:00:00",
         "end_time": "2026-03-31 12:59:59"
+    },
+    {
+        "id": 1053,
+        "campaign_type": 1,
+        "campaign_value": 11500,
+        "start_time": "2026-04-22 13:00:00",
+        "end_time": "2026-05-12 12:59:59"
+    },
+    {
+        "id": 2030,
+        "campaign_type": 2,
+        "campaign_value": 20000,
+        "start_time": "2026-04-22 13:00:00",
+        "end_time": "2026-05-12 12:59:59"
     }
 ]

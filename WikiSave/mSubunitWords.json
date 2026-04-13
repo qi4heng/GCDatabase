@@ -23120,6 +23120,278 @@
         "subunit_id": 4020088
     },
     {
+        "id": 1409,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020089_1400",
+        "ml_word": [
+            "やぁ館長君。旅人たる私が、美術館の受付なんてものを\nやる日が来るとはね。ま、こういう日々も悪くない。\nずっとやれと言われたら、出奔しそうだけどね、ふふ。",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1410,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4020089_1410",
+        "ml_word": [
+            "普段は通り過ぎる側の私だけど、通り過ぎゆく\nお客さんたちを眺めているのも、新鮮でいいね。\n変わる空模様と、流れる雲のようでね。",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1411,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020089_1420",
+        "ml_word": [
+            "雲が同じところに留まらないのと一緒。\n今は館長君っていう山が私を留めてくれているけど、\n君が居なくなったら、\n私が此処に留まる理由は特にないよ。",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1412,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020089_1430",
+        "ml_word": [
+            "私がいつ何処で実態を持ったかって？\n美術館かもしれないし、そうじゃないかもしれないね？\nまぁ少なくとも顕現してから旅をしたのは間違いない。\nひとつ、旅の思い出話でも語ってみせようか？",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1413,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020089_1440",
+        "ml_word": [
+            "館長君のそばでは様々なことが巻き起こる。\nそれは旅よりも新しい世界を私に見せてくれるんだよ。\nだから君のそばに留まりたい……いいよね？",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1414,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4020089_1450",
+        "ml_word": [
+            "館長君、また執務室に引きこもってる。\n仕事熱心で勤勉なのは褒められるべきだけど、\n引きこもりがちは良くないと思うんだよね〜。",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1415,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020089_1460",
+        "ml_word": [
+            "山の上で拝む、初日の出は格別だよ。\n館長君も挑戦してみるといい。\nん？私と来年一緒に？　いや、先の話は苦手でね……。\nでも、覚えておくよ。ふふ。",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1416,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020089_1470",
+        "ml_word": [
+            "バレンタインか。\n君はさぞたくさん貰うんだろうね。\n私からかい？　うーん……どうしようかな。\nま、君にならいいか……おすすめの酒でも贈るよ。",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1417,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020089_1480",
+        "ml_word": [
+            "ハロウィンって、要は魔除けのお祭りだろう？\n人は魔や災厄を退けたいものなんだろうね。\n世界中、色んな形で人々は似たことをやるからね。",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1418,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020089_1490",
+        "ml_word": [
+            "メリークリスマス、館長君。\n君のところにサンタは来たかい？\nまだなら、私がプレゼントをあげよう、ふふ。",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1419,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020089_1500",
+        "ml_word": [
+            "１年も終わりか……。\n私はいつまでここに留まっているんだろうなと思うよ。\n不思議な感じがする。\nま、君が居る限りはどこにも行かないさ……安心して。",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1420,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020089_1510",
+        "ml_word": [
+            "誕生日おめでとう、館長君。\n君という存在が生まれたことを祝福しよう。\nお陰で私は、ここに留まる気になるんだから。",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1421,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020089_1520",
+        "ml_word": [
+            "旅人は軽やかでいるに限るからね。\n閉じ込められたり依存されたり、\nそういうのは苦手かな。\nま、いざとなったらうまく逃げるけどね。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1422,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020089_1530",
+        "ml_word": [
+            "ライフは……まぁ、誤解されやすいと思うよ。\nでも、誤解されるというなら、私も同じだしね。\nそういう意味では、似た者同士かもしれないな。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1423,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4020089_1540",
+        "ml_word": [
+            "人と深く関わらないのは、いい思い出にしたいからさ。\n出会いは一期一会、移ろいゆく雲と同じ。\nだからこそ、わざわざ悪い面を記憶に残す必要はない。\nお互いにね。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
+        "id": 1424,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020089_1550",
+        "ml_word": [
+            "君を気に入ったのは、どうしてだろうな。\n自分でも不思議だよ。\nでも、感じてしまったんだ。\n君なら私の終着点になるかもしれない、ってね。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020089
+    },
+    {
         "id": 1425,
         "scene_type": 0,
         "trigger": 5,

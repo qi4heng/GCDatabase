@@ -5270,6 +5270,68 @@
         "adult_no_voice": 0
     },
     {
+      "id": 4020089,
+      "ml_name": [
+         "ヴェッター",
+         "en",
+         "维特"
+      ],
+      "level_group_id": 5,
+      "rarity": 5,
+      "weapon_type": 3,
+      "buff_skill_id": 25089001,
+      "attack_skill_id": 15089001,
+      "ultimate_skill_id": 35089001,
+      "fusion_skill_id": 44200001,
+      "change_turn": 3,
+      "image_index": 4020089,
+      "sound_index": 4020089,
+      "ml_personality": [
+         "性格",
+         "en"
+      ],
+      "ml_birthday": [
+         "99/99",
+         "en"
+      ],
+      "ml_height": [
+         "161cm",
+         "en"
+      ],
+      "ml_size": [
+         "B87・W57・H83",
+         "en"
+      ],
+      "unit_id": 1,
+      "ml_cv_name": [
+         "夏目紗奈",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "ある日ふらりと美術館に現れた、放浪するイマージュ。\n雲のようにふわふわと、風の如く掴みどころがない性質。\n館長の噂を聞いてやってきたというが、いつ何処で顕現を\nしたのか語ろうとせず、謎が残る。\n館長が気に入ったのか、しばらく居座るつもりとのこと。",
+         "en",
+         ""
+      ],
+      "ml_illustrator_name": [
+         "未記入",
+         "en"
+      ],
+      "ml_roots": [
+         "雲海の上の旅人",
+         "en",
+         "雾海上的旅人",
+         "<span lang=\"de\">Der Wanderer über dem Nebelmeer</span>"
+      ],
+      "ml_get_message": [
+         "私はヴェッター。しがない放浪のイマージュだよ。君の噂を聞いて、\n立ち寄ってみたんだ。しばらくの間かもしれないが、よろしく、館長君。",
+         "en",
+         "我是维特。一个不起眼的流浪形象。听说你的传闻，顺路过来看看。虽然可能只是待一阵子，但也请多关照，馆长君。"
+      ],
+      "favorite_type": 6,
+      "start_time": "2026-04-22 13:00:00",
+      "adult_no_voice": 0
+    },
+    {
       "id": 4020090,
       "ml_name": [
          "ムーラン(Made Happy♪)",
