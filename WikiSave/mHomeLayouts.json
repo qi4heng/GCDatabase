@@ -782,5 +782,21 @@
         "order": 20,
         "image_index": 4120053,
         "start_time": "2026-04-06 13:00:00"
+    },
+    {
+        "id": 3011,
+        "type": 3,
+        "name": "咲き誇る血の芸術",
+        "ml_name": [
+            ""
+        ],
+        "asset": "emv_10010310_20",
+        "consume_item_type": 0,
+        "consume_item_id": 0,
+        "price": 0,
+        "condition_memory_id": 4120135,
+        "order": 30,
+        "image_index": 4120055,
+        "start_time": "2026-05-08 13:00:00"
     }
 ]

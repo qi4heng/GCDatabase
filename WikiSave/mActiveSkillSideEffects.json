@@ -1200,6 +1200,86 @@
         "effect_target_type_id": 2104
     },
     {
+        "id": 202130011,
+        "main_effect_id": 20213001,
+        "effect_type": 63,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "3",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 202130012,
+        "main_effect_id": 20213001,
+        "effect_type": 61,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 5
+    },
+    {
+        "id": 202130013,
+        "main_effect_id": 20213001,
+        "effect_type": 58,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 202130021,
+        "main_effect_id": 20213002,
+        "effect_type": 8,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "2",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 202130022,
+        "main_effect_id": 20213002,
+        "effect_type": 15,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "2",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 202130023,
+        "main_effect_id": 20213002,
+        "effect_type": 9,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "32020801|0",
+        "effect_target_type_id": 9
+    },
+    {
+        "id": 302130011,
+        "main_effect_id": 30213001,
+        "effect_type": 63,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "3",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 302130012,
+        "main_effect_id": 30213001,
+        "effect_type": 9,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "32030201|0",
+        "effect_target_type_id": 9
+    },
+    {
+        "id": 302130013,
+        "main_effect_id": 30213001,
+        "effect_type": 48,
+        "m_skill_effect_turn_group_id": 6,
+        "effect_attributes": "2",
+        "effect_target_type_id": 2101
+    },
+    {
+        "id": 302130014,
+        "main_effect_id": 30213001,
+        "effect_type": 72,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "20213001",
+        "effect_target_type_id": 8
+    },
+    {
         "id": 203010011,
         "main_effect_id": 20301001,
         "effect_type": 15,
@@ -3566,6 +3646,102 @@
         "m_skill_effect_turn_group_id": 3,
         "effect_attributes": "6",
         "effect_target_type_id": 1
+    },
+    {
+        "id": 206120011,
+        "main_effect_id": 20612001,
+        "effect_type": 7,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 206120012,
+        "main_effect_id": 20612001,
+        "effect_type": 74,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "3",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 206120013,
+        "main_effect_id": 20612001,
+        "effect_type": 71,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 206120014,
+        "main_effect_id": 20612001,
+        "effect_type": 60,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 206120021,
+        "main_effect_id": 20612002,
+        "effect_type": 7,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 206120022,
+        "main_effect_id": 20612002,
+        "effect_type": 8,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "6",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 206120023,
+        "main_effect_id": 20612002,
+        "effect_type": 73,
+        "m_skill_effect_turn_group_id": 6,
+        "effect_attributes": "0|1|2",
+        "effect_target_type_id": 2104
+    },
+    {
+        "id": 206120024,
+        "main_effect_id": 20612002,
+        "effect_type": 15,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "2",
+        "effect_target_type_id": 2104
+    },
+    {
+        "id": 306120011,
+        "main_effect_id": 30612001,
+        "effect_type": 7,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 306120012,
+        "main_effect_id": 30612001,
+        "effect_type": 16,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "3",
+        "effect_target_type_id": 1
+    },
+    {
+        "id": 306120013,
+        "main_effect_id": 30612001,
+        "effect_type": 75,
+        "m_skill_effect_turn_group_id": 0,
+        "effect_attributes": "0",
+        "effect_target_type_id": 1
+    },
+    {
+        "id": 306120014,
+        "main_effect_id": 30612001,
+        "effect_type": 72,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "20612002",
+        "effect_target_type_id": 8
     },
     {
         "id": 207010011,
@@ -7997,6 +8173,78 @@
         "effect_type": 11,
         "m_skill_effect_turn_group_id": 3,
         "effect_attributes": "21",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 213110011,
+        "main_effect_id": 21311001,
+        "effect_type": 8,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "2",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 213110012,
+        "main_effect_id": 21311001,
+        "effect_type": 48,
+        "m_skill_effect_turn_group_id": 6,
+        "effect_attributes": "2|6",
+        "effect_target_type_id": 2101
+    },
+    {
+        "id": 213110013,
+        "main_effect_id": 21311001,
+        "effect_type": 11,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "12",
+        "effect_target_type_id": 2101
+    },
+    {
+        "id": 213110021,
+        "main_effect_id": 21311002,
+        "effect_type": 14,
+        "m_skill_effect_turn_group_id": 3,
+        "effect_attributes": "10",
+        "effect_target_type_id": 2101
+    },
+    {
+        "id": 213110022,
+        "main_effect_id": 21311002,
+        "effect_type": 15,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "2",
+        "effect_target_type_id": 2101
+    },
+    {
+        "id": 213110023,
+        "main_effect_id": 21311002,
+        "effect_type": 11,
+        "m_skill_effect_turn_group_id": 3,
+        "effect_attributes": "1",
+        "effect_target_type_id": 2212
+    },
+    {
+        "id": 213110024,
+        "main_effect_id": 21311002,
+        "effect_type": 60,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 8
+    },
+    {
+        "id": 313110011,
+        "main_effect_id": 31311001,
+        "effect_type": 2,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "0",
+        "effect_target_type_id": 1
+    },
+    {
+        "id": 313110012,
+        "main_effect_id": 31311001,
+        "effect_type": 72,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "21311002",
         "effect_target_type_id": 8
     },
     {
@@ -15774,6 +16022,38 @@
         "m_skill_effect_turn_group_id": 1,
         "effect_attributes": "32610|1|0|1|99",
         "effect_target_type_id": 9
+    },
+    {
+        "id": 295002761,
+        "main_effect_id": 29500276,
+        "effect_type": 16,
+        "m_skill_effect_turn_group_id": 3,
+        "effect_attributes": "4",
+        "effect_target_type_id": 1
+    },
+    {
+        "id": 295002762,
+        "main_effect_id": 29500276,
+        "effect_type": 9,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "32010061",
+        "effect_target_type_id": 9
+    },
+    {
+        "id": 295002771,
+        "main_effect_id": 29500277,
+        "effect_type": 18,
+        "m_skill_effect_turn_group_id": 1,
+        "effect_attributes": "2",
+        "effect_target_type_id": 1
+    },
+    {
+        "id": 295002781,
+        "main_effect_id": 29500278,
+        "effect_type": 11,
+        "m_skill_effect_turn_group_id": 107,
+        "effect_attributes": "7",
+        "effect_target_type_id": 1
     },
     {
         "id": 285000011,

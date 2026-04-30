@@ -17,8 +17,8 @@
         "type": 1,
         "priority": 10,
         "pickup_factor_id_list": "0",
-        "display_layer_id_list": "4011004|4010104",
-        "display_subunit_id_list": "4020058|4020064",
+        "display_layer_id_list": "4011007|4010108",
+        "display_subunit_id_list": "4020069|4020068",
         "pickup_layer_id_list": "0",
         "pickup_subunit_id_list": "0",
         "top_template_type": "2",
@@ -4499,6 +4499,150 @@
         ],
         "start_time": "2026-04-20 13:00:00",
         "end_time": "2026-04-27 13:59:59"
+    },
+    {
+        "id": 1134,
+        "section_id": 0,
+        "ml_name": [
+            "煌めく一夜のショータイム！ガチャA",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 662,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010612|4010213",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010612|4010213",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1134",
+        "background_asset_id": 3001300,
+        "m_shop_category_id": "889",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59"
+    },
+    {
+        "id": 1135,
+        "section_id": 0,
+        "ml_name": [
+            "有償限定 煌めく一夜のショータイム！ガチャA",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 663,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010612|4010213",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010612|4010213",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1135",
+        "background_asset_id": 3001302,
+        "m_shop_category_id": "889",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59"
+    },
+    {
+        "id": 1136,
+        "section_id": 0,
+        "ml_name": [
+            "煌めく一夜のショータイム！ガチャB",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 666,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011311",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4011311",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1136",
+        "background_asset_id": 3001300,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2026-05-13 12:59:59"
+    },
+    {
+        "id": 1137,
+        "section_id": 0,
+        "ml_name": [
+            "有償限定 煌めく一夜のショータイム！ガチャB",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 667,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011311",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4011311",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1137",
+        "background_asset_id": 3001302,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2026-05-13 12:59:59"
     },
     {
         "id": 2001,
@@ -13422,7 +13566,7 @@
         "type": 1,
         "priority": 1,
         "pickup_factor_id_list": "0",
-        "display_layer_id_list": "4010604|4011504",
+        "display_layer_id_list": "4010408|4011505",
         "display_subunit_id_list": "0",
         "pickup_layer_id_list": "0",
         "pickup_subunit_id_list": "0",
@@ -13459,7 +13603,7 @@
         "priority": 1,
         "pickup_factor_id_list": "0",
         "display_layer_id_list": "0",
-        "display_subunit_id_list": "4020023|4020035",
+        "display_subunit_id_list": "4020057|4020053",
         "pickup_layer_id_list": "0",
         "pickup_subunit_id_list": "0",
         "top_template_type": "2",
@@ -13494,8 +13638,8 @@
         "type": 1,
         "priority": 1,
         "pickup_factor_id_list": "0",
-        "display_layer_id_list": "4010906|4010104",
-        "display_subunit_id_list": "4020002|4020004",
+        "display_layer_id_list": "4010704|4010108",
+        "display_subunit_id_list": "4020052|4020021",
         "pickup_layer_id_list": "0",
         "pickup_subunit_id_list": "0",
         "top_template_type": "2",
@@ -13530,7 +13674,7 @@
         "type": 1,
         "priority": 1,
         "pickup_factor_id_list": "0",
-        "display_layer_id_list": "4011106|4011205",
+        "display_layer_id_list": "4011104|4010208",
         "display_subunit_id_list": "0",
         "pickup_layer_id_list": "0",
         "pickup_subunit_id_list": "0",
@@ -13567,7 +13711,7 @@
         "priority": 1,
         "pickup_factor_id_list": "0",
         "display_layer_id_list": "0",
-        "display_subunit_id_list": "4020066|4020067",
+        "display_subunit_id_list": "4020062|4020061",
         "pickup_layer_id_list": "0",
         "pickup_subunit_id_list": "0",
         "top_template_type": "2",
@@ -13602,8 +13746,8 @@
         "type": 1,
         "priority": 1,
         "pickup_factor_id_list": "0",
-        "display_layer_id_list": "4010404|4010104",
-        "display_subunit_id_list": "4020065|4020064",
+        "display_layer_id_list": "4010607|4010108",
+        "display_subunit_id_list": "4020048|4020069",
         "pickup_layer_id_list": "0",
         "pickup_subunit_id_list": "0",
         "top_template_type": "2",
@@ -14827,6 +14971,43 @@
         ],
         "start_time": "2026-04-01 13:00:00",
         "end_time": "2026-04-06 12:59:59"
+    },
+    {
+        "id": 6035,
+        "section_id": 0,
+        "ml_name": [
+            "カラー属性5ステップガチャSP：バイオレット",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 665,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010209|4011506|4011107|4010808",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top6035",
+        "logo_asset": "gacha_logo6035",
+        "background_asset_id": 3503710,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,{rare5}確定",
+            ""
+        ],
+        "start_time": "2026-05-01 13:00:00",
+        "end_time": "2026-05-06 12:59:59"
     },
     {
         "id": 6501,
@@ -21299,6 +21480,42 @@
         "end_time": "2026-04-26 23:59:59"
     },
     {
+        "id": 7543,
+        "section_id": 0,
+        "ml_name": [
+            "週末限定ガチャSP",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 669,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010309",
+        "display_subunit_id_list": "4020076|4020058",
+        "pickup_layer_id_list": "4010309",
+        "pickup_subunit_id_list": "4020076|4020058",
+        "top_template_type": "2|1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo7507",
+        "background_asset_id": 3006601,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-05-08 13:00:00",
+        "end_time": "2026-05-10 23:59:59"
+    },
+    {
         "id": 8001,
         "section_id": 0,
         "ml_name": [
@@ -23944,6 +24161,300 @@
         ],
         "start_time": "2026-04-22 13:00:00",
         "end_time": "2026-04-30 03:59:59"
+    },
+    {
+        "id": 8074,
+        "section_id": 0,
+        "ml_name": [
+            "2.5周年復刻ガチャ",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 660,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010711|4010911",
+        "display_subunit_id_list": "4020083|4020088",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo8074",
+        "background_asset_id": 3000300,
+        "m_shop_category_id": "908|909",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 8075,
+        "section_id": 0,
+        "ml_name": [
+            "有償限定2.5周年復刻ガチャ",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 661,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011310|4010911",
+        "display_subunit_id_list": "4020083|4020088",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo8075",
+        "background_asset_id": 3000301,
+        "m_shop_category_id": "908|909",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 8076,
+        "section_id": 0,
+        "ml_name": [
+            "2.5周年5ステップセレクトガチャ 第1弾",
+            ""
+        ],
+        "ml_description": [
+            "DMMポイントで引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 664,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010611",
+        "display_subunit_id_list": "4020080",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top8061",
+        "logo_asset": "gacha_logo8076",
+        "background_asset_id": 3001200,
+        "m_shop_category_id": "908|909",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,セレクト確定",
+            ""
+        ],
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 8077,
+        "section_id": 0,
+        "ml_name": [
+            "2.5周年5ステップセレクトガチャ 第2弾",
+            ""
+        ],
+        "ml_description": [
+            "DMMポイントで引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 668,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011508",
+        "display_subunit_id_list": "4020087",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top8061",
+        "logo_asset": "gacha_logo8077",
+        "background_asset_id": 3001201,
+        "m_shop_category_id": "908|909",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,セレクト確定",
+            ""
+        ],
+        "start_time": "2026-05-05 13:00:00",
+        "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 8078,
+        "section_id": 0,
+        "ml_name": [
+            "2.5周年5ステップセレクトガチャ 第3弾",
+            ""
+        ],
+        "ml_description": [
+            "DMMポイントで引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 670,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011209",
+        "display_subunit_id_list": "4020086",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top8061",
+        "logo_asset": "gacha_logo8078",
+        "background_asset_id": 3002200,
+        "m_shop_category_id": "908|909",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,セレクト確定",
+            ""
+        ],
+        "start_time": "2026-05-10 13:00:00",
+        "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 8079,
+        "section_id": 0,
+        "ml_name": [
+            "2.5周年5ステップセレクトガチャ 第4弾",
+            ""
+        ],
+        "ml_description": [
+            "DMMポイントで引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 673,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011109",
+        "display_subunit_id_list": "4020088",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top8061",
+        "logo_asset": "gacha_logo8079",
+        "background_asset_id": 3001300,
+        "m_shop_category_id": "908|909",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,セレクト確定",
+            ""
+        ],
+        "start_time": "2026-05-15 13:00:00",
+        "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 8080,
+        "section_id": 0,
+        "ml_name": [
+            "2.5周年5ステップセレクトガチャ 第5弾",
+            ""
+        ],
+        "ml_description": [
+            "DMMポイントで引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 678,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011407",
+        "display_subunit_id_list": "4020071",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top8061",
+        "logo_asset": "gacha_logo8080",
+        "background_asset_id": 3001500,
+        "m_shop_category_id": "908|909",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,セレクト確定",
+            ""
+        ],
+        "start_time": "2026-05-20 13:00:00",
+        "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 8081,
+        "section_id": 0,
+        "ml_name": [
+            "2.5周年5ステップセレクトガチャ 第6弾",
+            ""
+        ],
+        "ml_description": [
+            "DMMポイントで引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 682,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010312",
+        "display_subunit_id_list": "4020085",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top8061",
+        "logo_asset": "gacha_logo8081",
+        "background_asset_id": 3001502,
+        "m_shop_category_id": "908|909",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,セレクト確定",
+            ""
+        ],
+        "start_time": "2026-05-25 13:00:00",
+        "end_time": "2026-06-01 12:59:59"
     },
     {
         "id": 9001,

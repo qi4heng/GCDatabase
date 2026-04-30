@@ -308,6 +308,20 @@
         "end_time": ""
     },
     {
+        "id": 413,
+        "type": 10,
+        "group_type": 0,
+        "ml_name": [
+            "ミラージュダイヤ",
+            ""
+        ],
+        "m_shop_tab_id": 4,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 501,
         "type": 1,
         "group_type": 0,
@@ -4365,6 +4379,76 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 23102,
+        "end_time": ""
+    },
+    {
+        "id": 889,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：煌めく一夜のショータイム！",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21134,
+        "end_time": ""
+    },
+    {
+        "id": 908,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：2.5周年復刻ガチャ（SPしおり）",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 28074,
+        "end_time": ""
+    },
+    {
+        "id": 909,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：2.5周年復刻ガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31054,
+        "end_time": ""
+    },
+    {
+        "id": 910,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：★5スタイル交換（2.5周年）",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31055,
+        "end_time": ""
+    },
+    {
+        "id": 911,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：★5イマージュ交換（2.5周年）",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31056,
         "end_time": ""
     },
     {

@@ -5619,5 +5619,137 @@
         "time_display_type": 0,
         "start_time": "2026-04-22 13:00:00",
         "end_time": "2026-05-02 12:59:59"
+    },
+    {
+        "id": 10632,
+        "target_type": 1,
+        "target_id": 1134,
+        "target_value1": "0",
+        "priority": 641,
+        "image_index": 21134,
+        "time_display_type": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59"
+    },
+    {
+        "id": 10633,
+        "target_type": 2,
+        "target_id": 3329,
+        "target_value1": "0",
+        "priority": 643,
+        "image_index": 13329,
+        "time_display_type": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59"
+    },
+    {
+        "id": 10634,
+        "target_type": 1,
+        "target_id": 6035,
+        "target_value1": "0",
+        "priority": 644,
+        "image_index": 26035,
+        "time_display_type": 0,
+        "start_time": "2026-05-01 13:00:00",
+        "end_time": "2026-05-06 12:59:59"
+    },
+    {
+        "id": 10635,
+        "target_type": 1,
+        "target_id": 1136,
+        "target_value1": "0",
+        "priority": 645,
+        "image_index": 21136,
+        "time_display_type": 0,
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2026-05-13 12:59:59"
+    },
+    {
+        "id": 10636,
+        "target_type": 1,
+        "target_id": 7543,
+        "target_value1": "0",
+        "priority": 647,
+        "image_index": 27543,
+        "time_display_type": 0,
+        "start_time": "2026-05-08 13:00:00",
+        "end_time": "2026-05-10 23:59:59"
+    },
+    {
+        "id": 10637,
+        "target_type": 1,
+        "target_id": 8074,
+        "target_value1": "0",
+        "priority": 640,
+        "image_index": 28074,
+        "time_display_type": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 10638,
+        "target_type": 1,
+        "target_id": 8076,
+        "target_value1": "0",
+        "priority": 642,
+        "image_index": 28076,
+        "time_display_type": 1,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-05 12:59:59"
+    },
+    {
+        "id": 10639,
+        "target_type": 1,
+        "target_id": 8077,
+        "target_value1": "0",
+        "priority": 646,
+        "image_index": 28077,
+        "time_display_type": 1,
+        "start_time": "2026-05-05 13:00:00",
+        "end_time": "2026-05-10 12:59:59"
+    },
+    {
+        "id": 10640,
+        "target_type": 1,
+        "target_id": 8078,
+        "target_value1": "0",
+        "priority": 700,
+        "image_index": 28078,
+        "time_display_type": 1,
+        "start_time": "2026-05-10 13:00:00",
+        "end_time": "2026-05-15 12:59:59"
+    },
+    {
+        "id": 10641,
+        "target_type": 1,
+        "target_id": 8079,
+        "target_value1": "0",
+        "priority": 700,
+        "image_index": 28079,
+        "time_display_type": 1,
+        "start_time": "2026-05-15 13:00:00",
+        "end_time": "2026-05-20 12:59:59"
+    },
+    {
+        "id": 10642,
+        "target_type": 1,
+        "target_id": 8080,
+        "target_value1": "0",
+        "priority": 700,
+        "image_index": 28080,
+        "time_display_type": 1,
+        "start_time": "2026-05-20 13:00:00",
+        "end_time": "2026-05-25 12:59:59"
+    },
+    {
+        "id": 10643,
+        "target_type": 1,
+        "target_id": 8081,
+        "target_value1": "0",
+        "priority": 700,
+        "image_index": 28081,
+        "time_display_type": 0,
+        "start_time": "2026-05-25 13:00:00",
+        "end_time": "2026-06-01 12:59:59"
     }
 ]

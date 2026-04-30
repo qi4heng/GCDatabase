@@ -80,6 +80,16 @@
         "description": "入魂時"
     },
     {
+        "id": 1901,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 19,
+        "trigger_param": 0,
+        "trigger_param2": "0",
+        "skill_types": "0",
+        "description": "ソウル獲得時"
+    },
+    {
         "id": 2001,
         "timing_bits": 0,
         "condition_bits": 0,
@@ -460,6 +470,16 @@
         "description": "熱情消費時（支援行動のみ）"
     },
     {
+        "id": 10020,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 2,
+        "trigger_param2": "0",
+        "skill_types": "2|3",
+        "description": "敵撃破再行動発動時"
+    },
+    {
         "id": 10030,
         "timing_bits": 0,
         "condition_bits": 0,
@@ -488,6 +508,26 @@
         "trigger_param2": "0",
         "skill_types": "2|3",
         "description": "自傷時"
+    },
+    {
+        "id": 10071,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 7,
+        "trigger_param2": "1",
+        "skill_types": "2|3",
+        "description": "自傷時（自身対象のみ）"
+    },
+    {
+        "id": 10072,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 7,
+        "trigger_param2": "2",
+        "skill_types": "2|3",
+        "description": "反動（味方対象）"
     },
     {
         "id": 10080,
@@ -600,6 +640,16 @@
         "description": "デバフ付与時"
     },
     {
+        "id": 10260,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 26,
+        "trigger_param2": "0",
+        "skill_types": "2|3",
+        "description": "クールタイム減少時"
+    },
+    {
         "id": 10430,
         "timing_bits": 0,
         "condition_bits": 0,
@@ -620,6 +670,16 @@
         "description": "シールド付与時"
     },
     {
+        "id": 10060,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 60,
+        "trigger_param2": "0",
+        "skill_types": "2|3",
+        "description": "無条件再行動発生時"
+    },
+    {
         "id": 10690,
         "timing_bits": 0,
         "condition_bits": 0,
@@ -628,6 +688,46 @@
         "trigger_param2": "0",
         "skill_types": "2|3",
         "description": "効果マス付与時"
+    },
+    {
+        "id": 10691,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 69,
+        "trigger_param2": "1",
+        "skill_types": "2|3",
+        "description": "効果マス付与時（攻撃のみ）"
+    },
+    {
+        "id": 10692,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 69,
+        "trigger_param2": "2",
+        "skill_types": "2|3",
+        "description": "効果マス付与時（回復のみ）"
+    },
+    {
+        "id": 10693,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 69,
+        "trigger_param2": "3",
+        "skill_types": "2|3",
+        "description": "効果マス付与時（バフのみ）"
+    },
+    {
+        "id": 10694,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 69,
+        "trigger_param2": "4",
+        "skill_types": "2|3",
+        "description": "効果マス付与時（デバフのみ）"
     },
     {
         "id": 10710,

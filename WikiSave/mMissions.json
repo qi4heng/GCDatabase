@@ -30464,6 +30464,174 @@
         ]
     },
     {
+        "id": 108356,
+        "type": 1,
+        "series_no": 1080612,
+        "sub_series_no": 1,
+        "condition_id": 1080612,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "レンブラント【子ウサギの招待】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【子ウサギの招待】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108357,
+        "type": 1,
+        "series_no": 1080612,
+        "sub_series_no": 2,
+        "condition_id": 1080612,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "レンブラント【子ウサギの招待】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【子ウサギの招待】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108358,
+        "type": 1,
+        "series_no": 1081310,
+        "sub_series_no": 1,
+        "condition_id": 1081310,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ゴッホ【HEART TRICK】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【HEART TRICK】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108359,
+        "type": 1,
+        "series_no": 1081310,
+        "sub_series_no": 2,
+        "condition_id": 1081310,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ゴッホ【HEART TRICK】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【HEART TRICK】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108360,
+        "type": 1,
+        "series_no": 1081311,
+        "sub_series_no": 1,
+        "condition_id": 1081311,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "セザンヌ【幻惑ショータイム】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【幻惑ショータイム】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108361,
+        "type": 1,
+        "series_no": 1081311,
+        "sub_series_no": 2,
+        "condition_id": 1081311,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "セザンヌ【幻惑ショータイム】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【幻惑ショータイム】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 109004,
         "type": 1,
         "series_no": 53,
@@ -60405,6 +60573,146 @@
         ],
         "ml_description": [
             "通算ログイン14日(第二回くまさん祭りミッションパス)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410160,
+        "type": 2,
+        "series_no": 620,
+        "sub_series_no": 1,
+        "condition_id": 410160,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン1日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン1日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410161,
+        "type": 2,
+        "series_no": 620,
+        "sub_series_no": 2,
+        "condition_id": 410160,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン2日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン2日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410162,
+        "type": 2,
+        "series_no": 620,
+        "sub_series_no": 3,
+        "condition_id": 410160,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン3日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン3日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410163,
+        "type": 2,
+        "series_no": 620,
+        "sub_series_no": 4,
+        "condition_id": 410160,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン4日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン4日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410164,
+        "type": 2,
+        "series_no": 620,
+        "sub_series_no": 5,
+        "condition_id": 410160,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン5日(2.5周年ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン5日(2.5周年ミッションパス1)",
             "en"
         ],
         "ml_hint": [
@@ -100760,6 +101068,1266 @@
         ]
     },
     {
+        "id": 741101,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 1,
+        "condition_id": 741101,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741101,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作1回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作1回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741102,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 2,
+        "condition_id": 741101,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741102,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作2回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作2回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741103,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 3,
+        "condition_id": 741101,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741103,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作4回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作4回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741104,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 4,
+        "condition_id": 741101,
+        "condition_value": 7,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741104,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作7回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作7回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741105,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 5,
+        "condition_id": 741101,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741105,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作10回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作10回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741106,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 6,
+        "condition_id": 741101,
+        "condition_value": 14,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741106,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作14回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作14回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741107,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 7,
+        "condition_id": 741101,
+        "condition_value": 19,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741107,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作19回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作19回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741108,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 8,
+        "condition_id": 741101,
+        "condition_value": 23,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741108,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作23回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作23回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741109,
+        "type": 104,
+        "series_no": 7411,
+        "sub_series_no": 9,
+        "condition_id": 741101,
+        "condition_value": 27,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741109,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "創作27回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作27回完了（2.5周年創作ミッション第1弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741201,
+        "type": 104,
+        "series_no": 7412,
+        "sub_series_no": 1,
+        "condition_id": 741201,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741201,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59",
+        "ml_title": [
+            "2.5周年創作ミッション 第1弾全クリア",
+            "en"
+        ],
+        "ml_description": [
+            "2.5周年創作ミッション 第1弾全クリア",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741301,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 1,
+        "condition_id": 741301,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741301,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作1回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作1回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741302,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 2,
+        "condition_id": 741301,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741302,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作2回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作2回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741303,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 3,
+        "condition_id": 741301,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741303,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作4回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作4回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741304,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 4,
+        "condition_id": 741301,
+        "condition_value": 7,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741304,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作7回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作7回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741305,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 5,
+        "condition_id": 741301,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741305,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作10回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作10回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741306,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 6,
+        "condition_id": 741301,
+        "condition_value": 14,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741306,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作14回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作14回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741307,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 7,
+        "condition_id": 741301,
+        "condition_value": 19,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741307,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作19回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作19回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741308,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 8,
+        "condition_id": 741301,
+        "condition_value": 23,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741308,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作23回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作23回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741309,
+        "type": 105,
+        "series_no": 7413,
+        "sub_series_no": 9,
+        "condition_id": 741301,
+        "condition_value": 27,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741309,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "創作27回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作27回完了（2.5周年創作ミッション第2弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741401,
+        "type": 105,
+        "series_no": 7414,
+        "sub_series_no": 1,
+        "condition_id": 741401,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741401,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59",
+        "ml_title": [
+            "2.5周年創作ミッション 第2弾全クリア",
+            "en"
+        ],
+        "ml_description": [
+            "2.5周年創作ミッション 第2弾全クリア",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741501,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 1,
+        "condition_id": 741501,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741501,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作1回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作1回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741502,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 2,
+        "condition_id": 741501,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741502,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作2回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作2回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741503,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 3,
+        "condition_id": 741501,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741503,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作4回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作4回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741504,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 4,
+        "condition_id": 741501,
+        "condition_value": 7,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741504,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作7回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作7回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741505,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 5,
+        "condition_id": 741501,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741505,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作10回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作10回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741506,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 6,
+        "condition_id": 741501,
+        "condition_value": 14,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741506,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作14回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作14回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741507,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 7,
+        "condition_id": 741501,
+        "condition_value": 19,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741507,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作19回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作19回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741508,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 8,
+        "condition_id": 741501,
+        "condition_value": 23,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741508,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作23回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作23回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741509,
+        "type": 106,
+        "series_no": 7415,
+        "sub_series_no": 9,
+        "condition_id": 741501,
+        "condition_value": 27,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741509,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "創作27回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_description": [
+            "創作27回完了（2.5周年創作ミッション第3弾）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741601,
+        "type": 106,
+        "series_no": 7416,
+        "sub_series_no": 1,
+        "condition_id": 741601,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 741601,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "ml_title": [
+            "2.5周年創作ミッション 第3弾全クリア",
+            "en"
+        ],
+        "ml_description": [
+            "2.5周年創作ミッション 第3弾全クリア",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741701,
+        "type": 5,
+        "series_no": 7417,
+        "sub_series_no": 1,
+        "condition_id": 741701,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "レンブラント【子ウサギの招待】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【子ウサギの招待】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741702,
+        "type": 5,
+        "series_no": 7417,
+        "sub_series_no": 2,
+        "condition_id": 741701,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "レンブラント【子ウサギの招待】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【子ウサギの招待】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741703,
+        "type": 5,
+        "series_no": 7417,
+        "sub_series_no": 3,
+        "condition_id": 741701,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "レンブラント【子ウサギの招待】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【子ウサギの招待】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741704,
+        "type": 5,
+        "series_no": 7417,
+        "sub_series_no": 4,
+        "condition_id": 741701,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "レンブラント【子ウサギの招待】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【子ウサギの招待】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741705,
+        "type": 5,
+        "series_no": 7417,
+        "sub_series_no": 5,
+        "condition_id": 741701,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "レンブラント【子ウサギの招待】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "レンブラント【子ウサギの招待】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741801,
+        "type": 5,
+        "series_no": 7418,
+        "sub_series_no": 1,
+        "condition_id": 741801,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "ゴッホ【HEART TRICK】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【HEART TRICK】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741802,
+        "type": 5,
+        "series_no": 7418,
+        "sub_series_no": 2,
+        "condition_id": 741801,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "ゴッホ【HEART TRICK】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【HEART TRICK】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741803,
+        "type": 5,
+        "series_no": 7418,
+        "sub_series_no": 3,
+        "condition_id": 741801,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "ゴッホ【HEART TRICK】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【HEART TRICK】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741804,
+        "type": 5,
+        "series_no": 7418,
+        "sub_series_no": 4,
+        "condition_id": 741801,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "ゴッホ【HEART TRICK】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【HEART TRICK】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741805,
+        "type": 5,
+        "series_no": 7418,
+        "sub_series_no": 5,
+        "condition_id": 741801,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "ゴッホ【HEART TRICK】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【HEART TRICK】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741901,
+        "type": 5,
+        "series_no": 7419,
+        "sub_series_no": 1,
+        "condition_id": 741901,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "セザンヌ【幻惑ショータイム】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【幻惑ショータイム】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741902,
+        "type": 5,
+        "series_no": 7419,
+        "sub_series_no": 2,
+        "condition_id": 741901,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "セザンヌ【幻惑ショータイム】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【幻惑ショータイム】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741903,
+        "type": 5,
+        "series_no": 7419,
+        "sub_series_no": 3,
+        "condition_id": 741901,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "セザンヌ【幻惑ショータイム】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【幻惑ショータイム】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741904,
+        "type": 5,
+        "series_no": 7419,
+        "sub_series_no": 4,
+        "condition_id": 741901,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "セザンヌ【幻惑ショータイム】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【幻惑ショータイム】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 741905,
+        "type": 5,
+        "series_no": 7419,
+        "sub_series_no": 5,
+        "condition_id": 741901,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_title": [
+            "セザンヌ【幻惑ショータイム】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "セザンヌ【幻惑ショータイム】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 742401,
         "type": 5,
         "series_no": 7424,
@@ -106325,6 +107893,286 @@
         ],
         "ml_description": [
             "ダンジョンシーズン21フロア10を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800299,
+        "type": 5,
+        "series_no": 800299,
+        "sub_series_no": 1,
+        "condition_id": 800299,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800149,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア1を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア1を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800300,
+        "type": 5,
+        "series_no": 800300,
+        "sub_series_no": 2,
+        "condition_id": 800300,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800150,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア2を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア2を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800301,
+        "type": 5,
+        "series_no": 800301,
+        "sub_series_no": 3,
+        "condition_id": 800301,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800151,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア3を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア3を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800302,
+        "type": 5,
+        "series_no": 800302,
+        "sub_series_no": 4,
+        "condition_id": 800302,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800152,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア4を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア4を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800303,
+        "type": 5,
+        "series_no": 800303,
+        "sub_series_no": 5,
+        "condition_id": 800303,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800153,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア5を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア5を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800304,
+        "type": 5,
+        "series_no": 800304,
+        "sub_series_no": 6,
+        "condition_id": 800304,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800154,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア6を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア6を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800305,
+        "type": 5,
+        "series_no": 800305,
+        "sub_series_no": 7,
+        "condition_id": 800305,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800155,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア7を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア7を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800306,
+        "type": 5,
+        "series_no": 800306,
+        "sub_series_no": 8,
+        "condition_id": 800306,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800156,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア8を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア8を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800307,
+        "type": 5,
+        "series_no": 800307,
+        "sub_series_no": 9,
+        "condition_id": 800307,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800157,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア9を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア9を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800308,
+        "type": 5,
+        "series_no": 800308,
+        "sub_series_no": 10,
+        "condition_id": 800308,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800158,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン22フロア10を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン22フロア10を攻略",
             "en"
         ],
         "ml_hint": [

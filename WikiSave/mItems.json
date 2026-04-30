@@ -3525,6 +3525,31 @@
         "is_visible": false
     },
     {
+        "id": 1120213,
+        "item_type": 112,
+        "value1": 4010213,
+        "value2": 0,
+        "sort": 59,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120213,
+        "ml_name": [
+            "【HEART TRICK】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ゴッホの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120301,
         "item_type": 112,
         "value1": 4010301,
@@ -4610,6 +4635,31 @@
         "image_index": 1120611,
         "ml_name": [
             "【朽ちぬ花】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "レンブラントの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120612,
+        "item_type": 112,
+        "value1": 4010612,
+        "value2": 0,
+        "sort": 81,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120612,
+        "ml_name": [
+            "【子ウサギの招待】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -6485,6 +6535,31 @@
         "image_index": 1121310,
         "ml_name": [
             "【偽善のオルタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セザンヌの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121311,
+        "item_type": 112,
+        "value1": 4011311,
+        "value2": 0,
+        "sort": 117,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121311,
+        "ml_name": [
+            "【幻惑ショータイム】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -8447,6 +8522,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-01-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1140009,
+        "item_type": 112,
+        "value1": 0,
+        "value2": 0,
+        "sort": 162,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1140001,
+        "ml_name": [
+            "無名のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "特定のオーブと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-03 12:59:59",
         "is_visible": false
     },
     {
@@ -13275,6 +13375,31 @@
         "is_visible": false
     },
     {
+        "id": 1511106,
+        "item_type": 151,
+        "value1": 729,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511106,
+        "ml_name": [
+            "ストーリーキー【煌めく一夜のショータイム！】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「煌めく一夜のショータイム！」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "賭場の物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1511123,
         "item_type": 151,
         "value1": 430,
@@ -13422,6 +13547,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-02-23 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1610104,
+        "item_type": 132,
+        "value1": 0,
+        "value2": 0,
+        "sort": 243,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1610103,
+        "ml_name": [
+            "ミラージュダイヤ",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップ交換所にて様々な★5専用アクセサリと交換することのできる記念硬貨。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "交換所にて別のアイテムと交換してもらえる記念品。\n青鏡の意匠がほどこされた収集癖をくすぐられる一品。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-03 12:59:59",
         "is_visible": false
     },
     {
@@ -18275,6 +18425,81 @@
         "is_visible": false
     },
     {
+        "id": 1630207,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630207,
+        "ml_name": [
+            "2.5周年復刻ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "2.5周年復刻ガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "2.5周年復刻ガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-01 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630208,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630208,
+        "ml_name": [
+            "煌めく一夜のショータイム！ガチャチケットA",
+            "EN"
+        ],
+        "ml_description": [
+            "煌めく一夜のショータイム！ピックアップガチャAを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-13 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630209,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630209,
+        "ml_name": [
+            "煌めく一夜のショータイム！ガチャチケットB",
+            "EN"
+        ],
+        "ml_description": [
+            "煌めく一夜のショータイム！ピックアップガチャBを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-13 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630210,
         "item_type": 702,
         "value1": 0,
@@ -22875,6 +23100,131 @@
         "is_visible": false
     },
     {
+        "id": 1640190,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640190,
+        "ml_name": [
+            "2.5周年復刻のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で2026年1月30日までにリリースされた★5キャラクター(一部除く)と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640191,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640191,
+        "ml_name": [
+            "2.5周年復刻のしおりSP",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で2026年1月30日までにリリースされた★5キャラクター＋オルタ(一部除く)と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640192,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640192,
+        "ml_name": [
+            "★5スタイルのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640193,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640193,
+        "ml_name": [
+            "★5イマージュのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5イマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640194,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640194,
+        "ml_name": [
+            "煌めく一夜のショータイム！のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で煌めく一夜のショータイム！ピックアップガチャAのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-15 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650000,
         "item_type": 801,
         "value1": 3200,
@@ -26250,6 +26600,56 @@
         "is_visible": false
     },
     {
+        "id": 1650138,
+        "item_type": 801,
+        "value1": 3329,
+        "value2": 0,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650138,
+        "ml_name": [
+            "カジノのダーツ矢",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「煌めく一夜のショータイム！」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "カジノの出し物で使われる、装飾が施されたダーツ矢。\n的を射るたびに、観客からは大きな歓声と拍手が巻き起こる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650139,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3329,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650139,
+        "ml_name": [
+            "カジノのトランプの束",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「煌めく一夜のショータイム！」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "カジノのテーブルで使われる、トランプのカードの束。\n熟練のディーラーの手によって、鮮やかに捌かれる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650141,
         "item_type": 801,
         "value1": 3230,
@@ -27893,6 +28293,31 @@
         ],
         "ml_flavor_text": [
             "集中力が高まり、発想が切り替わるパヒューム。\nちょっぴりの自信が、いつもとは違う発想を生むかも。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1680006,
+        "item_type": 624,
+        "value1": 10000,
+        "value2": 5,
+        "sort": 11,
+        "is_visible_quest_detail": 0,
+        "rarity": 5,
+        "image_index": 1680006,
+        "ml_name": [
+            "創生のジュエリーボックス",
+            "EN"
+        ],
+        "ml_description": [
+            "★5のイマージュを100％の確率で創作できる選別創作道具。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "絢爛たるご褒美が、少女を完全なるゾーンへと導く。\n傑作は完成したのではなく、自身の中より発見されたのだ。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",

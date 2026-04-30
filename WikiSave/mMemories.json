@@ -1963,5 +1963,50 @@
         "sub_effect_id1": 63130017,
         "sell_price": 3552,
         "start_time": "2026-04-22 13:00:00"
+    },
+    {
+        "id": 4120133,
+        "ml_name": [
+            "開館2.5周年、ありがとうを花束に",
+            "en"
+        ],
+        "index": "132",
+        "rarity": 5,
+        "image_index": 4120135,
+        "main_effect_id1": 55440033,
+        "main_effect_id2": 55440032,
+        "sub_effect_id1": 63130002,
+        "sell_price": 10656,
+        "start_time": "2026-04-30 13:00:00"
+    },
+    {
+        "id": 4120134,
+        "ml_name": [
+            "バニーガールズのお出迎え",
+            "en"
+        ],
+        "index": "133",
+        "rarity": 4,
+        "image_index": 4120155,
+        "main_effect_id1": 54130006,
+        "main_effect_id2": 54131303,
+        "sub_effect_id1": 63130019,
+        "sell_price": 3552,
+        "start_time": "2026-04-30 13:00:00"
+    },
+    {
+        "id": 4120135,
+        "ml_name": [
+            "咲き誇る血の芸術",
+            "en"
+        ],
+        "index": "134",
+        "rarity": 5,
+        "image_index": 4120055,
+        "main_effect_id1": 55130002,
+        "main_effect_id2": 55300001,
+        "sub_effect_id1": 63130017,
+        "sell_price": 10656,
+        "start_time": "2026-04-30 13:00:00"
     }
 ]

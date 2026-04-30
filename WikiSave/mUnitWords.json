@@ -13593,6 +13593,121 @@
         ]
     },
     {
+        "id": 10214030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4010213_1030",
+        "ml_word": [
+            "もし、ふたりで賭けをするなら、どんな条件がいい？\nやっぱり、負けたら勝ったほうの言うことを聞くとか？\nでも、それじゃあ、どう転んでもわたしは嬉しいし、\n賭けにならないかも……。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010213,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10214040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010213_1040",
+        "ml_word": [
+            "今日のわたしはバニーガール……。\nつまり、ウサギだよね。\nウサギはさびしいと死んじゃうって言われてるし、\nいつもより甘えてもいいよね、館長……？",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010213,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10214050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010213_1050",
+        "ml_word": [
+            "みんなのバニーガール姿、本当に魅力的だよね。\nレンブラントはすごくかわいいし、\nセザンヌはすごくスタイルがいいし……。\nわ、わたしも頑張って館長にアピールしなきゃ……！",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010213,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10214060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010213_1060",
+        "ml_word": [
+            "……よーく的を狙って……えいっ！\nうーん、ダーツってすごく難しいんだね。\nあ、そうだ！　的を館長のハートだと思えば、\nど真ん中を狙えるかも……ふふっ♪",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010213,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10214070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4010213_1070",
+        "ml_word": [
+            "あれ……館長、どこ行ったんだろう？\nもしかして、他の女の子のところ……？\nうぅ、ショーの練習、見て欲しかったのにな。\nやっぱり館長は、射止めておかないとダメかも……。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-02-27 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 2,
+        "layer_id": 4010213,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 10302030,
         "scene_type": 1,
         "trigger": 5,
@@ -18646,6 +18761,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 6,
         "layer_id": 4010611,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10613030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4010612_1030",
+        "ml_word": [
+            "か、館長はあたしより、もっと豊満な人たちの\nバニーガール姿を見てくればいいんじゃないですか？\n……は？　す、拗ねてなんていません。\n単純に、提案しているだけです。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 6,
+        "layer_id": 4010612,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10613040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010612_1040",
+        "ml_word": [
+            "セザンヌさんの親戚のお店、こんな服も、\nあ、扱っていたんですね……。\nば、バニーなんてあたしが着ても、\nひ、貧相なだけですけど。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 6,
+        "layer_id": 4010612,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10613050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010612_1050",
+        "ml_word": [
+            "か、館長……あまりジロジロみられると……\nそ、その、恥ずかしいのですが……。\nか、かわいいからと言われても、\nそういう問題じゃありませんっ！",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 6,
+        "layer_id": 4010612,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10613060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010612_1060",
+        "ml_word": [
+            "き、客寄せなんてあたしに、で、できるでしょうか。\nやるからには、れ、練習はしますけど……。\nい、いらっしゃいませ〜。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 6,
+        "layer_id": 4010612,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10613070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4010612_1070",
+        "ml_word": [
+            "か、館長のこととなると、\nじ、自分が自分じゃないみたいです。\n最初はその感覚が嫌だったのに、今ではそれが、\nこ、心地良いと思ってしまうのにも、困惑です……。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 6,
+        "layer_id": 4010612,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -27271,6 +27501,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 13,
         "layer_id": 4011310,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11312030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4011311_1030",
+        "ml_word": [
+            "マジックも人を魅了する芸術の一種ですよね～。\nお客さんのワクワクする様子をすぐ近くで見られて、\nこれはこれでとっても楽しいです～♪",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 13,
+        "layer_id": 4011311,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11312040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011311_1040",
+        "ml_word": [
+            "キャルトちゃんって本当に手先が器用ですよね～。\nあの軽やかな手さばきのカードマジックは、\nわたしには真似できません……。\nまるで魔法みたいで、本当にかっこいいです～！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 13,
+        "layer_id": 4011311,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11312050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011311_1050",
+        "ml_word": [
+            "胸元からリボンがどんどん出てくる～\nっていう手品を考えたんですが、\nショーでやるには刺激が強すぎると\nレンブラントさんに反対されてしまいました〜……。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 13,
+        "layer_id": 4011311,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11312060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011311_1060",
+        "ml_word": [
+            "いきますよ～……いちっ、に、さ～んっ。\nふふっ、どうですか～？\nいっぱい練習していたら、いつの間にか\n鳩さんたちとも仲良くなっちゃいました～♪",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 13,
+        "layer_id": 4011311,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11312070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4011311_1070",
+        "ml_word": [
+            "あら〜、館長さん……どこへ行ったのでしょう？\n練習してきた手品をお見せしたかったんですが……。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-05-04 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 13,
+        "layer_id": 4011311,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [

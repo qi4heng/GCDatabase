@@ -150,5 +150,13 @@
         "receive_days": 14,
         "period_days": 30,
         "is_stackable": 0
+    },
+    {
+        "id": 20,
+        "m_shop_product_id": 1484,
+        "mission_condition_id": 410160,
+        "receive_days": 5,
+        "period_days": 11,
+        "is_stackable": 1
     }
 ]

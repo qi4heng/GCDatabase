@@ -160,5 +160,59 @@
         "tab_asset": "ebs31038",
         "start_time": "2026-01-01 00:00:00",
         "end_time": "2026-01-14 12:59:59"
+    },
+    {
+        "id": 12,
+        "type": 104,
+        "chapter_no": 0,
+        "sort_priority": 100,
+        "group_id": 1000,
+        "priority": 1000,
+        "banner_flag": 1,
+        "banner_priority": 1000,
+        "progress_mission_id": 741201,
+        "ml_type_name": [
+            "2.5周年第1弾",
+            "en"
+        ],
+        "tab_asset": "ebs31051",
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-12 12:59:59"
+    },
+    {
+        "id": 13,
+        "type": 105,
+        "chapter_no": 0,
+        "sort_priority": 100,
+        "group_id": 1000,
+        "priority": 1000,
+        "banner_flag": 1,
+        "banner_priority": 1000,
+        "progress_mission_id": 741401,
+        "ml_type_name": [
+            "2.5周年第2弾",
+            "en"
+        ],
+        "tab_asset": "ebs31052",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-21 12:59:59"
+    },
+    {
+        "id": 14,
+        "type": 106,
+        "chapter_no": 0,
+        "sort_priority": 100,
+        "group_id": 1000,
+        "priority": 1000,
+        "banner_flag": 1,
+        "banner_priority": 1000,
+        "progress_mission_id": 741601,
+        "ml_type_name": [
+            "2.5周年第3弾",
+            "en"
+        ],
+        "tab_asset": "ebs31053",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-06-01 12:59:59"
     }
 ]

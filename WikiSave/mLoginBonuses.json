@@ -765,6 +765,21 @@
         "duration": 0
     },
     {
+        "id": 2055,
+        "ml_name": [
+            "2.5周年ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 0,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 505,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-06-01 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2576,6 +2591,21 @@
         "priority": 201,
         "start_time": "2026-04-22 13:00:00",
         "end_time": "2026-04-30 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13329,
+        "ml_name": [
+            "煌めく一夜のショータイム！ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

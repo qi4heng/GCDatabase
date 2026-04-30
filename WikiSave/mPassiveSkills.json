@@ -2158,6 +2158,19 @@
         ]
     },
     {
+        "id": 35330059,
+        "rarity": 5,
+        "image_index": 1110014,
+        "ml_name": [
+            "バトル開始時、自身に不動/ターン開始時、自身に移動増加/一定体力以下で味方全員に攻撃・精神・敏捷増加",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、自身に不動/ターン開始時、自身に移動[[effects_power_2]]増加/一定体力以下で味方全員に精神[[effects_power_3]%]増加・攻撃と敏捷[[effects_power_4]%]増加",
+            ""
+        ]
+    },
+    {
         "id": 53130001,
         "rarity": 3,
         "image_index": 1130001,
@@ -6279,6 +6292,45 @@
         ]
     },
     {
+        "id": 75130023,
+        "rarity": 5,
+        "image_index": 1390005,
+        "ml_name": [
+            "紫属性有利＋（50%）",
+            ""
+        ],
+        "ml_description": [
+            "味方のバイオレット（紫）のアイボリー（白）に対してのダメージ[[effects_power]%]上昇",
+            ""
+        ]
+    },
+    {
+        "id": 74130023,
+        "rarity": 4,
+        "image_index": 1130002,
+        "ml_name": [
+            "エネミーのアイボリー(白)の攻撃+70%",
+            ""
+        ],
+        "ml_description": [
+            "エネミーのアイボリー(白)の攻撃+[[effects_power]%]",
+            ""
+        ]
+    },
+    {
+        "id": 73130023,
+        "rarity": 4,
+        "image_index": 1130004,
+        "ml_name": [
+            "エネミーのアイボリー(白)の防御+40%",
+            ""
+        ],
+        "ml_description": [
+            "エネミーのアイボリー(白)の防御+[[effects_power]%]",
+            ""
+        ]
+    },
+    {
         "id": 90130001,
         "rarity": 5,
         "image_index": 1130001,
@@ -8238,6 +8290,162 @@
         ],
         "ml_description": [
             "雷エレメントの攻撃を[[effects_power]%]強化",
+            ""
+        ]
+    },
+    {
+        "id": 80000001,
+        "rarity": 5,
+        "image_index": 1130001,
+        "ml_name": [
+            "体力アップ",
+            ""
+        ],
+        "ml_description": [
+            "体力[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 80000002,
+        "rarity": 5,
+        "image_index": 1130002,
+        "ml_name": [
+            "攻撃アップ",
+            ""
+        ],
+        "ml_description": [
+            "攻撃[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 80000003,
+        "rarity": 5,
+        "image_index": 1130003,
+        "ml_name": [
+            "精神アップ",
+            ""
+        ],
+        "ml_description": [
+            "精神[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 80000004,
+        "rarity": 5,
+        "image_index": 1130004,
+        "ml_name": [
+            "防御アップ",
+            ""
+        ],
+        "ml_description": [
+            "防御[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 80000005,
+        "rarity": 5,
+        "image_index": 1130005,
+        "ml_name": [
+            "器用アップ",
+            ""
+        ],
+        "ml_description": [
+            "器用[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 80000006,
+        "rarity": 5,
+        "image_index": 1130006,
+        "ml_name": [
+            "敏捷アップ",
+            ""
+        ],
+        "ml_description": [
+            "敏捷[[effects_power]%]増加",
+            ""
+        ]
+    },
+    {
+        "id": 80010110,
+        "rarity": 5,
+        "image_index": 1130002,
+        "ml_name": [
+            "至粋：【不安のオルタ】",
+            ""
+        ],
+        "ml_description": [
+            "自身の技法または絶技効果で再行動時、攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 80010211,
+        "rarity": 5,
+        "image_index": 1091300,
+        "ml_name": [
+            "至粋：【破滅のオルタ】",
+            ""
+        ],
+        "ml_description": [
+            "自身がソウル獲得時、[[effects_rate_1]%]の確率で「ソウル（回復）」召喚（最大[[effects_power_1]]）",
+            ""
+        ]
+    },
+    {
+        "id": 80010310,
+        "rarity": 5,
+        "image_index": 2000002,
+        "ml_name": [
+            "至粋：【疑心のオルタ】",
+            ""
+        ],
+        "ml_description": [
+            "自身の技法または絶技効果でクールタイム短縮時、自身に<help=ignite>気炎</help>付与",
+            ""
+        ]
+    },
+    {
+        "id": 80010410,
+        "rarity": 5,
+        "image_index": 1160003,
+        "ml_name": [
+            "至粋：【自責のオルタ】",
+            ""
+        ],
+        "ml_description": [
+            "自身の技法または絶技効果で弱点付与時、対象の精神・敏捷[[effects_power_1]%]減少＜[[effects_turn_1]ターン]＞",
+            ""
+        ]
+    },
+    {
+        "id": 80010711,
+        "rarity": 5,
+        "image_index": 1110009,
+        "ml_name": [
+            "至粋：【傲慢のオルタ】",
+            ""
+        ],
+        "ml_description": [
+            "バトル開始時、味方全員の最大体力[[effects_power_1]%]増加＜[[effects_turn_1]ターン]＞・体力[[effects_power_2]%]回復・[[effects_rate_3]%]の確率で味方全員に幻影付与",
+            ""
+        ]
+    },
+    {
+        "id": 80011310,
+        "rarity": 5,
+        "image_index": 1130002,
+        "ml_name": [
+            "至粋：【偽善のオルタ】",
+            ""
+        ],
+        "ml_description": [
+            "自身が技法効果で味方の体力消費時、自身と対象の攻撃[[effects_power]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
             ""
         ]
     }

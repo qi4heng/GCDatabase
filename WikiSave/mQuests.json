@@ -2006,6 +2006,23 @@
         ]
     },
     {
+        "id": 729,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-04-30 13:30:00",
+        "end_time": "2026-05-13 12:59:59",
+        "ml_name": [
+            "煌めく一夜のショータイム！",
+            ""
+        ]
+    },
+    {
         "id": 800,
         "chapter_no": 0,
         "quest_type": 4,
@@ -2342,6 +2359,23 @@
         "end_time": "9999-12-31 23:59:59",
         "ml_name": [
             "ダンジョンシーズン21",
+            ""
+        ]
+    },
+    {
+        "id": 822,
+        "chapter_no": 0,
+        "quest_type": 4,
+        "order": 1,
+        "first_reward_reset_type": 3,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_name": [
+            "ダンジョンシーズン22",
             ""
         ]
     },
@@ -2869,6 +2903,23 @@
         "end_time": "2026-05-01 03:59:59",
         "ml_name": [
             "リサーチクエスト：インスピレーション04月",
+            ""
+        ]
+    },
+    {
+        "id": 919,
+        "chapter_no": 0,
+        "quest_type": 5,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 919,
+        "start_time": "2026-05-01 04:00:00",
+        "end_time": "2026-06-01 03:59:59",
+        "ml_name": [
+            "リサーチクエスト：インスピレーション05月",
             ""
         ]
     },

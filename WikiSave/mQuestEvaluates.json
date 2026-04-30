@@ -752,5 +752,44 @@
             "5ターン以内にクリア",
             ""
         ]
+    },
+    {
+        "id": 4001,
+        "type": 1,
+        "value1": 0,
+        "value2": 0,
+        "item_type": 11,
+        "item_id": 0,
+        "item_count": 100,
+        "ml_description": [
+            "ボスを撃破",
+            ""
+        ]
+    },
+    {
+        "id": 4002,
+        "type": 4,
+        "value1": 1,
+        "value2": 0,
+        "item_type": 11,
+        "item_id": 0,
+        "item_count": 100,
+        "ml_description": [
+            "1人以上生存",
+            ""
+        ]
+    },
+    {
+        "id": 4003,
+        "type": 11,
+        "value1": 99,
+        "value2": 0,
+        "item_type": 11,
+        "item_id": 0,
+        "item_count": 100,
+        "ml_description": [
+            "99ターン以内にクリア",
+            ""
+        ]
     }
 ]
