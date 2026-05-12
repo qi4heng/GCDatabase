@@ -2028,6 +2028,32 @@
         "close_time": "2026-04-29 12:59:59"
     },
     {
+        "id": 3235,
+        "ml_title": [
+            "聖鐘は花嫁を迎えに鳴り響く",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 435,
+        "top_character_id": 4011110,
+        "top_background_image": "3012602",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3235,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1138,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6009,
+        "latter_half_shop_category_id": 0,
+        "priority": 125,
+        "banner_image_index": 13235,
+        "start_time": "2026-05-12 13:30:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-05-24 12:59:59",
+        "close_time": "2026-05-26 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",
@@ -2938,6 +2964,32 @@
         "close_time": "2026-03-28 12:59:59"
     },
     {
+        "id": 3607,
+        "ml_title": [
+            "【A.S.】折れない矜持が描くもの",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1106,
+        "top_character_id": 4010811,
+        "top_background_image": "3002401",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3607,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1140,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 126,
+        "banner_image_index": 13607,
+        "start_time": "2026-05-19 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-05-27 12:59:59",
+        "close_time": "2026-05-29 12:59:59"
+    },
+    {
         "id": 5001,
         "ml_title": [
             "【A.D.F.】悲劇の幕開けを防ぐため",
@@ -3222,5 +3274,31 @@
         "latter_half_start_time": "",
         "end_time": "2026-04-30 12:59:59",
         "close_time": "2026-05-02 12:59:59"
+    },
+    {
+        "id": 5012,
+        "ml_title": [
+            "罪を背負う少女に導きの陽光を【P.C.】",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 612,
+        "top_character_id": 4020072,
+        "top_background_image": "3003200",
+        "m_event_bgm_setting_id": 2,
+        "m_event_bonus_group_id": 5012,
+        "m_event_point_group_id": 5012,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3104,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6010,
+        "latter_half_shop_category_id": 0,
+        "priority": 127,
+        "banner_image_index": 15012,
+        "start_time": "2026-05-21 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-05-29 12:59:59",
+        "close_time": "2026-05-31 12:59:59"
     }
 ]

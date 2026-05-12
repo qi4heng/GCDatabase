@@ -10006,5 +10006,167 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1323501,
+        "login_bonus_id": 13235,
+        "layer_id": 4011110,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4011100_1160",
+        "ml_word": [
+            "おかえりなさい、館長さん。\nこういうものが届いてるわよ。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1323502,
+        "login_bonus_id": 13235,
+        "layer_id": 4011110,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4011100_1170",
+        "ml_word": [
+            "次に貰えるのはこれみたい。\n楽しみね。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-24 03:59:59"
+    },
+    {
+        "id": 1323503,
+        "login_bonus_id": 13235,
+        "layer_id": 4011110,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4011100_1180",
+        "ml_word": [
+            "これで一区切りかしら。\n次の予定は聞いてる？",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1360701,
+        "login_bonus_id": 13607,
+        "layer_id": 4010811,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_40108119_1160",
+        "ml_word": [
+            "なんか届いてるっすよ？\nまぁ、どうせ私には\n関係ないでしょうけど。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1360702,
+        "login_bonus_id": 13607,
+        "layer_id": 4010811,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_40108119_1170",
+        "ml_word": [
+            "次はこれがもらえるんすね。\nふーん。まぁ、先輩のほうで\nなんとかしといてください。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-27 03:59:59"
+    },
+    {
+        "id": 1360703,
+        "login_bonus_id": 13607,
+        "layer_id": 4010811,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_40108119_1180",
+        "ml_word": [
+            "はいはい、良かったすね。\n先輩の頑張りが認められた。\n羨ましい限りっすね〜。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1501201,
+        "login_bonus_id": 15012,
+        "layer_id": 0,
+        "subunit_id": 4020072,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4020072_1060",
+        "ml_word": [
+            "はい、館長！　お届けものだよ。\n今日のぶんはこれ！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1501202,
+        "login_bonus_id": 15012,
+        "layer_id": 0,
+        "subunit_id": 4020072,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4020072_1070",
+        "ml_word": [
+            "次の予定はこうなってるみたい。\n忘れず受け取りに来てね。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-05-29 03:59:59"
+    },
+    {
+        "id": 1501203,
+        "login_bonus_id": 15012,
+        "layer_id": 0,
+        "subunit_id": 4020072,
+        "login_count": 5,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4020072_1080",
+        "ml_word": [
+            "渡すものはこれで全部だけど、\n私に会いに来てくれたら、\n毎日よしよししてあげるね！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
     }
 ]

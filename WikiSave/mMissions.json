@@ -30464,6 +30464,174 @@
         ]
     },
     {
+        "id": 108350,
+        "type": 1,
+        "series_no": 1081111,
+        "sub_series_no": 1,
+        "condition_id": 1081111,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "フェルメール【サムシングブルー】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "フェルメール【サムシングブルー】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108351,
+        "type": 1,
+        "series_no": 1081111,
+        "sub_series_no": 2,
+        "condition_id": 1081111,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "フェルメール【サムシングブルー】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "フェルメール【サムシングブルー】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108352,
+        "type": 1,
+        "series_no": 1081509,
+        "sub_series_no": 1,
+        "condition_id": 1081509,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "モリゾ【Wedding Gong】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "モリゾ【Wedding Gong】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108353,
+        "type": 1,
+        "series_no": 1081509,
+        "sub_series_no": 2,
+        "condition_id": 1081509,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "モリゾ【Wedding Gong】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "モリゾ【Wedding Gong】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108354,
+        "type": 1,
+        "series_no": 1080811,
+        "sub_series_no": 1,
+        "condition_id": 1080811,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "マネ【挫折のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "マネ【挫折のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108355,
+        "type": 1,
+        "series_no": 1080811,
+        "sub_series_no": 2,
+        "condition_id": 1080811,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "マネ【挫折のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "マネ【挫折のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 108356,
         "type": 1,
         "series_no": 1080612,
@@ -35497,6 +35665,62 @@
         ],
         "ml_description": [
             "ヴェッター信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109265,
+        "type": 1,
+        "series_no": 40200721,
+        "sub_series_no": 1,
+        "condition_id": 109265,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109265,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "エリオント信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "エリオント信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109266,
+        "type": 1,
+        "series_no": 40200721,
+        "sub_series_no": 2,
+        "condition_id": 109265,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109266,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "エリオント信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "エリオント信愛ストーリー2開放",
             "en"
         ],
         "ml_hint": [
@@ -41545,6 +41769,34 @@
         ],
         "ml_description": [
             "ヴェッターがレベル上限に到達",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 114090,
+        "type": 1,
+        "series_no": 40200722,
+        "sub_series_no": 1,
+        "condition_id": 114090,
+        "condition_value": 80,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 114090,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "エリオントがレベル上限に到達",
+            "en"
+        ],
+        "ml_description": [
+            "エリオントがレベル上限に到達",
             "en"
         ],
         "ml_hint": [
@@ -52353,6 +52605,62 @@
         ],
         "ml_description": [
             "ロイヤルケープコートLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118104,
+        "type": 1,
+        "series_no": 118104,
+        "sub_series_no": 1,
+        "condition_id": 118134,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-17 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ブルーミングベールLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ブルーミングベールLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118105,
+        "type": 1,
+        "series_no": 118105,
+        "sub_series_no": 1,
+        "condition_id": 118135,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "挫折の結晶彩刃Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "挫折の結晶彩刃Lv10達成",
             "en"
         ],
         "ml_hint": [
@@ -102321,6 +102629,566 @@
         ],
         "ml_description": [
             "セザンヌ【幻惑ショータイム】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742001,
+        "type": 5,
+        "series_no": 7420,
+        "sub_series_no": 1,
+        "condition_id": 742001,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "フェルメール【サムシングブルー】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "フェルメール【サムシングブルー】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742002,
+        "type": 5,
+        "series_no": 7420,
+        "sub_series_no": 2,
+        "condition_id": 742001,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "フェルメール【サムシングブルー】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "フェルメール【サムシングブルー】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742003,
+        "type": 5,
+        "series_no": 7420,
+        "sub_series_no": 3,
+        "condition_id": 742001,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "フェルメール【サムシングブルー】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "フェルメール【サムシングブルー】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742004,
+        "type": 5,
+        "series_no": 7420,
+        "sub_series_no": 4,
+        "condition_id": 742001,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "フェルメール【サムシングブルー】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "フェルメール【サムシングブルー】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742005,
+        "type": 5,
+        "series_no": 7420,
+        "sub_series_no": 5,
+        "condition_id": 742001,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "フェルメール【サムシングブルー】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "フェルメール【サムシングブルー】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742101,
+        "type": 5,
+        "series_no": 7421,
+        "sub_series_no": 1,
+        "condition_id": 742101,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "モリゾ【Wedding Gong】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "モリゾ【Wedding Gong】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742102,
+        "type": 5,
+        "series_no": 7421,
+        "sub_series_no": 2,
+        "condition_id": 742101,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "モリゾ【Wedding Gong】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "モリゾ【Wedding Gong】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742103,
+        "type": 5,
+        "series_no": 7421,
+        "sub_series_no": 3,
+        "condition_id": 742101,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "モリゾ【Wedding Gong】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "モリゾ【Wedding Gong】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742104,
+        "type": 5,
+        "series_no": 7421,
+        "sub_series_no": 4,
+        "condition_id": 742101,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "モリゾ【Wedding Gong】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "モリゾ【Wedding Gong】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742105,
+        "type": 5,
+        "series_no": 7421,
+        "sub_series_no": 5,
+        "condition_id": 742101,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_title": [
+            "モリゾ【Wedding Gong】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "モリゾ【Wedding Gong】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742201,
+        "type": 5,
+        "series_no": 7422,
+        "sub_series_no": 1,
+        "condition_id": 742201,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2026-05-27 12:59:59",
+        "ml_title": [
+            "マネ【挫折のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "マネ【挫折のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742202,
+        "type": 5,
+        "series_no": 7422,
+        "sub_series_no": 2,
+        "condition_id": 742201,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2026-05-27 12:59:59",
+        "ml_title": [
+            "マネ【挫折のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "マネ【挫折のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742203,
+        "type": 5,
+        "series_no": 7422,
+        "sub_series_no": 3,
+        "condition_id": 742201,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2026-05-27 12:59:59",
+        "ml_title": [
+            "マネ【挫折のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "マネ【挫折のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742204,
+        "type": 5,
+        "series_no": 7422,
+        "sub_series_no": 4,
+        "condition_id": 742201,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2026-05-27 12:59:59",
+        "ml_title": [
+            "マネ【挫折のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "マネ【挫折のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742205,
+        "type": 5,
+        "series_no": 7422,
+        "sub_series_no": 5,
+        "condition_id": 742201,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2026-05-27 12:59:59",
+        "ml_title": [
+            "マネ【挫折のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "マネ【挫折のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742301,
+        "type": 5,
+        "series_no": 7423,
+        "sub_series_no": 1,
+        "condition_id": 742301,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 742301,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-05-31 12:59:59",
+        "ml_title": [
+            "エリオントを限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "エリオントを限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742302,
+        "type": 5,
+        "series_no": 7423,
+        "sub_series_no": 2,
+        "condition_id": 742301,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 742302,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-05-31 12:59:59",
+        "ml_title": [
+            "エリオントを限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "エリオントを限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742303,
+        "type": 5,
+        "series_no": 7423,
+        "sub_series_no": 3,
+        "condition_id": 742301,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 742303,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-05-31 12:59:59",
+        "ml_title": [
+            "エリオントを限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "エリオントを限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742304,
+        "type": 5,
+        "series_no": 7423,
+        "sub_series_no": 4,
+        "condition_id": 742301,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 742304,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-05-31 12:59:59",
+        "ml_title": [
+            "エリオントを限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "エリオントを限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742305,
+        "type": 5,
+        "series_no": 7423,
+        "sub_series_no": 5,
+        "condition_id": 742301,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 742305,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-05-31 12:59:59",
+        "ml_title": [
+            "エリオントを限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "エリオントを限界突破+5にしよう",
             "en"
         ],
         "ml_hint": [

@@ -1530,6 +1530,23 @@
         ]
     },
     {
+        "id": 435,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "435",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2026-05-24 12:59:59",
+        "ml_name": [
+            "聖鐘は花嫁を迎えに鳴り響く",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2567,6 +2584,23 @@
         ]
     },
     {
+        "id": 612,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-05-21 13:00:00",
+        "end_time": "2026-05-29 12:59:59",
+        "ml_name": [
+            "罪を背負う少女に導きの陽光を",
+            ""
+        ]
+    },
+    {
         "id": 301,
         "chapter_no": 0,
         "quest_type": 3,
@@ -3039,6 +3073,23 @@
         "end_time": "2026-03-26 12:59:59",
         "ml_name": [
             "【A.S.】貫く信念は愛に寄り添われ",
+            ""
+        ]
+    },
+    {
+        "id": 1106,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2026-05-27 12:59:59",
+        "ml_name": [
+            "【A.S.】折れない矜持が描くもの",
             ""
         ]
     }

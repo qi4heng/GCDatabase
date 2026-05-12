@@ -2100,6 +2100,27 @@
         "ml_effect_flavor": []
     },
     {
+        "id": 4110811,
+        "enhance_group_id": 55,
+        "disassemble_group_id": 201,
+        "rarity": 5,
+        "site_type": 5,
+        "unit_id": 8,
+        "lock_type": 2,
+        "reduce_element_type": 2,
+        "image_index": 4110811,
+        "country_type": 0,
+        "ml_name": [
+            "挫折の結晶彩刃",
+            ""
+        ],
+        "ml_flavor_text": [
+            "異なる未来を生きるマネの力を宿した結晶武器。",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
         "id": 4110892,
         "enhance_group_id": 45,
         "disassemble_group_id": 145,
@@ -2683,6 +2704,27 @@
         ],
         "ml_flavor_text": [
             "ベルトを煌びやかに飾りつけ、クリスマスの準備は万端！",
+            ""
+        ],
+        "ml_effect_flavor": []
+    },
+    {
+        "id": 4111405,
+        "enhance_group_id": 15,
+        "disassemble_group_id": 115,
+        "rarity": 5,
+        "site_type": 1,
+        "unit_id": 14,
+        "lock_type": 2,
+        "reduce_element_type": 5,
+        "image_index": 4111405,
+        "country_type": 0,
+        "ml_name": [
+            "ブルーミングベール",
+            ""
+        ],
+        "ml_flavor_text": [
+            "お花に包み込まれるような幸せを感じられるベール。",
             ""
         ],
         "ml_effect_flavor": []

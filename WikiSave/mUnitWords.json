@@ -10718,6 +10718,236 @@
         ]
     },
     {
+        "id": 8120020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40108119_1020",
+        "ml_word": [
+            "せっかく絵を描いても、批判されて傷つくだけ。\nそれなら、なにもせずにいたほうがマシっす。\nふっ……つまんない慰めなんていらないっすからね？",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40108119_1030",
+        "ml_word": [
+            "先輩は、オリジナルのマネのほうが好きでしょ？\nどれだけ批判されても、跳ね返して頑張って……。\nそれができない私は、どーせ無意味な存在っす。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40108119_1040",
+        "ml_word": [
+            "は～ぁ、退屈っすねぇ……。\n退屈すぎてイライラするっす。\nもう、先輩をからかうくらいしかやることないっすね。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_40108119_1050",
+        "ml_word": [
+            "むぅ……そんなふうに優しくされると、\n絵の描けない私でも、先輩のそばにいていいんだって\n勘違いしちゃうっすよ？",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40108119_1520",
+        "ml_word": [
+            "オリジナルのマネって、ああ見えてけっこう暗いんで、\n私の言動にもそんなに驚かなかったんでしょうねぇ。\nはぁ……そういうところも気に入らないっす。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40108119_1530",
+        "ml_word": [
+            "はぁ……先輩がいないと、退屈で仕方ないっすねぇ。\nオリジナルだったら絵でも描くんでしょうけど、\nほんと、私はな～んもできないっす。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40108119_1540",
+        "ml_word": [
+            "“元気で前向きな良い子”って思われたら、\nずっとそれを演じなきゃいけないっす。\nだったら、悪い子になったほうが楽じゃないっすか？",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40108119_1550",
+        "ml_word": [
+            "美術館へ来て、物知り顔で作品を批判してるお客さん、\nほんと腹立つんすけど……！　うぅ……先輩……！\n私が暴れないように止めてくださいっす！",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40108119_1560",
+        "ml_word": [
+            "フォルジェールさんって、なにを考えてるんすかねぇ。\nオリジナルとは仲が良いみたいっすけど、\n私はけっこう距離を感じるっす。",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 8120570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_40108119_1570",
+        "ml_word": [
+            "こんなに自暴自棄な私じゃ、いつか先輩にも\n愛想尽かされちゃうに決まってるっす……。\nうぅ……せんぱい、そんなの嫌っすよ～！",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 13110020,
         "scene_type": 2,
         "trigger": 3,
@@ -21413,6 +21643,121 @@
         ]
     },
     {
+        "id": 10812030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4010811_1030",
+        "ml_word": [
+            "私は芸術から遠ざかったマネの姿……。だから、\n美術館にいると複雑な心境になるっす……。\nねぇ先輩、ふたりでサボってどっか行って、\n悪い子になっちゃいましょうよ。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10812040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010811_1040",
+        "ml_word": [
+            "あーあ、お偉いさんから気に入られる絵を\n楽しく描ける人達はいいっすよねぇ？\n私なんかよりずっと必要とされて……\n羨ましい限りっす。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10812050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010811_1050",
+        "ml_word": [
+            "あーもーうるさいうるさいうるさーい！\n私が絵を描いてなんの意味があるっていうんすか！\n無駄な希望を持つのは、もうウンザリっす！",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10812060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010811_1060",
+        "ml_word": [
+            "好きなものを描いてもダメ。\nお利口さんに描いてもつまらない。\nだったら私が描く意味なんて、ないじゃないっすか。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10812070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4010811_1070",
+        "ml_word": [
+            "先輩は優しいっすよねぇ。\n筆を折った画家もどきにも優しくしてくれるんすから。\nはぁー……すっごい惨めな気分っす……。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-05-19 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 8,
+        "layer_id": 4010811,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 10902030,
         "scene_type": 1,
         "trigger": 5,
@@ -25201,6 +25546,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 11,
         "layer_id": 4011109,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11111030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4011110_1030",
+        "ml_word": [
+            "ねぇ、この格好でここに立ってて大丈夫かしら？\nその……変な誤解をされたりしない？\nわ、わたしはいいのよ、でもあなたが……\n……平気？　本当に？　そう……ふふ。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 11,
+        "layer_id": 4011110,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11111040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011110_1040",
+        "ml_word": [
+            "わたしの衣装を見て、パルルが\n「お姉様、お綺麗です！」\nって言いながら、泣いてしまったのよ。\n本当に大げさな子なんだから……ふふっ。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 11,
+        "layer_id": 4011110,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11111050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011110_1050",
+        "ml_word": [
+            "結婚はやっぱり自分で選んだ人としたいわ。\n人として尊敬できて、この人と一生一緒にいたい……\nそんな風に思える人とね。\nね、館長さんは、結婚についてどう思ってる……？",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 11,
+        "layer_id": 4011110,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11111060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011110_1060",
+        "ml_word": [
+            "館長さんとヴァージンロードを歩くなら……\nそうイメージして、この服を選んだの。\nねぇ館長さん、一緒に歩いてくれる？\n今は練習でもいいから……お願い♪",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 11,
+        "layer_id": 4011110,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11111070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "elapse",
+        "expression": "loop",
+        "sound_asset": "stv_4011110_1070",
+        "ml_word": [
+            "モリゾさんみたいな強いお嫁さんだったら、\n将来の旦那さんも安心よね……。\nわたしも負けていられないわ。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 11,
+        "layer_id": 4011110,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -29456,6 +29916,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 15,
         "layer_id": 4011508,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11510030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4011509_1030",
+        "ml_word": [
+            "理想の結婚生活……考えてみると色々ありますが、\nやはり一緒にトレーニングができると楽しそうですわ。\nそれはそうと館長！\n今日も走り込みに行きましょう！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011509,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11510040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011509_1040",
+        "ml_word": [
+            "私も昔、家系の存続のために\n結婚を強いられたことがありましたわ……。\n今はそれがお母様なりの優しさだったとわかりますが、\nやっぱり、添い遂げるなら愛した殿方でないと。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011509,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11510050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011509_1050",
+        "ml_word": [
+            "このウエディングドレスは、\n動きやすさ重視で選びましたの♪\nもし花婿を狙う不埒な輩がやって来ても、\n返り討ちにして差し上げられるように、と……。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011509,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11510060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011509_1060",
+        "ml_word": [
+            "結婚はゴールではく、スタートだと思いますの。\n……それはすなわち、\n幸せな生活を走り切るための長いレースが、\n始まるということなのですわ！",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011509,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11510070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4011509_1070",
+        "ml_word": [
+            "フェルメールさんの花嫁姿、\n本当にお綺麗でしたわ……。\n私ももっと素敵な花嫁になるために\nトレーニングを重ねなくては！",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-05-12 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011509,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [

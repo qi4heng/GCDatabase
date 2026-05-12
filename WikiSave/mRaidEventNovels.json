@@ -292,5 +292,19 @@
         "m_quest_stage_id": 6111004,
         "defeat_boss_number": 4,
         "open_time": "2026-04-28 13:00:00"
+    },
+    {
+        "id": 43,
+        "m_event_id": 5012,
+        "m_quest_stage_id": 6121001,
+        "defeat_boss_number": 0,
+        "open_time": "2026-05-21 13:00:00"
+    },
+    {
+        "id": 44,
+        "m_event_id": 5012,
+        "m_quest_stage_id": 6121002,
+        "defeat_boss_number": 4,
+        "open_time": "2026-05-27 13:00:00"
     }
 ]

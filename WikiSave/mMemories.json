@@ -2008,5 +2008,35 @@
         "sub_effect_id1": 63130017,
         "sell_price": 10656,
         "start_time": "2026-04-30 13:00:00"
+    },
+    {
+        "id": 4120136,
+        "ml_name": [
+            "両手に花嫁を連れて",
+            "en"
+        ],
+        "index": "135",
+        "rarity": 4,
+        "image_index": 4120156,
+        "main_effect_id1": 54130002,
+        "main_effect_id2": 54131105,
+        "sub_effect_id1": 63130001,
+        "sell_price": 3552,
+        "start_time": "2026-05-12 13:00:00"
+    },
+    {
+        "id": 4120137,
+        "ml_name": [
+            "太陽の笑顔は罪過をも照らす",
+            "en"
+        ],
+        "index": "136",
+        "rarity": 4,
+        "image_index": 4120157,
+        "main_effect_id1": 54130001,
+        "main_effect_id2": 54130204,
+        "sub_effect_id1": 63130018,
+        "sell_price": 3552,
+        "start_time": "2026-05-21 13:00:00"
     }
 ]

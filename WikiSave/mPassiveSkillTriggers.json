@@ -210,6 +210,16 @@
         "description": "ダウン時"
     },
     {
+        "id": 2013,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 16,
+        "trigger_param": 16,
+        "trigger_param2": "0",
+        "skill_types": "0",
+        "description": "デバフを受けた時"
+    },
+    {
         "id": 2100,
         "timing_bits": 0,
         "condition_bits": 0,

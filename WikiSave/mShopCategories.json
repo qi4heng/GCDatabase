@@ -1820,6 +1820,34 @@
         "end_time": ""
     },
     {
+        "id": 6009,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "聖鐘は花嫁を迎えに鳴り響く",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
+        "id": 6010,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "罪を背負う少女に導きの陽光を",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 701,
         "type": 5,
         "group_type": 0,
@@ -4393,6 +4421,48 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 21134,
+        "end_time": ""
+    },
+    {
+        "id": 890,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：聖鐘は花嫁を迎えに鳴り響く",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21138,
+        "end_time": ""
+    },
+    {
+        "id": 891,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：レイド応援",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 65005,
+        "end_time": ""
+    },
+    {
+        "id": 892,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：紐解かれる歴史",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 23104,
         "end_time": ""
     },
     {

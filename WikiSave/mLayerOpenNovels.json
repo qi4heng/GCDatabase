@@ -2385,6 +2385,33 @@
         "open_layer_novel_id": 0
     },
     {
+        "id": 40108111,
+        "layer_id": 4010811,
+        "novel_id": 40108111,
+        "item_type": 115,
+        "item_id": 1150002,
+        "item_count": 22,
+        "open_layer_novel_id": 40108112
+    },
+    {
+        "id": 40108112,
+        "layer_id": 4010811,
+        "novel_id": 40108112,
+        "item_type": 115,
+        "item_id": 1150003,
+        "item_count": 20,
+        "open_layer_novel_id": 40108113
+    },
+    {
+        "id": 40108113,
+        "layer_id": 4010811,
+        "novel_id": 40108113,
+        "item_type": 0,
+        "item_id": 0,
+        "item_count": 0,
+        "open_layer_novel_id": 0
+    },
+    {
         "id": 40109011,
         "layer_id": 4010901,
         "novel_id": 40109011,
@@ -3243,6 +3270,33 @@
         "id": 40111093,
         "layer_id": 4011109,
         "novel_id": 40111093,
+        "item_type": 0,
+        "item_id": 0,
+        "item_count": 0,
+        "open_layer_novel_id": 0
+    },
+    {
+        "id": 40111101,
+        "layer_id": 4011110,
+        "novel_id": 40111101,
+        "item_type": 115,
+        "item_id": 1150002,
+        "item_count": 22,
+        "open_layer_novel_id": 40111102
+    },
+    {
+        "id": 40111102,
+        "layer_id": 4011110,
+        "novel_id": 40111102,
+        "item_type": 115,
+        "item_id": 1150003,
+        "item_count": 20,
+        "open_layer_novel_id": 40111103
+    },
+    {
+        "id": 40111103,
+        "layer_id": 4011110,
+        "novel_id": 40111103,
         "item_type": 0,
         "item_id": 0,
         "item_count": 0,
@@ -4206,6 +4260,33 @@
         "id": 40115083,
         "layer_id": 4011508,
         "novel_id": 40115083,
+        "item_type": 0,
+        "item_id": 0,
+        "item_count": 0,
+        "open_layer_novel_id": 0
+    },
+    {
+        "id": 40115091,
+        "layer_id": 4011509,
+        "novel_id": 40115091,
+        "item_type": 115,
+        "item_id": 1150017,
+        "item_count": 22,
+        "open_layer_novel_id": 40115092
+    },
+    {
+        "id": 40115092,
+        "layer_id": 4011509,
+        "novel_id": 40115092,
+        "item_type": 115,
+        "item_id": 1150018,
+        "item_count": 20,
+        "open_layer_novel_id": 40115093
+    },
+    {
+        "id": 40115093,
+        "layer_id": 4011509,
+        "novel_id": 40115093,
         "item_type": 0,
         "item_id": 0,
         "item_count": 0,
