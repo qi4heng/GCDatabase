@@ -758,5 +758,15 @@
         "trigger_param2": "0",
         "skill_types": "2",
         "description": "スキル変化時"
+    },
+    {
+        "id": 10790,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 79,
+        "trigger_param2": "0",
+        "skill_types": "2|3",
+        "description": "領域展開時"
     }
 ]

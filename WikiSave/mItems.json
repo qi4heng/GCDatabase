@@ -2675,6 +2675,81 @@
         "is_visible": false
     },
     {
+        "id": 1111701,
+        "item_type": 111,
+        "value1": 17,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1111701,
+        "ml_name": [
+            "セッシュウの命鏡・小",
+            "EN"
+        ],
+        "ml_description": [
+            "セッシュウのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セッシュウに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、小さな発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1111702,
+        "item_type": 111,
+        "value1": 17,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1111702,
+        "ml_name": [
+            "セッシュウの命鏡・中",
+            "EN"
+        ],
+        "ml_description": [
+            "セッシュウのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セッシュウに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、新鮮な発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1111703,
+        "item_type": 111,
+        "value1": 17,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1111703,
+        "ml_name": [
+            "セッシュウの命鏡・大",
+            "EN"
+        ],
+        "ml_description": [
+            "セッシュウのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セッシュウに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、大いなる発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1115101,
         "item_type": 111,
         "value1": 0,
@@ -4225,6 +4300,31 @@
         "is_visible": false
     },
     {
+        "id": 1120412,
+        "item_type": 112,
+        "value1": 4010412,
+        "value2": 0,
+        "sort": 69,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120412,
+        "ml_name": [
+            "【雨降らしの案内人】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セキエンの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120501,
         "item_type": 112,
         "value1": 4010501,
@@ -4460,6 +4560,31 @@
         "image_index": 1120510,
         "ml_name": [
             "【黒煙の導く先へ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ミケランジェロの新たな才能を引き出すと言われているオーブ\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120511,
+        "item_type": 112,
+        "value1": 4010511,
+        "value2": 0,
+        "sort": 75,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120511,
+        "ml_name": [
+            "【ミケさんぽ】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -7250,6 +7375,81 @@
         "is_visible": false
     },
     {
+        "id": 1121701,
+        "item_type": 112,
+        "value1": 4011701,
+        "value2": 0,
+        "sort": 120,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1121701,
+        "ml_name": [
+            "【流浪の留学生】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セッシュウの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、微かな光を放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121702,
+        "item_type": 112,
+        "value1": 4011702,
+        "value2": 0,
+        "sort": 120,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1121702,
+        "ml_name": [
+            "【墨に五彩あり】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セッシュウの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、鮮やかな輝きを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121703,
+        "item_type": 112,
+        "value1": 4011703,
+        "value2": 0,
+        "sort": 120,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121703,
+        "ml_name": [
+            "【幽玄に至る境地】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セッシュウの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1125101,
         "item_type": 112,
         "value1": 0,
@@ -9693,6 +9893,31 @@
         ],
         "ml_flavor_text": [
             "ルノワールの心を激しく揺さぶる書物。その技術やセンスを\n飛躍させる哲学や技術について豊富に記されている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1161701,
+        "item_type": 116,
+        "value1": 17,
+        "value2": 0,
+        "sort": 200,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1161701,
+        "ml_name": [
+            "【セッシュウ】の藝術家の書",
+            "EN"
+        ],
+        "ml_description": [
+            "セッシュウに経験値を与えることのできるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セッシュウの心を激しく揺さぶる書物。その技術やセンスを\n飛躍させる哲学や技術について豊富に記されている。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -13593,6 +13818,31 @@
         ],
         "ml_flavor_text": [
             "聖鐘が鳴り響く物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1511118,
+        "item_type": 151,
+        "value1": 730,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511118,
+        "ml_name": [
+            "ストーリーキー【天才留学生、アテネスに現る！】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「天才留学生、アテネスに現る！」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "留学生の物語の扉を開くための鍵。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -18800,6 +19050,106 @@
         "is_visible": false
     },
     {
+        "id": 1630214,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630214,
+        "ml_name": [
+            "天才留学生、アテネスに現る！ガチャチケットA",
+            "EN"
+        ],
+        "ml_description": [
+            "天才留学生、アテネスに現る！ピックアップガチャAを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-12 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630215,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630215,
+        "ml_name": [
+            "天才留学生、アテネスに現る！ガチャチケットB",
+            "EN"
+        ],
+        "ml_description": [
+            "天才留学生、アテネスに現る！ピックアップガチャBを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-12 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630219,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット36",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-09 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630220,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630220,
+        "ml_name": [
+            "アナザーサイド復刻ガチャチケット1",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきアナザーサイド復刻ガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アナザーサイド復刻ガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-11 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640002,
         "item_type": 162,
         "value1": 0,
@@ -23575,6 +23925,56 @@
         "is_visible": false
     },
     {
+        "id": 1640198,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640198,
+        "ml_name": [
+            "天才留学生、アテネスに現る！のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で天才留学生、アテネスに現る！ピックアップガチャAのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-14 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640200,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640200,
+        "ml_name": [
+            "スタイル復刻のしおり36",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-11 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650000,
         "item_type": 801,
         "value1": 3200,
@@ -27100,6 +27500,56 @@
         "is_visible": false
     },
     {
+        "id": 1650144,
+        "item_type": 801,
+        "value1": 3330,
+        "value2": 0,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650144,
+        "ml_name": [
+            "幽玄な松の一枝",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「天才留学生、アテネスに現る！」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "一年中枯れることなく青々と茂る、生命力が強い常緑樹。\n冬の寒さにも耐えて緑を保つ姿から、神が宿る木とされる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650145,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3330,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650145,
+        "ml_name": [
+            "清涼な一輪の紫陽花",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「天才留学生、アテネスに現る！」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "雨の雫をまとい、しっとりと濡れた姿が美しい初夏の花。\n小さな花が身を寄せ合うように集まって、一つの円をつくる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650151,
         "item_type": 801,
         "value1": 3232,
@@ -29843,6 +30293,31 @@
         ],
         "ml_flavor_text": [
             "『第二回くまさん祭り』相互ミッションの参加に必要な異世界のチケット。 大切に保管しておくと良いことがあるらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 9010007,
+        "item_type": 161,
+        "value1": 0,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 9010007,
+        "ml_name": [
+            "くまさんブランドタイトル合同CPチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "『ドットアビスリリース記念！チームくまさんブランドタイトル 合同CP』参加の証",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『くまさんブランドタイトル合同キャンペーン』用の異世界のチケット。大切に保管しておくと良いことがあるらしい。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",

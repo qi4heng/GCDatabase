@@ -2038,5 +2038,50 @@
         "sub_effect_id1": 63130018,
         "sell_price": 3552,
         "start_time": "2026-05-21 13:00:00"
+    },
+    {
+        "id": 4120138,
+        "ml_name": [
+            "幸せを導く青の花嫁たち",
+            "en"
+        ],
+        "index": "137",
+        "rarity": 5,
+        "image_index": 4120136,
+        "main_effect_id1": 55131102,
+        "main_effect_id2": 55390005,
+        "sub_effect_id1": 63130002,
+        "sell_price": 10656,
+        "start_time": "2026-05-29 13:00:00"
+    },
+    {
+        "id": 4120139,
+        "ml_name": [
+            "ようこそ、アテネスへ！",
+            "en"
+        ],
+        "index": "138",
+        "rarity": 4,
+        "image_index": 4120158,
+        "main_effect_id1": 54130001,
+        "main_effect_id2": 54131702,
+        "sub_effect_id1": 63130002,
+        "sell_price": 3552,
+        "start_time": "2026-05-29 13:00:00"
+    },
+    {
+        "id": 4120140,
+        "ml_name": [
+            "疑心を解いて分かり合う",
+            "en"
+        ],
+        "index": "139",
+        "rarity": 5,
+        "image_index": 4120176,
+        "main_effect_id1": 55130302,
+        "main_effect_id2": 55300001,
+        "sub_effect_id1": 63130002,
+        "sell_price": 10656,
+        "start_time": "2026-06-05 13:00:00"
     }
 ]

@@ -256,7 +256,7 @@
       ],
       "ml_description": [
          "ソウル獲得時の入魂ゲージ増加量[[effects_power]%]補正",
-         "获得魂球时的入魂值增加量修正[[effects_power]%]"
+         "获得魂球时的入魂值增加量补正[[effects_power]%]"
       ]
    },
    {
@@ -269,7 +269,7 @@
       ],
       "ml_description": [
          "オブジェクト破壊時に与ダメージの[[effects_power]%]体力回復",
-         "破坏放置物时恢复造成伤害的[[effects_power]%]体力"
+         "破坏放置物时根据造成伤害的[[effects_power]%]回复体力"
       ]
    },
    {
@@ -373,7 +373,7 @@
       ],
       "ml_description": [
          "毎ターン体力一定割合回復",
-         "每回合恢复一定比例体力"
+         "每回合回复一定比例体力"
       ]
    },
    {
@@ -620,7 +620,7 @@
       ],
       "ml_description": [
          "ソウル獲得時の入魂ゲージ増加量[[effects_power]%]補正",
-         "获得魂球时的入魂值增加量修正[[effects_power]%]"
+         "获得魂球时的入魂值增加量补正[[effects_power]%]"
       ]
    },
    {
@@ -646,7 +646,7 @@
       ],
       "ml_description": [
          "スタイルがカーマイン（赤）時、ビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为红色时，对绿色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为红色时，对绿色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -659,7 +659,7 @@
       ],
       "ml_description": [
          "スタイルがセルリアン（青）時、カーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为蓝色时，对红色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为蓝色时，对红色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -672,7 +672,7 @@
       ],
       "ml_description": [
          "スタイルがビリジアン（緑）時、セルリアン（青）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为绿色时，对蓝色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为绿色时，对蓝色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -685,7 +685,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -698,7 +698,7 @@
       ],
       "ml_description": [
          "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为紫色时，对白色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为紫色时，对白色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -750,7 +750,7 @@
       ],
       "ml_description": [
          "系統：無に対してダメージ[[effects_power]%]上昇",
-         "对系统：无的伤害提升[[effects_power]%]"
+         "对系统：无造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -763,7 +763,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇",
-         "对系统：工艺的伤害提升[[effects_power]%]"
+         "对系统：工艺造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -776,7 +776,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇",
-         "对系统：绘画的伤害提升[[effects_power]%]"
+         "对系统：绘画造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -789,7 +789,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇",
-         "对系统：雕刻的伤害提升[[effects_power]%]"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -802,7 +802,7 @@
       ],
       "ml_description": [
          "系統：原始藝術に対してダメージ[[effects_power]%]上昇",
-         "对系统：原始艺术的伤害提升[[effects_power]%]"
+         "对系统：原始艺术造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -815,7 +815,7 @@
       ],
       "ml_description": [
          "系統：芸道に対してダメージ[[effects_power]%]上昇",
-         "对系统：艺道的伤害提升[[effects_power]%]"
+         "对系统：艺道造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -828,7 +828,7 @@
       ],
       "ml_description": [
          "系統：贋作に対してダメージ[[effects_power]%]上昇",
-         "对系统：赝作的伤害提升[[effects_power]%]"
+         "对系统：赝作造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -841,7 +841,7 @@
       ],
       "ml_description": [
          "系統：騎士に対してダメージ[[effects_power]%]上昇",
-         "对系统：骑士的伤害提升[[effects_power]%]"
+         "对系统：骑士造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -854,7 +854,7 @@
       ],
       "ml_description": [
          "系統：ならず者に対してダメージ[[effects_power]%]上昇",
-         "对系统：无赖的伤害提升[[effects_power]%]"
+         "对系统：歹徒造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -919,7 +919,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化",
-         "物理元素的攻击强化[[effects_power]%]"
+         "物理元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -932,7 +932,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化",
-         "火元素的攻击强化[[effects_power]%]"
+         "火元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -945,7 +945,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化",
-         "水元素的攻击强化[[effects_power]%]"
+         "水元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -958,7 +958,7 @@
       ],
       "ml_description": [
          "風エレメントの攻撃を[[effects_power]%]強化",
-         "风元素的攻击强化[[effects_power]%]"
+         "风元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -971,7 +971,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化",
-         "雷元素的攻击强化[[effects_power]%]"
+         "雷元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -1153,7 +1153,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇",
-         "对系统：工艺的伤害提升[[effects_power]%]"
+         "对系统：工艺造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -1166,7 +1166,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇",
-         "对系统：绘画的伤害提升[[effects_power]%]"
+         "对系统：绘画造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -1179,7 +1179,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇",
-         "对系统：雕刻的伤害提升[[effects_power]%]"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -1192,7 +1192,7 @@
       ],
       "ml_description": [
          "系統：芸道に対してダメージ[[effects_power]%]上昇",
-         "对系统：艺道的伤害提升[[effects_power]%]"
+         "对系统：艺道造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -1205,7 +1205,7 @@
       ],
       "ml_description": [
          "入魂ゲージ増加時に補正",
-         "入魂值增加率修正(+30%)"
+         "入魂值增加时补正(+30%)"
       ]
    },
    {
@@ -1478,7 +1478,7 @@
       ],
       "ml_description": [
          "バトル開始時、自身に不動付与/オブジェクト破壊時、与ダメージの[[effects_power_2]%]体力回復",
-         "战斗开始时，赋予自身不动/破坏放置物时，恢复造成伤害的[[effects_power_2]%]体力"
+         "战斗开始时，赋予自身不动/破坏放置物时，根据造成伤害的[[effects_power_2]%]回复体力"
       ]
    },
    {
@@ -1530,7 +1530,7 @@
       ],
       "ml_description": [
          "バトル開始時、自身に不動付与/通常攻撃時、命中対象の防御[[effects_power]%]減少/ターン開始時、気絶・睡眠・誘惑解除",
-         "战斗开始时，赋予自身不动/普通攻击时，使命中目标的防御减少[[effects_power]%]/回合开始时，解除气绝·睡眠·诱惑"
+         "战斗开始时，赋予自身不动/普通攻击时，使命中目标的防御减少[[effects_power]%]/回合开始时，解除自身的气绝·睡眠·诱惑"
       ]
    },
    {
@@ -1660,7 +1660,7 @@
       ],
       "ml_description": [
          "追加行動（行動回数＋[[effects_power]]）/衝突・猛毒ダメージ軽減/一定体力以下で味方全員に攻撃・敏捷[[effects_power_4]%]増加（重複可）",
-         "追加行动（行动次数＋[[effects_power]]）/减轻碰撞·猛毒伤害/一定体力以下时，己方全员的攻击·敏捷增加[[effects_power_4]%]（可叠加）"
+         "追加行动（行动次数＋[[effects_power]]）/减轻碰撞·猛毒伤害/一定体力以下时，己方全体的攻击·敏捷增加[[effects_power_4]%]（可叠加）"
       ]
    },
    {
@@ -1699,7 +1699,7 @@
       ],
       "ml_description": [
          "追加行動（行動回数＋[[effects_power]]）/衝突・猛毒ダメージ軽減/一定体力以下で味方全員に攻撃・敏捷[[effects_power_4]%]増加（重複可）",
-         "追加行动（行动次数＋[[effects_power]]）/减轻碰撞·猛毒伤害/一定体力以下时，己方全员的攻击·敏捷增加[[effects_power_4]%]（可叠加）"
+         "追加行动（行动次数＋[[effects_power]]）/减轻碰撞·猛毒伤害/一定体力以下时，己方全体的攻击·敏捷增加[[effects_power_4]%]（可叠加）"
       ]
    },
    {
@@ -1725,7 +1725,7 @@
       ],
       "ml_description": [
          "追加行動（技法のみ＋[[effects_power]]）/バトル開始時、自身に不動付与/猛毒ダメージ軽減/一定体力以下で自身の器用・敏捷[[effects_power_4]%]増加、状態異常、デバフ、弱点付与解除",
-         "追加行动（仅技法＋[[effects_power]]）/战斗开始时，赋予自身不动/减轻猛毒伤害/一定体力以下时，自身的器用·敏捷增加[[effects_power_4]%]，解除状态异常、减益、弱点赋予"
+         "追加行动（仅技法＋[[effects_power]]）/战斗开始时，赋予自身不动/减轻猛毒伤害/一定体力以下时，自身的器用·敏捷增加[[effects_power_4]%]，解除自身的状态异常、减益效果、弱点赋予"
       ]
    },
    {
@@ -1738,7 +1738,7 @@
       ],
       "ml_description": [
          "追加行動（技法のみ＋[[effects_power]]）/衝突ダメージ軽減/通常攻撃時、命中対象に確率で火傷付与＜[[effects_turn_3]ターン]＞/一定体力以下で自身の状態異常、デバフ、弱点付与解除",
-         "追加行动（仅技法＋[[effects_power]]）/减轻碰撞伤害/普通攻击时，概率赋予命中目标火伤＜[[effects_turn_3]回合]＞/一定体力以下时，解除自身的状态异常、减益、弱点赋予"
+         "追加行动（仅技法＋[[effects_power]]）/减轻碰撞伤害/普通攻击时，概率赋予命中目标火伤＜[[effects_turn_3]回合]＞/一定体力以下时，解除自身的状态异常、减益效果、弱点赋予"
       ]
    },
    {
@@ -1751,7 +1751,7 @@
       ],
       "ml_description": [
          "追加行動（技法のみ＋[[effects_power_5]]）/ターン開始時、自身の攻撃[[effects_power_1]%]増加（重複可）/衝突ダメージ軽減/一定体力以下で自身のデバフ、弱点付与解除",
-         "追加行动（仅技法＋[[effects_power_5]]）/回合开始时，自身攻击增加[[effects_power_1]%]（可叠加）/减轻碰撞伤害/一定体力以下时，解除自身的减益、弱点赋予"
+         "追加行动（仅技法＋[[effects_power_5]]）/回合开始时，自身攻击增加[[effects_power_1]%]（可叠加）/减轻碰撞伤害/一定体力以下时，解除自身的减益效果、弱点赋予"
       ]
    },
    {
@@ -1764,7 +1764,7 @@
       ],
       "ml_description": [
          "追加行動（技法のみ＋[[effects_power]]）/バトル開始時、自身に不動付与/猛毒ダメージ軽減/一定体力以下で自身の器用・敏捷[[effects_power_4]%]増加、状態異常、デバフ、弱点付与解除/ターン終了時攻撃[[effects_power_8]%]増加（3回）",
-         "追加行动（仅技法＋[[effects_power]]）/战斗开始时，赋予自身不动/减轻猛毒伤害/一定体力以下时，自身的器用·敏捷增加[[effects_power_4]%]，解除状态异常、减益、弱点赋予/回合结束时攻击增加[[effects_power_8]%]（3次）"
+         "追加行动（仅技法＋[[effects_power]]）/战斗开始时，赋予自身不动/减轻猛毒伤害/一定体力以下时，自身的器用·敏捷增加[[effects_power_4]%]，解除自身的状态异常、减益效果、弱点赋予/回合结束时自身攻击增加[[effects_power_8]%]（3次）"
       ]
    },
    {
@@ -1842,7 +1842,7 @@
       ],
       "ml_description": [
          "一定体力以下で自身の状態異常、デバフ、弱点付与解除",
-         "一定体力以下时，解除自身的状态异常、减益、弱点赋予"
+         "一定体力以下时，解除自身的状态异常、减益效果、弱点赋予"
       ]
    },
    {
@@ -1868,7 +1868,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全体に再生付与/一定体力以下で自身に再生付与&自身の攻撃[[effects_power_3]%]増加",
-         "战斗开始时，赋予己方全员再生/一定体力以下时，赋予自身再生&自身攻击增加[[effects_power_3]%]"
+         "战斗开始时，赋予己方全体再生/一定体力以下时，赋予自身再生&自身攻击增加[[effects_power_3]%]"
       ]
    },
    {
@@ -1881,7 +1881,7 @@
       ],
       "ml_description": [
          "追加行動/不動/忍耐/ターン開始時、攻撃デバフ解除/一定体力以下で味方全体の熱情[[effects_power_6]]増加・全状態異常解除",
-         "追加行动/不动/忍耐/回合开始时，解除攻击减益/一定体力以下时，己方全员的热情增加[[effects_power_6]]·解除所有状态异常"
+         "追加行动/不动/忍耐/回合开始时，解除自身的攻击减益/一定体力以下时，己方全体的热情增加[[effects_power_6]]·解除己方全体所有状态异常"
       ]
    },
    {
@@ -1894,7 +1894,7 @@
       ],
       "ml_description": [
          "バトル開始時、自身に<help=fire_shield>炎シールド</help>付与・精神[[effects_power_2]%]増加（重複可）/一定体力以下で精神[[effects_power_3]%]増加（重複可）",
-         "战斗开始时，赋予自身<help=fire_shield>火护盾</help>·精神增加[[effects_power_2]%]（可叠加）/一定体力以下时，精神增加[[effects_power_3]%]（可叠加）"
+         "战斗开始时，赋予自身<help=fire_shield>火护盾</help>·精神增加[[effects_power_2]%]（可叠加）/一定体力以下时，自身精神增加[[effects_power_3]%]（可叠加）"
       ]
    },
    {
@@ -1933,7 +1933,7 @@
       ],
       "ml_description": [
          "一定体力以下で攻撃[[effects_power_1]%]増加（重複可）・精神[[effects_power_2]%]増加（重複可）・移動[[effects_power_3]]増加（重複可）",
-         "一定体力以下时，攻击增加[[effects_power_1]%]（可叠加）·精神增加[[effects_power_2]%]（可叠加）·移动增加[[effects_power_3]]（可叠加）"
+         "一定体力以下时，自身攻击增加[[effects_power_1]%]（可叠加）·精神增加[[effects_power_2]%]（可叠加）·移动增加[[effects_power_3]]（可叠加）"
       ]
    },
    {
@@ -1946,7 +1946,7 @@
       ],
       "ml_description": [
          "ダメージを受けた時、自身に精神・防御[[effects_power_1]%]増加（重複可）/ターン開始時、自身に水月付与/一定体力以下で味方全員に幻影付与",
-         "受到伤害时，自身精神·防御增加[[effects_power_1]%]（可叠加）/回合开始时，赋予自身水月/一定体力以下时，赋予己方全员幻影"
+         "受到伤害时，自身精神·防御增加[[effects_power_1]%]（可叠加）/回合开始时，赋予自身水月/一定体力以下时，赋予己方全体幻影"
       ]
    },
    {
@@ -1959,7 +1959,7 @@
       ],
       "ml_description": [
          "一定体力以下で自身のデバフ、弱点付与解除",
-         "一定体力以下时，解除自身的减益、弱点赋予"
+         "一定体力以下时，解除自身的减益效果、弱点赋予"
       ]
    },
    {
@@ -1972,7 +1972,7 @@
       ],
       "ml_description": [
          "追加行動/不動/ターン開始時、自身の攻撃デバフ解除/ダウン時、「グラッジリタリエーション」発動",
-         "追加行动/不动/回合开始时，解除自身的攻击减益/倒下时，发动「怨念反击」"
+         "追加行动/不动/回合开始时，解除自身的攻击减益/倒下时，发动「グラッジリタリエーション」"
       ]
    },
    {
@@ -1998,7 +1998,7 @@
       ],
       "ml_description": [
          "バトル開始時、自身に<help=fire_shield>炎シールド</help>付与・防御[[effects_power_2]%]増加（重複可）/一定体力以下で防御[[effects_power_3]%]増加（重複可）",
-         "战斗开始时，赋予自身<help=fire_shield>火护盾</help>·防御增加[[effects_power_2]%]（可叠加）/一定体力以下时，防御增加[[effects_power_3]%]（可叠加）"
+         "战斗开始时，赋予自身<help=fire_shield>火护盾</help>·防御增加[[effects_power_2]%]（可叠加）/一定体力以下时，自身防御增加[[effects_power_3]%]（可叠加）"
       ]
    },
    {
@@ -2011,7 +2011,7 @@
       ],
       "ml_description": [
          "行動終了後、自身の敏捷[[effects_power_1]%]減少/ターン開始時、敏捷デバフ解除",
-         "行动结束后，自身的敏捷减少[[effects_power_1]%]/回合开始时，解除敏捷减益"
+         "行动结束后，自身的敏捷减少[[effects_power_1]%]/回合开始时，解除自身的敏捷减益"
       ]
    },
    {
@@ -2024,7 +2024,7 @@
       ],
       "ml_description": [
          "追加行動/不動/ターン開始時、攻撃デバフ解除/ダウン時に味方全体の熱情[[effects_power_5]]増加・全状態異常解除",
-         "追加行动/不动/回合开始时，解除攻击减益/倒下时，己方全员的热情增加[[effects_power_5]]·解除所有状态异常"
+         "追加行动/不动/回合开始时，解除自身的攻击减益/倒下时，己方全体的热情增加[[effects_power_5]]·解除自身所有状态异常"
       ]
    },
    {
@@ -2050,7 +2050,7 @@
       ],
       "ml_description": [
          "再行動（行動回数＋[[effects_power_3]]）/不動/2ターンに1度行動不可/ターン開始時、敏捷デバフ解除/行動開始時、自身にシールドを1付与/行動終了後、自身の敏捷[[effects_power_4]%]減少",
-         "再行动（行动次数＋[[effects_power_3]]）/不动/每2回合无法行动1次/回合开始时，解除敏捷减益/行动开始时，赋予自身1护盾/行动结束后，自身的敏捷减少[[effects_power_4]%]"
+         "再行动（行动次数＋[[effects_power_3]]）/不动/自身每2回合无法行动1次/回合开始时，解除自身的敏捷减益/行动开始时，赋予自身护盾1点/行动结束后，自身的敏捷减少[[effects_power_4]%]"
       ]
    },
    {
@@ -2102,7 +2102,7 @@
       ],
       "ml_description": [
          "バトル開始時、自身に再生付与/一定体力以下で自身に攻撃・敏捷[[effects_power_2]%]増加（重複可）/一定体力以下で自身に攻撃・精神・防御・敏捷[[effects_power_3]%]増加（重複可）・加護と拒絶と不変付与・状態異常、デバフ、弱点付与解除",
-         "战斗开始时，赋予自身再生/一定体力以下时，自身攻击·敏捷增加[[effects_power_2]%]（可叠加）/一定体力以下时，自身攻击·精神·防御·敏捷增加[[effects_power_3]%]（可叠加）·赋予加护、拒绝、不变·解除状态异常、减益、弱点赋予"
+         "战斗开始时，赋予自身再生/一定体力以下时，自身攻击·敏捷增加[[effects_power_2]%]（可叠加）/一定体力以下时，自身攻击·精神·防御·敏捷增加[[effects_power_3]%]（可叠加）·赋予自身加护、拒绝、不变·解除自身的状态异常、减益效果、弱点赋予"
       ]
    },
    {
@@ -2115,7 +2115,7 @@
       ],
       "ml_description": [
          "再行動（行動回数＋[[effects_power_2]]）/不動/ターン開始時、攻撃デバフ解除",
-         "再行动（行动次数＋[[effects_power_2]]）/不动/回合开始时，解除攻击减益"
+         "再行动（行动次数＋[[effects_power_2]]）/不动/回合开始时，解除自身的攻击减益"
       ]
    },
    {
@@ -2128,7 +2128,7 @@
       ],
       "ml_description": [
          "ターン終了時、攻撃[[effects_power_1]%]増加・精神[[effects_power_2]%]増加",
-         "回合结束时，攻击增加[[effects_power_1]%]·精神增加[[effects_power_2]%]"
+         "回合结束时，自身攻击增加[[effects_power_1]%]·精神增加[[effects_power_2]%]"
       ]
    },
    {
@@ -2141,7 +2141,7 @@
       ],
       "ml_description": [
          "一定体力以下で味方全員に攻撃・敏捷[[effects_power_1]%]増加",
-         "一定体力以下时，己方全员的攻击·敏捷增加[[effects_power_1]%]"
+         "一定体力以下时，己方全体的攻击·敏捷增加[[effects_power_1]%]"
       ]
    },
    {
@@ -2154,7 +2154,7 @@
       ],
       "ml_description": [
          "バトル開始時、自身に不動・<help=physical_shield>物理シールド</help>付与/一定体力以下で味方全員に精神[[effects_power_3]%]増加/ダメージを受けた時、自身に体力[[effects_power_4]]回復",
-         "战斗开始时，赋予自身不动·<help=physical_shield>物理护盾</help>/一定体力以下时，己方全员的精神增加[[effects_power_3]%]/受到伤害时，自身体力恢复[[effects_power_4]]"
+         "战斗开始时，赋予自身不动·<help=physical_shield>物理护盾</help>/一定体力以下时，己方全体的精神增加[[effects_power_3]%]/受到伤害时，自身体力回复[[effects_power_4]]"
       ]
    },
    {
@@ -2167,7 +2167,7 @@
       ],
       "ml_description": [
          "バトル開始時、自身に不動/ターン開始時、自身に移動[[effects_power_2]]増加/一定体力以下で味方全員に精神[[effects_power_3]%]増加・攻撃と敏捷[[effects_power_4]%]増加",
-         "战斗开始时，赋予自身不动/回合开始时，自身移动增加[[effects_power_2]]/一定体力以下时，己方全员的精神增加[[effects_power_3]%]·攻击和敏捷增加[[effects_power_4]%]"
+         "战斗开始时，赋予自身不动/回合开始时，自身移动增加[[effects_power_2]]/一定体力以下时，己方全体的精神增加[[effects_power_3]%]·攻击和敏捷增加[[effects_power_4]%]"
       ]
    },
    {
@@ -2180,7 +2180,7 @@
       ],
       "ml_description": [
          "味方全員の体力[[effects_power]%]増加",
-         "己方全员的体力增加[[effects_power]%]"
+         "己方全体的体力增加[[effects_power]%]"
       ]
    },
    {
@@ -2193,7 +2193,7 @@
       ],
       "ml_description": [
          "味方全員の攻撃[[effects_power]%]増加",
-         "己方全员的攻击增加[[effects_power]%]"
+         "己方全体的攻击增加[[effects_power]%]"
       ]
    },
    {
@@ -2206,7 +2206,7 @@
       ],
       "ml_description": [
          "味方全員の精神[[effects_power]%]増加",
-         "己方全员的精神增加[[effects_power]%]"
+         "己方全体的精神增加[[effects_power]%]"
       ]
    },
    {
@@ -2219,7 +2219,7 @@
       ],
       "ml_description": [
          "味方全員の防御[[effects_power]%]増加",
-         "己方全员的防御增加[[effects_power]%]"
+         "己方全体的防御增加[[effects_power]%]"
       ]
    },
    {
@@ -2232,7 +2232,7 @@
       ],
       "ml_description": [
          "味方全員の器用[[effects_power]%]増加",
-         "己方全员的器用增加[[effects_power]%]"
+         "己方全体的器用增加[[effects_power]%]"
       ]
    },
    {
@@ -2245,7 +2245,7 @@
       ],
       "ml_description": [
          "味方全員の敏捷[[effects_power]%]増加",
-         "己方全员的敏捷增加[[effects_power]%]"
+         "己方全体的敏捷增加[[effects_power]%]"
       ]
    },
    {
@@ -2258,7 +2258,7 @@
       ],
       "ml_description": [
          "味方全員の体力[[effects_power]%]増加",
-         "己方全员的体力增加[[effects_power]%]"
+         "己方全体的体力增加[[effects_power]%]"
       ]
    },
    {
@@ -2271,7 +2271,7 @@
       ],
       "ml_description": [
          "味方全員の攻撃[[effects_power]%]増加",
-         "己方全员的攻击增加[[effects_power]%]"
+         "己方全体的攻击增加[[effects_power]%]"
       ]
    },
    {
@@ -2284,7 +2284,7 @@
       ],
       "ml_description": [
          "味方全員の精神[[effects_power]%]増加",
-         "己方全员的精神增加[[effects_power]%]"
+         "己方全体的精神增加[[effects_power]%]"
       ]
    },
    {
@@ -2297,7 +2297,7 @@
       ],
       "ml_description": [
          "味方全員の防御[[effects_power]%]増加",
-         "己方全员的防御增加[[effects_power]%]"
+         "己方全体的防御增加[[effects_power]%]"
       ]
    },
    {
@@ -2310,7 +2310,7 @@
       ],
       "ml_description": [
          "味方全員の器用[[effects_power]%]増加",
-         "己方全员的器用增加[[effects_power]%]"
+         "己方全体的器用增加[[effects_power]%]"
       ]
    },
    {
@@ -2323,7 +2323,7 @@
       ],
       "ml_description": [
          "味方全員の敏捷[[effects_power]%]増加",
-         "己方全员的敏捷增加[[effects_power]%]"
+         "己方全体的敏捷增加[[effects_power]%]"
       ]
    },
    {
@@ -2336,7 +2336,7 @@
       ],
       "ml_description": [
          "味方全員の体力[[effects_power]%]増加",
-         "己方全员的体力增加[[effects_power]%]"
+         "己方全体的体力增加[[effects_power]%]"
       ]
    },
    {
@@ -2349,7 +2349,7 @@
       ],
       "ml_description": [
          "味方全員の攻撃[[effects_power]%]増加",
-         "己方全员的攻击增加[[effects_power]%]"
+         "己方全体的攻击增加[[effects_power]%]"
       ]
    },
    {
@@ -2362,7 +2362,7 @@
       ],
       "ml_description": [
          "味方全員の精神[[effects_power]%]増加",
-         "己方全员的精神增加[[effects_power]%]"
+         "己方全体的精神增加[[effects_power]%]"
       ]
    },
    {
@@ -2375,7 +2375,7 @@
       ],
       "ml_description": [
          "味方全員の防御[[effects_power]%]増加",
-         "己方全员的防御增加[[effects_power]%]"
+         "己方全体的防御增加[[effects_power]%]"
       ]
    },
    {
@@ -2388,7 +2388,7 @@
       ],
       "ml_description": [
          "味方全員の器用[[effects_power]%]増加",
-         "己方全员的器用增加[[effects_power]%]"
+         "己方全体的器用增加[[effects_power]%]"
       ]
    },
    {
@@ -2401,7 +2401,7 @@
       ],
       "ml_description": [
          "味方全員の敏捷[[effects_power]%]増加",
-         "己方全员的敏捷增加[[effects_power]%]"
+         "己方全体的敏捷增加[[effects_power]%]"
       ]
    },
    {
@@ -2414,7 +2414,7 @@
       ],
       "ml_description": [
          "スタイルがカーマイン（赤）時、ビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为红色时，对绿色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为红色时，对绿色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -2427,7 +2427,7 @@
       ],
       "ml_description": [
          "スタイルがセルリアン（青）時、カーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为蓝色时，对红色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为蓝色时，对红色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -2440,7 +2440,7 @@
       ],
       "ml_description": [
          "スタイルがビリジアン（緑）時、セルリアン（青）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为绿色时，对蓝色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为绿色时，对蓝色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -2453,7 +2453,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -2466,7 +2466,7 @@
       ],
       "ml_description": [
          "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为紫色时，对白色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为紫色时，对白色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5005,6 +5005,162 @@
       ]
    },
    {
+      "id": 54131701,
+      "rarity": 4,
+      "image_index": 4131701,
+      "ml_name": [
+         "セッシュウ体力アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの体力[[effects_power]%]増加",
+         "雪舟的体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131702,
+      "rarity": 4,
+      "image_index": 4131702,
+      "ml_name": [
+         "セッシュウ攻撃アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの攻撃[[effects_power]%]増加",
+         "雪舟的攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131703,
+      "rarity": 4,
+      "image_index": 4131703,
+      "ml_name": [
+         "セッシュウ精神アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの精神[[effects_power]%]増加",
+         "雪舟的精神增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131704,
+      "rarity": 4,
+      "image_index": 4131704,
+      "ml_name": [
+         "セッシュウ防御アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの防御[[effects_power]%]増加",
+         "雪舟的防御增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131705,
+      "rarity": 4,
+      "image_index": 4131705,
+      "ml_name": [
+         "セッシュウ器用アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの器用[[effects_power]%]増加",
+         "雪舟的器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131706,
+      "rarity": 4,
+      "image_index": 4131706,
+      "ml_name": [
+         "セッシュウ敏捷アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの敏捷[[effects_power]%]増加",
+         "雪舟的敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131701,
+      "rarity": 5,
+      "image_index": 4131701,
+      "ml_name": [
+         "セッシュウ体力アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの体力[[effects_power]%]増加",
+         "雪舟的体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131702,
+      "rarity": 5,
+      "image_index": 4131702,
+      "ml_name": [
+         "セッシュウ攻撃アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの攻撃[[effects_power]%]増加",
+         "雪舟的攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131703,
+      "rarity": 5,
+      "image_index": 4131703,
+      "ml_name": [
+         "セッシュウ精神アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの精神[[effects_power]%]増加",
+         "雪舟的精神增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131704,
+      "rarity": 5,
+      "image_index": 4131704,
+      "ml_name": [
+         "セッシュウ防御アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの防御[[effects_power]%]増加",
+         "雪舟的防御增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131705,
+      "rarity": 5,
+      "image_index": 4131705,
+      "ml_name": [
+         "セッシュウ器用アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの器用[[effects_power]%]増加",
+         "雪舟的器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131706,
+      "rarity": 5,
+      "image_index": 4131706,
+      "ml_name": [
+         "セッシュウ敏捷アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの敏捷[[effects_power]%]増加",
+         "雪舟的敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
       "id": 55300000,
       "rarity": 5,
       "image_index": 1300000,
@@ -5014,7 +5170,7 @@
       ],
       "ml_description": [
          "味方全員の物理エレメントの攻撃を[[effects_power]%]強化",
-         "己方全员的物理元素的攻击强化[[effects_power]%]"
+         "己方全体的物理元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -5027,7 +5183,7 @@
       ],
       "ml_description": [
          "味方全員の炎エレメントの攻撃を[[effects_power]%]強化",
-         "己方全员的火元素的攻击强化[[effects_power]%]"
+         "己方全体的火元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -5040,7 +5196,7 @@
       ],
       "ml_description": [
          "味方全員の水エレメントの攻撃を[[effects_power]%]強化",
-         "己方全员的水元素的攻击强化[[effects_power]%]"
+         "己方全体的水元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -5053,7 +5209,7 @@
       ],
       "ml_description": [
          "味方全員の風エレメントの攻撃を[[effects_power]%]強化",
-         "己方全员的风元素的攻击强化[[effects_power]%]"
+         "己方全体的风元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -5066,7 +5222,7 @@
       ],
       "ml_description": [
          "味方全員の雷エレメントの攻撃を[[effects_power]%]強化",
-         "己方全员的雷元素的攻击强化[[effects_power]%]"
+         "己方全体的雷元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -5079,7 +5235,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇",
-         "己方全员对系统：工艺的伤害提升[[effects_power]%]"
+         "对系统：工艺造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5092,7 +5248,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇",
-         "己方全员对系统：绘画的伤害提升[[effects_power]%]"
+         "对系统：绘画造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5105,7 +5261,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇",
-         "己方全员对系统：雕刻的伤害提升[[effects_power]%]"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5118,7 +5274,7 @@
       ],
       "ml_description": [
          "系統：原始藝術に対してダメージ[[effects_power]%]上昇",
-         "己方全员对系统：原始艺术的伤害提升[[effects_power]%]"
+         "对系统：原始艺术造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5131,7 +5287,7 @@
       ],
       "ml_description": [
          "系統：芸道に対してダメージ[[effects_power]%]上昇",
-         "己方全员对系统：艺道的伤害提升[[effects_power]%]"
+         "对系统：艺道造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5144,7 +5300,7 @@
       ],
       "ml_description": [
          "系統：贋作に対してダメージ[[effects_power]%]上昇",
-         "己方全员对系统：赝作的伤害提升[[effects_power]%]"
+         "对系统：赝作造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5157,7 +5313,7 @@
       ],
       "ml_description": [
          "火傷状態の敵に対してダメージ[[effects_power_1]%]上昇",
-         "己方全员对处于火伤状态的敌人伤害提升[[effects_power_1]%]"
+         "对处于火伤状态的敌方伤害提升[[effects_power_1]%]"
       ]
    },
    {
@@ -5170,7 +5326,7 @@
       ],
       "ml_description": [
          "猛毒状態の敵に対してダメージ[[effects_power_1]%]上昇",
-         "己方全员对处于猛毒状态的敌人伤害提升[[effects_power_1]%]"
+         "对处于猛毒状态的敌方伤害提升[[effects_power_1]%]"
       ]
    },
    {
@@ -5183,7 +5339,7 @@
       ],
       "ml_description": [
          "影縫状態の敵に対してダメージ[[effects_power_1]%]上昇",
-         "己方全员对处于影缝状态的敌人伤害提升[[effects_power_1]%]"
+         "对处于影缝状态的敌方伤害提升[[effects_power_1]%]"
       ]
    },
    {
@@ -5196,7 +5352,7 @@
       ],
       "ml_description": [
          "感電状態の敵に対してダメージ[[effects_power_1]%]上昇",
-         "己方全员对处于感电状态的敌人伤害提升[[effects_power_1]%]"
+         "对处于感电状态的敌方伤害提升[[effects_power_1]%]"
       ]
    },
    {
@@ -5209,7 +5365,7 @@
       ],
       "ml_description": [
          "気絶状態の敵に対してダメージ[[effects_power_1]%]上昇",
-         "己方全员对处于气绝状态的敌人伤害提升[[effects_power_1]%]"
+         "对处于气绝状态的敌方伤害提升[[effects_power_1]%]"
       ]
    },
    {
@@ -5222,7 +5378,7 @@
       ],
       "ml_description": [
          "睡眠状態の敵に対してダメージ[[effects_power_1]%]上昇",
-         "己方全员对处于睡眠状态的敌人伤害提升[[effects_power_1]%]"
+         "对处于睡眠状态的敌方伤害提升[[effects_power_1]%]"
       ]
    },
    {
@@ -5235,7 +5391,7 @@
       ],
       "ml_description": [
          "誘惑状態の敵に対してダメージ[[effects_power_1]%]上昇",
-         "己方全员对处于诱惑状态的敌人伤害提升[[effects_power_1]%]"
+         "对处于诱惑状态的敌方伤害提升[[effects_power_1]%]"
       ]
    },
    {
@@ -5248,7 +5404,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全員に物理シールド付与[[effects_power_1]]",
-         "战斗开始时，赋予己方全员物理护盾[[effects_power_1]]"
+         "战斗开始时，赋予己方全体物理护盾[[effects_power_1]]"
       ]
    },
    {
@@ -5261,7 +5417,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全員に炎シールド付与[[effects_power_1]]",
-         "战斗开始时，赋予己方全员火护盾[[effects_power_1]]"
+         "战斗开始时，赋予己方全体火护盾[[effects_power_1]]"
       ]
    },
    {
@@ -5274,7 +5430,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全員に水シールド付与[[effects_power_1]]",
-         "战斗开始时，赋予己方全员水护盾[[effects_power_1]]"
+         "战斗开始时，赋予己方全体水护盾[[effects_power_1]]"
       ]
    },
    {
@@ -5287,7 +5443,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全員に風シールド付与[[effects_power_1]]",
-         "战斗开始时，赋予己方全员风护盾[[effects_power_1]]"
+         "战斗开始时，赋予己方全体风护盾[[effects_power_1]]"
       ]
    },
    {
@@ -5300,7 +5456,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全員に雷シールド付与[[effects_power_1]]",
-         "战斗开始时，赋予己方全员雷护盾[[effects_power_1]]"
+         "战斗开始时，赋予己方全体雷护盾[[effects_power_1]]"
       ]
    },
    {
@@ -5313,7 +5469,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全員に熱情[[effects_power]]増加",
-         "战斗开始时，己方全员的热情增加[[effects_power]]"
+         "战斗开始时，己方全体的热情增加[[effects_power]]"
       ]
    },
    {
@@ -5326,7 +5482,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全員に入魂ゲージ[[effects_power]]%増加",
-         "战斗开始时，己方全员的入魂值增加[[effects_power]]%"
+         "战斗开始时，己方全体的入魂值增加[[effects_power]]%"
       ]
    },
    {
@@ -5339,7 +5495,7 @@
       ],
       "ml_description": [
          "バトル開始時、カーマインの味方全員に熱情[[effects_power]]増加",
-         "战斗开始时，红色属性的己方全员的热情增加[[effects_power]]"
+         "战斗开始时，红色属性的己方全体的热情增加[[effects_power]]"
       ]
    },
    {
@@ -5352,7 +5508,7 @@
       ],
       "ml_description": [
          "バトル開始時、カーマインの味方全員に入魂ゲージ[[effects_power]]%増加",
-         "战斗开始时，红色属性的己方全员的入魂值增加[[effects_power]]%"
+         "战斗开始时，红色属性的己方全体的入魂值增加[[effects_power]]%"
       ]
    },
    {
@@ -5365,7 +5521,7 @@
       ],
       "ml_description": [
          "バトル開始時、セルリアンの味方全員に熱情[[effects_power]]増加",
-         "战斗开始时，蓝色属性的己方全员的热情增加[[effects_power]]"
+         "战斗开始时，蓝色属性的己方全体的热情增加[[effects_power]]"
       ]
    },
    {
@@ -5378,7 +5534,7 @@
       ],
       "ml_description": [
          "バトル開始時、セルリアンの味方全員に入魂ゲージ[[effects_power]]%増加",
-         "战斗开始时，蓝色属性的己方全员的入魂值增加[[effects_power]]%"
+         "战斗开始时，蓝色属性的己方全体的入魂值增加[[effects_power]]%"
       ]
    },
    {
@@ -5391,7 +5547,7 @@
       ],
       "ml_description": [
          "バトル開始時、ビリジアンの味方全員に熱情[[effects_power]]増加",
-         "战斗开始时，绿色属性的己方全员的热情增加[[effects_power]]"
+         "战斗开始时，绿色属性的己方全体的热情增加[[effects_power]]"
       ]
    },
    {
@@ -5404,7 +5560,7 @@
       ],
       "ml_description": [
          "バトル開始時、ビリジアンの味方全員に入魂ゲージ[[effects_power]]%増加",
-         "战斗开始时，绿色属性的己方全员的入魂值增加[[effects_power]]%"
+         "战斗开始时，绿色属性的己方全体的入魂值增加[[effects_power]]%"
       ]
    },
    {
@@ -5417,7 +5573,7 @@
       ],
       "ml_description": [
          "バトル開始時、アイボリーの味方全員に熱情[[effects_power]]増加",
-         "战斗开始时，白色属性的己方全员的热情增加[[effects_power]]"
+         "战斗开始时，白色属性的己方全体的热情增加[[effects_power]]"
       ]
    },
    {
@@ -5430,7 +5586,7 @@
       ],
       "ml_description": [
          "バトル開始時、アイボリーの味方全員に入魂ゲージ[[effects_power]]%増加",
-         "战斗开始时，白色属性的己方全员的入魂值增加[[effects_power]]%"
+         "战斗开始时，白色属性的己方全体的入魂值增加[[effects_power]]%"
       ]
    },
    {
@@ -5443,7 +5599,7 @@
       ],
       "ml_description": [
          "バトル開始時、バイオレットの味方全員に熱情[[effects_power]]増加",
-         "战斗开始时，紫色属性的己方全员的热情增加[[effects_power]]"
+         "战斗开始时，紫色属性的己方全体的热情增加[[effects_power]]"
       ]
    },
    {
@@ -5456,7 +5612,7 @@
       ],
       "ml_description": [
          "バトル開始時、バイオレットの味方全員に入魂ゲージ[[effects_power]]%増加",
-         "战斗开始时，紫色属性的己方全员的入魂值增加[[effects_power]]%"
+         "战斗开始时，紫色属性的己方全体的入魂值增加[[effects_power]]%"
       ]
    },
    {
@@ -5638,7 +5794,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5716,7 +5872,7 @@
       ],
       "ml_description": [
          "味方のバイオレット（紫）のアイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-         "紫色属性己方对白色属性目标的伤害提升[[effects_power]%]"
+         "紫色属性己方对白色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5742,7 +5898,7 @@
       ],
       "ml_description": [
          "味方のセルリアン（青）のカーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
-         "蓝色属性己方对红色属性目标的伤害提升[[effects_power]%]"
+         "蓝色属性己方对红色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5768,7 +5924,7 @@
       ],
       "ml_description": [
          "味方のカーマイン（赤）のビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
-         "红色属性己方对绿色属性目标的伤害提升[[effects_power]%]"
+         "红色属性己方对绿色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5794,7 +5950,7 @@
       ],
       "ml_description": [
          "味方のビリジアン（緑）のセルリアン（青）に対してのダメージ[[effects_power]%]上昇",
-         "绿色属性己方对蓝色属性目标的伤害提升[[effects_power]%]"
+         "绿色属性己方对蓝色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5820,7 +5976,7 @@
       ],
       "ml_description": [
          "味方のアイボリー（白）のバイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-         "白色属性己方对紫色属性目标的伤害提升[[effects_power]%]"
+         "白色属性己方对紫色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5846,7 +6002,7 @@
       ],
       "ml_description": [
          "味方のバイオレット（紫）のアイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-         "紫色属性己方对白色属性目标的伤害提升[[effects_power]%]"
+         "紫色属性己方对白色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5872,7 +6028,7 @@
       ],
       "ml_description": [
          "味方のセルリアン（青）のカーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
-         "蓝色属性己方对红色属性目标的伤害提升[[effects_power]%]"
+         "蓝色属性己方对红色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5898,7 +6054,7 @@
       ],
       "ml_description": [
          "味方のカーマイン（赤）のビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
-         "红色属性己方对绿色属性目标的伤害提升[[effects_power]%]"
+         "红色属性己方对绿色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5924,7 +6080,7 @@
       ],
       "ml_description": [
          "味方のビリジアン（緑）のセルリアン（青）に対してのダメージ[[effects_power]%]上昇",
-         "绿色属性己方对蓝色属性目标的伤害提升[[effects_power]%]"
+         "绿色属性己方对蓝色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5950,7 +6106,7 @@
       ],
       "ml_description": [
          "味方のアイボリー（白）のバイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-         "白色属性己方对紫色属性目标的伤害提升[[effects_power]%]"
+         "白色属性己方对紫色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5976,7 +6132,7 @@
       ],
       "ml_description": [
          "味方のバイオレット（紫）のアイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-         "紫色属性己方对白色属性目标的伤害提升[[effects_power]%]"
+         "紫色属性己方对白色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -5989,7 +6145,7 @@
       ],
       "ml_description": [
          "エネミーのアイボリー(白)の攻撃+[[effects_power]%]",
-         "百色市属性敌方的攻击+[[effects_power]%]"
+         "白色属性敌方的攻击+[[effects_power]%]"
       ]
    },
    {
@@ -6002,7 +6158,7 @@
       ],
       "ml_description": [
          "味方のセルリアン（青）のカーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
-         "蓝色属性己方对红色属性目标的伤害提升[[effects_power]%]"
+         "蓝色属性己方对红色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6028,7 +6184,7 @@
       ],
       "ml_description": [
          "味方のカーマイン（赤）のビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
-         "红色属性己方对绿色属性目标的伤害提升[[effects_power]%]"
+         "红色属性己方对绿色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6054,7 +6210,7 @@
       ],
       "ml_description": [
          "味方のビリジアン（緑）のセルリアン（青）に対してのダメージ[[effects_power]%]上昇",
-         "绿色属性己方对蓝色属性目标的伤害提升[[effects_power]%]"
+         "绿色属性己方对蓝色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6080,7 +6236,7 @@
       ],
       "ml_description": [
          "味方のアイボリー（白）のバイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-         "白色属性己方对紫色属性目标的伤害提升[[effects_power]%]"
+         "白色属性己方对紫色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6106,7 +6262,7 @@
       ],
       "ml_description": [
          "味方のバイオレット（紫）のアイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-         "紫色属性己方对白色属性目标的伤害提升[[effects_power]%]"
+         "紫色属性己方对白色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6145,7 +6301,7 @@
       ],
       "ml_description": [
          "味方のセルリアン（青）のカーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
-         "蓝色属性己方对红色属性目标的伤害提升[[effects_power]%]"
+         "蓝色属性己方对红色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6184,7 +6340,7 @@
       ],
       "ml_description": [
          "味方のカーマイン（赤）のビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
-         "红色属性己方对绿色属性目标的伤害提升[[effects_power]%]"
+         "红色属性己方对绿色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6223,7 +6379,7 @@
       ],
       "ml_description": [
          "味方のビリジアン（緑）のセルリアン（青）に対してのダメージ[[effects_power]%]上昇",
-         "绿色属性己方对蓝色属性目标的伤害提升[[effects_power]%]"
+         "绿色属性己方对蓝色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6262,7 +6418,7 @@
       ],
       "ml_description": [
          "味方のアイボリー（白）のバイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-         "白色属性己方对紫色属性目标的伤害提升[[effects_power]%]"
+         "白色属性己方对紫色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6301,7 +6457,7 @@
       ],
       "ml_description": [
          "味方のバイオレット（紫）のアイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-         "紫色属性己方对白色属性目标的伤害提升[[effects_power]%]"
+         "紫色属性己方对白色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -6328,6 +6484,45 @@
       "ml_description": [
          "エネミーのアイボリー(白)の防御+[[effects_power]%]",
          "白色属性敌方的防御+[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 75130024,
+      "rarity": 5,
+      "image_index": 1390002,
+      "ml_name": [
+         "青属性有利＋（50%）",
+         ""
+      ],
+      "ml_description": [
+         "味方のセルリアン（青）のカーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
+         "绿色属性己方对红色属性目标造成的伤害提升[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 74130024,
+      "rarity": 4,
+      "image_index": 1130002,
+      "ml_name": [
+         "エネミーのカーマイン(赤)の攻撃+70%",
+         ""
+      ],
+      "ml_description": [
+         "エネミーのカーマイン(赤)の攻撃+[[effects_power]%]",
+         "红色属性敌方的攻击+[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 73130024,
+      "rarity": 4,
+      "image_index": 1130004,
+      "ml_name": [
+         "エネミーのカーマイン(赤)の防御+40%",
+         ""
+      ],
+      "ml_description": [
+         "エネミーのカーマイン(赤)の防御+[[effects_power]%]",
+         "红色属性敌方的防御+[[effects_power]%]"
       ]
    },
    {
@@ -6535,7 +6730,7 @@
       ],
       "ml_description": [
          "系統：騎士に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加",
-         "对系统：骑士的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "对系统：骑士造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6561,7 +6756,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加",
-         "对系统：工艺的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]"
+         "对系统：工艺造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6574,7 +6769,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加",
-         "物理元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]"
+         "物理元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6587,7 +6782,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加",
-         "对系统：雕刻的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6600,7 +6795,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加",
-         "雷元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "雷元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6613,7 +6808,7 @@
       ],
       "ml_description": [
          "系統：芸道に対してダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加",
-         "对系统：艺道的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]"
+         "对系统：艺道造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]"
       ]
    },
    {
@@ -6639,7 +6834,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加",
-         "对系统：工艺的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]"
+         "对系统：工艺造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6665,7 +6860,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加",
-         "对系统：绘画的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "对系统：绘画造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6678,7 +6873,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加",
-         "火元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "火元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6691,7 +6886,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加",
-         "雷元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]"
+         "雷元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6704,7 +6899,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加",
-         "对系统：绘画的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "对系统：绘画造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6717,7 +6912,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加",
-         "物理元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]"
+         "物理元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6743,7 +6938,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加",
-         "对系统：雕刻的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6756,7 +6951,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加",
-         "物理元素的攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]"
+         "物理元素攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6769,7 +6964,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加",
-         "对系统：雕刻的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6795,7 +6990,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加",
-         "对系统：工艺的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "对系统：工艺造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6808,7 +7003,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加",
-         "火元素的攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]"
+         "火元素攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6821,7 +7016,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加",
-         "对系统：绘画的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
+         "对系统：绘画造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6834,7 +7029,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加",
-         "物理元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]"
+         "物理元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6847,7 +7042,7 @@
       ],
       "ml_description": [
          "系統：芸道に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加",
-         "对系统：艺道的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]"
+         "对系统：艺道造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6860,7 +7055,7 @@
       ],
       "ml_description": [
          "風エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加",
-         "风元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]"
+         "风元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6899,7 +7094,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加",
-         "火元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]"
+         "火元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6925,7 +7120,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加",
-         "水元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]"
+         "水元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]"
       ]
    },
    {
@@ -6938,7 +7133,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技で弾き飛ばし発生時、敵全体の敏捷[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "物理元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发生弹飞时，敌方全体的敏捷减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "物理元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动弹飞时，敌方全体的敏捷减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -6951,7 +7146,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加/技法または絶技で弾き飛ばし発生時、命中対象に確率で<help=burn>火傷</help>付与＜[[effects_turn_3]ターン]＞",
-         "对系统：工艺的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发生弹飞时，概率赋予命中目标<help=burn>火伤</help>＜[[effects_turn_3]回合]＞"
+         "对系统：工艺造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动弹飞时，概率赋予命中目标<help=burn>火伤</help>＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -6977,7 +7172,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法の威力で体力回復時、味方全員の精神[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加",
-         "对系统：工艺的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/以技法的威力回复体力时，己方全员的精神增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]"
+         "对系统：工艺造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/以技法的威力回复体力时，己方全体的精神增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]"
       ]
    },
    {
@@ -6990,7 +7185,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法の威力で体力回復時、敵全体の攻撃[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "水元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/以技法的威力回复体力时，敌方全体的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "水元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/以技法的威力回复体力时，敌方全体的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7003,7 +7198,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技でデバフ付与時、命中対象に確率で<help=poison>猛毒</help>付与＜[[effects_turn_3]ターン]＞",
-         "雷元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予减益时，概率赋予命中目标<help=poison>猛毒</help>＜[[effects_turn_3]回合]＞"
+         "雷元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予减益效果时，概率赋予命中目标<help=poison>猛毒</help>＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7016,7 +7211,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、味方全員に<help=regeneration>再生</help>付与",
-         "对系统：雕刻的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技召唤放置物时，赋予己方全员<help=regeneration>再生</help>"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技召唤放置物时，赋予己方全体<help=regeneration>再生</help>"
       ]
    },
    {
@@ -7029,7 +7224,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、敵全体の防御[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "物理元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技召唤放置物时，敌方全体的防御减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "物理元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技召唤放置物时，敌方全体的防御减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7055,7 +7250,7 @@
       ],
       "ml_description": [
          "系統：芸道に対してダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で引き寄せ発生時、味方全員の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞熱情[[effects_power_4]]増加",
-         "对系统：艺道的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发生吸引时，己方全员的敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]"
+         "对系统：艺道造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发动吸引时，己方全体的敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]"
       ]
    },
    {
@@ -7068,7 +7263,7 @@
       ],
       "ml_description": [
          "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で引き寄せ発生時、自身に<help=blue_moon>水月</help>付与",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发生吸引时，赋予自身<help=blue_moon>水月</help>"
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发动吸引时，赋予自身<help=blue_moon>水月</help>"
       ]
    },
    {
@@ -7081,7 +7276,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加/技法または絶技でフォーム付与時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・入魂ゲージ[[effects_power_4]]増加",
-         "水元素的攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技赋予形态时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·入魂值增加[[effects_power_4]]"
+         "水元素攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技赋予形态时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·入魂值增加[[effects_power_4]]"
       ]
    },
    {
@@ -7107,7 +7302,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、味方全員の防御[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "水元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技召唤放置物时，己方全员的防御增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "水元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技召唤放置物时，己方全体的防御增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7120,7 +7315,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身の入魂ゲージ[[effects_power_3]]増加",
-         "物理元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予增益时，自身的入魂值增加[[effects_power_3]]"
+         "物理元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予增益效果时，自身的入魂值增加[[effects_power_3]]"
       ]
    },
    {
@@ -7133,7 +7328,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身に<help=regeneration>再生</help>付与",
-         "火元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予增益时，赋予自身<help=regeneration>再生</help>"
+         "火元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予增益效果时，赋予自身<help=regeneration>再生</help>"
       ]
    },
    {
@@ -7146,7 +7341,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加/技法または絶技で引き寄せ発生時、敵全体の精神[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "对系统：工艺的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发生吸引时，敌方全体的精神减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "对系统：工艺造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动吸引时，敌方全体的精神减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7159,7 +7354,7 @@
       ],
       "ml_description": [
          "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で引き寄せ発生時、味方全員の精神[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发生吸引时，己方全员的精神增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发动吸引时，己方全体的精神增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7172,7 +7367,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身に<help=ignite>気炎</help>付与",
-         "对系统：绘画的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予增益时，赋予自身<help=ignite>气焰</help>"
+         "对系统：绘画造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予增益效果时，赋予自身<help=ignite>气焰</help>"
       ]
    },
    {
@@ -7185,7 +7380,7 @@
       ],
       "ml_description": [
          "系統：騎士に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技で補助効果付与時、味方全員の攻撃・敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "对系统：骑士的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予辅助效果时，己方全员的攻击·敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "对系统：骑士造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予辅助效果时，己方全体的攻击·敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7198,7 +7393,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技で移動攻撃発生時、命中対象に確率で<help=burn>火傷</help>付与＜[[effects_turn_3]ターン]＞",
-         "火元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技发生移动攻击时，概率赋予命中目标<help=burn>火伤</help>＜[[effects_turn_3]回合]＞"
+         "火元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技发动移动攻击时，概率赋予命中目标<help=burn>火伤</help>＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7211,7 +7406,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法または絶技で系統特攻発生時、自身に<help=ignite>気炎</help>付与",
-         "物理元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法或绝技触发系统特攻时，赋予自身<help=ignite>气焰</help>"
+         "物理元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法或绝技发动系统特攻时，赋予自身<help=ignite>气焰</help>"
       ]
    },
    {
@@ -7224,7 +7419,7 @@
       ],
       "ml_description": [
          "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で系統特攻発生時、自身の必殺[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技触发系统特攻时，自身的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发动系统特攻时，自身的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7237,7 +7432,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法でオブジェクト召喚時、味方全員の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "雷元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法召唤放置物时，己方全员的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "雷元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法召唤放置物时，己方全体的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7250,7 +7445,7 @@
       ],
       "ml_description": [
          "スタイルがセルリアン（青）時、カーマイン（赤）に対してのダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加/技法でオブジェクト召喚時、自身に<help=blue_moon>水月</help>付与",
-         "服装属性为蓝色时，对红色属性目标的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，赋予自身<help=blue_moon>水月</help>"
+         "服装属性为蓝色时，对红色属性目标造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，赋予自身<help=blue_moon>水月</help>"
       ]
    },
    {
@@ -7276,7 +7471,7 @@
       ],
       "ml_description": [
          "風エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法でオブジェクト召喚時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "风元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "风元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7289,7 +7484,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加/技法でオブジェクト召喚時、味方全員の器用・敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，己方全员的器用·敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，己方全体的器用·敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7315,7 +7510,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法でオブジェクト召喚時、命中対象の攻撃[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "水元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，使命中目标的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "水元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，使命中目标的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7328,7 +7523,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇/攻撃[[effects_power_2]%]増加/技法でオブジェクト召喚時、命中対象に確率で<help=poison>猛毒</help>付与＜[[effects_turn_3]ターン]＞",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]/攻击增加[[effects_power_2]%]/技法召唤放置物时，概率赋予命中目标<help=poison>猛毒</help>＜[[effects_turn_3]回合]＞"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]/攻击增加[[effects_power_2]%]/技法召唤放置物时，概率赋予命中目标<help=poison>猛毒</help>＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7354,7 +7549,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法でオブジェクト召喚時、味方全員の必殺[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
-         "火元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法召唤放置物时，己方全员的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
+         "火元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法召唤放置物时，己方全体的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7367,7 +7562,7 @@
       ],
       "ml_description": [
          "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加/技法でオブジェクト召喚時、命中対象に確率で<help=burn>火傷</help>付与＜[[effects_turn_3]ターン]＞",
-         "服装属性为紫色时，对白色属性目标的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，概率赋予命中目标<help=burn>火伤</help>＜[[effects_turn_3]回合]＞"
+         "服装属性为紫色时，对白色属性目标造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，概率赋予命中目标<help=burn>火伤</help>＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7393,7 +7588,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技で弱点付与時、自身に<help=ignite>気炎</help>付与",
-         "火元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予弱点时，赋予自身<help=ignite>气焰</help>"
+         "火元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予弱点时，赋予自身<help=ignite>气焰</help>"
       ]
    },
    {
@@ -7406,7 +7601,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇/攻撃[[effects_power_2]%]増加/技法または絶技で弱点付与時、味方全員の攻撃・精神[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予弱点时，己方全员的攻击·精神增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予弱点时，己方全体的攻击·精神增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7419,7 +7614,7 @@
       ],
       "ml_description": [
          "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で弱点付与時、味方全員の入魂ゲージ[[effects_power_3]]増加",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技赋予弱点时，己方全员的入魂值增加[[effects_power_3]]"
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技赋予弱点时，己方全体的入魂值增加[[effects_power_3]]"
       ]
    },
    {
@@ -7432,7 +7627,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加/技法または絶技でシールド付与時、自身の精神・防御[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "火元素的攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技赋予护盾时，自身的精神·防御增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "火元素攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技赋予护盾时，自身的精神·防御增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7445,7 +7640,7 @@
       ],
       "ml_description": [
          "スタイルがカーマイン（赤）時、ビリジアン（緑）に対してのダメージ[[effects_power]%]上昇/攻撃[[effects_power_2]%]増加/技法または絶技でシールド付与時、自身に<help=regeneration>再生</help>付与",
-         "服装属性为红色时，对绿色属性目标的伤害提升[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予护盾时，赋予自身<help=regeneration>再生</help>"
+         "服装属性为红色时，对绿色属性目标造成的伤害提升[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予护盾时，赋予自身<help=regeneration>再生</help>"
       ]
    },
    {
@@ -7471,7 +7666,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で移動攻撃発生時、自身に<help=thunderclap>迅雷</help>付与",
-         "对系统：绘画的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发生移动攻击时，赋予自身<help=thunderclap>迅雷</help>"
+         "对系统：绘画造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发动移动攻击时，赋予自身<help=thunderclap>迅雷</help>"
       ]
    },
    {
@@ -7484,7 +7679,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技で弾き飛ばし発生時、自身の必殺[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
-         "雷元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技发生弹飞时，自身的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
+         "雷元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技发动弹飞时，自身的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7497,7 +7692,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "物理元素的攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技召唤放置物时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "物理元素攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技召唤放置物时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7510,7 +7705,7 @@
       ],
       "ml_description": [
          "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法の威力で体力回復時、味方全員の精神[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/以技法的威力回复体力时，己方全员的精神增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/以技法的威力回复体力时，己方全体的精神增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7523,7 +7718,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法または絶技でデバフ付与時、命中対象に確率で炎<help=weakpoint>弱点</help>付与",
-         "火元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法或绝技赋予减益时，概率赋予命中目标火<help=weakpoint>弱点</help>"
+         "火元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法或绝技赋予减益时，概率赋予命中目标火<help=weakpoint>弱点</help>"
       ]
    },
    {
@@ -7536,7 +7731,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、自身の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・入魂ゲージ[[effects_power_4]]増加",
-         "雷元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技召唤放置物时，自身的敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·入魂值增加[[effects_power_4]]"
+         "雷元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技召唤放置物时，自身的敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·入魂值增加[[effects_power_4]]"
       ]
    },
    {
@@ -7549,7 +7744,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技でフォーム付与時、敵全体の敏捷[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "对系统：工艺的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予形态时，敌方全体的敏捷减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "对系统：工艺造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予形态时，敌方全体的敏捷减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7562,7 +7757,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、敵全体の攻撃[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "雷元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技召唤放置物时，敌方全体的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "雷元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技召唤放置物时，敌方全体的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7575,7 +7770,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技でバフ付与時、味方全員の幸運[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "对系统：绘画的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技赋予增益时，己方全员的幸运增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞"
+         "对系统：绘画造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技赋予增益时，己方全体的幸运增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7588,7 +7783,7 @@
       ],
       "ml_description": [
          "系統：芸道に対してダメージ[[effects_power]%]上昇/器用[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、敵全体の精神[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "对系统：艺道的伤害提升[[effects_power]%]/器用增加[[effects_power_2]%]/技法或绝技召唤放置物时，敌方全体的精神减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "对系统：艺道造成的伤害提升[[effects_power]%]/器用增加[[effects_power_2]%]/技法或绝技召唤放置物时，敌方全体的精神减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7601,7 +7796,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/炎エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・入魂ゲージ[[effects_power_5]]増加",
-         "战斗开始时的热情增加[[effects_power]]/火元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·入魂值增加[[effects_power_5]]"
+         "战斗开始时的热情增加[[effects_power]]/火元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·入魂值增加[[effects_power_5]]"
       ]
    },
    {
@@ -7614,7 +7809,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技でバフ付与時、敵全体の防御[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "水元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予增益时，敌方全体的防御减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "水元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予增益时，敌方全体的防御减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7627,7 +7822,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技でデバフ付与時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "水元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予减益时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "水元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予减益时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7640,7 +7835,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/風エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、敵全体の精神・器用・敏捷減少[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞・自身の熱情[[effects_power_4]]増加",
-         "战斗开始时的热情增加[[effects_power]]/风元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，敌方全体的精神·器用·敏捷减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞·自身的热情增加[[effects_power_4]]"
+         "战斗开始时的热情增加[[effects_power]]/风元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，敌方全体的精神·器用·敏捷减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞·自身的热情增加[[effects_power_4]]"
       ]
    },
    {
@@ -7653,7 +7848,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技で体力消費時、味方全員の入魂ゲージ[[effects_power_3]]増加",
-         "对系统：雕刻的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技消耗体力时，己方全员的入魂值增加[[effects_power_3]]"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技消耗体力时，己方全体的入魂值增加[[effects_power_3]]"
       ]
    },
    {
@@ -7666,7 +7861,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/水エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身に<help=ignite>気炎</help>付与・自身の熱情[[effects_power_4]]増加",
-         "战斗开始时的热情增加[[effects_power]]/水元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，赋予自身<help=ignite>气焰</help>·自身的热情增加[[effects_power_4]]"
+         "战斗开始时的热情增加[[effects_power]]/水元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，赋予自身<help=ignite>气焰</help>·自身的热情增加[[effects_power_4]]"
       ]
    },
    {
@@ -7679,7 +7874,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技で補助効果付与時、味方全員の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・移動[[effects_power_4]]増加＜[[effects_turn_4]ターン]＞",
-         "水元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予辅助效果时，己方全员的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·移动增加[[effects_power_4]]＜[[effects_turn_4]回合]＞"
+         "水元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予辅助效果时，己方全体的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·移动增加[[effects_power_4]]＜[[effects_turn_4]回合]＞"
       ]
    },
    {
@@ -7692,7 +7887,7 @@
       ],
       "ml_description": [
          "風エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技で引き寄せ発生時、敵全体の攻撃[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "风元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发生吸引时，敌方全体的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "风元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动吸引时，敌方全体的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7705,7 +7900,7 @@
       ],
       "ml_description": [
          "系統：贋作に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法で味方に威力回復時、味方全員の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "对系统：赝作的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法回复己方体力时，己方全员的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "对系统：赝作造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法回复己方体力时，己方全体的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7718,7 +7913,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/雷エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・味方全員の入魂ゲージ[[effects_power_5]]増加/ソウル獲得時の入魂ゲージ増加量[[effects_power_6]%]補正",
-         "战斗开始时的热情增加[[effects_power]]/雷元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·己方全员的入魂值增加[[effects_power_5]]/获得魂球时的入魂值增加量修正[[effects_power_6]%]"
+         "战斗开始时的热情增加[[effects_power]]/雷元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·己方全体的入魂值增加[[effects_power_5]]/获得魂球时的入魂值增加量补正[[effects_power_6]%]"
       ]
    },
    {
@@ -7731,7 +7926,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法または絶技で引き寄せ発生時、味方全員の器用[[effects_power_3]%]増加＜[[effects_turn_3]ターン]＞",
-         "水元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法或绝技发生吸引时，己方全员的器用增加[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "水元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法或绝技发动吸引时，己方全体的器用增加[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7744,7 +7939,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/物理エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の熱情[[effects_power_3]]増加・味方全員の入魂ゲージ[[effects_power_4]]増加・敵全体の防御[[effects_power_5]%]減少＜[[effects_turn_5]ターン]＞・幸運[[effects_power_6]]減少＜[[effects_turn_6]ターン]＞",
-         "战斗开始时的热情增加[[effects_power]]/物理元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的热情增加[[effects_power_3]]·己方全员的入魂值增加[[effects_power_4]]·敌方全体的防御减少[[effects_power_5]%]＜[[effects_turn_5]回合]＞·幸运减少[[effects_power_6]]＜[[effects_turn_6]回合]＞"
+         "战斗开始时的热情增加[[effects_power]]/物理元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的热情增加[[effects_power_3]]·己方全体的入魂值增加[[effects_power_4]]·敌方全体的防御减少[[effects_power_5]%]＜[[effects_turn_5]回合]＞·幸运减少[[effects_power_6]]＜[[effects_turn_6]回合]＞"
       ]
    },
    {
@@ -7770,7 +7965,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加",
-         "对系统：绘画的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]"
+         "对系统：绘画造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]"
       ]
    },
    {
@@ -7783,7 +7978,46 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技で効果マス付与発動時、自身の敏捷[[effects_power_3]%]増加",
-         "雷元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动效果格设置时，自身的敏捷增加[[effects_power_3]%]"
+         "雷元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动效果格设置时，自身的敏捷增加[[effects_power_3]%]"
+      ]
+   },
+   {
+      "id": 43170101,
+      "rarity": 5,
+      "image_index": 1080000,
+      "ml_name": [
+         "精髄：【流浪の留学生】",
+         ""
+      ],
+      "ml_description": [
+         "系統：彫刻に対してダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加",
+         "对系统：雕刻造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]"
+      ]
+   },
+   {
+      "id": 44170201,
+      "rarity": 5,
+      "image_index": 1320000,
+      "ml_name": [
+         "精髄：【墨に五彩あり】",
+         ""
+      ],
+      "ml_description": [
+         "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加",
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]"
+      ]
+   },
+   {
+      "id": 45170301,
+      "rarity": 5,
+      "image_index": 1300000,
+      "ml_name": [
+         "精髄：【幽玄に至る境地】",
+         ""
+      ],
+      "ml_description": [
+         "物理エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/領域展開時自身の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
+         "物理元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/领域展开时自身敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7796,7 +8030,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技でバフ付与時、味方全員の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "火元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予增益时，己方全员的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "火元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予增益时，己方全体的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7809,7 +8043,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加/技法または絶技でボス特攻発生時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "雷元素的攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技触发首领特攻时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "雷元素攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技发动首领特攻时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7822,7 +8056,7 @@
       ],
       "ml_description": [
          "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身の必殺[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
-         "服装属性为紫色时，对白色属性目标的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予增益时，自身的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
+         "服装属性为紫色时，对白色属性目标造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予增益时，自身的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7848,7 +8082,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法または絶技でシールド付与時、自身の精神・防御[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "物理元素的攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法或绝技赋予护盾时，自身的精神·防御增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "物理元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法或绝技赋予护盾时，自身的精神·防御增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7861,7 +8095,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇/器用[[effects_power_2]%]増加/技法または絶技でシールド付与時、自身に<help=regeneration>再生</help>付与",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]/器用增加[[effects_power_2]%]/技法或绝技赋予护盾时，赋予自身<help=regeneration>再生</help>"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]/器用增加[[effects_power_2]%]/技法或绝技赋予护盾时，赋予自身<help=regeneration>再生</help>"
       ]
    },
    {
@@ -7874,7 +8108,7 @@
       ],
       "ml_description": [
          "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法でオブジェクト召喚時、味方全員の体力[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞・防御[[effects_power_4]%]増加（重複可）＜[[effects_turn_4]ターン]＞",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法召唤放置物时，己方全员的体力增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞·防御增加[[effects_power_4]%]（可叠加）＜[[effects_turn_4]回合]＞"
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法召唤放置物时，己方全体的体力增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞·防御增加[[effects_power_4]%]（可叠加）＜[[effects_turn_4]回合]＞"
       ]
    },
    {
@@ -7887,7 +8121,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加/技法または絶技で系統特攻発生時、自身の攻撃・敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・睡眠抵抗[[effects_power_4]]増加＜[[effects_turn_4]ターン]＞",
-         "对系统：工艺的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技触发系统特攻时，自身的攻击·敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·睡眠抵抗增加[[effects_power_4]]＜[[effects_turn_4]回合]＞"
+         "对系统：工艺造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动系统特攻时，自身的攻击·敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·睡眠抵抗增加[[effects_power_4]]＜[[effects_turn_4]回合]＞"
       ]
    },
    {
@@ -7900,7 +8134,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/風エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・体力の低い味方1人を[[effects_power_5]]回復",
-         "战斗开始时的热情增加[[effects_power]]/风元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·恢复体力最低的一名己方[[effects_power_5]]"
+         "战斗开始时的热情增加[[effects_power]]/风元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·体力最低的一名己方回复[[effects_power_5]]体力"
       ]
    },
    {
@@ -7913,7 +8147,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身と近くの味方2人に敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "物理元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予增益时，赋予自身和附近的2名己方敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "物理元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予增益时，赋予自身和附近的2名己方敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7926,7 +8160,7 @@
       ],
       "ml_description": [
          "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇/敏捷[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身の必殺[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
-         "服装属性为紫色时，对白色属性目标的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予增益时，自身的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
+         "服装属性为紫色时，对白色属性目标造成的伤害提升[[effects_power]%]/敏捷增加[[effects_power_2]%]/技法或绝技赋予增益时，自身的必杀增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7952,7 +8186,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身の幸運[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
-         "物理元素的攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技赋予增益时，自身的幸运增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
+         "物理元素攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技赋予增益时，自身的幸运增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -7965,7 +8199,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇/攻撃[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身に防御[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・奮起付与",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予增益时，赋予自身防御增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·赋予奋起"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技赋予增益时，赋予自身防御增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·赋予奋起"
       ]
    },
    {
@@ -7991,7 +8225,7 @@
       ],
       "ml_description": [
          "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で弾き飛ばし発生時、自身の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发生弹飞时，自身的敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技发动弹飞时，自身的敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -8004,7 +8238,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技で移動攻撃発生時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・入魂ゲージ[[effects_power_4]]増加",
-         "雷元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发生移动攻击时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞・入魂值增加[[effects_power_4]]"
+         "雷元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动移动攻击时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞・入魂值增加[[effects_power_4]]"
       ]
    },
    {
@@ -8017,7 +8251,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/炎エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の体力[[effects_power_3]]増加・精神[[effects_power_4]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_5]]増加・入魂ゲージ[[effects_power_6]]増加・幻影付与",
-         "战斗开始时的热情增加[[effects_power]]/火元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身体力增加[[effects_power_3]]・精神增加[[effects_power_4]%]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_5]]・入魂值增加[[effects_power_6]]・赋予幻影"
+         "战斗开始时的热情增加[[effects_power]]/火元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身体力增加[[effects_power_3]]・精神增加[[effects_power_4]%]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_5]]・入魂值增加[[effects_power_6]]・赋予幻影"
       ]
    },
    {
@@ -8134,7 +8368,7 @@
       ],
       "ml_description": [
          "系統：工芸に対してダメージ[[effects_power]%]上昇",
-         "对系统：工艺的伤害提升[[effects_power]%]"
+         "对系统：工艺造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8147,7 +8381,7 @@
       ],
       "ml_description": [
          "系統：絵画に対してダメージ[[effects_power]%]上昇",
-         "对系统：绘画的伤害提升[[effects_power]%]"
+         "对系统：绘画造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8160,7 +8394,7 @@
       ],
       "ml_description": [
          "系統：彫刻に対してダメージ[[effects_power]%]上昇",
-         "对系统：雕刻的伤害提升[[effects_power]%]"
+         "对系统：雕刻造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8173,7 +8407,7 @@
       ],
       "ml_description": [
          "系統：芸道に対してダメージ[[effects_power]%]上昇",
-         "对系统：艺道的伤害提升[[effects_power]%]"
+         "对系统：艺道造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8186,7 +8420,7 @@
       ],
       "ml_description": [
          "系統：贋作に対してダメージ[[effects_power]%]上昇",
-         "对系统：赝作的伤害提升[[effects_power]%]"
+         "对系统：赝作造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8199,7 +8433,7 @@
       ],
       "ml_description": [
          "スタイルがカーマイン（赤）時、ビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为红色时，对绿色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为红色时，对绿色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8212,7 +8446,7 @@
       ],
       "ml_description": [
          "スタイルがセルリアン（青）時、カーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为蓝色时，对红色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为蓝色时，对红色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8225,7 +8459,7 @@
       ],
       "ml_description": [
          "スタイルがビリジアン（緑）時、セルリアン（青）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为绿色时，对蓝色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为绿色时，对蓝色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8238,7 +8472,7 @@
       ],
       "ml_description": [
          "スタイルがアイボリー（白）時、バイオレット（紫）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为白色时，对紫色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为白色时，对紫色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8251,7 +8485,7 @@
       ],
       "ml_description": [
          "スタイルがバイオレット（紫）時、アイボリー（白）に対してのダメージ[[effects_power]%]上昇",
-         "服装属性为紫色时，对白色属性目标的伤害提升[[effects_power]%]"
+         "服装属性为紫色时，对白色属性目标造成的伤害提升[[effects_power]%]"
       ]
    },
    {
@@ -8264,7 +8498,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化",
-         "物理元素的攻击强化[[effects_power]%]"
+         "物理元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -8277,7 +8511,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化",
-         "火元素的攻击强化[[effects_power]%]"
+         "火元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -8290,7 +8524,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化",
-         "水元素的攻击强化[[effects_power]%]"
+         "水元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -8303,7 +8537,7 @@
       ],
       "ml_description": [
          "風エレメントの攻撃を[[effects_power]%]強化",
-         "风元素的攻击强化[[effects_power]%]"
+         "风元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -8316,7 +8550,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化",
-         "雷元素的攻击强化[[effects_power]%]"
+         "雷元素攻击强化[[effects_power]%]"
       ]
    },
    {
@@ -8459,7 +8693,7 @@
       ],
       "ml_description": [
          "バトル開始時、味方全員の最大体力[[effects_power_1]%]増加＜[[effects_turn_1]ターン]＞・体力[[effects_power_2]%]回復・[[effects_rate_3]%]の確率で味方全員に幻影付与",
-         "战斗开始时，己方全员的最大体力增加[[effects_power_1]%]＜[[effects_turn_1]回合]＞·恢复体力[[effects_power_2]%]·以[[effects_rate_3]%]的概率赋予己方全员幻影"
+         "战斗开始时，己方全体的最大体力增加[[effects_power_1]%]＜[[effects_turn_1]回合]＞·回复[[effects_power_2]%]体力·以[[effects_rate_3]%]的概率赋予己方全体幻影"
       ]
    },
    {
@@ -8472,7 +8706,7 @@
       ],
       "ml_description": [
          "自身がデバフを受けた時、攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
-         "自身受到减益时，攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
+         "自身受到减益效果时，攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
       ]
    },
    {
@@ -8485,7 +8719,7 @@
       ],
       "ml_description": [
          "自身が技法効果で味方の体力消費時、自身と対象の攻撃[[effects_power]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
-         "自身因技法效果消耗己方体力时，使自身和目标的攻击增加[[effects_power]%]（可叠加）＜[[effects_turn_1]回合]＞"
+         "自身因技法效果消耗己方体力时，使自身和被消耗体力对象的攻击增加[[effects_power]%]（可叠加）＜[[effects_turn_1]回合]＞"
       ]
    }
 ]

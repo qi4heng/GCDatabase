@@ -3114,6 +3114,132 @@
         "login_date": "0000-00-00"
     },
     {
+        "id": 205601,
+        "login_bonus_id": 2056,
+        "item_group_id": 205601,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 1,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205602,
+        "login_bonus_id": 2056,
+        "item_group_id": 205602,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 2,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205603,
+        "login_bonus_id": 2056,
+        "item_group_id": 205603,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 3,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205604,
+        "login_bonus_id": 2056,
+        "item_group_id": 205604,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 4,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205605,
+        "login_bonus_id": 2056,
+        "item_group_id": 205605,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 5,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205606,
+        "login_bonus_id": 2056,
+        "item_group_id": 205606,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 6,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205607,
+        "login_bonus_id": 2056,
+        "item_group_id": 205607,
+        "image_icon_asset": "",
+        "important_reward_flag": 1,
+        "login_count": 7,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205701,
+        "login_bonus_id": 2057,
+        "item_group_id": 205701,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 1,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205702,
+        "login_bonus_id": 2057,
+        "item_group_id": 205702,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 2,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205703,
+        "login_bonus_id": 2057,
+        "item_group_id": 205703,
+        "image_icon_asset": "",
+        "important_reward_flag": 1,
+        "login_count": 3,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205704,
+        "login_bonus_id": 2057,
+        "item_group_id": 205704,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 4,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205705,
+        "login_bonus_id": 2057,
+        "item_group_id": 205705,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 5,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205706,
+        "login_bonus_id": 2057,
+        "item_group_id": 205706,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 6,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 205707,
+        "login_bonus_id": 2057,
+        "item_group_id": 205707,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 7,
+        "login_date": "0000-00-00"
+    },
+    {
         "id": 1310101,
         "login_bonus_id": 13101,
         "item_group_id": 1310101,
@@ -9996,6 +10122,69 @@
         "image_icon_asset": "",
         "important_reward_flag": 0,
         "login_count": 5,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 1333001,
+        "login_bonus_id": 13330,
+        "item_group_id": 1333001,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 1,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 1333002,
+        "login_bonus_id": 13330,
+        "item_group_id": 1333002,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 2,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 1333003,
+        "login_bonus_id": 13330,
+        "item_group_id": 1333003,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 3,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 1333004,
+        "login_bonus_id": 13330,
+        "item_group_id": 1333004,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 4,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 1333005,
+        "login_bonus_id": 13330,
+        "item_group_id": 1333005,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 5,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 1333006,
+        "login_bonus_id": 13330,
+        "item_group_id": 1333006,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 6,
+        "login_date": "0000-00-00"
+    },
+    {
+        "id": 1333007,
+        "login_bonus_id": 13330,
+        "item_group_id": 1333007,
+        "image_icon_asset": "",
+        "important_reward_flag": 0,
+        "login_count": 7,
         "login_date": "0000-00-00"
     }
 ]

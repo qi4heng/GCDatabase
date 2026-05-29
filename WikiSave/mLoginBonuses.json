@@ -780,6 +780,36 @@
         "duration": 0
     },
     {
+        "id": 2056,
+        "ml_name": [
+            "『チームくまさんタイトル 合同CP』開催記念！ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 510,
+        "start_time": "2026-06-01 16:00:00",
+        "end_time": "2026-06-30 23:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2057,
+        "ml_name": [
+            "ドットアビスリリース記念！ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 515,
+        "start_time": "2026-06-11 17:00:00",
+        "end_time": "2026-06-30 23:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2651,6 +2681,21 @@
         "priority": 201,
         "start_time": "2026-05-21 13:00:00",
         "end_time": "2026-05-29 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13330,
+        "ml_name": [
+            "天才留学生、アテネスに現る！ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-05-29 13:30:00",
+        "end_time": "2026-06-12 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

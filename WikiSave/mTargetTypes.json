@@ -2079,6 +2079,61 @@
         "description": "範囲内のバイオレットの味方全員"
     },
     {
+        "id": 2201,
+        "type_bits": 1,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 1,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "カーマインの発動者自身のみ"
+    },
+    {
+        "id": 2202,
+        "type_bits": 1,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 2,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "セルリアンの発動者自身のみ"
+    },
+    {
+        "id": 2203,
+        "type_bits": 1,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 3,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "ビリジアンの発動者自身のみ"
+    },
+    {
+        "id": 2204,
+        "type_bits": 1,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 4,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "アイボリーの発動者自身のみ"
+    },
+    {
+        "id": 2205,
+        "type_bits": 1,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 5,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "バイオレットの発動者自身のみ"
+    },
+    {
         "id": 2211,
         "type_bits": 3,
         "sort_type": 4,

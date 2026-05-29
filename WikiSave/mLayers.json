@@ -2490,6 +2490,59 @@
       ]
    },
    {
+      "id": 4010412,
+      "unit_id": 4,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 5,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2702,
+      "atk": 83,
+      "mnd": 85,
+      "def": 48,
+      "dex": 76,
+      "spd": 52,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130006,
+      "skill_id1": 20412001,
+      "skill_id2": 20412002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10412001,
+      "ultimate_skill_id": 30412001,
+      "duplicated_item_id": 1120412,
+      "duplicated_item_count": 1,
+      "sort_order": 412,
+      "image_index": 4010412,
+      "ai_group_id": 0,
+      "sound_index": 4010412,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|3|0|2",
+      "start_time": "2026-05-29 13:30:00",
+      "ml_name": [
+         "雨降らしの案内人",
+         "唤雨向导"
+      ],
+      "ml_flavor_text": [
+         "妖怪・雨降り小僧を意識したスタイル。\n人間と妖怪の共存を目指しガイドに励む。",
+         "以妖怪“雨降小僧”为灵感设计的造型。致力于实现人与妖怪的共存，努力担任向导一职。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "秘密の妖怪スポットを\nわたしが案内してあげよう！",
+         "让我来为你介绍一下秘密的妖怪出没点吧！"
+      ],
+      "ml_get_message": [
+         "空前の妖怪ブームが到来！　この流れに乗らない手はないね！\nわたしがガイドとなり、妖怪の魅力を完璧に伝えてみせるよ！",
+         "前所未有的妖怪热潮已经到来！可没理由不赶上这股潮流呢！我将作为向导，完美地为你呈现妖怪的魅力！"
+      ]
+   },
+   {
       "id": 4010501,
       "unit_id": 5,
       "rarity": 3,
@@ -3017,6 +3070,59 @@
       "ml_get_message": [
          "この制服もなかなか悪くないな。気が引き締まる。\nもっとも、ミケはあいつほど生真面目じゃないが……。",
          "这套制服也相当不赖啊。让人精神抖擞。\n不过，米开可没有那家伙那么死板就是了...。"
+      ]
+   },
+   {
+      "id": 4010511,
+      "unit_id": 5,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 2,
+      "color_type": 3,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3619,
+      "atk": 85,
+      "mnd": 32,
+      "def": 67,
+      "dex": 49,
+      "spd": 45,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130002,
+      "skill_id1": 20511001,
+      "skill_id2": 20511002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10511001,
+      "ultimate_skill_id": 30511001,
+      "duplicated_item_id": 1120511,
+      "duplicated_item_count": 1,
+      "sort_order": 511,
+      "image_index": 4010511,
+      "ai_group_id": 0,
+      "sound_index": 4010511,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|2|0|0",
+      "start_time": "2026-05-29 13:30:00",
+      "ml_name": [
+         "ミケさんぽ",
+         "米开散步"
+      ],
+      "ml_flavor_text": [
+         "フィオレンツァが用意した私服。\nバッグには隠し武器が入っている。",
+         "菲奥伦萨搭配的私服。\n包里藏有武器"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "街は生きていて変化し続ける\nだからこそ……面白い",
+         "城市是活的，在不断变化。正因为如此...才有趣。"
+      ],
+      "ml_get_message": [
+         "人々の営みが色彩を作り出す……街は広大なキャンバスだな。\n彫刻のような静謐な美しさとは違うが、これもまた悪くない。",
+         "人们的日常创造出色彩...街道就是一块广阔的画布啊。虽然不同于雕塑那般静谧之美，但这样也不赖。"
       ]
    },
    {
@@ -6509,7 +6615,7 @@
       ],
       "ml_rare_get_message": [
          "赤か黒か……さぁ、館長さん\nどっちにベットする？",
-         "红色还是黑色...来吧，馆长先生，你要下注哪一边？"
+         "红色还是黑色...来吧，馆长，你要下注哪一边？"
       ],
       "ml_get_message": [
          "ふふ、今回はこんな格好。ディーラーなんて自分でも驚きだけど、\nなにごとも経験よね、楽しまなくちゃ。館長さんも遊んで行って？",
@@ -6615,7 +6721,7 @@
       ],
       "ml_rare_get_message": [
          "ねえ、館長さん\nわたしと……踊ってくれる？",
-         "呐，馆长先生，能和我...跳支舞吗？"
+         "呐，馆长，能和我...跳支舞吗？"
       ],
       "ml_get_message": [
          "月日が過ぎるのってあっという間よね。節目のドレス……\nあなたに似合うって言ってもらえたら、嬉しいわ。",
@@ -8897,7 +9003,166 @@
       ],
       "ml_get_message": [
          "えと、普段はアトリエに閉じこもっていることが多いので、たまには\nお出かけしなくちゃと思っていて……館長さん、付き合ってくれますか？",
-         "那个...平时我总是闷在画室里，想着偶尔也该出去走走...馆长先生，可以陪我一起吗？"
+         "那个...平时我总是闷在画室里，想着偶尔也该出去走走...馆长，可以陪我一起吗？"
+      ]
+   },
+   {
+      "id": 4011701,
+      "unit_id": 17,
+      "rarity": 3,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 1,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 1304,
+      "atk": 34,
+      "mnd": 20,
+      "def": 25,
+      "dex": 21,
+      "spd": 30,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 13130001,
+      "skill_id1": 21701001,
+      "skill_id2": 0,
+      "limit_passive_skill_id": 0,
+      "attack_skill_id": 11701001,
+      "ultimate_skill_id": 31701001,
+      "duplicated_item_id": 1121701,
+      "duplicated_item_count": 1,
+      "sort_order": 1701,
+      "image_index": 4011701,
+      "ai_group_id": 0,
+      "sound_index": 4011701,
+      "country_type": 0,
+      "strong_skill_setting": "1|0|0|0|0",
+      "start_time": "2026-05-29 13:30:00",
+      "ml_name": [
+         "流浪の留学生",
+         "流浪的留学生"
+      ],
+      "ml_flavor_text": [
+         "若き天才が絵に向き合うための普段着。\nまだ見ぬ風景を求めて彼女は筆を持つ。",
+         "年轻天才面对绘画时的日常着装。为了追寻未曾见过的风景，她执起画笔。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "あちこち留学してきたけど\nこの街はすごく面白そう！",
+         "虽然已经去过很多地方游学，但这座城市看起来超有趣！"
+      ],
+      "ml_get_message": [
+         "うちはセッシュウ！　水墨画家なんよ。\nアテネスのこと色々教えてね、館長さん！",
+         "我是雪舟！是水墨画家。\n关于雅典的事，要多教教我哦，馆长！"
+      ]
+   },
+   {
+      "id": 4011702,
+      "unit_id": 17,
+      "rarity": 4,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2158,
+      "atk": 57,
+      "mnd": 39,
+      "def": 36,
+      "dex": 23,
+      "spd": 79,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 14130001,
+      "skill_id1": 21702001,
+      "skill_id2": 21702002,
+      "limit_passive_skill_id": 0,
+      "attack_skill_id": 11702001,
+      "ultimate_skill_id": 31702001,
+      "duplicated_item_id": 1121702,
+      "duplicated_item_count": 1,
+      "sort_order": 1702,
+      "image_index": 4011702,
+      "ai_group_id": 0,
+      "sound_index": 4011702,
+      "country_type": 0,
+      "strong_skill_setting": "1|0|0|0|2",
+      "start_time": "2026-06-02 13:00:00",
+      "ml_name": [
+         "墨に五彩あり",
+         "墨有五彩"
+      ],
+      "ml_flavor_text": [
+         "街の平和を守る藝術家としての通常衣装。\n墨の濃淡を駆使し独自の世界へ引き込む。",
+         "作为保护城市和平的艺术家的通常衣装。\n灵活运用墨色的浓淡，将人引入独特的世界。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "うちのお仕事は\n大事な人たちを守ること！",
+         "我的工作是\n保护重要的人们！"
+      ],
+      "ml_get_message": [
+         "セッシュウだよ。もう覚えてくれた？\n美術館とアテネスのためにいっぱい働くね！",
+         "我是雪舟喔。已经记住我了吗？\n为了美术馆和雅典，我会好好努力的！"
+      ]
+   },
+   {
+      "id": 4011703,
+      "unit_id": 17,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 5,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3160,
+      "atk": 99,
+      "mnd": 60,
+      "def": 59,
+      "dex": 52,
+      "spd": 90,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130001,
+      "skill_id1": 21703001,
+      "skill_id2": 21703002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11703001,
+      "ultimate_skill_id": 31703001,
+      "duplicated_item_id": 1121703,
+      "duplicated_item_count": 1,
+      "sort_order": 1703,
+      "image_index": 4011703,
+      "ai_group_id": 0,
+      "sound_index": 4011703,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|0|0|2",
+      "start_time": "2026-06-02 13:00:00",
+      "ml_name": [
+         "幽玄に至る境地",
+         "达至幽玄之境"
+      ],
+      "ml_flavor_text": [
+         "涙を振り払い前へ突き進む戦闘スタイル。\n錫杖の音を響かせ、己の信じる路へ！",
+         "挥去泪水、勇往直前的战斗风格。让锡杖之声响彻，向着自己所坚信的道路！"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "館長さんと一緒なら\nどこまでも強くなれそう！",
+         "感觉只要和馆长在一起，就能够无限地变强！"
+      ],
+      "ml_get_message": [
+         "これがうちのとっておき！\nふふん、今なら誰にも負ける気がしないんよ！",
+         "这就是我的底牌！哼哼，感觉现在我可不会输给任何人哦！"
       ]
    },
    {

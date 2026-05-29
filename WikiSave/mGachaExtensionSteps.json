@@ -11846,5 +11846,85 @@
         "current_step": 5,
         "next_step": 1,
         "bonus_group_id": 0
+    },
+    {
+        "id": 603601,
+        "gacha_group_id": 6036,
+        "current_gacha_id": 603601,
+        "current_step": 1,
+        "next_step": 2,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 603602,
+        "gacha_group_id": 6036,
+        "current_gacha_id": 603602,
+        "current_step": 2,
+        "next_step": 3,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 603603,
+        "gacha_group_id": 6036,
+        "current_gacha_id": 603603,
+        "current_step": 3,
+        "next_step": 4,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 603604,
+        "gacha_group_id": 6036,
+        "current_gacha_id": 603604,
+        "current_step": 4,
+        "next_step": 5,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 603605,
+        "gacha_group_id": 6036,
+        "current_gacha_id": 603605,
+        "current_step": 5,
+        "next_step": 0,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 658601,
+        "gacha_group_id": 6586,
+        "current_gacha_id": 658601,
+        "current_step": 1,
+        "next_step": 2,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 658602,
+        "gacha_group_id": 6586,
+        "current_gacha_id": 658602,
+        "current_step": 2,
+        "next_step": 3,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 658603,
+        "gacha_group_id": 6586,
+        "current_gacha_id": 658603,
+        "current_step": 3,
+        "next_step": 4,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 658604,
+        "gacha_group_id": 6586,
+        "current_gacha_id": 658604,
+        "current_step": 4,
+        "next_step": 5,
+        "bonus_group_id": 0
+    },
+    {
+        "id": 658605,
+        "gacha_group_id": 6586,
+        "current_gacha_id": 658605,
+        "current_step": 5,
+        "next_step": 1,
+        "bonus_group_id": 0
     }
 ]

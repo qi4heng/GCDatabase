@@ -2040,6 +2040,23 @@
         ]
     },
     {
+        "id": 730,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-05-29 13:30:00",
+        "end_time": "2026-06-12 12:59:59",
+        "ml_name": [
+            "天才留学生、アテネスに現る！",
+            ""
+        ]
+    },
+    {
         "id": 800,
         "chapter_no": 0,
         "quest_type": 4,
@@ -2393,6 +2410,23 @@
         "end_time": "9999-12-31 23:59:59",
         "ml_name": [
             "ダンジョンシーズン22",
+            ""
+        ]
+    },
+    {
+        "id": 823,
+        "chapter_no": 0,
+        "quest_type": 4,
+        "order": 1,
+        "first_reward_reset_type": 3,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-06-01 04:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_name": [
+            "ダンジョンシーズン23",
             ""
         ]
     },
@@ -2954,6 +2988,23 @@
         "end_time": "2026-06-01 03:59:59",
         "ml_name": [
             "リサーチクエスト：インスピレーション05月",
+            ""
+        ]
+    },
+    {
+        "id": 920,
+        "chapter_no": 0,
+        "quest_type": 5,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 920,
+        "start_time": "2026-06-01 04:00:00",
+        "end_time": "2026-07-01 03:59:59",
+        "ml_name": [
+            "リサーチクエスト：インスピレーション06月",
             ""
         ]
     },

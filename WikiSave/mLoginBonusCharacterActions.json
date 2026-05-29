@@ -10168,5 +10168,167 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1333001,
+        "login_bonus_id": 13330,
+        "layer_id": 4011701,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4011700_1160",
+        "ml_word": [
+            "館長さん、なにか届いてるよ？\nよかったらうちが一緒に、\nいい使い方考えようか？",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 1333002,
+        "login_bonus_id": 13330,
+        "layer_id": 4011701,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4011700_1170",
+        "ml_word": [
+            "次の予定はこうなってるよ。\nワクワクするね、館長さん！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-12 03:59:59"
+    },
+    {
+        "id": 1333003,
+        "login_bonus_id": 13330,
+        "layer_id": 4011701,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4011700_1180",
+        "ml_word": [
+            "いつも館長さんをお出迎えできて\n役得だったなぁ。\nまたこの役やりたいんよ～。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 205601,
+        "login_bonus_id": 2056,
+        "layer_id": 0,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4050010_1190",
+        "ml_word": [
+            "本日の物資が届いています。\nさっそく運び込んでおきますね。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 205602,
+        "login_bonus_id": 2056,
+        "layer_id": 0,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "unique_1",
+        "expression": "loop",
+        "sound_asset": "stv_4050010_1200",
+        "ml_word": [
+            "明日はこちらが届くようです。\nぜひ、明日もいらしてください。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-30 03:59:59"
+    },
+    {
+        "id": 205603,
+        "login_bonus_id": 2056,
+        "layer_id": 0,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "unique_1",
+        "expression": "loop",
+        "sound_asset": "stv_4050010_1210",
+        "ml_word": [
+            "予定の物資はこれで全部ですね。\nいつも受け取りに来てくださり、\nありがとうございます！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 205701,
+        "login_bonus_id": 2057,
+        "layer_id": 0,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 1,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4050010_1190",
+        "ml_word": [
+            "本日の物資が届いています。\nさっそく運び込んでおきますね。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
+    },
+    {
+        "id": 205702,
+        "login_bonus_id": 2057,
+        "layer_id": 0,
+        "subunit_id": 0,
+        "login_count": 0,
+        "priority": 0,
+        "step": 3,
+        "motion": "unique_1",
+        "expression": "loop",
+        "sound_asset": "stv_4050010_1200",
+        "ml_word": [
+            "明日はこちらが届くようです。\nぜひ、明日もいらしてください。",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-30 03:59:59"
+    },
+    {
+        "id": 205703,
+        "login_bonus_id": 2057,
+        "layer_id": 0,
+        "subunit_id": 0,
+        "login_count": 7,
+        "priority": 10,
+        "step": 3,
+        "motion": "unique_1",
+        "expression": "loop",
+        "sound_asset": "stv_4050010_1210",
+        "ml_word": [
+            "予定の物資はこれで全部ですね。\nいつも受け取りに来てくださり、\nありがとうございます！",
+            ""
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59"
     }
 ]

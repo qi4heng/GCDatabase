@@ -880,6 +880,61 @@
       ]
    },
    {
+      "id": 17,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4011701,
+      "collabo_type": 0,
+      "hp": 14400,
+      "atk": 360,
+      "mnd": 288,
+      "def": 288,
+      "dex": 216,
+      "luk": 240,
+      "spd": 456,
+      "passion": 100,
+      "sort_order": 17,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 2,
+      "main_art_type": 2,
+      "sub_art_type": 5,
+      "default_max_level": 55,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "セッシュウ",
+         "en",
+         "雪舟"
+      ],
+      "ml_cv_name": [
+         "大橋あおい",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "アテネスに留学してきた若き天才画家。\n東方の国出身で、各地を留学して様々な風景画を描き、\n「風景こそ最大の師」として風景画に傾倒している。\n性格はアクティブで外交的だが、感情コントロールに\n秀でており、利発で賢い幼子という印象を与える。",
+         "en",
+         "来到阿特涅斯留学的年轻天才画家。\n出身东方国度，游学各地，描绘多样的风景画，\n信奉“风景方为最大之师”，醉心于风景画。\n性格积极外向，但善于控制情绪，\n给人以聪慧乖巧的幼童印象。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_セッシュウ",
+         "en"
+      ],
+      "ml_birthday": [
+         "8月8日",
+         "en"
+      ],
+      "ml_height": [
+         "135cm",
+         "en"
+      ],
+      "ml_size": [
+         "B89・W56・H82",
+         "en"
+      ]
+   },
+   {
       "id": 51,
       "level_group_id": 1,
       "love_point_level_group_id": 1,

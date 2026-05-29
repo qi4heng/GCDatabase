@@ -2808,6 +2808,32 @@
         "close_time": "2026-05-15 12:59:59"
     },
     {
+        "id": 3330,
+        "ml_title": [
+            "天才留学生、アテネスに現る！",
+            ""
+        ],
+        "event_type": 3,
+        "m_quest_id": 730,
+        "top_character_id": 4011701,
+        "top_background_image": "3001700",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3330,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3300,
+        "m_event_top_ranking_group_id": 3300,
+        "m_gacha_group_id": 1142,
+        "latter_half_gacha_group_id": 1144,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 128,
+        "banner_image_index": 13330,
+        "start_time": "2026-05-29 13:30:00",
+        "latter_half_start_time": "2026-06-02 13:00:00",
+        "end_time": "2026-06-12 12:59:59",
+        "close_time": "2026-06-14 12:59:59"
+    },
+    {
         "id": 3601,
         "ml_title": [
             "【A.S.】ありえない出会いと最初の試練",

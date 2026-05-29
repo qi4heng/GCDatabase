@@ -2678,5 +2678,35 @@
         "m_quest_stage_ids": "",
         "start_time": "2026-05-21 13:00:00",
         "end_time": "2026-06-05 12:59:59"
+    },
+    {
+        "id": 5125,
+        "campaign_type": 5,
+        "campaign_value": 125,
+        "quest_type": 1,
+        "stage_type": 1,
+        "m_quest_stage_ids": "",
+        "start_time": "2026-06-05 13:00:00",
+        "end_time": "2026-06-22 12:59:59"
+    },
+    {
+        "id": 5126,
+        "campaign_type": 5,
+        "campaign_value": 125,
+        "quest_type": 1,
+        "stage_type": 6,
+        "m_quest_stage_ids": "",
+        "start_time": "2026-06-05 13:00:00",
+        "end_time": "2026-06-22 12:59:59"
+    },
+    {
+        "id": 5127,
+        "campaign_type": 5,
+        "campaign_value": 125,
+        "quest_type": 2,
+        "stage_type": 4,
+        "m_quest_stage_ids": "",
+        "start_time": "2026-06-05 13:00:00",
+        "end_time": "2026-06-22 12:59:59"
     }
 ]

@@ -4789,6 +4789,150 @@
         "end_time": "2026-05-27 12:59:59"
     },
     {
+        "id": 1142,
+        "section_id": 0,
+        "ml_name": [
+            "天才留学生、アテネスに現る！ガチャA",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 683,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010511|4010412",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010511|4010412",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1142",
+        "background_asset_id": 3001700,
+        "m_shop_category_id": "893",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-05-29 13:30:00",
+        "end_time": "2026-06-12 12:59:59"
+    },
+    {
+        "id": 1143,
+        "section_id": 0,
+        "ml_name": [
+            "有償限定 天才留学生、アテネスに現る！ガチャA",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 684,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010511|4010412",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010511|4010412",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1143",
+        "background_asset_id": 3001702,
+        "m_shop_category_id": "893",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-05-29 13:30:00",
+        "end_time": "2026-06-12 12:59:59"
+    },
+    {
+        "id": 1144,
+        "section_id": 0,
+        "ml_name": [
+            "天才留学生、アテネスに現る！ガチャB",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 686,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011703",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4011703|4011702|4011701",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1144",
+        "background_asset_id": 3001700,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-06-02 13:00:00",
+        "end_time": "2026-06-12 12:59:59"
+    },
+    {
+        "id": 1145,
+        "section_id": 0,
+        "ml_name": [
+            "有償限定 天才留学生、アテネスに現る！ガチャB",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 687,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4011703",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4011703|4011702|4011701",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo1145",
+        "background_asset_id": 3001702,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-06-02 13:00:00",
+        "end_time": "2026-06-12 12:59:59"
+    },
+    {
         "id": 2001,
         "section_id": 0,
         "ml_name": [
@@ -15375,6 +15519,43 @@
         "end_time": "2026-05-06 12:59:59"
     },
     {
+        "id": 6036,
+        "section_id": 0,
+        "ml_name": [
+            "カラー属性5ステップガチャ：セルリアン",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 685,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010707|4011507|4011405|4010309",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "gacha_step_up_top6016",
+        "logo_asset": "gacha_logo6016",
+        "background_asset_id": 3203710,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,{rare5}確定",
+            ""
+        ],
+        "start_time": "2026-06-01 13:00:00",
+        "end_time": "2026-06-06 12:59:59"
+    },
+    {
         "id": 6501,
         "section_id": 0,
         "ml_name": [
@@ -18440,6 +18621,152 @@
         ],
         "start_time": "2026-04-26 13:00:00",
         "end_time": "2026-05-02 12:59:59"
+    },
+    {
+        "id": 6585,
+        "section_id": 0,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャ36",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 688,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010609|4011009",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010609|4011009",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo6501",
+        "background_asset_id": 3000300,
+        "m_shop_category_id": "894",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-06-03 13:00:00",
+        "end_time": "2026-06-09 12:59:59"
+    },
+    {
+        "id": 6586,
+        "section_id": 0,
+        "ml_name": [
+            "スタイル復刻5ステップガチャ36",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 3,
+        "priority": 689,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010609|4011009",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010609|4011009",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "5",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo6503",
+        "background_asset_id": 3000302,
+        "m_shop_category_id": "894",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,しおり！",
+            ""
+        ],
+        "start_time": "2026-06-03 13:00:00",
+        "end_time": "2026-06-09 12:59:59"
+    },
+    {
+        "id": 6589,
+        "section_id": 0,
+        "ml_name": [
+            "アナザーサイド復刻ガチャ1",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 690,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010310",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010310",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo6589",
+        "background_asset_id": 3011400,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-06-05 13:00:00",
+        "end_time": "2026-06-11 12:59:59"
+    },
+    {
+        "id": 6590,
+        "section_id": 0,
+        "ml_name": [
+            "有償限定アナザーサイド復刻ガチャ1",
+            ""
+        ],
+        "ml_description": [
+            "藝晶石で引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 691,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010310",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "4010310",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "1",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo6590",
+        "background_asset_id": 3011400,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 1,
+        "ml_stepup_count_text": [
+            "回で,しおり！",
+            ""
+        ],
+        "start_time": "2026-06-05 13:00:00",
+        "end_time": "2026-06-11 12:59:59"
     },
     {
         "id": 7001,
@@ -24856,6 +25183,42 @@
         ],
         "start_time": "2026-05-25 13:00:00",
         "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 8082,
+        "section_id": 0,
+        "ml_name": [
+            "DMMポイント限定★5×3体確定10連ガチャ",
+            ""
+        ],
+        "ml_description": [
+            "DMMポイントで引けるガチャです",
+            ""
+        ],
+        "ml_top_notice": [
+            "※スタイルまたはイマージュが一定の確率で排出されます。スタイルが排出されない場合もございますので、予めご了承ください。",
+            ""
+        ],
+        "type": 1,
+        "priority": 692,
+        "pickup_factor_id_list": "0",
+        "display_layer_id_list": "4010811|4010712",
+        "display_subunit_id_list": "0",
+        "pickup_layer_id_list": "0",
+        "pickup_subunit_id_list": "0",
+        "top_template_type": "2",
+        "top_slide_asset": "",
+        "detail_slide_asset": "",
+        "section_appeal_asset": "",
+        "logo_asset": "gacha_logo8072",
+        "background_asset_id": 3000300,
+        "m_shop_category_id": "0",
+        "stepup_information_count": 0,
+        "ml_stepup_count_text": [
+            ""
+        ],
+        "start_time": "2026-06-11 12:00:00",
+        "end_time": "2026-07-13 17:59:59"
     },
     {
         "id": 9001,

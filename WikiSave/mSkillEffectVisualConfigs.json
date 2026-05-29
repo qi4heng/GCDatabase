@@ -2298,7 +2298,7 @@
         "image_index": 1010,
         "invoke_effect_id": 22000,
         "invoke_unit_color": "",
-        "view_unit_type": 1
+        "view_unit_type": 2
     },
     {
         "id": 178,
@@ -2311,7 +2311,7 @@
         "image_index": 1010,
         "invoke_effect_id": 22000,
         "invoke_unit_color": "",
-        "view_unit_type": 1
+        "view_unit_type": 2
     },
     {
         "id": 179,
@@ -2530,6 +2530,110 @@
             ""
         ],
         "image_index": 3018,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 196,
+        "effect_type": 13,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中アップ",
+            ""
+        ],
+        "image_index": 1012,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 197,
+        "effect_type": 14,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中アップ",
+            ""
+        ],
+        "image_index": 1012,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 198,
+        "effect_type": 48,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中アップ",
+            ""
+        ],
+        "image_index": 1012,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 199,
+        "effect_type": 49,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中アップ",
+            ""
+        ],
+        "image_index": 1012,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 200,
+        "effect_type": 51,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中アップ",
+            ""
+        ],
+        "image_index": 1012,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 2
+    },
+    {
+        "id": 201,
+        "effect_type": 52,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中アップ",
+            ""
+        ],
+        "image_index": 1012,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 2
+    },
+    {
+        "id": 202,
+        "effect_type": 73,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中アップ（解除不可）",
+            ""
+        ],
+        "image_index": 1012,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 203,
+        "effect_type": 79,
+        "effect_attributes": 0,
+        "ml_name": [
+            "領域",
+            ""
+        ],
+        "image_index": 7901,
         "invoke_effect_id": 22000,
         "invoke_unit_color": "",
         "view_unit_type": 1

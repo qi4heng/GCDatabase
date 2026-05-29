@@ -1233,6 +1233,33 @@
         "open_layer_novel_id": 0
     },
     {
+        "id": 40104121,
+        "layer_id": 4010412,
+        "novel_id": 40104121,
+        "item_type": 115,
+        "item_id": 1150005,
+        "item_count": 22,
+        "open_layer_novel_id": 40104122
+    },
+    {
+        "id": 40104122,
+        "layer_id": 4010412,
+        "novel_id": 40104122,
+        "item_type": 115,
+        "item_id": 1150006,
+        "item_count": 20,
+        "open_layer_novel_id": 40104123
+    },
+    {
+        "id": 40104123,
+        "layer_id": 4010412,
+        "novel_id": 40104123,
+        "item_type": 0,
+        "item_id": 0,
+        "item_count": 0,
+        "open_layer_novel_id": 0
+    },
+    {
         "id": 40105011,
         "layer_id": 4010501,
         "novel_id": 40105011,
@@ -1488,6 +1515,33 @@
         "id": 40105103,
         "layer_id": 4010510,
         "novel_id": 40105103,
+        "item_type": 0,
+        "item_id": 0,
+        "item_count": 0,
+        "open_layer_novel_id": 0
+    },
+    {
+        "id": 40105111,
+        "layer_id": 4010511,
+        "novel_id": 40105111,
+        "item_type": 115,
+        "item_id": 1150017,
+        "item_count": 22,
+        "open_layer_novel_id": 40105112
+    },
+    {
+        "id": 40105112,
+        "layer_id": 4010511,
+        "novel_id": 40105112,
+        "item_type": 115,
+        "item_id": 1150018,
+        "item_count": 20,
+        "open_layer_novel_id": 40105113
+    },
+    {
+        "id": 40105113,
+        "layer_id": 4010511,
+        "novel_id": 40105113,
         "item_type": 0,
         "item_id": 0,
         "item_count": 0,
@@ -4386,6 +4440,78 @@
         "id": 40116043,
         "layer_id": 4011604,
         "novel_id": 40116043,
+        "item_type": 0,
+        "item_id": 0,
+        "item_count": 0,
+        "open_layer_novel_id": 0
+    },
+    {
+        "id": 40117011,
+        "layer_id": 4011701,
+        "novel_id": 40117011,
+        "item_type": 115,
+        "item_id": 1150004,
+        "item_count": 6,
+        "open_layer_novel_id": 40117012
+    },
+    {
+        "id": 40117012,
+        "layer_id": 4011701,
+        "novel_id": 40117012,
+        "item_type": 115,
+        "item_id": 1150005,
+        "item_count": 8,
+        "open_layer_novel_id": 0
+    },
+    {
+        "id": 40117021,
+        "layer_id": 4011702,
+        "novel_id": 40117021,
+        "item_type": 115,
+        "item_id": 1150004,
+        "item_count": 16,
+        "open_layer_novel_id": 40117022
+    },
+    {
+        "id": 40117022,
+        "layer_id": 4011702,
+        "novel_id": 40117022,
+        "item_type": 115,
+        "item_id": 1150005,
+        "item_count": 22,
+        "open_layer_novel_id": 40117023
+    },
+    {
+        "id": 40117023,
+        "layer_id": 4011702,
+        "novel_id": 40117023,
+        "item_type": 0,
+        "item_id": 0,
+        "item_count": 0,
+        "open_layer_novel_id": 0
+    },
+    {
+        "id": 40117031,
+        "layer_id": 4011703,
+        "novel_id": 40117031,
+        "item_type": 115,
+        "item_id": 1150005,
+        "item_count": 22,
+        "open_layer_novel_id": 40117032
+    },
+    {
+        "id": 40117032,
+        "layer_id": 4011703,
+        "novel_id": 40117032,
+        "item_type": 115,
+        "item_id": 1150006,
+        "item_count": 20,
+        "open_layer_novel_id": 40117033
+    },
+    {
+        "id": 40117033,
+        "layer_id": 4011703,
+        "novel_id": 40117033,
         "item_type": 0,
         "item_id": 0,
         "item_count": 0,
