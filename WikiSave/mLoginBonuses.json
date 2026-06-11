@@ -2698,5 +2698,50 @@
         "end_time": "2026-06-12 12:59:59",
         "comeback_span": 0,
         "duration": 0
+    },
+    {
+        "id": 13236,
+        "ml_name": [
+            "大接近パジャマパーティーログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13608,
+        "ml_name": [
+            "過去に封じた、願いと美少女ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2026-06-26 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 15013,
+        "ml_name": [
+            "祓う光、蝕む力、来る嵐ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "2026-06-30 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
     }
 ]

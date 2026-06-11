@@ -8021,6 +8021,19 @@
       ]
    },
    {
+      "id": 45121101,
+      "rarity": 5,
+      "image_index": 1150001,
+      "ml_name": [
+         "精髄：【願望のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "バトル開始時の熱情[[effects_power]]増加/水エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の最大体力[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・入魂ゲージ[[effects_power_5]]増加・拒絶付与",
+         "战斗开始时的热情增加[[effects_power]]/水元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的最大体力增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_4]]・入魂值增加[[effects_power_5]]・赋予自身拒绝"
+      ]
+   },
+   {
       "id": 45050401,
       "rarity": 5,
       "image_index": 1300001,
@@ -8707,6 +8720,19 @@
       "ml_description": [
          "自身がデバフを受けた時、攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
          "自身受到减益效果时，攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
+      ]
+   },
+   {
+      "id": 80011211,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "至粋：【願望のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "自身がバフを受けた時、攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
+         "自身受到增益效果时，攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
       ]
    },
    {

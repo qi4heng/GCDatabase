@@ -288,18 +288,19 @@
     {
         "id": 18,
         "ml_name": [
-            "空室",
-            "空室"
+            "ブグローが探究する究極の美",
+            "布格罗所探究的究极之美"
         ],
-        "open_effect_name": "MuseumEffectBlockOpen01",
+        "open_effect_name": "MuseumEffectBlockOpen14",
         "open_quest_stage_id": 0,
-        "open_artpiece1": 0,
+        "open_artpiece1": 2000081,
         "open_artpiece2": 0,
         "ml_open_message": [
+            "『クピド』獲得で開放",
             ""
         ],
         "end_time": "9999-12-31 23:59:59",
-        "start_time": "2101-01-01 00:00:00"
+        "start_time": "2026-06-11 13:30:00"
     },
     {
         "id": 19,

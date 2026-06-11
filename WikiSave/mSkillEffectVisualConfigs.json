@@ -2637,5 +2637,18 @@
         "invoke_effect_id": 22000,
         "invoke_unit_color": "",
         "view_unit_type": 1
+    },
+    {
+        "id": 204,
+        "effect_type": 80,
+        "effect_attributes": 0,
+        "ml_name": [
+            "バフ吸収",
+            ""
+        ],
+        "image_index": 0,
+        "invoke_effect_id": 0,
+        "invoke_unit_color": "",
+        "view_unit_type": 0
     }
 ]

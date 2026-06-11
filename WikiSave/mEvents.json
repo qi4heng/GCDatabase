@@ -2054,6 +2054,32 @@
         "close_time": "2026-05-26 12:59:59"
     },
     {
+        "id": 3236,
+        "ml_title": [
+            "大接近パジャマパーティー",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 436,
+        "top_character_id": 4011013,
+        "top_background_image": "3000802",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3236,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1146,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6011,
+        "latter_half_shop_category_id": 0,
+        "priority": 129,
+        "banner_image_index": 13236,
+        "start_time": "2026-06-11 13:30:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-06-23 12:59:59",
+        "close_time": "2026-06-25 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",
@@ -3016,6 +3042,32 @@
         "close_time": "2026-05-29 12:59:59"
     },
     {
+        "id": 3608,
+        "ml_title": [
+            "【A.S.】過去に封じた、願いと美少女",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1107,
+        "top_character_id": 4011211,
+        "top_background_image": "3000600",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3608,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1148,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 130,
+        "banner_image_index": 13608,
+        "start_time": "2026-06-18 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-06-26 12:59:59",
+        "close_time": "2026-06-28 12:59:59"
+    },
+    {
         "id": 5001,
         "ml_title": [
             "【A.D.F.】悲劇の幕開けを防ぐため",
@@ -3326,5 +3378,31 @@
         "latter_half_start_time": "",
         "end_time": "2026-05-29 12:59:59",
         "close_time": "2026-05-31 12:59:59"
+    },
+    {
+        "id": 5013,
+        "ml_title": [
+            "【A.D.F.】祓う光、蝕む力、来る嵐",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 613,
+        "top_character_id": 4020091,
+        "top_background_image": "3011000",
+        "m_event_bgm_setting_id": 6,
+        "m_event_bonus_group_id": 5013,
+        "m_event_point_group_id": 5013,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3106,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6012,
+        "latter_half_shop_category_id": 0,
+        "priority": 131,
+        "banner_image_index": 15013,
+        "start_time": "2026-06-22 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-06-30 12:59:59",
+        "close_time": "2026-07-02 12:59:59"
     }
 ]

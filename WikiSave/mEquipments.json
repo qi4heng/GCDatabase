@@ -2640,6 +2640,28 @@
       "source": "常驻商店兑换"
    },
    {
+      "id": 4111211,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 204,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 12,
+      "lock_type": 2,
+      "reduce_element_type": 3,
+      "image_index": 4111211,
+      "country_type": 0,
+      "ml_name": [
+         "願望の結晶長槍",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるブグローの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
+   },
+   {
       "id": 4111301,
       "enhance_group_id": 44,
       "disassemble_group_id": 144,

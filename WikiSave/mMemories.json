@@ -2083,5 +2083,50 @@
         "sub_effect_id1": 63130002,
         "sell_price": 10656,
         "start_time": "2026-06-05 13:00:00"
+    },
+    {
+        "id": 4120141,
+        "ml_name": [
+            "パジャマで恋バナ",
+            "en"
+        ],
+        "index": "140",
+        "rarity": 4,
+        "image_index": 4120159,
+        "main_effect_id1": 54130005,
+        "main_effect_id2": 54130705,
+        "sub_effect_id1": 63130003,
+        "sell_price": 3552,
+        "start_time": "2026-06-11 13:00:00"
+    },
+    {
+        "id": 4120142,
+        "ml_name": [
+            "月乙女の水浴",
+            "en"
+        ],
+        "index": "141",
+        "rarity": 4,
+        "image_index": 4120160,
+        "main_effect_id1": 54130005,
+        "main_effect_id2": 54131706,
+        "sub_effect_id1": 63130004,
+        "sell_price": 3552,
+        "start_time": "2026-06-22 13:00:00"
+    },
+    {
+        "id": 4120143,
+        "ml_name": [
+            "現実と虚像のあわせ鏡",
+            "en"
+        ],
+        "index": "142",
+        "rarity": 5,
+        "image_index": 4120056,
+        "main_effect_id1": 55130002,
+        "main_effect_id2": 55300002,
+        "sub_effect_id1": 63130018,
+        "sell_price": 10656,
+        "start_time": "2026-06-26 13:00:00"
     }
 ]

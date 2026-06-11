@@ -400,6 +400,31 @@
         "is_visible": false
     },
     {
+        "id": 1010017,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※7/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2026-07-07 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1015001,
         "item_type": 101,
         "value1": 120,
@@ -697,6 +722,31 @@
         ],
         "start_time": "2026-05-21 13:00:00",
         "end_time": "2026-05-29 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1015013,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※6/30まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "2026-06-30 23:59:59",
         "is_visible": false
     },
     {
@@ -1100,6 +1150,31 @@
         "is_visible": false
     },
     {
+        "id": 1020017,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※7/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2026-07-07 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1025001,
         "item_type": 102,
         "value1": 12,
@@ -1397,6 +1472,31 @@
         ],
         "start_time": "2026-05-21 13:00:00",
         "end_time": "2026-05-29 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1025013,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※6/30まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "2026-06-30 23:59:59",
         "is_visible": false
     },
     {
@@ -5200,6 +5300,31 @@
         "is_visible": false
     },
     {
+        "id": 1120713,
+        "item_type": 112,
+        "value1": 4010713,
+        "value2": 0,
+        "sort": 88,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120713,
+        "ml_name": [
+            "【市議の休息時間】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アングルの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120801,
         "item_type": 112,
         "value1": 4010801,
@@ -6075,6 +6200,31 @@
         "is_visible": false
     },
     {
+        "id": 1121013,
+        "item_type": 112,
+        "value1": 4011013,
+        "value2": 0,
+        "sort": 103,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121013,
+        "ml_name": [
+            "【羊と夢の中】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ラファエロの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121101,
         "item_type": 112,
         "value1": 4011101,
@@ -6560,6 +6710,31 @@
         "image_index": 1121210,
         "ml_name": [
             "【港の町の釣り娘】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ブグローの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121211,
+        "item_type": 112,
+        "value1": 4011211,
+        "value2": 0,
+        "sort": 112,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121211,
+        "ml_name": [
+            "【願望のオルタ】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -13850,6 +14025,31 @@
         "is_visible": false
     },
     {
+        "id": 1511119,
+        "item_type": 151,
+        "value1": 436,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511119,
+        "ml_name": [
+            "ストーリーキー【大接近パジャマパーティー】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「大接近パジャマパーティー」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "パジャマパーティーの物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1511123,
         "item_type": 151,
         "value1": 430,
@@ -19100,6 +19300,81 @@
         "is_visible": false
     },
     {
+        "id": 1630216,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630216,
+        "ml_name": [
+            "大接近パジャマパーティーガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "大接近パジャマパーティーピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-23 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630217,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630217,
+        "ml_name": [
+            "祓う光、蝕む力、来る嵐ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "祓う光、蝕む力、来る嵐ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-02 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630218,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630218,
+        "ml_name": [
+            "ロックノードイマージュ復刻ピックアップガチャチケット1",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきロックノードイマージュ復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ロックノードイマージュ復刻ガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-19 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630219,
         "item_type": 702,
         "value1": 0,
@@ -19147,6 +19422,56 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-06-11 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630221,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット37",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-27 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630222,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630142,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～ブグロー～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～ブグロー～を1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-26 12:59:59",
         "is_visible": false
     },
     {
@@ -23950,6 +24275,31 @@
         "is_visible": false
     },
     {
+        "id": 1640199,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640199,
+        "ml_name": [
+            "大接近パジャマパーティーのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で大接近パジャマパーティーピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-25 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640200,
         "item_type": 162,
         "value1": 0,
@@ -23972,6 +24322,106 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-06-11 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640201,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640201,
+        "ml_name": [
+            "スタイル復刻のしおり37",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-29 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640202,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640202,
+        "ml_name": [
+            "祓う光、蝕む力、来る嵐のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で祓う光、蝕む力、来る嵐ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-04 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640203,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640005,
+        "ml_name": [
+            "レイド応援のしおり緑",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5キャラクターと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-02 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640204,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640204,
+        "ml_name": [
+            "ロックノードイマージュ復刻のしおり1",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でロックノードイマージュ復刻ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-06-21 12:59:59",
         "is_visible": false
     },
     {
@@ -27550,6 +28000,56 @@
         "is_visible": false
     },
     {
+        "id": 1650146,
+        "item_type": 801,
+        "value1": 3236,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650146,
+        "ml_name": [
+            "夢見るフリルピロー",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「大接近パジャマパーティー」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大きなピンクのリボンとフリルがあしらわれた可愛らしい枕。\nふかふかな触り心地に身を任せれば、一瞬で夢の中へ。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650147,
+        "item_type": 803,
+        "value1": 5013,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650099,
+        "ml_name": [
+            "死の結晶・青",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「【A.D.F.】祓う光、蝕む力、来る嵐」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650151,
         "item_type": 801,
         "value1": 3232,
@@ -28839,6 +29339,31 @@
         ],
         "ml_description": [
             "レイドイベント「罪を背負う少女に導きの陽光を」に挑戦するために必要となる挑戦券。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大規模な戦闘に挑戦するために必要となるスクロール。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1661013,
+        "item_type": 171,
+        "value1": 5013,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1661001,
+        "ml_name": [
+            "レイド挑戦券",
+            "EN"
+        ],
+        "ml_description": [
+            "レイドイベント「祓う光、蝕む力、来る嵐」に挑戦するために必要となる挑戦券。",
             "EN"
         ],
         "ml_flavor_text": [

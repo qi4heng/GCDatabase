@@ -9862,5 +9862,149 @@
         "skill_main_effect_id": 30511001,
         "level": 6,
         "effect_coefficient": 25000
+    },
+    {
+        "id": 19215,
+        "skill_main_effect_id": 30713001,
+        "level": 1,
+        "effect_coefficient": 18000
+    },
+    {
+        "id": 19216,
+        "skill_main_effect_id": 30713001,
+        "level": 2,
+        "effect_coefficient": 19800
+    },
+    {
+        "id": 19217,
+        "skill_main_effect_id": 30713001,
+        "level": 3,
+        "effect_coefficient": 21600
+    },
+    {
+        "id": 19218,
+        "skill_main_effect_id": 30713001,
+        "level": 4,
+        "effect_coefficient": 23400
+    },
+    {
+        "id": 19219,
+        "skill_main_effect_id": 30713001,
+        "level": 5,
+        "effect_coefficient": 25200
+    },
+    {
+        "id": 19220,
+        "skill_main_effect_id": 30713001,
+        "level": 6,
+        "effect_coefficient": 27000
+    },
+    {
+        "id": 19267,
+        "skill_main_effect_id": 31013001,
+        "level": 1,
+        "effect_coefficient": 18000
+    },
+    {
+        "id": 19268,
+        "skill_main_effect_id": 31013001,
+        "level": 2,
+        "effect_coefficient": 19800
+    },
+    {
+        "id": 19269,
+        "skill_main_effect_id": 31013001,
+        "level": 3,
+        "effect_coefficient": 21600
+    },
+    {
+        "id": 19270,
+        "skill_main_effect_id": 31013001,
+        "level": 4,
+        "effect_coefficient": 23400
+    },
+    {
+        "id": 19271,
+        "skill_main_effect_id": 31013001,
+        "level": 5,
+        "effect_coefficient": 25200
+    },
+    {
+        "id": 19272,
+        "skill_main_effect_id": 31013001,
+        "level": 6,
+        "effect_coefficient": 27000
+    },
+    {
+        "id": 19319,
+        "skill_main_effect_id": 31211001,
+        "level": 1,
+        "effect_coefficient": 17500
+    },
+    {
+        "id": 19320,
+        "skill_main_effect_id": 31211001,
+        "level": 2,
+        "effect_coefficient": 19200
+    },
+    {
+        "id": 19321,
+        "skill_main_effect_id": 31211001,
+        "level": 3,
+        "effect_coefficient": 20900
+    },
+    {
+        "id": 19322,
+        "skill_main_effect_id": 31211001,
+        "level": 4,
+        "effect_coefficient": 22600
+    },
+    {
+        "id": 19323,
+        "skill_main_effect_id": 31211001,
+        "level": 5,
+        "effect_coefficient": 24300
+    },
+    {
+        "id": 19324,
+        "skill_main_effect_id": 31211001,
+        "level": 6,
+        "effect_coefficient": 26000
+    },
+    {
+        "id": 19331,
+        "skill_main_effect_id": 35091001,
+        "level": 1,
+        "effect_coefficient": 5000
+    },
+    {
+        "id": 19332,
+        "skill_main_effect_id": 35091001,
+        "level": 2,
+        "effect_coefficient": 5500
+    },
+    {
+        "id": 19333,
+        "skill_main_effect_id": 35091001,
+        "level": 3,
+        "effect_coefficient": 6000
+    },
+    {
+        "id": 19334,
+        "skill_main_effect_id": 35091001,
+        "level": 4,
+        "effect_coefficient": 6500
+    },
+    {
+        "id": 19335,
+        "skill_main_effect_id": 35091001,
+        "level": 5,
+        "effect_coefficient": 7000
+    },
+    {
+        "id": 19336,
+        "skill_main_effect_id": 35091001,
+        "level": 6,
+        "effect_coefficient": 7500
     }
 ]

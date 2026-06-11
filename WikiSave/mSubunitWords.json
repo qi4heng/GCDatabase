@@ -23934,5 +23934,277 @@
         "start_time": "2022-08-01 00:00:00",
         "end_time": "2030-08-01 23:59:59",
         "subunit_id": 4020090
+    },
+    {
+        "id": 1441,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020091_1400",
+        "ml_word": [
+            "あの……本当に、私がここにいてもいいの？\n受付って、美術館の顔みたいなものでしょう？\n私なんかじゃ、美術館の格が\n落ちちゃうんじゃないかと心配で……。",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1442,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4020091_1410",
+        "ml_word": [
+            "えっと……こっちは大丈夫よね、じゃあそっちは……。\nあっ、か、館長さん！？　えっと、これは、その……\n服が汚れてないか心配になっちゃって……。\nお客さんに失礼があったら困るから……。",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1443,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020091_1420",
+        "ml_word": [
+            "館長さん、ちょっと待って。\n襟元が曲がっているわ……。\nあなたはかっこいいのだから、服装もしっかりね。",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1444,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020091_1430",
+        "ml_word": [
+            "トルソさんはすごいわ。\nいつも輝いていて、自信に満ち溢れていて。\nお互いに神様を題材にしたイマージュなのに、私は……。\nせめて、私ができることを頑張らなくちゃ。",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1445,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020091_1440",
+        "ml_word": [
+            "浄化という力を持って生まれてきたのは、\nなにか理由があると思うの。\n私なんかになにができるかわからないけど……。\nできる限り、みんなの力になりたいわ。",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1446,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4020091_1450",
+        "ml_word": [
+            "少し汚れてしまったし、水浴びがしたいわ。\nまた、いつもの泉に行こうかしら。\nせっかくだし、館長さんも誘って……。",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1447,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020091_1460",
+        "ml_word": [
+            "あけましておめでとう、館長さん。\n新年は身を清めて迎えるべきだと思わない？　だから、\n年明けの直前まで水浴びをしていたのだけど……。\nうーん……今からまた水浴びしてこようかしら？",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1448,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020091_1470",
+        "ml_word": [
+            "バレンタイン……館長さんはたくさん貰うのよね？\nえっと、気を付けてね。その……\nチョコレートの汚れって、なかなか落ちないから……。",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1449,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4020091_1480",
+        "ml_word": [
+            "ハ、ハロウィンって、汚れた服を着てる人や、\nそういう飾り付けが多くないかしら？\nそ、そういうものだから仕方ない？　そ、そうよね。\nわかってるのよ……わかってるのだけど……。",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1450,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020091_1490",
+        "ml_word": [
+            "メリークリスマス、館長さん。この時期は\n寒いわね……でも、もちろん水浴びはするわ。\n……ふふっ、平気よ。空気も澄んでて、むしろ\n気持ちがいいもの。こんな素敵な日は、特にね。",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1451,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020091_1500",
+        "ml_word": [
+            "ふぅ……！\n年末だからずっと掃除をしてる気がするわ。\n自分の部屋はいつも通りだけど……\n美術館の中も、全部ぴかぴかにしなくちゃ。",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1452,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020091_1510",
+        "ml_word": [
+            "お誕生日おめでとう。私が美しい女神なら、\nきっとあなたに祝福を授けてあげられたんだけど……\nそれはできないから、プレゼントを買ってきたわ。\n質の良い綺麗なシーツ……あなたの寝台に、使って。",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1453,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020091_1520",
+        "ml_word": [
+            "弓の腕を褒められることもあるけど、\n大したものじゃないのよ。\n必死で練習してたら、いつの間にかできてただけなの。\nだって弓なら戦う時に、汚れずに済むと思って……。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1454,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4020091_1530",
+        "ml_word": [
+            "ね、ねぇ、なんでそんなにじっと私のことを見るの？\n……はっ！？　もしかして私、汚れてる……！？\nやだっ、ごめんなさい、早く水浴びしないと！\n急いで泉へ行ってくるわ、ちょっと待ってて……！",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1455,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020091_1540",
+        "ml_word": [
+            "もっと自分に自信が持てればいいのにと思うわ。\nこれが私だって、私にはこれがあるって、胸を張れる\nようになりたい。でも今はまだ……できることなんて、\n掃除くらいだし。ふぅ……さぁ、次の窓を磨かないと。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
+    },
+    {
+        "id": 1456,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020091_1550",
+        "ml_word": [
+            "あなたには少しでも綺麗な私だけを見て欲しい……\nそんな気持ちがあるわ。\nでも、あなたになら少しくらい汚れてる私を見せても\n大丈夫かもしれない……そんな気持ちも、あるの……。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020091
     }
 ]

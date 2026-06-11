@@ -1883,6 +1883,13 @@
         "weight": 1
     },
     {
+        "id": 1713,
+        "gacha_factor_group_id": 11,
+        "subunit_id": 4020091,
+        "factor_id": 15080001,
+        "weight": 1
+    },
+    {
         "id": 100609,
         "gacha_factor_group_id": 1001,
         "subunit_id": 4020002,
@@ -2846,6 +2853,13 @@
         "gacha_factor_group_id": 1001,
         "subunit_id": 4020090,
         "factor_id": 15390002,
+        "weight": 1
+    },
+    {
+        "id": 100965,
+        "gacha_factor_group_id": 1001,
+        "subunit_id": 4020091,
+        "factor_id": 15080001,
         "weight": 1
     },
     {

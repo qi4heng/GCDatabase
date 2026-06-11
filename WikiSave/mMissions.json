@@ -31892,6 +31892,174 @@
         ]
     },
     {
+        "id": 108372,
+        "type": 1,
+        "series_no": 1081013,
+        "sub_series_no": 1,
+        "condition_id": 1081013,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ラファエロ【羊と夢の中】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【羊と夢の中】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108373,
+        "type": 1,
+        "series_no": 1081013,
+        "sub_series_no": 2,
+        "condition_id": 1081013,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ラファエロ【羊と夢の中】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【羊と夢の中】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108374,
+        "type": 1,
+        "series_no": 1080713,
+        "sub_series_no": 1,
+        "condition_id": 1080713,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アングル【市議の休息時間】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【市議の休息時間】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108375,
+        "type": 1,
+        "series_no": 1080713,
+        "sub_series_no": 2,
+        "condition_id": 1080713,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "アングル【市議の休息時間】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【市議の休息時間】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108376,
+        "type": 1,
+        "series_no": 1081211,
+        "sub_series_no": 1,
+        "condition_id": 1081211,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ブグロー【願望のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【願望のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108377,
+        "type": 1,
+        "series_no": 1081211,
+        "sub_series_no": 2,
+        "condition_id": 1081211,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ブグロー【願望のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【願望のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 109004,
         "type": 1,
         "series_no": 53,
@@ -36813,6 +36981,62 @@
         ],
         "ml_description": [
             "エリオント信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109267,
+        "type": 1,
+        "series_no": 40200911,
+        "sub_series_no": 1,
+        "condition_id": 109267,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109267,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ディアナ信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ディアナ信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109268,
+        "type": 1,
+        "series_no": 40200911,
+        "sub_series_no": 2,
+        "condition_id": 109267,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109268,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ディアナ信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ディアナ信愛ストーリー2開放",
             "en"
         ],
         "ml_hint": [
@@ -42889,6 +43113,34 @@
         ],
         "ml_description": [
             "エリオントがレベル上限に到達",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 114091,
+        "type": 1,
+        "series_no": 40200912,
+        "sub_series_no": 1,
+        "condition_id": 114091,
+        "condition_value": 80,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 114091,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ディアナがレベル上限に到達",
+            "en"
+        ],
+        "ml_description": [
+            "ディアナがレベル上限に到達",
             "en"
         ],
         "ml_hint": [
@@ -53837,6 +54089,34 @@
         ],
         "ml_description": [
             "セッシュウの振袖Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118109,
+        "type": 1,
+        "series_no": 118109,
+        "sub_series_no": 1,
+        "condition_id": 118139,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "願望の結晶長槍Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "願望の結晶長槍Lv10達成",
             "en"
         ],
         "ml_hint": [
@@ -104813,6 +105093,566 @@
         ],
         "ml_description": [
             "セッシュウ【幽玄に至る境地】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742801,
+        "type": 5,
+        "series_no": 7428,
+        "sub_series_no": 1,
+        "condition_id": 742801,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "ラファエロ【羊と夢の中】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【羊と夢の中】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742802,
+        "type": 5,
+        "series_no": 7428,
+        "sub_series_no": 2,
+        "condition_id": 742801,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "ラファエロ【羊と夢の中】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【羊と夢の中】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742803,
+        "type": 5,
+        "series_no": 7428,
+        "sub_series_no": 3,
+        "condition_id": 742801,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "ラファエロ【羊と夢の中】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【羊と夢の中】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742804,
+        "type": 5,
+        "series_no": 7428,
+        "sub_series_no": 4,
+        "condition_id": 742801,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "ラファエロ【羊と夢の中】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【羊と夢の中】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742805,
+        "type": 5,
+        "series_no": 7428,
+        "sub_series_no": 5,
+        "condition_id": 742801,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "ラファエロ【羊と夢の中】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【羊と夢の中】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742901,
+        "type": 5,
+        "series_no": 7429,
+        "sub_series_no": 1,
+        "condition_id": 742901,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "アングル【市議の休息時間】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【市議の休息時間】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742902,
+        "type": 5,
+        "series_no": 7429,
+        "sub_series_no": 2,
+        "condition_id": 742901,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "アングル【市議の休息時間】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【市議の休息時間】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742903,
+        "type": 5,
+        "series_no": 7429,
+        "sub_series_no": 3,
+        "condition_id": 742901,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "アングル【市議の休息時間】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【市議の休息時間】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742904,
+        "type": 5,
+        "series_no": 7429,
+        "sub_series_no": 4,
+        "condition_id": 742901,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "アングル【市議の休息時間】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【市議の休息時間】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 742905,
+        "type": 5,
+        "series_no": 7429,
+        "sub_series_no": 5,
+        "condition_id": 742901,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2026-06-23 12:59:59",
+        "ml_title": [
+            "アングル【市議の休息時間】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "アングル【市議の休息時間】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743001,
+        "type": 5,
+        "series_no": 7430,
+        "sub_series_no": 1,
+        "condition_id": 743001,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2026-06-26 12:59:59",
+        "ml_title": [
+            "ブグロー【願望のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【願望のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743002,
+        "type": 5,
+        "series_no": 7430,
+        "sub_series_no": 2,
+        "condition_id": 743001,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2026-06-26 12:59:59",
+        "ml_title": [
+            "ブグロー【願望のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【願望のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743003,
+        "type": 5,
+        "series_no": 7430,
+        "sub_series_no": 3,
+        "condition_id": 743001,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2026-06-26 12:59:59",
+        "ml_title": [
+            "ブグロー【願望のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【願望のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743004,
+        "type": 5,
+        "series_no": 7430,
+        "sub_series_no": 4,
+        "condition_id": 743001,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2026-06-26 12:59:59",
+        "ml_title": [
+            "ブグロー【願望のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【願望のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743005,
+        "type": 5,
+        "series_no": 7430,
+        "sub_series_no": 5,
+        "condition_id": 743001,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2026-06-26 12:59:59",
+        "ml_title": [
+            "ブグロー【願望のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ブグロー【願望のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743101,
+        "type": 5,
+        "series_no": 7431,
+        "sub_series_no": 1,
+        "condition_id": 743101,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 743101,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "2026-07-02 12:59:59",
+        "ml_title": [
+            "ディアナを限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ディアナを限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743102,
+        "type": 5,
+        "series_no": 7431,
+        "sub_series_no": 2,
+        "condition_id": 743101,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 743102,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "2026-07-02 12:59:59",
+        "ml_title": [
+            "ディアナを限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ディアナを限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743103,
+        "type": 5,
+        "series_no": 7431,
+        "sub_series_no": 3,
+        "condition_id": 743101,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 743103,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "2026-07-02 12:59:59",
+        "ml_title": [
+            "ディアナを限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ディアナを限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743104,
+        "type": 5,
+        "series_no": 7431,
+        "sub_series_no": 4,
+        "condition_id": 743101,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 743104,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "2026-07-02 12:59:59",
+        "ml_title": [
+            "ディアナを限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ディアナを限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 743105,
+        "type": 5,
+        "series_no": 7431,
+        "sub_series_no": 5,
+        "condition_id": 743101,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 743105,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-06-22 13:00:00",
+        "end_time": "2026-07-02 12:59:59",
+        "ml_title": [
+            "ディアナを限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ディアナを限界突破+5にしよう",
             "en"
         ],
         "ml_hint": [

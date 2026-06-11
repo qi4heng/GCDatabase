@@ -11316,6 +11316,236 @@
         ]
     },
     {
+        "id": 12120020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40112119_1020",
+        "ml_word": [
+            "オリジナルの素直じゃなさにも困ったものだよねえ。\nブグローという女の子がかわいいのは自明なのにさ。\n館長ももっと言ってやってよ、かわいいなって。",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_40112119_1030",
+        "ml_word": [
+            "わたしってさぁ、かわいいじゃないか？\nわたしだったら、絶対にわたしを放っておかないよ！\n口説き倒してモデルにする！　ヌードならなおよし！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40112119_1040",
+        "ml_word": [
+            "わたしという存在を否定することはね、\nきっと良くないことだと思うよ。\n愛されたいって想いは……\nけっして恥ずかしいことなんかじゃないからさ。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40112119_1050",
+        "ml_word": [
+            "……ね、館長。\nわたしはしょせん、いつかは消える\nオルタ人格とやらだけど……きみは、わたしのこと……\n忘れないでいてくれるよね？",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_40112119_1520",
+        "ml_word": [
+            "おっ、館長！　今日はラッキーだねえ！\nこんなにキュートでえっちなわたしに会えて！\nさぁ、穴が開くほど見つめるといいよ！",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_40112119_1530",
+        "ml_word": [
+            "さ～て、スケッチブックに絵でも描こうかな。\nかわいいドレス♪　かわいいリボン♪\nそしてもちろん、わたしに似合うえっちなパンツ♪",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_40112119_1540",
+        "ml_word": [
+            "ねえねえ館長、わたしのこの服、どう思う？\nいや、待って！　聞くまでもなかった！\nパーフェクトにキュートでえっち！　ごめん！",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_40112119_1550",
+        "ml_word": [
+            "あーん、館長の眼差しがあつぅい♡\nもっと見て♡　いっぱい見て♡\nなんなら軽くハグでもキスでもしていって♡",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40112119_1560",
+        "ml_word": [
+            "わたしはわたしを最高にかわいいと思ってるけどね。\nわたし以外の美少女のこともオリジナルと変わらず\n好きだよ。みんな違ってみんなかわいい。全員えっち。",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 12120570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_40112119_1570",
+        "ml_word": [
+            "館長とデート、したいな～。食べ歩きしようよ！\nフランクフルトとチョコバナナ、なぜか顔を赤らめ、\nなぜか呼吸を荒くしながら食べて見せてあげるから！",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 13110020,
         "scene_type": 2,
         "trigger": 3,
@@ -21091,6 +21321,121 @@
         ]
     },
     {
+        "id": 10714030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4010713_1030",
+        "ml_word": [
+            "私だって、たまにはお昼過ぎまで\n寝ていたいと思うこともあるわよ。\nでも、そのだらだらしてる時間で\nできることって、たくさんあるのよね……。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010713,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10714040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010713_1040",
+        "ml_word": [
+            "部屋着を見られるのって、気恥ずかしいものね……。\n私生活を覗かれるような感覚というか……。\nあ、館長になら見られてもいいのよ。\n……どんな私も、知ってほしいから。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010713,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10714050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010713_1050",
+        "ml_word": [
+            "寝る前の読書は、睡眠の質が向上すると\n言われているんですって……。\n館長も取り入れてみたらどう？\nよかったら、今度おすすめの本を貸してあげるわよ。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010713,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10714060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010713_1060",
+        "ml_word": [
+            "館長、あなた最近働きすぎじゃないかしら……？\n少し休憩したほうがいいわ。\nなにかあったら私がフォローするから……ね？",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010713,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10714070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4010713_1070",
+        "ml_word": [
+            "……気を抜くとうたた寝してしまいそうだわ。\nだめね、どこで誰に見られているかわからないんだし、\nしっかりしなくちゃ。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010713,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 10802030,
         "scene_type": 1,
         "trigger": 5,
@@ -25116,6 +25461,121 @@
         ]
     },
     {
+        "id": 11014030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4011013_1030",
+        "ml_word": [
+            "たまにはお昼寝でもしたいような気もするし、\n着替えて颯爽と街へ出かけたいような気もするんだ。\n館長はどうするんだい？\n今日はきみに合わせるとしよう。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011013,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11014040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011013_1040",
+        "ml_word": [
+            "おはよう館長！\n今日もぼくは美しいだろう？\n昨夜はスキッピオとたっぷり寝たからね。\nほら見てよ、この輝くような肌ツヤを！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011013,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11014050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011013_1050",
+        "ml_word": [
+            "べ、別に抱き枕がないと寝られない訳じゃないよ？\nただ、こうやってぎゅっとすると、\n安心感があっていいんだよね……。\n館長もだっこしてみるかい？",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011013,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11014060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011013_1060",
+        "ml_word": [
+            "眠れない時は羊を数えるといいって言うけど、\nぼくは逆に覚醒してダメなんだ。\n毛は何色なのかとか、ツノはあるのかとか……\n色々想像が膨らんでしまうからさ。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011013,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11014070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4011013_1070",
+        "ml_word": [
+            "スキッピオってば、\nまた警備中にうたた寝してるな……？\nやれやれ、館長に見つかる前に起こしてあげないとね。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-06-11 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 10,
+        "layer_id": 4011013,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 11102030,
         "scene_type": 1,
         "trigger": 5,
@@ -27409,6 +27869,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 12,
         "layer_id": 4011210,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11212030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4011211_1030",
+        "ml_word": [
+            "受付の仕事だなんて、まさにわたしのためにある\nようなものだと思わないかい？\n美術館を訪れ、最初に見る“美”がわたしなんだ。\nきっとみんな、幸福感で昇天するだろうね。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11212040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011211_1040",
+        "ml_word": [
+            "オリジナルはなにを恥ずかしがるのか。\n芸術とは心の解放であり、願望と欲望の可視化。\nならばわたしがかわいいと胸を張れる服を着るのは、\nまったくおかしくないと思うんだけど。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11212050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011211_1050",
+        "ml_word": [
+            "理想を突き詰めるのは自分のためさ！\nかわいい自分は気分を上げてくれる。\n理想の自分は生活の質を高めてくれる。\n自己肯定感の高さは、幸福感の高さだと思うんだ。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11212060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011211_1060",
+        "ml_word": [
+            "えっちな美少女が最高なのは、世界の真理。\nそれが自分自身なら、なにをしても許される！\n館長、つきあってくれるよね！？",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11212070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4011211_1070",
+        "ml_word": [
+            "服よし、飾りよし、化粧よし、笑顔よし！\nふふん♪　この最高にかわいいわたし……\n絵画に描き起こすしかないね！",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-06-18 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 12,
+        "layer_id": 4011211,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -31200,7 +31775,7 @@
         ],
         "word_key": 1070,
         "is_random_voice": 0,
-        "start_time": "2026-06-02 13:00:00",
+        "start_time": "2026-05-29 13:30:00",
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 17,
         "layer_id": 4011701,

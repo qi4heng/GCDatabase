@@ -1822,5 +1822,77 @@
         "proto_creator": "泰奥多尔·卢梭",
         "proto_collector": "提森-博内米萨国立博物馆（西班牙）",
         "note": ""
-    }
+    },
+   {
+      "id": 2000081,
+      "ml_name": [
+         "クピド",
+         "丘比特"
+      ],
+      "ml_description": [
+         "自らを抱き、上目遣いでこちらを見つめる愛の神クピドが描かれた作品。間違いなく美しいのだが、どこか妙な気持ちにさせられる",
+         "描绘了爱神丘比特抱着自己，抬眼看着这边的作品。毫无疑问很美，但总觉得会让人产生一种奇妙的感觉。"
+      ],
+      "catalog_no": 77,
+      "catalog_type": 2,
+      "rarity": 5,
+      "block_node_name": "room018",
+      "art_piece_node_name": "ap2000081",
+      "level_group_id": 45523601,
+      "start_time": "2026-06-11 13:30:00",
+      "create_group": [1],
+      "create_time": 0,
+      "creator": "布格罗",
+      "proto_creator": "威廉·阿道夫·布格罗",
+      "proto_collector": "略",
+      "note": ""
+   },
+   {
+      "id": 2000082,
+      "ml_name": [
+         "漁師の娘",
+         "渔夫的女儿"
+      ],
+      "ml_description": [
+         "網を左肩に担ぎ、籠を右腕に掛けた漁村の若い娘を描いた絵画。その姿から素朴な暮らしと労働の気配を感じさせるものの、頭に巻かれたスカーフは華やかだ",
+         "描绘了一位渔村年轻姑娘的画作，她左肩扛着网，右臂挂着篮子。从她的姿态中能感受到朴素的生活与劳动的气息，头上裹着的头巾十分鲜艳。"
+      ],
+      "catalog_no": 78,
+      "catalog_type": 1,
+      "rarity": 4,
+      "block_node_name": "room018",
+      "art_piece_node_name": "ap2000082",
+      "level_group_id": 24452101,
+      "start_time": "2026-06-11 13:30:00",
+      "create_group": [1],
+      "create_time": 0,
+      "creator": "布格罗",
+      "proto_creator": "威廉·阿道夫·布格罗",
+      "proto_collector": "东京富士美术馆（日本）",
+      "note": ""
+   },
+   {
+      "id": 2000083,
+      "ml_name": [
+         "少女",
+         "少女"
+      ],
+      "ml_description": [
+         "小さな手を胸元で合わせ、祈りのポーズをとる少女の半身像を描いた絵画。少女特有の滑らかな肌とあどけない表情は、あまりにも甘美である",
+         "描绘了少女半身像的画作，她将小手在胸前合十，做出祈祷的姿势。少女特有的光滑肌肤和天真无邪的表情，有些过于甜美了。"
+      ],
+      "catalog_no": 79,
+      "catalog_type": 1,
+      "rarity": 3,
+      "block_node_name": "room018",
+      "art_piece_node_name": "ap2000083",
+      "level_group_id": 33213201,
+      "start_time": "2026-06-11 13:30:00",
+      "create_group": [1],
+      "create_time": 0,
+      "creator": "布格罗",
+      "proto_creator": "威廉·阿道夫·布格罗",
+      "proto_collector": "国立西洋美术馆（日本）",
+      "note": ""
+   }
 ]

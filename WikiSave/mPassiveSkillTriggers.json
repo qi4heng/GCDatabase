@@ -220,6 +220,16 @@
         "description": "デバフを受けた時"
     },
     {
+        "id": 2014,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 16,
+        "trigger_param": 13,
+        "trigger_param2": "0",
+        "skill_types": "0",
+        "description": "バフを受けた時"
+    },
+    {
         "id": 2100,
         "timing_bits": 0,
         "condition_bits": 0,

@@ -6072,6 +6072,75 @@
       "museum": "法国巴黎奥塞美术馆"
    },
    {
+      "id": 4020091,
+      "ml_name": [
+         "ディアナ",
+         "en",
+         "戴安娜"
+      ],
+      "level_group_id": 5,
+      "rarity": 5,
+      "weapon_type": 2,
+      "buff_skill_id": 25091001,
+      "attack_skill_id": 15091001,
+      "ultimate_skill_id": 35091001,
+      "fusion_skill_id": 44200001,
+      "change_turn": 3,
+      "image_index": 4020091,
+      "sound_index": 4020091,
+      "ml_personality": [
+         "性格",
+         "en"
+      ],
+      "ml_birthday": [
+         "99/99",
+         "en"
+      ],
+      "ml_height": [
+         "161cm",
+         "en"
+      ],
+      "ml_size": [
+         "B88・W59・H80",
+         "en"
+      ],
+      "unit_id": 1,
+      "ml_cv_name": [
+         "山田花子",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "神のような美貌と浄化の力を持つイマージュ。\nただ、本人は自分自身に全く自信がなく、せめて\n小綺麗にしておかなくてはと、いつも水浴をしている。\n汚れないようにと磨いた弓の腕前も素晴らしいもので、\n遠距離から光の矢を放ち、死の芸術や悪心を浄化する。",
+         "en",
+         "拥有神一般美貌与净化之力的形象。然而，她本人却对自己毫无自信，因为觉得至少得保持整洁，所以总是在沐浴净身。为了不染尘埃而磨练出的弓技也相当出色，能从远处射出光之箭，净化死之 艺术与邪恶之心。"
+      ],
+      "ml_illustrator_name": [
+         "未記入",
+         "en"
+      ],
+      "ml_roots": [
+         "水浴のディアナ",
+         "en",
+         "戴安娜出浴",
+         "<span lang=\"fr\">Diane sortant du bain</span>"
+      ],
+      "ml_get_message": [
+         "私は女神が題材なのに……がっかりさせてないかしら？\nもっと綺麗で神々しければよかったのだけれど……で、でも、頑張るから。",
+         "en",
+         "我明明是以女神为题材的...不会让你失望吧？要是能更漂亮、更庄严就好了...不、不过，我会努力的。"
+      ],
+      "favorite_type": 1,
+      "start_time": "2026-06-22 13:00:00",
+      "adult_no_voice": 0,
+      "ml_creator": [
+         "弗朗索瓦·布歇",
+         "<span lang=\"fr\">Francois Boucher</span>"
+      ],
+      "creator_nation": "法国",
+      "created_date": "1742",
+      "museum": "卢浮宫博物馆（法国）"
+   },
+   {
       "id": 99910,
       "ml_name": [
          "グラマンシュ",

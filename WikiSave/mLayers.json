@@ -4397,6 +4397,59 @@
       ]
    },
    {
+      "id": 4010713,
+      "unit_id": 7,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 3,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 4599,
+      "atk": 60,
+      "mnd": 37,
+      "def": 83,
+      "dex": 64,
+      "spd": 133,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130003,
+      "skill_id1": 20713001,
+      "skill_id2": 20713002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10713001,
+      "ultimate_skill_id": 30713001,
+      "duplicated_item_id": 1120713,
+      "duplicated_item_count": 1,
+      "sort_order": 713,
+      "image_index": 4010713,
+      "ai_group_id": 0,
+      "sound_index": 4010713,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|2|3|0",
+      "start_time": "2026-06-11 13:30:00",
+      "ml_name": [
+         "市議の休息時間",
+         "市议的休息时间"
+      ],
+      "ml_flavor_text": [
+         "疲れた体を癒すネグリジェスタイル。\n読書はナイトルーティーンのひとつ。",
+         "治愈疲惫身体的睡袍造型。读书是夜间惯例之一。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "どれだけ忙しくても、\n睡眠はしっかり取るべきよ",
+         "无论多忙，也应该要好好睡觉。"
+      ],
+      "ml_get_message": [
+         "あら館長、目の下にクマができてるじゃない。\n……少しだけ、私と一緒に休まない？",
+         "哎呀馆长，你眼睛下面都有黑眼圈了呢。...就一小会儿，要不要和我一起休息一下？"
+      ]
+   },
+   {
       "id": 4010801,
       "unit_id": 8,
       "rarity": 3,
@@ -6252,6 +6305,59 @@
       ]
    },
    {
+      "id": 4011013,
+      "unit_id": 10,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 5,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2104,
+      "atk": 112,
+      "mnd": 75,
+      "def": 49,
+      "dex": 63,
+      "spd": 42,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130006,
+      "skill_id1": 21013001,
+      "skill_id2": 21013002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11013001,
+      "ultimate_skill_id": 31013001,
+      "duplicated_item_id": 1121013,
+      "duplicated_item_count": 1,
+      "sort_order": 1013,
+      "image_index": 4011013,
+      "ai_group_id": 0,
+      "sound_index": 4011013,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|2|0|0",
+      "start_time": "2026-06-11 13:30:00",
+      "ml_name": [
+         "羊と夢の中",
+         "羊与梦中"
+      ],
+      "ml_flavor_text": [
+         "羊の抱き枕を抱えたパジャマスタイル。\n美しさを保つ秘訣は十分な睡眠にあり。",
+         "抱着羊形抱枕的睡衣造型。保持美丽的秘诀在于充足的睡眠。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "ぼくと一緒に夢の世界へ\n行こうじゃないか！",
+         "和我一起前往梦的世界吧！"
+      ],
+      "ml_get_message": [
+         "創作に行き詰まった時は、つい寝る間を惜しんで考えてしまいがちなんだ。\nでも、たまには早めにパジャマに着替えて、リラックスするのも大切だよね。",
+         "创作遇到瓶颈的时候，总是不自觉地牺牲睡觉时间去思考。不过，偶尔早点换上睡衣放松一下也很重要，对吧。"
+      ]
+   },
+   {
       "id": 4011101,
       "unit_id": 11,
       "rarity": 3,
@@ -7243,7 +7349,7 @@
       ],
       "ml_flavor_text": [
          "まるで煩悩から解放されたような\n清らかなオーラを放つ巫女スタイル。",
-         "诚惶诚恐……\n唔，说不定是份新天职呢！"
+         "仿佛从烦恼中解放出来一般，散发着清净气场的巫女风格。"
       ],
       "ml_illustrator_name": [
          "（仮）",
@@ -7251,7 +7357,7 @@
       ],
       "ml_rare_get_message": [
          "かしこみかしこみ……\nうーん、新たな天職かもね！",
-         "承重...承重...嗯，说不定是新的天职呢！"
+         "诚惶诚恐...嗯，说不定是份新的天职呢！"
       ],
       "ml_get_message": [
          "やぁ館長。まさかわたしが巫女服なんて着るとはね。\n柄じゃないから恥ずかしいけど……。でも役得もある。悩ましいねぇ。",
@@ -7309,6 +7415,59 @@
       "ml_get_message": [
          "釣り師ブグロー、ここに推参！\n魚でもパンツでも、なんでも釣ってみせるよ！",
          "钓鱼老师布格罗、于此闪亮登场！\n鱼也好胖次也好、全都钓给你看！"
+      ]
+   },
+   {
+      "id": 4011211,
+      "unit_id": 12,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 3,
+      "collabo_type": 0,
+      "another_type": 1,
+      "hp": 4524,
+      "atk": 101,
+      "mnd": 52,
+      "def": 78,
+      "dex": 89,
+      "spd": 77,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15480002,
+      "skill_id1": 21211001,
+      "skill_id2": 21211002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11211001,
+      "ultimate_skill_id": 31211001,
+      "duplicated_item_id": 1121211,
+      "duplicated_item_count": 1,
+      "sort_order": 1211,
+      "image_index": 4011211,
+      "ai_group_id": 0,
+      "sound_index": 4011211,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|3|0|0",
+      "start_time": "2026-06-18 13:00:00",
+      "ml_name": [
+         "願望のオルタ",
+         "愿望的Alter"
+      ],
+      "ml_flavor_text": [
+         "少女が体現するのは、心の底に隠した\n寂しき子供の、愛にあふれた夢。",
+         "少女所体现的，是藏在心底的，那孤单的小孩所拥有的、充满爱的梦。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "最高最上至高の美少女！\nすなわちわたしのことさ！",
+         "最顶级的美少女！也就是说————我！"
+      ],
+      "ml_get_message": [
+         "オリジナルに本当の欲望を解放させるべくやって来たのが、わたしだよ。\nそう、最高にかわいくえっちなプリンセス、美少女ブグローだ！",
+         "为了让原版解放真正的欲望，我来了喔。没错，就是最可爱又色色的公主，美少女布格罗！"
       ]
    },
    {
@@ -9798,7 +9957,7 @@
       ],
       "ml_get_message": [
          "画家のアングルよ……よろしく。\n美術館のため、できるだけのことはするわ……。",
-         "画家安格尔……请多关照。\n为了美术馆，我会尽我所能……"
+         "画家安格尔...请多关照。\n为了美术馆，我会尽我所能..."
       ]
    }
 ]
