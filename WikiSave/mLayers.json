@@ -1907,6 +1907,59 @@
       ]
    },
    {
+      "id": 4010313,
+      "unit_id": 3,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3391,
+      "atk": 66,
+      "mnd": 83,
+      "def": 66,
+      "dex": 31,
+      "spd": 60,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130001,
+      "skill_id1": 20313001,
+      "skill_id2": 20313002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10313001,
+      "ultimate_skill_id": 30313001,
+      "duplicated_item_id": 1120313,
+      "duplicated_item_count": 1,
+      "sort_order": 313,
+      "image_index": 4010313,
+      "ai_group_id": 0,
+      "sound_index": 4010313,
+      "country_type": 0,
+      "strong_skill_setting": "0|2|0|3|0",
+      "start_time": "2026-06-30 13:30:00",
+      "ml_name": [
+         "逢瀬は星河の下で",
+         "幽会于星河之下"
+      ],
+      "ml_flavor_text": [
+         "しっとりとした風情を纏う浴衣スタイル。\n大切な人を想い、短冊に願いを綴る。",
+         "带有温润风情的浴衣造型。\n思念重要的人，在短笺上写下愿望。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "あたしはどんな時でも\n館長くんのそばにいたいな",
+         "无论什么时候，我都想待在馆长君身边"
+      ],
+      "ml_get_message": [
+         "七夕って、みんなが願いをかける素敵なお祭りだよね。\n館長くんも一緒に、お星様を見上げて願おう！",
+         "七夕是大家都会许愿的美好节日吧。馆长也一起，仰望着星星许个愿吧。"
+      ]
+   },
+   {
       "id": 4010401,
       "unit_id": 4,
       "rarity": 3,
@@ -3758,6 +3811,59 @@
       "ml_get_message": [
          "き、きらびやかなカジノの裏に渦巻く陰謀……。\nこれはなかなかおもしろい……いえ、恐ろしい死の芸術が現れそうですね。",
          "华美赌场背后暗流涌动的阴谋...\n这倒是相当有趣……不，恐怕会出现可怕的死亡艺术呢。"
+      ]
+   },
+   {
+      "id": 4010613,
+      "unit_id": 6,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 2,
+      "color_type": 2,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2314,
+      "atk": 71,
+      "mnd": 72,
+      "def": 61,
+      "dex": 71,
+      "spd": 62,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130003,
+      "skill_id1": 20613001,
+      "skill_id2": 20613002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10613001,
+      "ultimate_skill_id": 30613001,
+      "duplicated_item_id": 1120613,
+      "duplicated_item_count": 1,
+      "sort_order": 613,
+      "image_index": 4010613,
+      "ai_group_id": 0,
+      "sound_index": 4010613,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|0|0|2",
+      "start_time": "2026-06-30 13:30:00",
+      "ml_name": [
+         "祭夜の狙撃手",
+         "祭夜的狙击手"
+      ],
+      "ml_flavor_text": [
+         "慣れた手つきで射的銃を構えた\n浴衣スタイル。狙った獲物は逃がさない。",
+         "以熟练的姿势举起射击枪的浴衣造型。\n瞄准的猎物绝不会放跑。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "ね、願いというのは時に\n残酷だと思いませんか？",
+         "所谓愿望，不觉得有时很残酷吗？"
+      ],
+      "ml_get_message": [
+         "か、叶わない願いを持ち続けて、傷付くくらいなら、\n最初からなにも願いたくない……そ、そう思っていたんですけどね。",
+         "与其一直抱着无法实现的愿望而受伤，还不如从一开始就什么愿望都不要许...我、我本来是这么想的，不过。"
       ]
    },
    {
@@ -5669,6 +5775,59 @@
       ]
    },
    {
+      "id": 4010913,
+      "unit_id": 9,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 2,
+      "collabo_type": 0,
+      "another_type": 1,
+      "hp": 4503,
+      "atk": 116,
+      "mnd": 62,
+      "def": 75,
+      "dex": 41,
+      "spd": 50,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15480002,
+      "skill_id1": 20913001,
+      "skill_id2": 20913002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10913001,
+      "ultimate_skill_id": 30913001,
+      "duplicated_item_id": 1120913,
+      "duplicated_item_count": 1,
+      "sort_order": 913,
+      "image_index": 4010913,
+      "ai_group_id": 0,
+      "sound_index": 4010913,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|0|0|3",
+      "start_time": "2026-07-20 13:00:00",
+      "ml_name": [
+         "停滞のオルタ",
+         "停滞的Alter"
+      ],
+      "ml_flavor_text": [
+         "変化を許容できなかったもしもの可能性。\n不変を求めた少女は時の流れに逆らう。",
+         "无法容许变化的、罗丹的某种可能性。\n追求不变的少女，反抗时间的流逝。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "永遠に変わらないもの\n私が求めるのはただそれだけ",
+         "永远不变之物，我所求的不过如此"
+      ],
+      "ml_get_message": [
+         "私は変化を受け入れない……。\nたとえ理想に過ぎないとしても、永遠を追い続けるよ。",
+         "我不会接受变化...。即便那不过是理想，我也会继续追求永远。"
+      ]
+   },
+   {
       "id": 4011001,
       "unit_id": 10,
       "rarity": 3,
@@ -6888,6 +7047,59 @@
       ]
    },
    {
+      "id": 4011111,
+      "unit_id": 11,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 2,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2313,
+      "atk": 95,
+      "mnd": 64,
+      "def": 50,
+      "dex": 67,
+      "spd": 41,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130005,
+      "skill_id1": 21111001,
+      "skill_id2": 21111002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11111001,
+      "ultimate_skill_id": 31111001,
+      "duplicated_item_id": 1121111,
+      "duplicated_item_count": 1,
+      "sort_order": 1111,
+      "image_index": 4011111,
+      "ai_group_id": 0,
+      "sound_index": 4011111,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|3|0|0",
+      "start_time": "2026-07-14 13:00:00",
+      "ml_name": [
+         "ヌーディーナイト",
+         "裸体之夜"
+      ],
+      "ml_flavor_text": [
+         "あまりに過激な水着スタイル。\n夜でも眩しく光るボディに目が離せない。",
+         "过分过激的泳装造型。夜色之中也散发着炫目光彩的身体让人离不开视线"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "夜のプールでふたりきり……\nそういうのも、いいわよね？",
+         "在夜晚的泳池中两个人...那样也，可以的吧？"
+      ],
+      "ml_get_message": [
+         "改めて水着を披露、なんて思うと、少し恥ずかしいわね。\nでも、せっかくだからあなたに見て欲しいわ……隅々まで、ね。",
+         "一想到要重新展示泳装，就觉得有点害羞呢。不过，既然难得，还是想让你看看...每个角落。"
+      ]
+   },
+   {
       "id": 4011201,
       "unit_id": 12,
       "rarity": 3,
@@ -8053,6 +8265,59 @@
       ]
    },
    {
+      "id": 4011312,
+      "unit_id": 13,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3329,
+      "atk": 73,
+      "mnd": 47,
+      "def": 42,
+      "dex": 93,
+      "spd": 105,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130005,
+      "skill_id1": 21312001,
+      "skill_id2": 21312002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11312001,
+      "ultimate_skill_id": 31312001,
+      "duplicated_item_id": 1121312,
+      "duplicated_item_count": 1,
+      "sort_order": 1312,
+      "image_index": 4011312,
+      "ai_group_id": 0,
+      "sound_index": 4011312,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|3|2|0",
+      "start_time": "2026-07-04 13:00:00",
+      "ml_name": [
+         "薫風をまとって",
+         "裹着薰风"
+      ],
+      "ml_flavor_text": [
+         "襟から覗く肌が色っぽい浴衣スタイル。\n大好きなりんご飴を手に、夏を満喫中。",
+         "从衣领露出肌肤的性感浴衣造型。\n手里拿着最喜欢的苹果糖，正在享受夏天。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "夜空で再会する恋人たち……\nロマンチックな伝説ですね～",
+         "于夜空中再会的恋人...真是浪漫的传说呢"
+      ],
+      "ml_get_message": [
+         "館長さんは短冊にどんなお願い事を書くんですか～？\nわたしですか？　わたしは……ふふっ、当ててみてください～♪",
+         "馆长，您会在短笺上写什么愿望呢～？我的吗？我啊～呵呵，请猜猜看～♪"
+      ]
+   },
+   {
       "id": 4011401,
       "unit_id": 14,
       "rarity": 3,
@@ -8474,6 +8739,59 @@
       "ml_get_message": [
          "美術館を陰から操る……のは無理だけど、\nヴィーナスちゃんの衣装で、大物になったつもりで頑張るよ！",
          "像维纳斯酱在学生会那样从幕后操纵美术馆...虽然做不到，但我会穿着维纳斯酱的衣服，把自己当作是大人物一样努力的！"
+      ]
+   },
+   {
+      "id": 4011409,
+      "unit_id": 14,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 2,
+      "color_type": 2,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3010,
+      "atk": 79,
+      "mnd": 44,
+      "def": 70,
+      "dex": 73,
+      "spd": 47,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130003,
+      "skill_id1": 21409001,
+      "skill_id2": 21409002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11409001,
+      "ultimate_skill_id": 31409001,
+      "duplicated_item_id": 1121409,
+      "duplicated_item_count": 1,
+      "sort_order": 1409,
+      "image_index": 4011409,
+      "ai_group_id": 0,
+      "sound_index": 4011409,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|3|0|0",
+      "start_time": "2026-07-14 13:00:00",
+      "ml_name": [
+         "渚のヴィーナス",
+         "水边的维纳斯"
+      ],
+      "ml_flavor_text": [
+         "刺激的な貝殻ビキニスタイル。\n胸部分は取れやすいので要注意！",
+         "刺激的贝壳比基尼风格。\n胸部部分容易脱落，请注意！"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "ちょっと大胆だけど……\nこのくらい攻めていいよね！",
+         "虽然有点大胆...就这么进攻也可以吧！"
+      ],
+      "ml_get_message": [
+         "水着姿のボク、すっごくセクシーでしょ？\nいくらでも褒めてくれていいよー？　ばっちこい！",
+         "泳装打扮的我，非常性感吧？随便怎么夸我都行哦？放马过来吧！"
       ]
    },
    {

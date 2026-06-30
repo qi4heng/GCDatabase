@@ -172,5 +172,11 @@
         "effect_type": 2,
         "auto_release_condition": 2,
         "target_release_combine": 0
+    },
+    {
+        "id": 30,
+        "effect_type": 1,
+        "auto_release_condition": 3,
+        "target_release_combine": 0
     }
 ]

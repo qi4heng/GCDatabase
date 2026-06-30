@@ -2128,5 +2128,95 @@
         "sub_effect_id1": 63130018,
         "sell_price": 10656,
         "start_time": "2026-06-26 13:00:00"
+    },
+    {
+        "id": 4120144,
+        "ml_name": [
+            "夢幻美術館 開館1000日突破！",
+            "en"
+        ],
+        "index": "143",
+        "rarity": 5,
+        "image_index": 4120137,
+        "main_effect_id1": 55440029,
+        "main_effect_id2": 55440028,
+        "sub_effect_id1": 63130002,
+        "sell_price": 10656,
+        "start_time": "2026-06-30 13:00:00"
+    },
+    {
+        "id": 4120145,
+        "ml_name": [
+            "あなたと、星と、願いの夜",
+            "en"
+        ],
+        "index": "144",
+        "rarity": 4,
+        "image_index": 4120161,
+        "main_effect_id1": 54130002,
+        "main_effect_id2": 54130301,
+        "sub_effect_id1": 63130005,
+        "sell_price": 3552,
+        "start_time": "2026-06-30 13:00:00"
+    },
+    {
+        "id": 4120146,
+        "ml_name": [
+            "自責を背負って前に進む",
+            "en"
+        ],
+        "index": "145",
+        "rarity": 5,
+        "image_index": 4120177,
+        "main_effect_id1": 55130402,
+        "main_effect_id2": 55300003,
+        "sub_effect_id1": 63130002,
+        "sell_price": 10656,
+        "start_time": "2026-07-07 13:00:00"
+    },
+    {
+        "id": 4120147,
+        "ml_name": [
+            "水も滴る麗しのヴィーナス",
+            "en"
+        ],
+        "index": "146",
+        "rarity": 4,
+        "image_index": 4120162,
+        "main_effect_id1": 54130006,
+        "main_effect_id2": 54131402,
+        "sub_effect_id1": 63130006,
+        "sell_price": 3552,
+        "start_time": "2026-07-14 13:00:00"
+    },
+    {
+        "id": 4120148,
+        "ml_name": [
+            "わだかまりを超え、絆は新たに描かれる",
+            "en"
+        ],
+        "index": "147",
+        "rarity": 4,
+        "image_index": 4120163,
+        "main_effect_id1": 54130003,
+        "main_effect_id2": 54131701,
+        "sub_effect_id1": 63130013,
+        "sell_price": 3552,
+        "start_time": "2026-07-23 13:00:00"
+    },
+    {
+        "id": 4120149,
+        "ml_name": [
+            "喧嘩するほど似た者同士",
+            "en"
+        ],
+        "index": "148",
+        "rarity": 5,
+        "image_index": 4120057,
+        "main_effect_id1": 55130002,
+        "main_effect_id2": 55300004,
+        "sub_effect_id1": 63130016,
+        "sell_price": 10656,
+        "start_time": "2026-07-28 13:00:00"
     }
 ]

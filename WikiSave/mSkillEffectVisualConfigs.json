@@ -2650,5 +2650,18 @@
         "invoke_effect_id": 0,
         "invoke_unit_color": "",
         "view_unit_type": 0
+    },
+    {
+        "id": 205,
+        "effect_type": 11,
+        "effect_attributes": 30,
+        "ml_name": [
+            "停滞",
+            ""
+        ],
+        "image_index": 4018,
+        "invoke_effect_id": 66000,
+        "invoke_unit_color": "#210845",
+        "view_unit_type": 3
     }
 ]

@@ -2110,12 +2110,12 @@
       "rarity": 5,
       "image_index": 1110008,
       "ml_name": [
-         "再行動（行動回数＋[[effects_power_2]]）/不動/ターン開始時、攻撃デバフ解除",
+         "再行動（行動回数＋[[effects_power_2]]）/バトル開始時、自身に不動・雷シールド付与/ターン開始時、攻撃デバフ解除",
          ""
       ],
       "ml_description": [
-         "再行動（行動回数＋[[effects_power_2]]）/不動/ターン開始時、攻撃デバフ解除",
-         "再行动（行动次数＋[[effects_power_2]]）/不动/回合开始时，解除自身的攻击减益"
+         "再行動（行動回数＋[[effects_power_2]]）/バトル開始時、自身に不動・雷シールド付与/ターン開始時、攻撃デバフ解除",
+         "再行动（行动次数＋[[effects_power_2]]）/战斗开始时赋予自身不动·雷护盾/回合开始时，解除自身的攻击减益"
       ]
    },
    {
@@ -3757,6 +3757,84 @@
       ]
    },
    {
+      "id": 54131701,
+      "rarity": 4,
+      "image_index": 4131701,
+      "ml_name": [
+         "セッシュウ体力アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの体力[[effects_power]%]増加",
+         "雪舟的体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131702,
+      "rarity": 4,
+      "image_index": 4131702,
+      "ml_name": [
+         "セッシュウ攻撃アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの攻撃[[effects_power]%]増加",
+         "雪舟的攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131703,
+      "rarity": 4,
+      "image_index": 4131703,
+      "ml_name": [
+         "セッシュウ精神アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの精神[[effects_power]%]増加",
+         "雪舟的精神增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131704,
+      "rarity": 4,
+      "image_index": 4131704,
+      "ml_name": [
+         "セッシュウ防御アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの防御[[effects_power]%]増加",
+         "雪舟的防御增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131705,
+      "rarity": 4,
+      "image_index": 4131705,
+      "ml_name": [
+         "セッシュウ器用アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの器用[[effects_power]%]増加",
+         "雪舟的器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131706,
+      "rarity": 4,
+      "image_index": 4131706,
+      "ml_name": [
+         "セッシュウ敏捷アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "セッシュウの敏捷[[effects_power]%]増加",
+         "雪舟的敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
       "id": 55130101,
       "rarity": 5,
       "image_index": 4130101,
@@ -5002,84 +5080,6 @@
       "ml_description": [
          "ルノワールの敏捷[[effects_power]%]増加",
          "雷诺阿的敏捷增加[[effects_power]%]"
-      ]
-   },
-   {
-      "id": 54131701,
-      "rarity": 4,
-      "image_index": 4131701,
-      "ml_name": [
-         "セッシュウ体力アップ・中",
-         ""
-      ],
-      "ml_description": [
-         "セッシュウの体力[[effects_power]%]増加",
-         "雪舟的体力增加[[effects_power]%]"
-      ]
-   },
-   {
-      "id": 54131702,
-      "rarity": 4,
-      "image_index": 4131702,
-      "ml_name": [
-         "セッシュウ攻撃アップ・中",
-         ""
-      ],
-      "ml_description": [
-         "セッシュウの攻撃[[effects_power]%]増加",
-         "雪舟的攻击增加[[effects_power]%]"
-      ]
-   },
-   {
-      "id": 54131703,
-      "rarity": 4,
-      "image_index": 4131703,
-      "ml_name": [
-         "セッシュウ精神アップ・中",
-         ""
-      ],
-      "ml_description": [
-         "セッシュウの精神[[effects_power]%]増加",
-         "雪舟的精神增加[[effects_power]%]"
-      ]
-   },
-   {
-      "id": 54131704,
-      "rarity": 4,
-      "image_index": 4131704,
-      "ml_name": [
-         "セッシュウ防御アップ・中",
-         ""
-      ],
-      "ml_description": [
-         "セッシュウの防御[[effects_power]%]増加",
-         "雪舟的防御增加[[effects_power]%]"
-      ]
-   },
-   {
-      "id": 54131705,
-      "rarity": 4,
-      "image_index": 4131705,
-      "ml_name": [
-         "セッシュウ器用アップ・中",
-         ""
-      ],
-      "ml_description": [
-         "セッシュウの器用[[effects_power]%]増加",
-         "雪舟的器用增加[[effects_power]%]"
-      ]
-   },
-   {
-      "id": 54131706,
-      "rarity": 4,
-      "image_index": 4131706,
-      "ml_name": [
-         "セッシュウ敏捷アップ・中",
-         ""
-      ],
-      "ml_description": [
-         "セッシュウの敏捷[[effects_power]%]増加",
-         "雪舟的敏捷增加[[effects_power]%]"
       ]
    },
    {
@@ -6523,6 +6523,45 @@
       "ml_description": [
          "エネミーのカーマイン(赤)の防御+[[effects_power]%]",
          "红色属性敌方的防御+[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 75130025,
+      "rarity": 5,
+      "image_index": 1390001,
+      "ml_name": [
+         "赤属性有利＋（50%）",
+         ""
+      ],
+      "ml_description": [
+         "味方のカーマイン（赤）のビリジアン（緑）に対してのダメージ[[effects_power]%]上昇",
+         "红色属性己方对绿色属性目标造成的伤害提升[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 74130025,
+      "rarity": 4,
+      "image_index": 1130002,
+      "ml_name": [
+         "エネミーのビリジアン(緑)の攻撃+70%",
+         ""
+      ],
+      "ml_description": [
+         "エネミーのビリジアン(緑)の攻撃+[[effects_power]%]",
+         "绿色属性敌方的攻击+[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 73130025,
+      "rarity": 4,
+      "image_index": 1130004,
+      "ml_name": [
+         "エネミーのビリジアン(緑)の防御+40%",
+         ""
+      ],
+      "ml_description": [
+         "エネミーのビリジアン(緑)の防御+[[effects_power]%]",
+         "绿色属性敌方的防御+[[effects_power]%]"
       ]
    },
    {
@@ -7982,58 +8021,6 @@
       ]
    },
    {
-      "id": 43170101,
-      "rarity": 5,
-      "image_index": 1080000,
-      "ml_name": [
-         "精髄：【流浪の留学生】",
-         ""
-      ],
-      "ml_description": [
-         "系統：彫刻に対してダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加",
-         "对系统：雕刻造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]"
-      ]
-   },
-   {
-      "id": 44170201,
-      "rarity": 5,
-      "image_index": 1320000,
-      "ml_name": [
-         "精髄：【墨に五彩あり】",
-         ""
-      ],
-      "ml_description": [
-         "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]"
-      ]
-   },
-   {
-      "id": 45170301,
-      "rarity": 5,
-      "image_index": 1300000,
-      "ml_name": [
-         "精髄：【幽玄に至る境地】",
-         ""
-      ],
-      "ml_description": [
-         "物理エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/領域展開時自身の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "物理元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/领域展开时自身敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
-      ]
-   },
-   {
-      "id": 45121101,
-      "rarity": 5,
-      "image_index": 1150001,
-      "ml_name": [
-         "精髄：【願望のオルタ】",
-         ""
-      ],
-      "ml_description": [
-         "バトル開始時の熱情[[effects_power]]増加/水エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の最大体力[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・入魂ゲージ[[effects_power_5]]増加・拒絶付与",
-         "战斗开始时的热情增加[[effects_power]]/水元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的最大体力增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_4]]・入魂值增加[[effects_power_5]]・赋予自身拒绝"
-      ]
-   },
-   {
       "id": 45050401,
       "rarity": 5,
       "image_index": 1300001,
@@ -8265,6 +8252,84 @@
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/炎エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の体力[[effects_power_3]]増加・精神[[effects_power_4]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_5]]増加・入魂ゲージ[[effects_power_6]]増加・幻影付与",
          "战斗开始时的热情增加[[effects_power]]/火元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身体力增加[[effects_power_3]]・精神增加[[effects_power_4]%]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_5]]・入魂值增加[[effects_power_6]]・赋予幻影"
+      ]
+   },
+   {
+      "id": 43170101,
+      "rarity": 5,
+      "image_index": 1080000,
+      "ml_name": [
+         "精髄：【流浪の留学生】",
+         ""
+      ],
+      "ml_description": [
+         "系統：彫刻に対してダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加",
+         "对系统：雕刻造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]"
+      ]
+   },
+   {
+      "id": 44170201,
+      "rarity": 5,
+      "image_index": 1320000,
+      "ml_name": [
+         "精髄：【墨に五彩あり】",
+         ""
+      ],
+      "ml_description": [
+         "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加",
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]"
+      ]
+   },
+   {
+      "id": 45170301,
+      "rarity": 5,
+      "image_index": 1300000,
+      "ml_name": [
+         "精髄：【幽玄に至る境地】",
+         ""
+      ],
+      "ml_description": [
+         "物理エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/領域展開時自身の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
+         "物理元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/领域展开时自身敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+      ]
+   },
+   {
+      "id": 45121101,
+      "rarity": 5,
+      "image_index": 1150001,
+      "ml_name": [
+         "精髄：【願望のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "バトル開始時の熱情[[effects_power]]増加/水エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の最大体力[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・入魂ゲージ[[effects_power_5]]増加・拒絶付与",
+         "战斗开始时的热情增加[[effects_power]]/水元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的最大体力增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_4]]・入魂值增加[[effects_power_5]]・赋予自身拒绝"
+      ]
+   },
+   {
+      "id": 45091301,
+      "rarity": 5,
+      "image_index": 1150001,
+      "ml_name": [
+         "精髄：【停滞のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "バトル開始時の熱情[[effects_power]]増加/雷エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・不変付与・敵全体の器用[[effects_power_6]%]減少＜[[effects_turn_6]ターン]＞",
+         "战斗开始时的热情增加[[effects_power]]/雷元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_4]]・赋予自身不变・敌方全体的器用减少[[effects_power_6]%]＜[[effects_turn_6]回合]＞"
+      ]
+   },
+   {
+      "id": 45020701,
+      "rarity": 5,
+      "image_index": 1300002,
+      "ml_name": [
+         "精髄：【黒き羽、金の麦】",
+         ""
+      ],
+      "ml_description": [
+         "水エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、味方全員の幸運[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞",
+         "水元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技召唤放置物时，己方全员的幸运增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -8720,6 +8785,19 @@
       "ml_description": [
          "自身がデバフを受けた時、攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
          "自身受到减益效果时，攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
+      ]
+   },
+   {
+      "id": 80010913,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "至粋：【停滞のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "自身の技法または絶技効果でデバフ付与時、攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
+         "因自身技法或绝技效果赋予减益效果时，攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
       ]
    },
    {

@@ -1430,6 +1430,28 @@
       "source": "常驻商店兑换"
    },
    {
+      "id": 4110207,
+      "enhance_group_id": 25,
+      "disassemble_group_id": 125,
+      "rarity": 5,
+      "site_type": 2,
+      "unit_id": 2,
+      "lock_type": 2,
+      "reduce_element_type": 3,
+      "image_index": 4110207,
+      "country_type": 0,
+      "ml_name": [
+         "ゴッホのグローブ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ゴッホ【黒き羽、金の麦】が着用しているグローブ。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包（梵高生诞祭2026）"
+   },
+   {
       "id": 4110211,
       "enhance_group_id": 55,
       "disassemble_group_id": 202,
@@ -2330,6 +2352,28 @@
       ],
       "ml_effect_flavor": [],
       "source": "常驻商店兑换"
+   },
+   {
+      "id": 4110913,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 204,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 9,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4110913,
+      "country_type": 0,
+      "ml_name": [
+         "停滞の結晶杖",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるロダンの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
    },
    {
       "id": 4111001,

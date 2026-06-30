@@ -810,6 +810,81 @@
         "duration": 0
     },
     {
+        "id": 2058,
+        "ml_name": [
+            "カムバックログインボーナスキャンペーン 第5弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 6,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 500,
+        "start_time": "2026-06-30 13:30:00",
+        "end_time": "2026-09-01 03:59:59",
+        "comeback_span": 30,
+        "duration": 10
+    },
+    {
+        "id": 2059,
+        "ml_name": [
+            "GAMES水着ジャック記念ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 0,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 510,
+        "start_time": "2026-07-14 12:00:00",
+        "end_time": "2026-08-12 17:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2060,
+        "ml_name": [
+            "藝術の夏キャンペーンログインボーナス 第1弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 505,
+        "start_time": "2026-07-14 13:00:00",
+        "end_time": "2026-07-31 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2061,
+        "ml_name": [
+            "藝術の夏キャンペーンログインボーナス 第2弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 505,
+        "start_time": "2026-07-31 13:30:00",
+        "end_time": "2026-08-12 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2062,
+        "ml_name": [
+            "藝術の夏キャンペーンログインボーナス 第3弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 505,
+        "start_time": "2026-08-12 13:00:00",
+        "end_time": "2026-08-31 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2741,6 +2816,66 @@
         "priority": 201,
         "start_time": "2026-06-22 13:00:00",
         "end_time": "2026-06-30 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13331,
+        "ml_name": [
+            "短冊に願いを込めてログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-06-30 13:30:00",
+        "end_time": "2026-07-15 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13237,
+        "ml_name": [
+            "休暇はナイトプールと共にログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-07-14 13:00:00",
+        "end_time": "2026-07-26 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13609,
+        "ml_name": [
+            "永遠の真理、停滞の安寧ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-07-20 13:00:00",
+        "end_time": "2026-07-28 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 15014,
+        "ml_name": [
+            "落涙が紡ぐ想いログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-07-23 13:00:00",
+        "end_time": "2026-07-31 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

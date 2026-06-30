@@ -6076,7 +6076,7 @@
       "ml_name": [
          "ディアナ",
          "en",
-         "戴安娜"
+         "狄安娜"
       ],
       "level_group_id": 5,
       "rarity": 5,
@@ -6121,7 +6121,7 @@
       "ml_roots": [
          "水浴のディアナ",
          "en",
-         "戴安娜出浴",
+         "狄安娜出浴",
          "<span lang=\"fr\">Diane sortant du bain</span>"
       ],
       "ml_get_message": [
@@ -6139,6 +6139,75 @@
       "creator_nation": "法国",
       "created_date": "1742",
       "museum": "卢浮宫博物馆（法国）"
+   },
+   {
+      "id": 4020093,
+      "ml_name": [
+         "チューコ",
+         "en",
+         "啾子"
+      ],
+      "level_group_id": 5,
+      "rarity": 5,
+      "weapon_type": 2,
+      "buff_skill_id": 25093001,
+      "attack_skill_id": 15093001,
+      "ultimate_skill_id": 35093001,
+      "fusion_skill_id": 44200001,
+      "change_turn": 3,
+      "image_index": 4020093,
+      "sound_index": 4020093,
+      "ml_personality": [
+         "性格",
+         "en"
+      ],
+      "ml_birthday": [
+         "99/99",
+         "en"
+      ],
+      "ml_height": [
+         "157cm",
+         "en"
+      ],
+      "ml_size": [
+         "B73・W55・H75",
+         "en"
+      ],
+      "unit_id": 1,
+      "ml_cv_name": [
+         "山田花子",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "幼き藝術家が寂しさと恐怖で流した涙で描かれた\nネズミの絵から生まれたイマージュ。\n主に完全に受け入れてもらうまでは涙が乾くまでの\n刹那しか顕現できなかったが、主の心の成長を経て、\nようやく主を常に守護する願いがはたせるようになる。",
+         "en",
+         "由年幼的艺术家在寂寞与恐惧中流下的泪水所绘制的老鼠画作中诞生的意象。\n在未被主人完全接纳之前，它只能在泪水干涸前的刹那显现，\n但随着主人内心的成长，它终于得以实现永远守护主人的愿望。"
+      ],
+      "ml_illustrator_name": [
+         "未記入",
+         "en"
+      ],
+      "ml_roots": [
+         "落涙の鼠",
+         "en",
+         "泪鼠（虚构）",
+         "<span lang=\"ja\">落涙の鼠</span>"
+      ],
+      "ml_get_message": [
+         "チューコ、馳せ参じました。\n美術館のため、どうぞこの身をいかようにもお使いくださいませ。",
+         "en",
+         "啾子，奉命前来。为了美术馆，请随意差遣此身。"
+      ],
+      "favorite_type": 2,
+      "start_time": "2026-07-23 13:00:00",
+      "adult_no_voice": 0,
+      "ml_creator": [
+         "雪舟等杨",
+         "<span lang=\"ja\">雪舟等楊</span>"
+      ],
+      "creator_nation": "日本",
+      "created_date": "不明",
+      "museum": ""
    },
    {
       "id": 99910,

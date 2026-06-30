@@ -425,6 +425,31 @@
         "is_visible": false
     },
     {
+        "id": 1010018,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※8/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-07-20 13:00:00",
+        "end_time": "2026-08-07 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1015001,
         "item_type": 101,
         "value1": 120,
@@ -747,6 +772,31 @@
         ],
         "start_time": "2026-06-22 13:00:00",
         "end_time": "2026-06-30 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1015014,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※7/31まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-07-23 13:00:00",
+        "end_time": "2026-07-31 23:59:59",
         "is_visible": false
     },
     {
@@ -1175,6 +1225,31 @@
         "is_visible": false
     },
     {
+        "id": 1020018,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※8/7まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-07-20 13:00:00",
+        "end_time": "2026-08-07 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1025001,
         "item_type": 102,
         "value1": 12,
@@ -1497,6 +1572,31 @@
         ],
         "start_time": "2026-06-22 13:00:00",
         "end_time": "2026-06-30 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1025014,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※7/31まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-07-23 13:00:00",
+        "end_time": "2026-07-31 23:59:59",
         "is_visible": false
     },
     {
@@ -4125,6 +4225,31 @@
         "is_visible": false
     },
     {
+        "id": 1120313,
+        "item_type": 112,
+        "value1": 4010313,
+        "value2": 0,
+        "sort": 65,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120313,
+        "ml_name": [
+            "【逢瀬は星河の下で】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ドナテッロの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120401,
         "item_type": 112,
         "value1": 4010401,
@@ -4985,6 +5110,31 @@
         "image_index": 1120612,
         "ml_name": [
             "【子ウサギの招待】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "レンブラントの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120613,
+        "item_type": 112,
+        "value1": 4010613,
+        "value2": 0,
+        "sort": 81,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120613,
+        "ml_name": [
+            "【祭夜の狙撃手】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -5900,6 +6050,31 @@
         "is_visible": false
     },
     {
+        "id": 1120913,
+        "item_type": 112,
+        "value1": 4010913,
+        "value2": 0,
+        "sort": 97,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120913,
+        "ml_name": [
+            "【停滞のオルタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ロダンの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121001,
         "item_type": 112,
         "value1": 4011001,
@@ -6475,6 +6650,31 @@
         "is_visible": false
     },
     {
+        "id": 1121111,
+        "item_type": 112,
+        "value1": 4011111,
+        "value2": 0,
+        "sort": 107,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121111,
+        "ml_name": [
+            "【ヌーディーナイト】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "フェルメールの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121201,
         "item_type": 112,
         "value1": 4011201,
@@ -7025,6 +7225,31 @@
         "is_visible": false
     },
     {
+        "id": 1121312,
+        "item_type": 112,
+        "value1": 4011312,
+        "value2": 0,
+        "sort": 117,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121312,
+        "ml_name": [
+            "【薫風をまとって】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セザンヌの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121401,
         "item_type": 112,
         "value1": 4011401,
@@ -7210,6 +7435,31 @@
         "image_index": 1121408,
         "ml_name": [
             "【輝けヒトツボシ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボッティチェリの新たな才能を引き出すと言われているオーブ\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121409,
+        "item_type": 112,
+        "value1": 4011409,
+        "value2": 0,
+        "sort": 124,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121409,
+        "ml_name": [
+            "【渚のヴィーナス】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -9097,6 +9347,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-06-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1140010,
+        "item_type": 112,
+        "value1": 0,
+        "value2": 0,
+        "sort": 162,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1140001,
+        "ml_name": [
+            "無名のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "特定のオーブと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-14 12:59:59",
         "is_visible": false
     },
     {
@@ -14043,6 +14318,56 @@
         ],
         "ml_flavor_text": [
             "パジャマパーティーの物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1511120,
+        "item_type": 151,
+        "value1": 731,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511120,
+        "ml_name": [
+            "ストーリーキー【短冊に願いを込めて】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「短冊に願いを込めて」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "七夕の物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1511121,
+        "item_type": 151,
+        "value1": 437,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511121,
+        "ml_name": [
+            "ストーリーキー【休暇はナイトプールと共に】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「休暇はナイトプールと共に」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ナイトプールで過ごす物語の扉を開くための鍵。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -19475,6 +19800,206 @@
         "is_visible": false
     },
     {
+        "id": 1630223,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630223,
+        "ml_name": [
+            "短冊に願いを込めてガチャチケットA",
+            "EN"
+        ],
+        "ml_description": [
+            "短冊に願いを込めてピックアップガチャAを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-15 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630225,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630225,
+        "ml_name": [
+            "休暇はナイトプールと共にガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "休暇はナイトプールと共にピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-26 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630226,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630142,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～ロダン～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～ロダン～を1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-28 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630227,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630100,
+        "ml_name": [
+            "イマージュ復刻ピックアップガチャチケット22",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきイマージュ復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イマージュ復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-24 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630228,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630220,
+        "ml_name": [
+            "アナザーサイド復刻ガチャチケット2",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきアナザーサイド復刻ガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アナザーサイド復刻ガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-13 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630229,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット38",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630230,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630230,
+        "ml_name": [
+            "落涙が紡ぐ想いガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "落涙が紡ぐ想いピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-02 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630233,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630129,
+        "ml_name": [
+            "藝術の夏ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "藝術の夏チケットガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "藝術の夏チケットガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-31 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1640002,
         "item_type": 162,
         "value1": 0,
@@ -24425,6 +24950,356 @@
         "is_visible": false
     },
     {
+        "id": 1640205,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640205,
+        "ml_name": [
+            "短冊に願いを込めてのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で短冊に願いを込めてピックアップガチャAのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-17 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640206,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640206,
+        "ml_name": [
+            "スタイル復刻のしおり38",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-18 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640207,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640064,
+        "ml_name": [
+            "★5スタイルのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640208,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640065,
+        "ml_name": [
+            "★5イマージュのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5イマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640209,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640209,
+        "ml_name": [
+            "休暇はナイトプールと共にのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で休暇はナイトプールと共にピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-28 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640210,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640210,
+        "ml_name": [
+            "イマージュ復刻のしおり22",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でイマージュ復刻ピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-26 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640211,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640211,
+        "ml_name": [
+            "藝術の夏5ステップアップのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で2025年8月までにリリースされた★5キャラクター(一部除く)と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-09-02 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640212,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640212,
+        "ml_name": [
+            "藝術の夏5ステップアップのしおりSP",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で2025年8月までにリリースされた★5キャラクター＋オルタ(一部除く)と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-09-02 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640213,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640213,
+        "ml_name": [
+            "落涙が紡ぐ想いのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で落涙が紡ぐ想いピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-04 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640214,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640006,
+        "ml_name": [
+            "レイド応援のしおり青",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5キャラクターと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-02 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640216,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640104,
+        "ml_name": [
+            "★5スタイルのしおり（藝術の夏）",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-14 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640217,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640105,
+        "ml_name": [
+            "★5イマージュのしおり（藝術の夏）",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5イマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-14 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640218,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640104,
+        "ml_name": [
+            "★5スタイルのしおり（藝術の夏）",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-09-02 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640219,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640105,
+        "ml_name": [
+            "★5イマージュのしおり（藝術の夏）",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5イマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-09-02 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650000,
         "item_type": 801,
         "value1": 3200,
@@ -28050,6 +28925,81 @@
         "is_visible": false
     },
     {
+        "id": 1650148,
+        "item_type": 801,
+        "value1": 3331,
+        "value2": 0,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650148,
+        "ml_name": [
+            "願いを馳せる短冊",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「短冊に願いを込めて」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "七夕の夜、笹の葉に吊るして願いを託すための紙片。\n星々に想いが届くよう、多くの人が切なる願いをしたためる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650149,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3331,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650149,
+        "ml_name": [
+            "祈りを乗せる笹船",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「短冊に願いを込めて」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "祈りを込めて水に放たれる、笹の葉を編んで作られた小舟。\n穢れを払い、遠い彼方まで願いを運ぶと信じられている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650150,
+        "item_type": 801,
+        "value1": 3237,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650150,
+        "ml_name": [
+            "輝く真珠のレプリカ",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「休暇はナイトプールと共に」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "海の恵みが生んだ輝きを、人の手によって再現した瞬く珠。\n本物のような輝きを持ち、衣装の装飾などに重宝されている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650151,
         "item_type": 801,
         "value1": 3232,
@@ -28093,6 +29043,31 @@
         ],
         "ml_flavor_text": [
             "謎のクマロボ集団が落としていったメダル。\n一見本物の硬貨のようだが、実はおもちゃのように軽いのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650153,
+        "item_type": 803,
+        "value1": 5014,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650084,
+        "ml_name": [
+            "死の結晶・赤",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「落涙が紡ぐ想い【P.C.】」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -29375,6 +30350,31 @@
         "is_visible": false
     },
     {
+        "id": 1661014,
+        "item_type": 171,
+        "value1": 5014,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1661001,
+        "ml_name": [
+            "レイド挑戦券",
+            "EN"
+        ],
+        "ml_description": [
+            "レイドイベント「落涙が紡ぐ想い」に挑戦するために必要となる挑戦券。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大規模な戦闘に挑戦するために必要となるスクロール。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1670002,
         "item_type": 703,
         "value1": 0,
@@ -29572,6 +30572,81 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2025-07-31 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1670010,
+        "item_type": 703,
+        "value1": 0,
+        "value2": 0,
+        "sort": 261,
+        "is_visible_quest_detail": 0,
+        "rarity": 3,
+        "image_index": 1670003,
+        "ml_name": [
+            "藝術の夏CPメダル1",
+            "EN"
+        ],
+        "ml_description": [
+            "藝術の夏キャンペーン第1弾のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当キャンペーンで開かれるボックスガチャを引くことができるメダル。\n弓矢の様な意匠が刻まれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-07-31 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1670011,
+        "item_type": 703,
+        "value1": 0,
+        "value2": 0,
+        "sort": 261,
+        "is_visible_quest_detail": 0,
+        "rarity": 3,
+        "image_index": 1670005,
+        "ml_name": [
+            "藝術の夏CPメダル2",
+            "EN"
+        ],
+        "ml_description": [
+            "藝術の夏キャンペーン第2弾のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当キャンペーンで開かれるボックスガチャを引くことができるメダル。\n弓矢の様な意匠が刻まれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-12 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1670012,
+        "item_type": 703,
+        "value1": 0,
+        "value2": 0,
+        "sort": 261,
+        "is_visible_quest_detail": 0,
+        "rarity": 3,
+        "image_index": 1670006,
+        "ml_name": [
+            "藝術の夏CPメダル3",
+            "EN"
+        ],
+        "ml_description": [
+            "藝術の夏キャンペーン第3弾のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当キャンペーンで開かれるボックスガチャを引くことができるメダル。\n弓矢の様な意匠が刻まれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-08-31 12:59:59",
         "is_visible": false
     },
     {

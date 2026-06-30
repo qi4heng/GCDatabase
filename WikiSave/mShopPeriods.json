@@ -158,5 +158,29 @@
         "receive_days": 5,
         "period_days": 11,
         "is_stackable": 1
+    },
+    {
+        "id": 21,
+        "m_shop_product_id": 1544,
+        "mission_condition_id": 410165,
+        "receive_days": 5,
+        "period_days": 11,
+        "is_stackable": 1
+    },
+    {
+        "id": 22,
+        "m_shop_product_id": 1569,
+        "mission_condition_id": 410170,
+        "receive_days": 5,
+        "period_days": 11,
+        "is_stackable": 1
+    },
+    {
+        "id": 23,
+        "m_shop_product_id": 1573,
+        "mission_condition_id": 410175,
+        "receive_days": 5,
+        "period_days": 11,
+        "is_stackable": 1
     }
 ]

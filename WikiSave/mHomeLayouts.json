@@ -814,5 +814,21 @@
         "order": 40,
         "image_index": 4120056,
         "start_time": "2026-06-26 13:00:00"
+    },
+    {
+        "id": 3013,
+        "type": 3,
+        "name": "喧嘩するほど似た者同士",
+        "ml_name": [
+            ""
+        ],
+        "asset": "emv_10010505_10",
+        "consume_item_type": 0,
+        "consume_item_id": 0,
+        "price": 0,
+        "condition_memory_id": 4120149,
+        "order": 50,
+        "image_index": 4120057,
+        "start_time": "2026-07-28 13:00:00"
     }
 ]

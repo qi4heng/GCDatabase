@@ -24206,5 +24206,277 @@
         "start_time": "2022-08-01 00:00:00",
         "end_time": "2030-08-01 23:59:59",
         "subunit_id": 4020091
+    },
+    {
+        "id": 1473,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020093_1400",
+        "ml_word": [
+            "館長様、おかえりなさいませ。\n美術館は今日も賑やかで平和ですよ。\nもちろん、わたちも平和維持に努めています。\n怪しい輩は１匹たりとも通しません！",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1474,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020093_1410",
+        "ml_word": [
+            "ふむふむ、なるほど……あ、館長様。\n今、お客様から景色の良い場所を教わっていたのです。\nセッシュウ様が風景画を描く時の候補になるかと。\n喜んでいただけるといいのですが。",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1475,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020093_1420",
+        "ml_word": [
+            "もし今度、わたちが活躍したら……\nご褒美にチーズをひとついただいても\nよろしいですか？　\nなにを隠そう大好物なので、それだけで頑張れます！",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1476,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020093_1430",
+        "ml_word": [
+            "ひ、火は怖いのです。\nですが、家事はセッシュウ様のお役に立つため\n必須と言っていいもの。\nどうにか克服したいのです……！",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1477,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020093_1440",
+        "ml_word": [
+            "死の芸術は、度々皆様の平穏を脅かします。\nですが、ご安心ください。このチューコ、\n悪しき者を悉く斬り捨ててごらんにいれます。",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1478,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4020093_1450",
+        "ml_word": [
+            "なにかセッシュウ様や\n館長様のお役に立てることはないものか……。\n暇というのはどうにも苦手でちゅ。",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1479,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020093_1460",
+        "ml_word": [
+            "あけましておめでとうございます、館長様！\n館長様と新年を迎えられるとは、わたちは果報者です。\nささ、セッシュウ様と共に初詣に参りましょう！",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1480,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020093_1470",
+        "ml_word": [
+            "評判の店でチョコレートを買って参りました。\n館長様、どうぞ召し上がってください。\n本当は手作りしたかったのですが、\nわたちが火を扱うと厨房が大惨事になりますので……。",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1481,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020093_1480",
+        "ml_word": [
+            "子供のためのお祭りとは、素晴らしいですね。\nあの少年少女たちを楽しませるためなら、\nチューコは甘んじてイタズラされましょう！\nさあ、どこからでもかかってきなさい！",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1482,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020093_1490",
+        "ml_word": [
+            "いよいよ聖夜ですね！\n前々からセッシュウ様にプレゼントを用意していたので\nこの日を待ち侘びていました……！\n気付かれないように枕元に置かなくては……！",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1483,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020093_1500",
+        "ml_word": [
+            "時は瞬く間に過ぎていきますね。\n振り返れば、この１年も色んなことがありました。\n館長様とセッシュウ様がずっと隣にいてくださって、\nわたちはとても良い１年でしたよ。ふふっ。",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1484,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020093_1510",
+        "ml_word": [
+            "館長様、お誕生日おめでとうございます！\n今日は館長様だけの特別なお祝いの日でちゅからね。\n館長様のお願いをなんでも聞きますので、\nわたちに申し付けください！",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1485,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020093_1520",
+        "ml_word": [
+            "館長様、お呼びですか？\nこのチューコ、館長様のご命令とあらば、\nいつでも出撃する準備はできておりますよ。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1486,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020093_1530",
+        "ml_word": [
+            "セッシュウ様のお世話を焼いていたら、\n過保護だと怒られてしまいました……。\n決して子供扱いしているつもりはないのですが、\nセッシュウ様のお心は繊細で難しいです……。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1487,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4020093_1540",
+        "ml_word": [
+            "セッシュウ様はお胸が大きすぎて悩んでおられますが、\nわたちは理想よりも小さくて悩んでおります……。\n足して２で割れないものでしょうか……？",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
+    },
+    {
+        "id": 1488,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4020093_1550",
+        "ml_word": [
+            "ひゃうんっ！？\nか、館長様、なぜ急に触ってこられたのです……？\nこれはもしや、訓練の一環でしょうか？",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020093
     }
 ]
