@@ -2106,6 +2106,32 @@
         "close_time": "2026-07-28 12:59:59"
     },
     {
+        "id": 3238,
+        "ml_title": [
+            "逆境ミラクルアタック！",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 438,
+        "top_character_id": 4010113,
+        "top_background_image": "3009012",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3238,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1162,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6015,
+        "latter_half_shop_category_id": 0,
+        "priority": 137,
+        "banner_image_index": 13238,
+        "start_time": "2026-08-12 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-08-25 12:59:59",
+        "close_time": "2026-08-27 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",
@@ -2912,6 +2938,32 @@
         "close_time": "2026-07-17 12:59:59"
     },
     {
+        "id": 3332,
+        "ml_title": [
+            "館長争奪！？アテネス水着コンテスト",
+            ""
+        ],
+        "event_type": 3,
+        "m_quest_id": 732,
+        "top_character_id": 4010812,
+        "top_background_image": "3009000",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3332,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3300,
+        "m_event_top_ranking_group_id": 3300,
+        "m_gacha_group_id": 1158,
+        "latter_half_gacha_group_id": 1160,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 136,
+        "banner_image_index": 13332,
+        "start_time": "2026-07-31 13:30:00",
+        "latter_half_start_time": "2026-08-04 13:00:00",
+        "end_time": "2026-08-13 12:59:59",
+        "close_time": "2026-08-15 12:59:59"
+    },
+    {
         "id": 3601,
         "ml_title": [
             "【A.S.】ありえない出会いと最初の試練",
@@ -3144,6 +3196,32 @@
         "latter_half_start_time": "",
         "end_time": "2026-07-28 12:59:59",
         "close_time": "2026-07-30 12:59:59"
+    },
+    {
+        "id": 3610,
+        "ml_title": [
+            "【A.S.】孤高の矜持、怒りの鉄槌",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1109,
+        "top_character_id": 4010512,
+        "top_background_image": "3006400",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3610,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1164,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 138,
+        "banner_image_index": 13610,
+        "start_time": "2026-08-19 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-08-27 12:59:59",
+        "close_time": "2026-08-29 12:59:59"
     },
     {
         "id": 5001,
@@ -3508,5 +3586,31 @@
         "latter_half_start_time": "",
         "end_time": "2026-07-31 12:59:59",
         "close_time": "2026-08-02 12:59:59"
+    },
+    {
+        "id": 5015,
+        "ml_title": [
+            "フィオレンツァの夏休み【P.C.】",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 615,
+        "top_character_id": 4020095,
+        "top_background_image": "3009000",
+        "m_event_bgm_setting_id": 2,
+        "m_event_bonus_group_id": 5015,
+        "m_event_point_group_id": 5015,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3110,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6018,
+        "latter_half_shop_category_id": 0,
+        "priority": 139,
+        "banner_image_index": 15015,
+        "start_time": "2026-08-23 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-08-31 12:59:59",
+        "close_time": "2026-09-02 12:59:59"
     }
 ]

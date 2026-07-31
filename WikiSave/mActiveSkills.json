@@ -1441,7 +1441,7 @@
       ],
       "ml_description": [
          "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/系統：絵画にダメージ[[side_effects_power_1]%]上昇/1ターン前に自身が技法使用していたら威力[[side_effects_power_2]%]上昇/自身に<help=move>移動</help>[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞/ビリジアンの近くの味方1人に<help=move>移動</help>[[side_effects_power_4]]増加＜[[side_effects_turn_4]ターン]＞/敵撃破時にこの技法の<help=cool_time>クールタイム</help>[[side_effects_power_5]]短縮",
-         "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/对系统：绘画造成的伤害提升[[side_effects_power_1]%]/若1回合前自身使用了技法则威力提升[[side_effects_power_2]%]/自身的<help=move>移动</help>增加[[side_effects_power_3]]＜[[side_effects_turn_3]回合]＞/绿色属性的附近的己方1人<help=move>移动</help>増加[[side_effects_power_4]]＜[[side_effects_turn_4]回合]＞/击破敌方时该技法的<help=cool_time>冷却时间</help>缩短[[side_effects_power_5]]"
+         "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/对系统：绘画造成的伤害提升[[side_effects_power_1]%]/若1回合前自身使用了技法则威力提升[[side_effects_power_2]%]/自身的<help=move>移动</help>增加[[side_effects_power_3]]＜[[side_effects_turn_3]回合]＞/绿色属性的附近己方1人<help=move>移动</help>増加[[side_effects_power_4]]＜[[side_effects_turn_4]回合]＞/击破敌方时该技法的<help=cool_time>冷却时间</help>缩短[[side_effects_power_5]]"
       ]
    },
    {
@@ -1654,6 +1654,182 @@
       "ml_description": [
          "威力[[main_effects_power_1]%]/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>/アイボリーの味方全員に<help=offence>攻撃</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)/",
          "威力[[main_effects_power_1]%]/将命中目标<help=knock_back>弹飞</help>[[side_effects_power_1]]格/赋予白色属性的己方全体<help=offence>攻击</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）"
+      ]
+   },
+   {
+      "id": 10113001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 10113001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 20113001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "7800",
+      "need_passion": 130,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 183,
+      "usable_times": 0,
+      "timeline_id": 20113001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 5,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "サンシャインアタック",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/自身の技法・絶技発動回数に応じてダメージ[[side_effects_power_1]%]上昇（上限[[effect_attributes_1_1]]回）/命中対象を[[side_effects_power_2]]マス<help=knock_back>弾き飛ばし</help>/自身に<help=offence>攻撃</help>[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞(重複可)/自身に入魂ゲージ[[side_effects_power_4]]増加",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/根据自身技法·绝技的发动次数伤害提升[[side_effects_power_1]%]（最多[[effect_attributes_1_1]]次）/将命中目标<help=knock_back>弹飞</help>[[side_effects_power_2]]格/自身<help=offence>攻击</help>增加[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞（可叠加）/自身入魂值增加[[side_effects_power_4]]"
+      ]
+   },
+   {
+      "id": 20113002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "7100",
+      "need_passion": 125,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 3,
+      "range_ids": "0",
+      "effect_range_id": 131,
+      "usable_times": 0,
+      "timeline_id": 20113002,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 5,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ウォーミングアップ",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/攻撃対象が少ないほどダメージ上昇（最大[[side_effects_power_1]%]）/ボスエネミーにダメージ[[side_effects_power_2]%]上昇/命中対象に確率で<help=stun>気絶</help>付与＜[[side_effects_turn_3]ターン]＞/[[side_rate_4]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）/技法（+[[effect_attributes_5_3]]）・絶技（+[[effect_attributes_5_4]]）の発動カウント合計（[[effect_attributes_5_2]]）で[[Askill_name_20113003]]に変化",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/攻击目标越少伤害越高（最高[[side_effects_power_1]%]）/对首领敌人的伤害提升[[side_effects_power_2]%]/概率赋予命中目标<help=stun>气绝</help>＜[[side_effects_turn_3]回合]＞/以[[side_rate_4]%]的概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）/根据技法（+[[effect_attributes_5_3]]）・绝技（+[[effect_attributes_5_4]]）的发动计数合计（[[effect_attributes_5_2]]）变化为[[Askill_name_20113003]]"
+      ]
+   },
+   {
+      "id": 20113003,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "7100",
+      "need_passion": 135,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 133,
+      "usable_times": 0,
+      "timeline_id": 20113002,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 5,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "オーバーハンドサーブ",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/ボスエネミーにダメージ[[side_effects_power_1]%]上昇/1ターン前に自身が技法使用していたら威力[[side_effects_power_2]%]上昇/命中対象に確率で<help=stun>気絶</help>付与＜[[side_effects_turn_3]ターン]＞/敵撃破時に[[side_rate_4]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで）/敵撃破時に入魂ゲージ100%以上ならば入魂発動/技法発動後[[Askill_name_20113002]]に変化",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/对首领敌人的伤害提升[[side_effects_power_1]%]/若1回合前自身使用了技法则威力提升[[side_effects_power_2]%]/概率赋予命中目标<help=stun>气绝</help>＜[[side_effects_turn_3]回合]＞/击破敌方时以[[side_rate_4]%]的概率<help=re_action>再行动</help>（每回合最多1次）/击破敌方时若入魂值在100%以上则发动入魂/发动技法后变化为[[Askill_name_20113002]]"
+      ]
+   },
+   {
+      "id": 30113001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "1306",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 30113001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ビーチクイーンの",
+         ""
+      ],
+      "ml_name2": [
+         "君臨",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>/<help=stun>気絶</help>状態ならダメージ[[side_effects_power_2]%]上昇/自身に<help=cool_time>クールタイム</help>[[side_effects_power_3]]短縮/バイオレットの味方全員に<help=agility>敏捷</help>[[side_effects_power_4]%]増加＜[[side_effects_turn_4]ターン]＞(重複可)/",
+         "威力[[main_effects_power_1]%]/将命中目标<help=knock_back>弹飞</help>[[side_effects_power_1]]格/若目标处于<help=stun>气绝</help>状态则伤害提升[[side_effects_power_2]%]/自身的<help=cool_time>冷却时间</help>缩短[[side_effects_power_3]]/赋予紫色属性的己方全员<help=agility>敏捷</help>增加[[side_effects_power_4]%]＜[[side_effects_turn_4]回合]＞（可叠加）/"
       ]
    },
    {
@@ -8284,6 +8460,147 @@
       ]
    },
    {
+      "id": 10512001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 10512001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 20512001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "4300",
+      "need_passion": 125,
+      "use_passion": 25,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 104,
+      "usable_times": 0,
+      "timeline_id": 20512001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "スクリューストーム",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/熱情消費[[use_passion]]/<help=move_position>位置移動（直線）</help>/自身に<help=move>移動</help>[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞・<help=critical>必殺</help>[[side_effects_power_4]]増加＜[[side_effects_turn_4]ターン]＞（解除不可・重複可）/[[side_rate_5]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）/敵撃破時に入魂ゲージ100%以上ならば入魂発動",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/消耗热情[[use_passion]]/进行<help=move_position>位置移动（直线）</help>/自身<help=move>移动</help>增加[[side_effects_power_3]]＜[[side_effects_turn_3]回合]＞・<help=critical>必杀</help>增加[[side_effects_power_4]]＜[[side_effects_turn_4]回合]＞（不可解除・可叠加）/以[[side_rate_5]%]的概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）/击破敌方时若入魂值在100%以上则发动入魂"
+      ]
+   },
+   {
+      "id": 20512002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "1102",
+      "need_passion": 120,
+      "use_passion": 20,
+      "gain_gauge": 5,
+      "cool_times": "3",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 133,
+      "usable_times": 0,
+      "timeline_id": 20512002,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "イン・レヴァーレ",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/熱情消費[[use_passion]]/<help=object>オブジェクト</help>に威力[[side_effects_power_1]%]増加/自身に最大<help=constitution>体力</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞(重複可)/自身に<help=constitution>体力</help>[[side_effects_power_3]%]回復/自身に<help=blue_moon>水月</help>付与/自身に入魂ゲージ[[side_effects_power_5]]増加/バイオレットの近くの味方1人に入魂ゲージ[[side_effects_power_6]]増加",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/消耗热情[[use_passion]]/对<help=object>放置物</help>威力增加[[side_effects_power_1]%]/自身最大<help=constitution>体力</help>增加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞（可叠加）/自身体力回复[[side_effects_power_3]%]/赋予自身<help=blue_moon>水月</help>/自身入魂值增加[[side_effects_power_5]]/紫色属性的附近一名己方入魂值增加[[side_effects_power_6]]"
+      ]
+   },
+   {
+      "id": 30512001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "7200",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 30512001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "憤怒奔流の",
+         ""
+      ],
+      "ml_name2": [
+         "オーディアル",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/自身に<help=passion>熱情</help>[[side_effects_power_1]]増加/自身に<help=defence>防御</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)・<help=endure>忍耐</help>付与/[[Askill_name_20512001]]の<help=cool_time>クールタイム</help>[[side_effects_power_4]]短縮/",
+         "威力[[main_effects_power_1]%]/自身<help=passion>热情</help>增加[[side_effects_power_1]]/自身<help=defence>防御</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）・赋予自身<help=endure>忍耐</help>/[[Askill_name_20512001]]的<help=cool_time>冷却时间</help>缩短[[side_effects_power_4]]/"
+      ]
+   },
+   {
       "id": 10601001,
       "type": 1,
       "rarity": 3,
@@ -13395,6 +13712,147 @@
       ]
    },
    {
+      "id": 10812001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 10812001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 20812001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "6300",
+      "need_passion": 130,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 1,
+      "range_end_point": 3,
+      "range_ids": "0",
+      "effect_range_id": 131,
+      "usable_times": 0,
+      "timeline_id": 20812001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ヨーソロー！",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/系統：芸道にダメージ[[side_effects_power_1]%]上昇/オブジェクト召喚を使用するたびにダメージ[[side_effects_power_2]%]上昇（上限[[effect_attributes_2_1]]回）/フォーム付与を使用するたびにダメージ[[side_effects_power_3]%]上昇（上限[[effect_attributes_3_1]]回）/<help=soul get>ソウル回収</help>",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/对系统：艺道造成的伤害提升[[side_effects_power_1]%]/每当使用放置物召唤时伤害提升[[side_effects_power_2]%]（最多[[effect_attributes_2_1]]次）/每当使用形态赋予时伤害提升[[side_effects_power_3]%]（最多[[effect_attributes_3_1]]次）/进行<help=soul get>魂球回收</help>"
+      ]
+   },
+   {
+      "id": 20812002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "0901",
+      "need_passion": 120,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 2,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 142,
+      "usable_times": 0,
+      "timeline_id": 20812002,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "全速前進！",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/自身に<help=water_form>水フォーム</help>付与/「[[ml_name_2]]」召喚（最大[[side_effects_power_2]]）/命中対象に<help=agility>敏捷</help>[[side_effects_power_3]%]減少＜[[side_effects_turn_3]ターン]＞・<help=evasion>回避</help>[[side_effects_power_4]]減少＜[[side_effects_turn_4]ターン]＞/[[side_rate_5]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/赋予自身<help=water_form>水形态</help>/召唤「[[ml_name_2]]」（最多[[side_effects_power_2]]个）/使命中目标的<help=agility>敏捷</help>减少[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞・<help=evasion>回避</help>减少[[side_effects_power_4]]＜[[side_effects_turn_4]回合]＞/以[[side_rate_5]%]的概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）"
+      ]
+   },
+   {
+      "id": 30812001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "7200",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 30812001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "海図なき",
+         ""
+      ],
+      "ml_name2": [
+         "航海へ",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/自身に入魂ゲージ[[side_effects_power_1]]増加/命中対象に<help=will>精神</help>・<help=dexterity>器用</help>[[side_effects_power_2]%]減少＜[[side_effects_turn_2]ターン]＞/自身と近くの味方2人に<help=water_form>水フォーム</help>付与/[[Askill_name_20812001]]の<help=cool_time>クールタイム</help>[[side_effects_power_4]]短縮/",
+         "威力[[main_effects_power_1]%]/自身入魂值增加[[side_effects_power_1]]/使命中目标的<help=will>精神</help>・<help=dexterity>器用</help>减少[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞/赋予自身和附近的2名己方<help=water_form>水形态</help>/[[Askill_name_20812001]]的<help=cool_time>冷却时间</help>缩短[[side_effects_power_4]]/"
+      ]
+   },
+   {
       "id": 10901001,
       "type": 1,
       "rarity": 3,
@@ -16951,7 +17409,7 @@
       ],
       "ml_description": [
          "敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/<help=sleep>睡眠</help>状態ならダメージ[[side_effects_power_1]%]上昇/ボスエネミーにダメージ[[side_effects_power_2]%]上昇/自身とバイオレットの近くの味方1人に入魂ゲージ[[side_effects_power_3]]増加",
-         "对敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/若目标处于<help=sleep>睡眠</help>状态则伤害提升[[side_effects_power_1]%]/对首领敌人的伤害提升[[side_effects_power_2]%]/自身和紫色属性附近的一名己方入魂值增加[[side_effects_power_3]]"
+         "对敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/若目标处于<help=sleep>睡眠</help>状态则伤害提升[[side_effects_power_1]%]/对首领敌人的伤害提升[[side_effects_power_2]%]/自身和紫色属性的附近一名己方入魂值增加[[side_effects_power_3]]"
       ]
    },
    {
@@ -16987,7 +17445,148 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]/<help=stun>気絶</help>か<help=sleep>睡眠</help>状態ならダメージ[[side_effects_power_1]%]上昇/自身とバイオレットの近くの味方1人に<help=ignite>気炎</help>付与/",
-         "威力[[main_effects_power_1]%]/若目标处于<help=stun>气绝</help>或<help=sleep>睡眠</help>状态则伤害提升[[side_effects_power_1]%]/赋予自身和紫色属性附近的一名己方<help=ignite>气焰</help>/"
+         "威力[[main_effects_power_1]%]/若目标处于<help=stun>气绝</help>或<help=sleep>睡眠</help>状态则伤害提升[[side_effects_power_1]%]/赋予自身和紫色属性的附近一名己方<help=ignite>气焰</help>/"
+      ]
+   },
+   {
+      "id": 11014001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 11014001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 21014001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "1118",
+      "need_passion": 125,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 103,
+      "usable_times": 0,
+      "timeline_id": 21014001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ビッグウェーブ",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/<help=move_position>位置移動（直線）</help>/命中対象に確率で<help=charm>誘惑</help>付与＜[[side_effects_turn_2]ターン]＞/[[side_rate_3]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで。自身の技法・絶技で重複不可）/敵撃破時に入魂ゲージ100%以上ならば入魂発動",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/进行<help=move_position>位置移动（直线）</help>/概率赋予命中目标<help=charm>诱惑</help>＜[[side_effects_turn_2]回合]＞/以[[side_rate_3]%]的概率<help=re_action>再行动</help>（每回合最多1次。自身的技法·绝技不可重复）/击破敌方时若入魂值在100%以上则发动入魂"
+      ]
+   },
+   {
+      "id": 21014002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "4418",
+      "need_passion": 130,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "4",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 3,
+      "range_end_point": 7,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 21014002,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "サーフインパクト",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/<help=charm>誘惑</help>状態ならダメージ[[side_effects_power_1]%]上昇/1ターン前に自身が技法使用していたら威力[[side_effects_power_2]%]上昇/敵撃破時にこの技法の<help=cool_time>クールタイム</help>[[side_effects_power_3]]短縮",
+         "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/若目标处于<help=charm>诱惑</help>状态则伤害提升[[side_effects_power_1]%]/若1回合前自身使用了技法则威力提升[[side_effects_power_2]%]/击破敌方时该技法的<help=cool_time>冷却时间</help>缩短[[side_effects_power_3]]"
+      ]
+   },
+   {
+      "id": 31014001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "4418",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 31014001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "抜群の",
+         ""
+      ],
+      "ml_name2": [
+         "プロポーション",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/<help=charm>誘惑</help>状態ならダメージ[[side_effects_power_1]%]上昇/自身に<help=offence>攻撃</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)/カーマインの自身と近くの味方1人に<help=true_sight>真眼</help>付与",
+         "威力[[main_effects_power_1]%]/若目标处于<help=charm>诱惑</help>状态则伤害提升[[side_effects_power_1]%]/自身<help=offence>攻击</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）/赋予红色属性的自身和附近的一名己方<help=true_sight>真眼</help>"
       ]
    },
    {
@@ -21676,7 +22275,7 @@
       ],
       "ml_description": [
          "威力[[main_effects_power_1]%]/敵撃破時に<help=re_action>再行動</help>（毎ターン1回まで）/アイボリーの味方全員に<help=offence>攻撃</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)/アイボリーの近くの味方2人に<help=true_sight>真眼</help>付与/[[Askill_name_21312001]]の<help=cool_time>クールタイム</help>[[side_effects_power_4]]短縮/",
-         "威力[[main_effects_power_1]%]/击破敌方时<help=re_action>再行动</help>（每回合最多1次）/赋予白色属性的己方全员<help=offence>攻击</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）/赋予白色属性附近的2名己方<help=true_sight>真眼</help>/[[Askill_name_21312001]]的<help=cool_time>冷却时间</help>缩短[[side_effects_power_4]]/"
+         "威力[[main_effects_power_1]%]/击破敌方时<help=re_action>再行动</help>（每回合最多1次）/赋予白色属性的己方全员<help=offence>攻击</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）/赋予白色属性的附近2名己方<help=true_sight>真眼</help>/[[Askill_name_21312001]]的<help=cool_time>冷却时间</help>缩短[[side_effects_power_4]]/"
       ]
    },
    {
@@ -22851,7 +23450,7 @@
       "use_passion": 0,
       "gain_gauge": 5,
       "cool_times": "6",
-      "ignore_first_cool_times": 0,
+      "ignore_first_cool_times": 1,
       "range_start_point": 1,
       "range_end_point": 5,
       "range_ids": "0",
@@ -22886,7 +23485,7 @@
       "use_passion": 0,
       "gain_gauge": 5,
       "cool_times": "5",
-      "ignore_first_cool_times": 0,
+      "ignore_first_cool_times": 1,
       "range_start_point": 1,
       "range_end_point": 5,
       "range_ids": "0",
@@ -24712,6 +25311,147 @@
       ]
    },
    {
+      "id": 11605001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 11605001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 21605001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "6901",
+      "need_passion": 130,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 84,
+      "usable_times": 0,
+      "timeline_id": 21605001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ミラクルスライディング",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/系統：絵画・彫刻にダメージ[[side_effects_power_1]%]上昇/命中対象に<help=defence>防御</help>[[side_effects_power_2]%]減少＜[[side_effects_turn_2]ターン]＞/攻撃範囲に敵にダメージ<help=square_effects>効果マス</help>を付与＜[[side_effects_turn_3]ターン]＞",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/对系统：绘画·雕刻造成的伤害提升[[side_effects_power_1]%]/使命中目标的<help=defence>防御</help>减少[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞/在攻击范围内设置对敌人造成伤害的<help=square_effects>效果格</help>＜[[side_effects_turn_3]回合]＞"
+      ]
+   },
+   {
+      "id": 21605002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "6904",
+      "need_passion": 125,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 84,
+      "usable_times": 0,
+      "timeline_id": 21605002,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "太陽を味方に",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>/命中対象に確率で<help=shock>感電</help>付与＜[[side_effects_turn_2]ターン]＞/攻撃範囲に敵の<help=defence>防御</help>減少<help=square_effects>効果マス</help>を付与＜[[side_effects_turn_3]ターン]＞",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/将命中目标<help=knock_back>弹飞</help>[[side_effects_power_1]]格/概率赋予命中目标<help=shock>感电</help>＜[[side_effects_turn_2]回合]＞/在攻击范围内设置使敌方<help=defence>防御</help>减少的<help=square_effects>效果格</help>＜[[side_effects_turn_3]回合]＞"
+      ]
+   },
+   {
+      "id": 31605001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "1308",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 31605001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "日陰で",
+         ""
+      ],
+      "ml_name2": [
+         "ひと休み",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/自身に<help=cool_time>クールタイム</help>[[side_effects_power_1]]短縮/ビリジアンの味方全員に<help=move>移動</help>[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞/",
+         "威力[[main_effects_power_1]%]/自身的<help=cool_time>冷却时间</help>缩短[[side_effects_power_1]]/赋予绿色属性的己方全员<help=move>移动</help>增加[[side_effects_power_2]]＜[[side_effects_turn_2]回合]＞/"
+      ]
+   },
+   {
       "id": 11701001,
       "type": 1,
       "rarity": 3,
@@ -25097,6 +25837,147 @@
       "ml_description": [
          "威力[[main_effects_power_1]%]/自身に<help=immovable>不動</help>付与/バイオレットの味方全員に<help=will>精神</help>・<help=defence>防御</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞/",
          "威力[[main_effects_power_1]%]/赋予自身<help=immovable>不动</help>/赋予紫色属性的己方全员<help=will>精神</help>・<help=defence>防御</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞/"
+      ]
+   },
+   {
+      "id": 11704001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 11704001,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 21704001,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "7910",
+      "need_passion": 125,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "5",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 11,
+      "usable_times": 0,
+      "timeline_id": 21704001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "潮花演舞",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/系統：絵画にダメージ[[side_effects_power_1]%]上昇/1ターン前に自身が技法使用していたら威力[[side_effects_power_2]%]上昇/<help=region>領域</help><help=critical>必殺</help>増加[[side_effects_power_3]]＜[[side_effects_turn_3]ターン]＞を展開/範囲内のカーマインの味方全員に入魂ゲージ[[side_effects_power_4]]増加",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/对系统：绘画造成的伤害提升[[side_effects_power_1]%]/若1回合前自身使用了技法则威力提升[[side_effects_power_2]%]/展开使<help=critical>必杀</help>增加[[side_effects_power_3]]＜[[side_effects_turn_3]回合]＞的<help=region>领域</help>/范围内红色属性的己方全员入魂值增加[[side_effects_power_4]]"
+      ]
+   },
+   {
+      "id": 21704002,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "7903",
+      "need_passion": 120,
+      "use_passion": 0,
+      "gain_gauge": 5,
+      "cool_times": "6",
+      "ignore_first_cool_times": 1,
+      "range_start_point": 2,
+      "range_end_point": 4,
+      "range_ids": "0",
+      "effect_range_id": 142,
+      "usable_times": 0,
+      "timeline_id": 21704002,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "勇気を胸に",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/自身に<help=offence>攻撃</help>・<help=agility>敏捷</help>[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞(重複可)/カーマインの味方全員に<help=offence>攻撃</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)/<help=region>領域</help><help=will>精神</help>増加[[side_effects_power_3]%]＜[[side_effects_turn_3]ターン]＞を展開/敵撃破時に[[side_rate_4]%]の確率で<help=re_action>再行動</help>（毎ターン1回まで）",
+         "对范围内的敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/自身<help=offence>攻击</help>・<help=agility>敏捷</help>增加[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞（可叠加）/赋予红色属性的己方全员<help=offence>攻击</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）/展开使<help=will>精神</help>增加[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞的<help=region>领域</help>/击破敌方时以[[side_rate_4]%]的概率<help=re_action>再行动</help>（每回合最多1次）"
+      ]
+   },
+   {
+      "id": 31704001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "1115",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 0,
+      "usable_times": 0,
+      "timeline_id": 31704001,
+      "icon_frame_id": 210,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "澄み切った",
+         ""
+      ],
+      "ml_name2": [
+         "漣紋",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]/自身に<help=immovable>不動</help>付与/カーマインの味方全員に<help=will>精神</help>・<help=defence>防御</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)/[[Askill_name_21704001]]の<help=cool_time>クールタイム</help>[[side_effects_power_3]]短縮/",
+         "威力[[main_effects_power_1]%]/赋予自身<help=immovable>不动</help>/赋予红色属性的己方全员<help=will>精神</help>・<help=defence>防御</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）/[[Askill_name_21704001]]的<help=cool_time>冷却时间</help>缩短[[side_effects_power_3]]/"
       ]
    },
    {
@@ -37132,6 +38013,112 @@
       "ml_description": [
          "味方全員に<help=offence>攻撃</help>[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞(重複可)/命中対象に確率で<help=nail>影縫</help>付与＜[[side_effects_turn_2]ターン]＞/命中対象に<help=thunder_shield>雷シールド</help>解除",
          "己方全员<help=offence>攻击</help>增加[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞（可叠加）/概率赋予命中目标<help=nail>影缝</help>＜[[side_effects_turn_2]回合]＞/解除命中目标的<help=thunder_shield>雷护盾</help>"
+      ]
+   },
+   {
+      "id": 15095001,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 40,
+      "usable_times": 0,
+      "timeline_id": 15095001,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 25095001,
+      "type": 6,
+      "rarity": 5,
+      "image_index": "1302",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 25095001,
+      "icon_frame_id": 133,
+      "is_show_range": false,
+      "show_element_type": 0,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "攻撃",
+         "攻击"
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "<help=move_buff>すれ違いバフ</help>：<help=offence>攻撃</help>",
+         "<help=move_buff>路过增益</help>：<help=offence>攻击</help>"
+      ]
+   },
+   {
+      "id": 35095001,
+      "type": 3,
+      "rarity": 5,
+      "image_index": "1124",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 117,
+      "usable_times": 0,
+      "timeline_id": 35095001,
+      "icon_frame_id": 310,
+      "is_show_range": true,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         "ビーチ・",
+         ""
+      ],
+      "ml_name2": [
+         "ピーチ",
+         ""
+      ],
+      "ml_description": [
+         "味方全員に<help=constitution>体力</help>[[side_effects_power_1]]回復/バイオレットの味方全員に<help=offence>攻撃</help>[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞(重複可)/命中対象に確率で物理の<help=stamp>刻印</help>付与",
+         "己方全员<help=constitution>体力</help>回复[[side_effects_power_1]]/赋予紫色属性的己方全员<help=offence>攻击</help>增加[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞（可叠加）/概率赋予命中目标物理之<help=stamp>刻印</help>"
       ]
    },
    {
@@ -55074,6 +56061,76 @@
       ]
    },
    {
+      "id": 10003024,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 41,
+      "usable_times": 0,
+      "timeline_id": 0,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         ""
+      ],
+      "ml_name2": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
+      "id": 10003025,
+      "type": 1,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 2,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 10,
+      "usable_times": 0,
+      "timeline_id": 0,
+      "icon_frame_id": 115,
+      "is_show_range": true,
+      "show_element_type": 3,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         ""
+      ],
+      "ml_name2": [
+         "通常攻撃",
+         ""
+      ],
+      "ml_description": [
+         "威力[[main_effects_power_1]%]",
+         "威力[[main_effects_power_1]%]"
+      ]
+   },
+   {
       "id": 19990101,
       "type": 1,
       "rarity": 3,
@@ -57094,6 +58151,74 @@
       "ml_description": [
          "マス通過時、敵の<help=agility>敏捷</help>[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
          "通过格子时，使敌方的<help=agility>敏捷</help>减少[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞"
+      ]
+   },
+   {
+      "id": 86000006,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "0001",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 0,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "マス通過時、敵に威力[[main_effects_power_1]%]のダメージ",
+         "通过格子时，对敌方造成威力[[main_effects_power_1]%]的伤害。"
+      ]
+   },
+   {
+      "id": 86000007,
+      "type": 2,
+      "rarity": 5,
+      "image_index": "1604",
+      "need_passion": 0,
+      "use_passion": 0,
+      "gain_gauge": 0,
+      "cool_times": "0",
+      "ignore_first_cool_times": 0,
+      "range_start_point": 0,
+      "range_end_point": 0,
+      "range_ids": "0",
+      "effect_range_id": 1,
+      "usable_times": 0,
+      "timeline_id": 0,
+      "icon_frame_id": 115,
+      "is_show_range": false,
+      "show_element_type": 1,
+      "condition_type": 0,
+      "condition_param1": 0,
+      "condition_param2": 0,
+      "is_seal_protection": false,
+      "ml_name1": [
+         ""
+      ],
+      "ml_name2": [
+         ""
+      ],
+      "ml_description": [
+         "マス通過時、敵の<help=defence>防御</help>[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
+         "通过格子时，使敌方的<help=defence>防御</help>减少[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞。"
       ]
    }
 ]

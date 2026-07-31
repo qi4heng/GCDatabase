@@ -7600,5 +7600,167 @@
         "condition_id": 744701,
         "condition_type": 500,
         "relational_value": 0
+    },
+    {
+        "id": 1296,
+        "condition_id": 1080812,
+        "condition_type": 803,
+        "relational_value": 4010812
+    },
+    {
+        "id": 1297,
+        "condition_id": 744808,
+        "condition_type": 806,
+        "relational_value": 4010812
+    },
+    {
+        "id": 1298,
+        "condition_id": 1081014,
+        "condition_type": 803,
+        "relational_value": 4011014
+    },
+    {
+        "id": 1299,
+        "condition_id": 744908,
+        "condition_type": 806,
+        "relational_value": 4011014
+    },
+    {
+        "id": 1300,
+        "condition_id": 1081704,
+        "condition_type": 803,
+        "relational_value": 4011704
+    },
+    {
+        "id": 1301,
+        "condition_id": 745008,
+        "condition_type": 806,
+        "relational_value": 4011704
+    },
+    {
+        "id": 1302,
+        "condition_id": 800329,
+        "condition_type": 701,
+        "relational_value": 8252006
+    },
+    {
+        "id": 1303,
+        "condition_id": 800330,
+        "condition_type": 701,
+        "relational_value": 8252015
+    },
+    {
+        "id": 1304,
+        "condition_id": 800331,
+        "condition_type": 701,
+        "relational_value": 8252024
+    },
+    {
+        "id": 1305,
+        "condition_id": 800332,
+        "condition_type": 701,
+        "relational_value": 8252033
+    },
+    {
+        "id": 1306,
+        "condition_id": 800333,
+        "condition_type": 701,
+        "relational_value": 8252042
+    },
+    {
+        "id": 1307,
+        "condition_id": 800334,
+        "condition_type": 701,
+        "relational_value": 8252051
+    },
+    {
+        "id": 1308,
+        "condition_id": 800335,
+        "condition_type": 701,
+        "relational_value": 8252060
+    },
+    {
+        "id": 1309,
+        "condition_id": 800336,
+        "condition_type": 701,
+        "relational_value": 8252069
+    },
+    {
+        "id": 1310,
+        "condition_id": 800337,
+        "condition_type": 701,
+        "relational_value": 8252078
+    },
+    {
+        "id": 1311,
+        "condition_id": 800338,
+        "condition_type": 701,
+        "relational_value": 8252087
+    },
+    {
+        "id": 1312,
+        "condition_id": 1080115,
+        "condition_type": 803,
+        "relational_value": 4010113
+    },
+    {
+        "id": 1313,
+        "condition_id": 745201,
+        "condition_type": 806,
+        "relational_value": 4010113
+    },
+    {
+        "id": 1314,
+        "condition_id": 1081605,
+        "condition_type": 803,
+        "relational_value": 4011605
+    },
+    {
+        "id": 1315,
+        "condition_id": 745301,
+        "condition_type": 806,
+        "relational_value": 4011605
+    },
+    {
+        "id": 1316,
+        "condition_id": 1080512,
+        "condition_type": 803,
+        "relational_value": 4010512
+    },
+    {
+        "id": 1317,
+        "condition_id": 745401,
+        "condition_type": 806,
+        "relational_value": 4010512
+    },
+    {
+        "id": 1318,
+        "condition_id": 118142,
+        "condition_type": 808,
+        "relational_value": 4110512
+    },
+    {
+        "id": 1319,
+        "condition_id": 118143,
+        "condition_type": 808,
+        "relational_value": 4111205
+    },
+    {
+        "id": 1320,
+        "condition_id": 109271,
+        "condition_type": 804,
+        "relational_value": 4020095
+    },
+    {
+        "id": 1321,
+        "condition_id": 114093,
+        "condition_type": 801,
+        "relational_value": 4020095
+    },
+    {
+        "id": 1322,
+        "condition_id": 745501,
+        "condition_type": 807,
+        "relational_value": 4020095
     }
 ]

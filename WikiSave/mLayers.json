@@ -636,6 +636,59 @@
       ]
    },
    {
+      "id": 4010113,
+      "unit_id": 1,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 5,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2333,
+      "atk": 97,
+      "mnd": 73,
+      "def": 52,
+      "dex": 69,
+      "spd": 80,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130002,
+      "skill_id1": 20113001,
+      "skill_id2": 20113002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10113001,
+      "ultimate_skill_id": 30113001,
+      "duplicated_item_id": 1120113,
+      "duplicated_item_count": 1,
+      "sort_order": 113,
+      "image_index": 4010113,
+      "ai_group_id": 0,
+      "sound_index": 4010113,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|0|0|3",
+      "start_time": "2026-08-12 13:00:00",
+      "ml_name": [
+         "炎天のアタッカー",
+         "炎天攻手"
+      ],
+      "ml_flavor_text": [
+         "ビーチバレーのための水着スタイル。\n砂浜を駆け回り強烈なアタックで攻める！",
+         "沙滩排球用的泳装造型。在沙滩上奔跑，用猛烈的攻击来进攻！"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "絶対に優勝してみせます\n食べ放題のために！",
+         "我一定会赢得冠军，为了自助餐！"
+      ],
+      "ml_get_message": [
+         "という訳でビーチバレー、応援に来てください。\nいいですね？　絶対に私から目を離してはいけませんよ？",
+         "那么沙滩排球，请来为我应援。可以吧？绝对不可以从我身上移开目光哦？"
+      ]
+   },
+   {
       "id": 4010201,
       "unit_id": 2,
       "rarity": 3,
@@ -3179,6 +3232,59 @@
       ]
    },
    {
+      "id": 4010512,
+      "unit_id": 5,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 5,
+      "collabo_type": 0,
+      "another_type": 1,
+      "hp": 3290,
+      "atk": 148,
+      "mnd": 43,
+      "def": 79,
+      "dex": 65,
+      "spd": 53,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15480002,
+      "skill_id1": 20512001,
+      "skill_id2": 20512002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10512001,
+      "ultimate_skill_id": 30512001,
+      "duplicated_item_id": 1120512,
+      "duplicated_item_count": 1,
+      "sort_order": 512,
+      "image_index": 4010512,
+      "ai_group_id": 0,
+      "sound_index": 4010512,
+      "country_type": 0,
+      "strong_skill_setting": "3|2|0|0|0",
+      "start_time": "2026-08-19 13:00:00",
+      "ml_name": [
+         "憤怒のオルタ",
+         "愤怒的Alter"
+      ],
+      "ml_flavor_text": [
+         "芸術の高みへ至る為、自分の感情を揺さ\nぶる全てを捨て去った少女の成れの果て。",
+         "为了达到艺术的至高，舍弃了所有动摇自己感情的少女的最终形态。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "進むべき道が見えているなら\n迷わず突き進めばいいだけだ",
+         "如果看到了应行之路，只需要毫不犹豫地向前冲。"
+      ],
+      "ml_get_message": [
+         "彫刻家としての頂点を極めるため、腕を磨き続ける。\nミケの関心事はそれだけ……他の物事は全て雑音だ。",
+         "为了达到雕刻家的顶点，不断磨练技艺。米开的关心仅此而已...其他一切皆是杂音。"
+      ]
+   },
+   {
       "id": 4010601,
       "unit_id": 6,
       "rarity": 3,
@@ -5139,6 +5245,59 @@
       ]
    },
    {
+      "id": 4010812,
+      "unit_id": 8,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 5,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2314,
+      "atk": 89,
+      "mnd": 79,
+      "def": 44,
+      "dex": 64,
+      "spd": 30,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130001,
+      "skill_id1": 20812001,
+      "skill_id2": 20812002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10812001,
+      "ultimate_skill_id": 30812001,
+      "duplicated_item_id": 1120812,
+      "duplicated_item_count": 1,
+      "sort_order": 812,
+      "image_index": 4010812,
+      "ai_group_id": 0,
+      "sound_index": 4010812,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|3|2|0",
+      "start_time": "2026-07-31 13:30:00",
+      "ml_name": [
+         "水平線の向こうへ",
+         "向着地平线"
+      ],
+      "ml_flavor_text": [
+         "爽やかな印象のマリンビキニスタイル。\n海に向かい、藝術家としての覚悟を叫ぶ。",
+         "印象清爽的海洋比基尼造型。面朝大海，喊出作为艺术家的决心。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "海風を浴びて\nいざ前進っす！",
+         "沐浴着海风，现在前进！"
+      ],
+      "ml_get_message": [
+         "どこまでも広がる水平線を眺めてると、開放的な気分になるっすね～！\nくふふ。だから先輩も、私の水着姿、もっとよく見てもいいんすよ～？",
+         "眺望着无边无际的地平线，心情就会变得开阔呢～！呵呵。所以前辈，也可以多看看我的泳装身姿哦～？"
+      ]
+   },
+   {
       "id": 4010901,
       "unit_id": 9,
       "rarity": 3,
@@ -6514,6 +6673,59 @@
       "ml_get_message": [
          "創作に行き詰まった時は、つい寝る間を惜しんで考えてしまいがちなんだ。\nでも、たまには早めにパジャマに着替えて、リラックスするのも大切だよね。",
          "创作遇到瓶颈的时候，总是不自觉地牺牲睡觉时间去思考。不过，偶尔早点换上睡衣放松一下也很重要，对吧。"
+      ]
+   },
+   {
+      "id": 4011014,
+      "unit_id": 10,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 1,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2546,
+      "atk": 93,
+      "mnd": 83,
+      "def": 45,
+      "dex": 76,
+      "spd": 33,
+      "mov": 4,
+      "mov_type": 1,
+      "factor_id": 15130006,
+      "skill_id1": 21014001,
+      "skill_id2": 21014002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11014001,
+      "ultimate_skill_id": 31014001,
+      "duplicated_item_id": 1121014,
+      "duplicated_item_count": 1,
+      "sort_order": 1014,
+      "image_index": 4011014,
+      "ai_group_id": 0,
+      "sound_index": 4011014,
+      "country_type": 0,
+      "strong_skill_setting": "0|2|3|0|0",
+      "start_time": "2026-07-31 13:30:00",
+      "ml_name": [
+         "Ride the Wave",
+         "Ride the Wave"
+      ],
+      "ml_flavor_text": [
+         "黒ビキニが眩ゆいサーファースタイル。\n時代の波に乗り、名を轟かせていく。",
+         "黑色比基尼乃炫目的冲浪造型。乘上时代的浪潮，扬名立万。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "あぁ、夏の熱い日差しが\nぼくの魅力を引き立てる……",
+         "啊，夏日炎热的阳光正在衬托出我的魅力..."
+      ],
+      "ml_get_message": [
+         "この天才ラファエロは、サーフィンだってお手の物さ！\n波に乗るかっこいいぼくを目に焼き付けてくれ！",
+         "对于我天才拉斐尔，冲浪也是小菜一碟！把乘风破浪的帅气的我镌刻在眼里吧！"
       ]
    },
    {
@@ -9484,6 +9696,59 @@
       ]
    },
    {
+      "id": 4011605,
+      "unit_id": 16,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 3,
+      "color_type": 3,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3510,
+      "atk": 84,
+      "mnd": 49,
+      "def": 70,
+      "dex": 50,
+      "spd": 99,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130006,
+      "skill_id1": 21605001,
+      "skill_id2": 21605002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11605001,
+      "ultimate_skill_id": 31605001,
+      "duplicated_item_id": 1121605,
+      "duplicated_item_count": 1,
+      "sort_order": 1605,
+      "image_index": 4011605,
+      "ai_group_id": 0,
+      "sound_index": 4011605,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|0|0|2",
+      "start_time": "2026-08-12 13:00:00",
+      "ml_name": [
+         "夏空パラソル",
+         "夏空阳伞"
+      ],
+      "ml_flavor_text": [
+         "爽やかな空色のモノキニスタイル。\n海に行くなら救護バックは欠かせない。",
+         "清爽天蓝色的连体式泳装造型。去海边的话急救包必不可少。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "ルノの水着、恥ずかしいけど\n館長さんには見てほしいです",
+         "雷诺的泳装，虽然很害羞，但还是想让馆长看到。"
+      ],
+      "ml_get_message": [
+         "この夏は、ふたりで色々なところへ行きたいなって思ってて……。\nあ、でもそんなの、勝手に思われても迷惑ですよね、すみませんっ……！",
+         "这个夏天，我想和馆长两个人一起去各种地方...啊，但是这样擅自把馆长考虑进来的话馆长会感到困扰吧，对不起...！"
+      ]
+   },
+   {
       "id": 4011701,
       "unit_id": 17,
       "rarity": 3,
@@ -9640,6 +9905,59 @@
       "ml_get_message": [
          "これがうちのとっておき！\nふふん、今なら誰にも負ける気がしないんよ！",
          "这就是我的底牌！哼哼，感觉现在我可不会输给任何人哦！"
+      ]
+   },
+   {
+      "id": 4011704,
+      "unit_id": 17,
+      "rarity": 5,
+      "unit_type": 0,
+      "weapon_type": 1,
+      "color_type": 1,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 3824,
+      "atk": 82,
+      "mnd": 66,
+      "def": 54,
+      "dex": 62,
+      "spd": 72,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130001,
+      "skill_id1": 21704001,
+      "skill_id2": 21704002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11704001,
+      "ultimate_skill_id": 31704001,
+      "duplicated_item_id": 1121704,
+      "duplicated_item_count": 1,
+      "sort_order": 1704,
+      "image_index": 4011704,
+      "ai_group_id": 0,
+      "sound_index": 4011704,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|3|0|0",
+      "start_time": "2026-08-04 13:00:00",
+      "ml_name": [
+         "浜に舞う紅華",
+         "海滨舞动的红华"
+      ],
+      "ml_flavor_text": [
+         "異国情緒溢れる水着スタイル。\n浜辺に散る花弁のように嫋やかに舞う。",
+         "充满异国风情的泳装造型。像散落在沙滩上的花瓣一样优雅地舞动。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "海の遊びには慣れてないから\n館長さんが教えてくれる？",
+         "因为不习惯在海边玩耍，馆长能教我吗？"
+      ],
+      "ml_get_message": [
+         "み、水着なんて着るのは初めてなんだけど……。\nどうかな、館長さん？　ちゃんと似合ってる？",
+         "泳、泳装什么的这还是第一次穿...怎么样，馆长？合适吗？"
       ]
    },
    {

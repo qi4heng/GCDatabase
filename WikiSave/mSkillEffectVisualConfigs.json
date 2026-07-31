@@ -2663,5 +2663,31 @@
         "invoke_effect_id": 66000,
         "invoke_unit_color": "#210845",
         "view_unit_type": 3
+    },
+    {
+        "id": 206,
+        "effect_type": 16,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避ダウン",
+            ""
+        ],
+        "image_index": 2011,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 207,
+        "effect_type": 17,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避ダウン",
+            ""
+        ],
+        "image_index": 2011,
+        "invoke_effect_id": 22000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
     }
 ]

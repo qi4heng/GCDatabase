@@ -830,5 +830,21 @@
         "order": 50,
         "image_index": 4120057,
         "start_time": "2026-07-28 13:00:00"
+    },
+    {
+        "id": 3014,
+        "type": 3,
+        "name": "絶望を乗り越えて",
+        "ml_name": [
+            ""
+        ],
+        "asset": "emv_10010609_10",
+        "consume_item_type": 0,
+        "consume_item_id": 0,
+        "price": 0,
+        "condition_memory_id": 4120156,
+        "order": 60,
+        "image_index": 4120058,
+        "start_time": "2026-08-27 13:00:00"
     }
 ]

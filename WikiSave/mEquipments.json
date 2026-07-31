@@ -1892,6 +1892,28 @@
       "source": "常驻商店兑换"
    },
    {
+      "id": 4110512,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 206,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 5,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4110512,
+      "country_type": 0,
+      "ml_name": [
+         "憤怒の結晶旋刃",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるミケランジェロの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
+   },
+   {
       "id": 4110601,
       "enhance_group_id": 14,
       "disassemble_group_id": 114,
@@ -2682,6 +2704,28 @@
       ],
       "ml_effect_flavor": [],
       "source": "常驻商店兑换"
+   },
+   {
+      "id": 4111205,
+      "enhance_group_id": 45,
+      "disassemble_group_id": 145,
+      "rarity": 5,
+      "site_type": 4,
+      "unit_id": 12,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4111205,
+      "country_type": 0,
+      "ml_name": [
+         "ブグローのパンプス",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ブグロー【ランドリーメイド】が着用しているパンプス。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包（布格罗生诞祭2026）"
    },
    {
       "id": 4111211,

@@ -1904,6 +1904,34 @@
         "end_time": ""
     },
     {
+        "id": 6015,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "逆境ミラクルアタック！",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
+        "id": 6018,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "フィオレンツァの夏休み",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 701,
         "type": 5,
         "group_type": 0,
@@ -4869,6 +4897,104 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 23108,
+        "end_time": ""
+    },
+    {
+        "id": 920,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：アテネス水着コンテスト",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21158,
+        "end_time": ""
+    },
+    {
+        "id": 921,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：ロックノードスタイル復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 26595,
+        "end_time": ""
+    },
+    {
+        "id": 922,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：逆境ミラクルアタック！",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21162,
+        "end_time": ""
+    },
+    {
+        "id": 923,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：イマージュ復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 27057,
+        "end_time": ""
+    },
+    {
+        "id": 924,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：スタイル復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 26599,
+        "end_time": ""
+    },
+    {
+        "id": 925,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：レイド応援",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 65005,
+        "end_time": ""
+    },
+    {
+        "id": 926,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：フィオレンツァの夏休み",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 23110,
         "end_time": ""
     },
     {

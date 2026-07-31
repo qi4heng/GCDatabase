@@ -1138,5 +1138,345 @@
         "base_value": 30000,
         "limit": 5,
         "conditional": "3"
+    },
+    {
+        "id": 73230101,
+        "m_quest_stage_id": 7323004,
+        "calculation": 1,
+        "category": 1,
+        "sub_category": 3,
+        "base_value": 12000,
+        "limit": -1,
+        "conditional": "-1"
+    },
+    {
+        "id": 73230201,
+        "m_quest_stage_id": 7323004,
+        "calculation": 1,
+        "category": 2,
+        "sub_category": 0,
+        "base_value": 10,
+        "limit": 110,
+        "conditional": "0|10|20|30"
+    },
+    {
+        "id": 73230301,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 3,
+        "sub_category": 0,
+        "base_value": 1000000,
+        "limit": 3,
+        "conditional": "400000"
+    },
+    {
+        "id": 73230401,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 4,
+        "sub_category": 99,
+        "base_value": 7500,
+        "limit": 100,
+        "conditional": "0"
+    },
+    {
+        "id": 73230501,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 5,
+        "sub_category": 0,
+        "base_value": 100000,
+        "limit": 0,
+        "conditional": "0"
+    },
+    {
+        "id": 73230601,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 6,
+        "sub_category": 1,
+        "base_value": 50000,
+        "limit": 3,
+        "conditional": "0"
+    },
+    {
+        "id": 73230602,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 6,
+        "sub_category": 8,
+        "base_value": 50000,
+        "limit": 3,
+        "conditional": "0"
+    },
+    {
+        "id": 73230603,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 6,
+        "sub_category": 10,
+        "base_value": 50000,
+        "limit": 3,
+        "conditional": "0"
+    },
+    {
+        "id": 73230604,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 6,
+        "sub_category": 16,
+        "base_value": 50000,
+        "limit": 3,
+        "conditional": "0"
+    },
+    {
+        "id": 73230605,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 6,
+        "sub_category": 17,
+        "base_value": 50000,
+        "limit": 3,
+        "conditional": "0"
+    },
+    {
+        "id": 73230701,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 7,
+        "sub_category": 4020078,
+        "base_value": 40000,
+        "limit": 4,
+        "conditional": "2"
+    },
+    {
+        "id": 73230702,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 7,
+        "sub_category": 4020066,
+        "base_value": 40000,
+        "limit": 4,
+        "conditional": "2"
+    },
+    {
+        "id": 73230703,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 7,
+        "sub_category": 4020091,
+        "base_value": 40000,
+        "limit": 4,
+        "conditional": "2"
+    },
+    {
+        "id": 73230704,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 7,
+        "sub_category": 4020093,
+        "base_value": 40000,
+        "limit": 4,
+        "conditional": "2"
+    },
+    {
+        "id": 73230705,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 7,
+        "sub_category": 4020054,
+        "base_value": 40000,
+        "limit": 4,
+        "conditional": "2"
+    },
+    {
+        "id": 73230706,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 7,
+        "sub_category": 4020016,
+        "base_value": 40000,
+        "limit": 4,
+        "conditional": "2"
+    },
+    {
+        "id": 73230707,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 7,
+        "sub_category": 4020017,
+        "base_value": 40000,
+        "limit": 4,
+        "conditional": "2"
+    },
+    {
+        "id": 73230708,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 7,
+        "sub_category": 4020033,
+        "base_value": 40000,
+        "limit": 4,
+        "conditional": "2"
+    },
+    {
+        "id": 73230801,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 15130002,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230802,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 15130003,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230803,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 15130004,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230804,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 15130005,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230805,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 15080002,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230806,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 15390005,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230807,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 15110003,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230808,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 15530001,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230809,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 14130002,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230810,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 14130003,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230811,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 14130004,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230812,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 14130005,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230813,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 13130002,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230814,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 13130003,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230815,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 13130004,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
+    },
+    {
+        "id": 73230816,
+        "m_quest_stage_id": 7323004,
+        "calculation": 0,
+        "category": 8,
+        "sub_category": 13130005,
+        "base_value": 30000,
+        "limit": 5,
+        "conditional": "3"
     }
 ]
