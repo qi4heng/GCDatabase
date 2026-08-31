@@ -846,5 +846,21 @@
         "order": 60,
         "image_index": 4120058,
         "start_time": "2026-08-27 13:00:00"
+    },
+    {
+        "id": 3015,
+        "type": 3,
+        "name": "乙女たちの極楽休暇",
+        "ml_name": [
+            ""
+        ],
+        "asset": "emv_10011202_10",
+        "consume_item_type": 0,
+        "consume_item_id": 0,
+        "price": 0,
+        "condition_memory_id": 4120162,
+        "order": 120,
+        "image_index": 4120141,
+        "start_time": "2026-09-26 13:00:00"
     }
 ]

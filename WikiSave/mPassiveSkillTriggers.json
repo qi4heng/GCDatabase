@@ -520,6 +520,16 @@
         "description": "引き寄せ発生時"
     },
     {
+        "id": 10060,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 15,
+        "trigger_param": 6,
+        "trigger_param2": "0",
+        "skill_types": "2|3",
+        "description": "吸収発動時"
+    },
+    {
         "id": 10070,
         "timing_bits": 0,
         "condition_bits": 0,
@@ -690,7 +700,7 @@
         "description": "シールド付与時"
     },
     {
-        "id": 10060,
+        "id": 10600,
         "timing_bits": 0,
         "condition_bits": 0,
         "damage_bits": 15,

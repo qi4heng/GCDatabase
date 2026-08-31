@@ -187,6 +187,23 @@
         ]
     },
     {
+        "id": 112,
+        "chapter_no": 12,
+        "quest_type": 1,
+        "order": 12,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "112",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": -1,
+        "m_quest_total_evaluate_reward_group_id": 112,
+        "start_time": "2026-09-26 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "ml_name": [
+            "青薔薇が呼び込む波乱",
+            ""
+        ]
+    },
+    {
         "id": 201,
         "chapter_no": 0,
         "quest_type": 2,
@@ -1598,6 +1615,23 @@
         ]
     },
     {
+        "id": 439,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "439",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2026-09-27 12:59:59",
+        "ml_name": [
+            "青の魂に捧ぐレクイエム",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2142,6 +2176,23 @@
         ]
     },
     {
+        "id": 733,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-08-31 13:30:00",
+        "end_time": "2026-09-15 12:59:59",
+        "ml_name": [
+            "争奪！秋の芸術大運動会",
+            ""
+        ]
+    },
+    {
         "id": 800,
         "chapter_no": 0,
         "quest_type": 4,
@@ -2550,6 +2601,23 @@
         ]
     },
     {
+        "id": 826,
+        "chapter_no": 0,
+        "quest_type": 4,
+        "order": 1,
+        "first_reward_reset_type": 3,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_name": [
+            "ダンジョンシーズン26",
+            ""
+        ]
+    },
+    {
         "id": 601,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2801,6 +2869,23 @@
         "end_time": "2026-08-31 12:59:59",
         "ml_name": [
             "フィオレンツァの夏休み",
+            ""
+        ]
+    },
+    {
+        "id": 616,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-09-22 13:00:00",
+        "end_time": "2026-09-30 12:59:59",
+        "ml_name": [
+            "想いによって生まれるものは",
             ""
         ]
     },
@@ -3213,6 +3298,23 @@
         ]
     },
     {
+        "id": 923,
+        "chapter_no": 0,
+        "quest_type": 5,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 923,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59",
+        "ml_name": [
+            "リサーチクエスト：インスピレーション09月",
+            ""
+        ]
+    },
+    {
         "id": 1000,
         "chapter_no": 0,
         "quest_type": 999,
@@ -3396,6 +3498,23 @@
         "end_time": "2026-08-27 12:59:59",
         "ml_name": [
             "【A.S.】孤高の矜持、怒りの鉄槌",
+            ""
+        ]
+    },
+    {
+        "id": 1110,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-09-19 13:00:00",
+        "end_time": "2026-09-27 12:59:59",
+        "ml_name": [
+            "【A.S.】魅了する最悪の強欲",
             ""
         ]
     }

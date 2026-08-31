@@ -313,5 +313,19 @@
         "effect_id": 33,
         "effect_count": 0,
         "turn_cycle": 0
+    },
+    {
+        "id": 46,
+        "m_skill_special_effect_id": 31,
+        "effect_id": 52,
+        "effect_count": 3,
+        "turn_cycle": 0
+    },
+    {
+        "id": 47,
+        "m_skill_special_effect_id": 31,
+        "effect_id": 31,
+        "effect_count": 0,
+        "turn_cycle": 0
     }
 ]

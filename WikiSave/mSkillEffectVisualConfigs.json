@@ -2689,5 +2689,31 @@
         "invoke_effect_id": 22000,
         "invoke_unit_color": "",
         "view_unit_type": 1
+    },
+    {
+        "id": 208,
+        "effect_type": 11,
+        "effect_attributes": 31,
+        "ml_name": [
+            "呪い",
+            ""
+        ],
+        "image_index": 4019,
+        "invoke_effect_id": 67000,
+        "invoke_unit_color": "#6e1261",
+        "view_unit_type": 3
+    },
+    {
+        "id": 209,
+        "effect_type": 72,
+        "effect_attributes": 0,
+        "ml_name": [
+            "クールタイム減少",
+            ""
+        ],
+        "image_index": 1000,
+        "invoke_effect_id": 28000,
+        "invoke_unit_color": "",
+        "view_unit_type": 0
     }
 ]

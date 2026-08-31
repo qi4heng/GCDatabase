@@ -4156,5 +4156,313 @@
          "記憶喪失の過去があり、５年以上前の経歴不明",
          "有着失忆的过去，五年以前的经历不明"
       ]
+   },
+   {
+      "id": 661,
+      "unit_id": 61,
+      "release_level": 2,
+      "position": 1,
+      "ml_title": [
+         "好きなもの",
+         "喜欢的东西"
+      ],
+      "ml_content": [
+         "お風呂",
+         "洗澡"
+      ]
+   },
+   {
+      "id": 662,
+      "unit_id": 61,
+      "release_level": 2,
+      "position": 2,
+      "ml_title": [
+         "嫌いなこと",
+         "讨厌的东西"
+      ],
+      "ml_content": [
+         "部屋の片付け",
+         "整理房间"
+      ]
+   },
+   {
+      "id": 663,
+      "unit_id": 61,
+      "release_level": 2,
+      "position": 3,
+      "ml_title": [
+         "特技",
+         "特长"
+      ],
+      "ml_content": [
+         "ピアノの即興演奏",
+         "钢琴即兴"
+      ]
+   },
+   {
+      "id": 664,
+      "unit_id": 61,
+      "release_level": 3,
+      "position": 4,
+      "ml_title": [
+         "嫌いな食べ物",
+         "讨厌的食物"
+      ],
+      "ml_content": [
+         "鮮度の落ちた卵と魚",
+         "不新鲜的蛋和鱼"
+      ]
+   },
+   {
+      "id": 665,
+      "unit_id": 61,
+      "release_level": 4,
+      "position": 5,
+      "ml_title": [
+         "好きな食べ物",
+         "喜欢的食物"
+      ],
+      "ml_content": [
+         "川魚のグリル",
+         "烤河鱼"
+      ]
+   },
+   {
+      "id": 666,
+      "unit_id": 61,
+      "release_level": 5,
+      "position": 6,
+      "ml_title": [
+         "癖",
+         "癖好"
+      ],
+      "ml_content": [
+         "カッとなると手近な\n物を投げてしまう",
+         "一急起来就会把身边的东西扔出去。"
+      ]
+   },
+   {
+      "id": 667,
+      "unit_id": 61,
+      "release_level": 6,
+      "position": 7,
+      "ml_title": [
+         "夢",
+         "梦想"
+      ],
+      "ml_content": [
+         "理想の音楽を\n完成させること",
+         "完成理想的音乐"
+      ]
+   },
+   {
+      "id": 668,
+      "unit_id": 61,
+      "release_level": 7,
+      "position": 8,
+      "ml_title": [
+         "悩み",
+         "烦恼"
+      ],
+      "ml_content": [
+         "難聴",
+         "听力不好"
+      ]
+   },
+   {
+      "id": 669,
+      "unit_id": 61,
+      "release_level": 8,
+      "position": 9,
+      "ml_title": [
+         "重要視する価値",
+         "重视的价值"
+      ],
+      "ml_content": [
+         "ただ自らの\n心の声にのみ従う",
+         "遵从自己的心声"
+      ]
+   },
+   {
+      "id": 670,
+      "unit_id": 61,
+      "release_level": 9,
+      "position": 10,
+      "ml_title": [
+         "ポリシー",
+         "信念"
+      ],
+      "ml_content": [
+         "たとえ神にだって\n私は従わない",
+         "纵使是神明，我也不会服从"
+      ]
+   },
+   {
+      "id": 671,
+      "unit_id": 61,
+      "release_level": 10,
+      "position": 11,
+      "ml_title": [
+         "実は",
+         "其实"
+      ],
+      "ml_content": [
+         "風呂の横にピアノを\n設置するほどの潔癖症",
+         "洁癖到在浴室旁边放钢琴的程度"
+      ]
+   },
+   {
+      "id": 672,
+      "unit_id": 62,
+      "release_level": 2,
+      "position": 1,
+      "ml_title": [
+         "好きなこと",
+         "喜欢的东西"
+      ],
+      "ml_content": [
+         "旅行",
+         "旅行"
+      ]
+   },
+   {
+      "id": 673,
+      "unit_id": 62,
+      "release_level": 2,
+      "position": 2,
+      "ml_title": [
+         "嫌いなこと",
+         "讨厌的东西"
+      ],
+      "ml_content": [
+         "お説教",
+         "说教"
+      ]
+   },
+   {
+      "id": 674,
+      "unit_id": 62,
+      "release_level": 2,
+      "position": 3,
+      "ml_title": [
+         "好きな食べ物",
+         "喜欢的食物"
+      ],
+      "ml_content": [
+         "アイスクリーム",
+         "雪糕"
+      ]
+   },
+   {
+      "id": 675,
+      "unit_id": 62,
+      "release_level": 3,
+      "position": 4,
+      "ml_title": [
+         "嫌いな食べ物",
+         "讨厌的食物"
+      ],
+      "ml_content": [
+         "油っぽいもの",
+         "油腻的东西"
+      ]
+   },
+   {
+      "id": 676,
+      "unit_id": 62,
+      "release_level": 4,
+      "position": 5,
+      "ml_title": [
+         "特技",
+         "特长"
+      ],
+      "ml_content": [
+         "ビリヤード",
+         "台球"
+      ]
+   },
+   {
+      "id": 677,
+      "unit_id": 62,
+      "release_level": 5,
+      "position": 6,
+      "ml_title": [
+         "ポリシー",
+         "信念"
+      ],
+      "ml_content": [
+         "自由に生きる",
+         "自由地活着"
+      ]
+   },
+   {
+      "id": 678,
+      "unit_id": 62,
+      "release_level": 6,
+      "position": 7,
+      "ml_title": [
+         "癖",
+         "癖好"
+      ],
+      "ml_content": [
+         "つい女の子を\nからかってしまう",
+         "不自觉地会去捉弄女孩子。"
+      ]
+   },
+   {
+      "id": 679,
+      "unit_id": 62,
+      "release_level": 7,
+      "position": 8,
+      "ml_title": [
+         "夢",
+         "梦想"
+      ],
+      "ml_content": [
+         "世界中に自分の音楽を\n届けること",
+         "向全世界传递自己的音乐"
+      ]
+   },
+   {
+      "id": 680,
+      "unit_id": 62,
+      "release_level": 8,
+      "position": 9,
+      "ml_title": [
+         "短所",
+         "短处"
+      ],
+      "ml_content": [
+         "管楽器系が苦手",
+         "不擅长管乐"
+      ]
+   },
+   {
+      "id": 681,
+      "unit_id": 62,
+      "release_level": 9,
+      "position": 10,
+      "ml_title": [
+         "実は",
+         "其实"
+      ],
+      "ml_content": [
+         "卑猥な手紙を\n書くのが好き",
+         "喜欢写下流的信"
+      ]
+   },
+   {
+      "id": 682,
+      "unit_id": 62,
+      "release_level": 10,
+      "position": 11,
+      "ml_title": [
+         "後悔していること",
+         "后悔着的事情"
+      ],
+      "ml_content": [
+         "文明ギルドに\n親友が処刑されたこと",
+         "好友被文明公会处刑"
+      ]
    }
 ]

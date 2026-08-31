@@ -885,6 +885,21 @@
         "duration": 0
     },
     {
+        "id": 2063,
+        "ml_name": [
+            "iOS版 GAMES STOREアプリリリース記念ログインボーナス！",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 501,
+        "start_time": "2026-08-31 17:00:00",
+        "end_time": "2026-09-30 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 2064,
         "ml_name": [
             "フィオレンツァ祭ログインボーナス",
@@ -896,6 +911,51 @@
         "priority": 500,
         "start_time": "2026-08-23 13:00:00",
         "end_time": "2026-08-31 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2065,
+        "ml_name": [
+            "芸相記念ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 500,
+        "start_time": "2026-08-31 13:30:00",
+        "end_time": "2026-09-14 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2066,
+        "ml_name": [
+            "秋のGAMES FESTIVAL記念ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 505,
+        "start_time": "2026-09-10 12:00:00",
+        "end_time": "2026-09-30 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2071,
+        "ml_name": [
+            "くまさんブランドタイトル特別ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 510,
+        "start_time": "2026-09-21 13:00:00",
+        "end_time": "2026-10-04 12:59:59",
         "comeback_span": 0,
         "duration": 0
     },
@@ -2100,6 +2160,21 @@
         "duration": 0
     },
     {
+        "id": 13239,
+        "ml_name": [
+            "青の魂に捧ぐレクイエムログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2026-09-27 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13301,
         "ml_name": [
             "アートバレンタインログインボーナス",
@@ -2580,6 +2655,21 @@
         "duration": 0
     },
     {
+        "id": 13333,
+        "ml_name": [
+            "争奪！秋の芸術大運動会ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-08-31 13:30:00",
+        "end_time": "2026-09-15 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13601,
         "ml_name": [
             "ありえない出会いと最初の試練ログインボーナス",
@@ -2726,6 +2816,21 @@
         "priority": 202,
         "start_time": "2026-08-19 13:00:00",
         "end_time": "2026-08-27 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13611,
+        "ml_name": [
+            "魅了する最悪の強欲ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-09-19 13:00:00",
+        "end_time": "2026-09-27 12:59:59",
         "comeback_span": 0,
         "duration": 0
     },
@@ -2951,6 +3056,21 @@
         "priority": 201,
         "start_time": "2026-08-23 13:00:00",
         "end_time": "2026-08-31 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 15016,
+        "ml_name": [
+            "想いによって生まれるものはログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-09-22 13:00:00",
+        "end_time": "2026-09-30 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

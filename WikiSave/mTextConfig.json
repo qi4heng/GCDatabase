@@ -901,7 +901,7 @@
         "id": 266,
         "name": "Gacha_Free_Message_Format",
         "ml_value": [
-            "無料で引けるガチャです。\n<color=#fb293d>{3}</color> \nを引きますか？",
+            "無料で引けるガチャです。\n<color=#fb293d>{3}回</color> 引きますか？",
             ""
         ]
     },
@@ -917,7 +917,7 @@
         "id": 268,
         "name": "Gacha_Confirmation_Message_Format",
         "ml_value": [
-            "<color=#fb293d>{0}</color> を <color=#fb293d>{1}{2}</color> 消費して\n<color=#fb293d>{3}</color> を\n<color=#fb293d>{4}回</color> 引きますか？",
+            "<color=#fb293d>{0}</color> を <color=#fb293d>{1}{2}</color> 消費して\n<color=#fb293d>{3}回</color> 引きますか？",
             ""
         ]
     },

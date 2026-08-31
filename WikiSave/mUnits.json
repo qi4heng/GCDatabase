@@ -1485,6 +1485,116 @@
       ]
    },
    {
+      "id": 61,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4016101,
+      "collabo_type": 6,
+      "hp": 13600,
+      "atk": 408,
+      "mnd": 312,
+      "def": 288,
+      "dex": 264,
+      "luk": 264,
+      "spd": 432,
+      "passion": 100,
+      "sort_order": 61,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 3,
+      "main_art_type": 5,
+      "sub_art_type": 2,
+      "default_max_level": 75,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "ベートーヴェン",
+         "en",
+         "贝多芬"
+      ],
+      "ml_cv_name": [
+         "蒼乃むずび",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "音楽魔術世界ハルモニアからやってきた白銀の楽聖。\n革新的な交響曲やピアノ曲を生み出し続けるその姿は\nヴィエンナ音楽院の楽団員たちの憧れである。\n一方でやや気難しい性格をしており、\n短気、癇癪持ち、潔癖症とやや不安定な一面も。",
+         "en",
+         "自音乐魔术世界哈莫尼亚而来的白银之乐圣。\n那不断地创作出革新性的交响曲或是钢琴曲的身姿\n为维也纳音乐院的乐团成员们所憧憬着。\n另一方面有着比较难相处的性格、\n以及脾气急躁、易怒、洁癖等不安定的一面。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_ベートーヴェン",
+         "en"
+      ],
+      "ml_birthday": [
+         "12月16日",
+         "en"
+      ],
+      "ml_height": [
+         "不怎么高呢\n（<span lang=\"ja\">高くはないわね</span>）",
+         "en"
+      ],
+      "ml_size": [
+         "没听清\n（<span lang=\"ja\">よく聞こえないわ</span>）",
+         "en"
+      ]
+   },
+   {
+      "id": 62,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4016201,
+      "collabo_type": 6,
+      "hp": 14400,
+      "atk": 456,
+      "mnd": 264,
+      "def": 336,
+      "dex": 360,
+      "luk": 240,
+      "spd": 312,
+      "passion": 100,
+      "sort_order": 62,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 1,
+      "main_art_type": 1,
+      "sub_art_type": 4,
+      "default_max_level": 75,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "モーツァルト",
+         "en",
+         "莫扎特"
+      ],
+      "ml_cv_name": [
+         "白月かなめ",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "音楽魔術世界ハルモニアからやってきた光輝の神童。\n幼い頃から才能を発揮させてきた天才で、\n優雅で美しい旋律を奏でるその姿は天使のよう。\nしかし中身は手がつけられないほどのイタズラ娘で、\n女の子をからかっては愉快そうに笑っている。",
+         "en",
+         "来自音乐魔法世界哈莫尼亚的光辉之神童。\n是从小就展现才能的天才，\n演奏优雅美丽旋律的身姿宛如天使一般。\n但内在却是个无法无天的调皮女孩，\n总是捉弄女孩子然后愉快地笑着。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_モーツァルト",
+         "en"
+      ],
+      "ml_birthday": [
+         "1月27日",
+         "en"
+      ],
+      "ml_height": [
+         "算是矮的呢\n（<span lang=\"ja\">低い方だね</span>）",
+         "en"
+      ],
+      "ml_size": [
+         "也有人会喜欢我这样的啦！\n（<span lang=\"ja\">需要はあるよ！</span>）",
+         "en"
+      ]
+   },
+   {
       "id": 998,
       "level_group_id": 1,
       "love_point_level_group_id": 1,

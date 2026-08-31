@@ -24208,6 +24208,278 @@
         "subunit_id": 4020091
     },
     {
+        "id": 1457,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020092_1400",
+        "ml_word": [
+            "あ、館長さん！　美術館、いじょーないです！\n私もなんとか受付がんばってます！　ずっと地下に\nいたから、チョト落ち着かないですけど……えへへ。",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1458,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020092_1410",
+        "ml_word": [
+            "ここにいるとたくさんの人間さんたちを見ます。\n不思議な感じがしますし、懐かしい感じもします。\n原始藝術だった頃は、いつも人間を見てたから……。",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1459,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020092_1420",
+        "ml_word": [
+            "美術館は、私にとって大切な場所……。\nだからみんなのことも、館長さんのことも守ります！\n私だって、戦えるんですよ……！",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1460,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020092_1430",
+        "ml_word": [
+            "街にはたくさんステキなものがありました。\n前にごちそうになったパフェ、おいしかったです。\nまたみんなで食べに行きたいなって。えへへ……。",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1461,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020092_1440",
+        "ml_word": [
+            "館長さんとゆっくりお話しするの、\n心がぽかぽかして好きなんです。\nだからもっとお話ししたいなって……ダメ、ですか？",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1462,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4020092_1450",
+        "ml_word": [
+            "ハウ……チョト、お腹空いてきたかも……。\nみんなとおやつ、食べたいな……。\nみんなと食べるとオイシイから、フシギ……。",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1463,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020092_1460",
+        "ml_word": [
+            "みなさんが新年のお祝いしてます！\n私もなんだかウキウキしてきました。\nオドッチャオかな……エへ。",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1464,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020092_1470",
+        "ml_word": [
+            "バレンタインのチョコレート、たくさんたくさん\n準備しました！　みなさんに配ります！\nもちろんあの、館長さんも……受け取ってくれますか？",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1465,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020092_1480",
+        "ml_word": [
+            "ハロウィンって、仮装をするんですよね？\n私はどんな格好をすればいいんでしょうか。\n壁画の牛の格好でもシヨカナ？",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1466,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020092_1490",
+        "ml_word": [
+            "クリスマスはプレゼントがもらえるって本当ですか？\nいい子にしてないともらえないとも聞きました……。\nわ、私……私は大丈夫でしょうか……オロオロ。",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1467,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020092_1500",
+        "ml_word": [
+            "ツァオに大掃除をしましょうと誘われたので、\n地下の収蔵庫をがんばって掃除しました！\n埃だらけです……ケプシッ！　ケプシッ！",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1468,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020092_1510",
+        "ml_word": [
+            "お誕生日って私はよくわからなかったけど……生まれた\n日がわかってるのは素敵だなって気付きました。\nだって、お祝いができますから。\n館長さん、オメデトヤン！",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1469,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020092_1520",
+        "ml_word": [
+            "美術館のみなさん……\n特にイマージュのみなさんは、\n私に本当に親切にしてくれます。\nそれはやっぱり……嬉しいです、とても。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1470,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020092_1530",
+        "ml_word": [
+            "ツァオとはしょっちゅう一緒にいます。\nそしたらグラマンシュがおやつを\n持ってきてくれたりします。\n私……とっても楽しいです。トモダチと、過ごすの。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1471,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020092_1540",
+        "ml_word": [
+            "ヴィレンタンのことは、ずっとただ怖いだけでした。\nでも今はもう、そうじゃありません。\n話がしたいって、そう思います。\n彼女は悲しんでただけだから……。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
+        "id": 1472,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020092_1550",
+        "ml_word": [
+            "原始藝術だった頃のことは、色々覚えてます。\n”私”の記憶かどうかはわからないけど、\nでもどれも大切な思い出です。\n……また会えて、良かった。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020092
+    },
+    {
         "id": 1473,
         "scene_type": 0,
         "trigger": 5,
@@ -24484,7 +24756,7 @@
         "scene_type": 0,
         "trigger": 5,
         "motion": "mypage",
-        "expression": "",
+        "expression": "joy",
         "sound_asset": "stv_4020095_1400",
         "ml_word": [
             "ごきげんよう、館長様。\n暑くないですか？　プールにでも行かれます？\nそれから……おなかも空いてませんか？\n……あら失礼、つい甘やかしたくなってしまって。",
@@ -24501,7 +24773,7 @@
         "scene_type": 0,
         "trigger": 5,
         "motion": "mypage",
-        "expression": "",
+        "expression": "joy",
         "sound_asset": "stv_4020095_1410",
         "ml_word": [
             "館長様、見てください。\nこの水着なら、水辺でも問題ありません。\nどんなに暑くても、甘やかすことが可能なのです。\nさ、なにをして欲しいですか？",
@@ -24586,7 +24858,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "joy",
         "sound_asset": "stv_4020059_1460",
         "ml_word": [
             "館長様はいつもお忙しい身ですから、お正月くらいは\nゆっくりなさってください。お食事も、おやつも、\nちゃんと用意してありますからね。\n何も考えずに、のんびりくつろいでください。",
@@ -24603,7 +24875,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "joy",
         "sound_asset": "stv_4020059_1470",
         "ml_word": [
             "バレンタインですね、館長様。\n普通のチョコもよろしいですが、\n体が温まるホットチョコレートはいかがですか？\nさあどうぞ、温かいうちに召し上がってください。",
@@ -24620,7 +24892,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "joy",
         "sound_asset": "stv_4020059_1480",
         "ml_word": [
             "子供たちが待ちわびていたお祭りの日ですね。みなさん\nに行き渡るよう、たくさんお菓子を用意しました。\n余分にありますので、館長様もおひとついかがですか？\nたまには、童心に返ってもよろしいのですよ。",
@@ -24637,7 +24909,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "ease",
         "sound_asset": "stv_4020059_1490",
         "ml_word": [
             "メリークリスマスです、館長様。いい子にしていた\n館長様には、サンタさんに代わって、プレゼントを\n用意してありますよ。……館長様もですか？　わあ、\n嬉しいです♪　後でプレゼント交換しましょうね。",
@@ -24654,7 +24926,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "joy",
         "sound_asset": "stv_4020059_1500",
         "ml_word": [
             "年の瀬はどこも大忙しですね。\nですが、これも気持ちよく新年を迎えるため……。\nゆったりのんびり年明けを過ごすために、\n今だけ頑張りましょう！",
@@ -24671,7 +24943,7 @@
         "scene_type": 0,
         "trigger": 7,
         "motion": "mypage",
-        "expression": "",
+        "expression": "ease",
         "sound_asset": "stv_4020059_1510",
         "ml_word": [
             "ハッピーバースデーです、館長様。こうして記念\nすべき日を共にお祝いできることを嬉しく思います。\nミケランジェロ様もお祝いを言いたそうに\nしておられましたから、会って差し上げてくださいね。",
@@ -24688,7 +24960,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "bashful",
         "sound_asset": "stv_4020095_1520",
         "ml_word": [
             "あら、館長様……。\n今日はわたくしを撫でてくださるのですか？\nそうですね、こういうのはギブアンドテイクですから。\nさ、どうぞお好きになさってください。",
@@ -24705,7 +24977,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "bashful",
         "sound_asset": "stv_4020095_1530",
         "ml_word": [
             "この水着、似合っていますか？\n館長様はこういうのがお好きだと伺ったので。\nええ、ミケランジェロ様に……え、違うのですか？\n違わない……ああ、良かったです。",
@@ -24722,7 +24994,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "joy",
         "sound_asset": "stv_4020095_1540",
         "ml_word": [
             "この前行ったプールで、知り合いの子と会ったんです。\nその子がオススメしてくれた売店のスイーツが、\n本当に甘くておいしくて……。\nぜひ、館長様にも味わっていただきたいのです。",
@@ -24739,7 +25011,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "bashful",
         "sound_asset": "stv_4020095_1550",
         "ml_word": [
             "あら館長様、どうなさったんですか？\n目が死ん……いえ、とてもお疲れのご様子。\nさあ、こちらにいらしてください。\n今日はどんな愚痴も聞いちゃいますよ～。",

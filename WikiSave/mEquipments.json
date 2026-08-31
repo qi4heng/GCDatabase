@@ -1738,6 +1738,28 @@
       "source": "常驻商店兑换"
    },
    {
+      "id": 4110407,
+      "enhance_group_id": 45,
+      "disassemble_group_id": 145,
+      "rarity": 5,
+      "site_type": 4,
+      "unit_id": 4,
+      "lock_type": 2,
+      "reduce_element_type": 4,
+      "image_index": 4110407,
+      "country_type": 0,
+      "ml_name": [
+         "セキエンの舞踏靴",
+         ""
+      ],
+      "ml_flavor_text": [
+         "セキエン【木精たちの円舞】が着用している舞踏靴。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包（石燕生诞祭2026）"
+   },
+   {
       "id": 4110410,
       "enhance_group_id": 55,
       "disassemble_group_id": 202,
@@ -2000,6 +2022,28 @@
       ],
       "ml_effect_flavor": [],
       "source": "常驻商店兑换"
+   },
+   {
+      "id": 4110614,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 206,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 6,
+      "lock_type": 2,
+      "reduce_element_type": 2,
+      "image_index": 4110614,
+      "country_type": 0,
+      "ml_name": [
+         "強欲の結晶大鋏",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるレンブラントの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
    },
    {
       "id": 4110701,
@@ -3870,5 +3914,137 @@
       ],
       "ml_effect_flavor": [],
       "source": "信爱Lv10任务"
+   },
+   {
+      "id": 4116101,
+      "enhance_group_id": 15,
+      "disassemble_group_id": 115,
+      "rarity": 5,
+      "site_type": 1,
+      "unit_id": 61,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4116101,
+      "country_type": 0,
+      "ml_name": [
+         "ベートーヴェンのヘアリボン",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ベートーヴェン【白銀の楽聖】が着用しているヘアリボン。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": ""
+   },
+   {
+      "id": 4116102,
+      "enhance_group_id": 35,
+      "disassemble_group_id": 135,
+      "rarity": 5,
+      "site_type": 3,
+      "unit_id": 61,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4116102,
+      "country_type": 0,
+      "ml_name": [
+         "ベートーヴェンのスカーフ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ベートーヴェン【白銀の楽聖】が着用しているスカーフ。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": ""
+   },
+   {
+      "id": 4116103,
+      "enhance_group_id": 45,
+      "disassemble_group_id": 145,
+      "rarity": 5,
+      "site_type": 4,
+      "unit_id": 61,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4116103,
+      "country_type": 0,
+      "ml_name": [
+         "ベートーヴェンのブーツ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ベートーヴェン【白銀の楽聖】が着用しているブーツ。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": ""
+   },
+   {
+      "id": 4116201,
+      "enhance_group_id": 15,
+      "disassemble_group_id": 115,
+      "rarity": 5,
+      "site_type": 1,
+      "unit_id": 62,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4116201,
+      "country_type": 0,
+      "ml_name": [
+         "モーツァルトのヘッドドレス",
+         ""
+      ],
+      "ml_flavor_text": [
+         "モーツァルト【光輝の神童】が着用しているヘッドドレス。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": ""
+   },
+   {
+      "id": 4116202,
+      "enhance_group_id": 25,
+      "disassemble_group_id": 125,
+      "rarity": 5,
+      "site_type": 2,
+      "unit_id": 62,
+      "lock_type": 2,
+      "reduce_element_type": 2,
+      "image_index": 4116202,
+      "country_type": 0,
+      "ml_name": [
+         "モーツァルトのアームカバー",
+         ""
+      ],
+      "ml_flavor_text": [
+         "モーツァルト【光輝の神童】が着用しているアームカバー。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": ""
+   },
+   {
+      "id": 4116203,
+      "enhance_group_id": 45,
+      "disassemble_group_id": 145,
+      "rarity": 5,
+      "site_type": 4,
+      "unit_id": 62,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4116203,
+      "country_type": 0,
+      "ml_name": [
+         "モーツァルトのパンプス",
+         ""
+      ],
+      "ml_flavor_text": [
+         "モーツァルト【光輝の神童】が着用しているパンプス。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": ""
    }
 ]

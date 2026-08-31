@@ -2323,5 +2323,95 @@
       "sub_effect_id1": 63130013,
       "sell_price": 10656,
       "start_time": "2026-08-27 13:00:00"
+   },
+   {
+      "id": 4120157,
+      "ml_name": [
+         "勝利を勝ち取れ！　乙女たちの大運動会！",
+         "夺取胜利吧！少女们的大运动会！"
+      ],
+      "index": "156",
+      "rarity": 4,
+      "image_index": 4120167,
+      "main_effect_id1": 54130002,
+      "main_effect_id2": 54131504,
+      "sub_effect_id1": 63130017,
+      "sell_price": 3552,
+      "start_time": "2026-08-31 13:00:00"
+   },
+   {
+      "id": 4120158,
+      "ml_name": [
+         "童心に返るのも悪くないです",
+         "回归童心也不坏"
+      ],
+      "index": "157",
+      "rarity": 5,
+      "image_index": 4120140,
+      "main_effect_id1": 55131302,
+      "main_effect_id2": 55390004,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-08-31 13:00:00"
+   },
+   {
+      "id": 4120159,
+      "ml_name": [
+         "破滅を退ける絆を示して",
+         "展示退却破灭的牵绊吧"
+      ],
+      "index": "158",
+      "rarity": 5,
+      "image_index": 4120179,
+      "main_effect_id1": 55130202,
+      "main_effect_id2": 55300004,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-09-07 13:00:00"
+   },
+   {
+      "id": 4120160,
+      "ml_name": [
+         "神童と楽聖の舌戦",
+         "神童与乐圣的舌战"
+      ],
+      "index": "159",
+      "rarity": 4,
+      "image_index": 4120168,
+      "main_effect_id1": 54130006,
+      "main_effect_id2": 54131103,
+      "sub_effect_id1": 63130018,
+      "sell_price": 3552,
+      "start_time": "2026-09-14 13:00:00"
+   },
+   {
+      "id": 4120161,
+      "ml_name": [
+         "あなたが私を創ったから",
+         "因为您创造了我"
+      ],
+      "index": "160",
+      "rarity": 4,
+      "image_index": 4120169,
+      "main_effect_id1": 54130006,
+      "main_effect_id2": 54131603,
+      "sub_effect_id1": 63130019,
+      "sell_price": 3552,
+      "start_time": "2026-09-22 13:00:00"
+   },
+   {
+      "id": 4120162,
+      "ml_name": [
+         "乙女たちの極楽休暇",
+         "少女们的极乐休假"
+      ],
+      "index": "161",
+      "rarity": 5,
+      "image_index": 4120141,
+      "main_effect_id1": 55130002,
+      "main_effect_id2": 55300000,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-09-26 13:00:00"
    }
 ]

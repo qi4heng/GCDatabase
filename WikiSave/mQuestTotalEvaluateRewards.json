@@ -1600,6 +1600,106 @@
         "end_time": "2030-08-01 23:59:59"
     },
     {
+        "id": 11201,
+        "group_id": 112,
+        "point": 1,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11202,
+        "group_id": 112,
+        "point": 3,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11203,
+        "group_id": 112,
+        "point": 4,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11204,
+        "group_id": 112,
+        "point": 6,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11205,
+        "group_id": 112,
+        "point": 7,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11206,
+        "group_id": 112,
+        "point": 9,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11207,
+        "group_id": 112,
+        "point": 10,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11208,
+        "group_id": 112,
+        "point": 12,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11209,
+        "group_id": 112,
+        "point": 13,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
+        "id": 11210,
+        "group_id": 112,
+        "point": 14,
+        "item_type": 151,
+        "item_id": 1510012,
+        "item_count": 1,
+        "start_time": "2026-09-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59"
+    },
+    {
         "id": 90101,
         "group_id": 901,
         "point": 1,
@@ -11498,5 +11598,455 @@
         "item_count": 5000,
         "start_time": "2026-08-01 04:00:00",
         "end_time": "2026-09-01 03:59:59"
+    },
+    {
+        "id": 92301,
+        "group_id": 923,
+        "point": 1,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92302,
+        "group_id": 923,
+        "point": 2,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92303,
+        "group_id": 923,
+        "point": 3,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92304,
+        "group_id": 923,
+        "point": 4,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92305,
+        "group_id": 923,
+        "point": 5,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92306,
+        "group_id": 923,
+        "point": 6,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92307,
+        "group_id": 923,
+        "point": 7,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92308,
+        "group_id": 923,
+        "point": 8,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92309,
+        "group_id": 923,
+        "point": 9,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92310,
+        "group_id": 923,
+        "point": 10,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92311,
+        "group_id": 923,
+        "point": 11,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92312,
+        "group_id": 923,
+        "point": 12,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92313,
+        "group_id": 923,
+        "point": 13,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92314,
+        "group_id": 923,
+        "point": 14,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92315,
+        "group_id": 923,
+        "point": 15,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92316,
+        "group_id": 923,
+        "point": 16,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92317,
+        "group_id": 923,
+        "point": 17,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92318,
+        "group_id": 923,
+        "point": 18,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92319,
+        "group_id": 923,
+        "point": 19,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 1000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92320,
+        "group_id": 923,
+        "point": 20,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92321,
+        "group_id": 923,
+        "point": 21,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92322,
+        "group_id": 923,
+        "point": 22,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92323,
+        "group_id": 923,
+        "point": 23,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92324,
+        "group_id": 923,
+        "point": 24,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92325,
+        "group_id": 923,
+        "point": 25,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92326,
+        "group_id": 923,
+        "point": 26,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92327,
+        "group_id": 923,
+        "point": 27,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92328,
+        "group_id": 923,
+        "point": 28,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92329,
+        "group_id": 923,
+        "point": 29,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 2000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92330,
+        "group_id": 923,
+        "point": 30,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 3000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92331,
+        "group_id": 923,
+        "point": 31,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 3000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92332,
+        "group_id": 923,
+        "point": 32,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 3000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92333,
+        "group_id": 923,
+        "point": 33,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 3000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92334,
+        "group_id": 923,
+        "point": 34,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 3000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92335,
+        "group_id": 923,
+        "point": 35,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92336,
+        "group_id": 923,
+        "point": 36,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92337,
+        "group_id": 923,
+        "point": 37,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92338,
+        "group_id": 923,
+        "point": 38,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92339,
+        "group_id": 923,
+        "point": 39,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92340,
+        "group_id": 923,
+        "point": 40,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92341,
+        "group_id": 923,
+        "point": 41,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92342,
+        "group_id": 923,
+        "point": 42,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92343,
+        "group_id": 923,
+        "point": 43,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92344,
+        "group_id": 923,
+        "point": 44,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 4500,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
+    },
+    {
+        "id": 92345,
+        "group_id": 923,
+        "point": 45,
+        "item_type": 173,
+        "item_id": 1610301,
+        "item_count": 5000,
+        "start_time": "2026-09-01 04:00:00",
+        "end_time": "2026-10-01 03:59:59"
     }
 ]

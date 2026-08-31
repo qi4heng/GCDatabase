@@ -4683,6 +4683,132 @@
         "after_novel_id": 0
     },
     {
+        "id": 798,
+        "m_quest_stage_id": 7331001,
+        "series_no": 0,
+        "before_novel_id": 20003501,
+        "after_novel_id": 0
+    },
+    {
+        "id": 799,
+        "m_quest_stage_id": 7331002,
+        "series_no": 0,
+        "before_novel_id": 20003502,
+        "after_novel_id": 0
+    },
+    {
+        "id": 800,
+        "m_quest_stage_id": 7331003,
+        "series_no": 0,
+        "before_novel_id": 20003503,
+        "after_novel_id": 0
+    },
+    {
+        "id": 801,
+        "m_quest_stage_id": 7331004,
+        "series_no": 0,
+        "before_novel_id": 20003504,
+        "after_novel_id": 0
+    },
+    {
+        "id": 802,
+        "m_quest_stage_id": 7331005,
+        "series_no": 0,
+        "before_novel_id": 20003505,
+        "after_novel_id": 0
+    },
+    {
+        "id": 803,
+        "m_quest_stage_id": 7331006,
+        "series_no": 0,
+        "before_novel_id": 20003506,
+        "after_novel_id": 0
+    },
+    {
+        "id": 815,
+        "m_quest_stage_id": 4391001,
+        "series_no": 0,
+        "before_novel_id": 22003401,
+        "after_novel_id": 0
+    },
+    {
+        "id": 816,
+        "m_quest_stage_id": 4391002,
+        "series_no": 0,
+        "before_novel_id": 22003402,
+        "after_novel_id": 0
+    },
+    {
+        "id": 817,
+        "m_quest_stage_id": 4391003,
+        "series_no": 0,
+        "before_novel_id": 22003403,
+        "after_novel_id": 0
+    },
+    {
+        "id": 818,
+        "m_quest_stage_id": 4391004,
+        "series_no": 0,
+        "before_novel_id": 22003404,
+        "after_novel_id": 0
+    },
+    {
+        "id": 819,
+        "m_quest_stage_id": 4391005,
+        "series_no": 0,
+        "before_novel_id": 22003405,
+        "after_novel_id": 0
+    },
+    {
+        "id": 820,
+        "m_quest_stage_id": 4391006,
+        "series_no": 0,
+        "before_novel_id": 22003406,
+        "after_novel_id": 0
+    },
+    {
+        "id": 821,
+        "m_quest_stage_id": 11101001,
+        "series_no": 0,
+        "before_novel_id": 29001101,
+        "after_novel_id": 0
+    },
+    {
+        "id": 822,
+        "m_quest_stage_id": 11101002,
+        "series_no": 0,
+        "before_novel_id": 29001102,
+        "after_novel_id": 0
+    },
+    {
+        "id": 823,
+        "m_quest_stage_id": 6161001,
+        "series_no": 0,
+        "before_novel_id": 23001201,
+        "after_novel_id": 0
+    },
+    {
+        "id": 824,
+        "m_quest_stage_id": 6161002,
+        "series_no": 0,
+        "before_novel_id": 23001202,
+        "after_novel_id": 0
+    },
+    {
+        "id": 825,
+        "m_quest_stage_id": 6161003,
+        "series_no": 0,
+        "before_novel_id": 23001203,
+        "after_novel_id": 0
+    },
+    {
+        "id": 826,
+        "m_quest_stage_id": 6161004,
+        "series_no": 0,
+        "before_novel_id": 23001204,
+        "after_novel_id": 0
+    },
+    {
         "id": 95,
         "m_quest_stage_id": 1041001,
         "series_no": 0,
@@ -5527,6 +5653,83 @@
         "m_quest_stage_id": 1111015,
         "series_no": 11,
         "before_novel_id": 11011105,
+        "after_novel_id": 0
+    },
+    {
+        "id": 804,
+        "m_quest_stage_id": 1121001,
+        "series_no": 0,
+        "before_novel_id": 10011201,
+        "after_novel_id": 0
+    },
+    {
+        "id": 805,
+        "m_quest_stage_id": 1121002,
+        "series_no": 0,
+        "before_novel_id": 10011202,
+        "after_novel_id": 0
+    },
+    {
+        "id": 806,
+        "m_quest_stage_id": 1121003,
+        "series_no": 0,
+        "before_novel_id": 10011203,
+        "after_novel_id": 0
+    },
+    {
+        "id": 807,
+        "m_quest_stage_id": 1121004,
+        "series_no": 0,
+        "before_novel_id": 10011204,
+        "after_novel_id": 0
+    },
+    {
+        "id": 808,
+        "m_quest_stage_id": 1121005,
+        "series_no": 0,
+        "before_novel_id": 10011205,
+        "after_novel_id": 0
+    },
+    {
+        "id": 809,
+        "m_quest_stage_id": 1121006,
+        "series_no": 0,
+        "before_novel_id": 10011206,
+        "after_novel_id": 0
+    },
+    {
+        "id": 810,
+        "m_quest_stage_id": 1121007,
+        "series_no": 0,
+        "before_novel_id": 10011207,
+        "after_novel_id": 0
+    },
+    {
+        "id": 811,
+        "m_quest_stage_id": 1121008,
+        "series_no": 0,
+        "before_novel_id": 10011208,
+        "after_novel_id": 0
+    },
+    {
+        "id": 812,
+        "m_quest_stage_id": 1121009,
+        "series_no": 0,
+        "before_novel_id": 10011209,
+        "after_novel_id": 0
+    },
+    {
+        "id": 813,
+        "m_quest_stage_id": 1121010,
+        "series_no": 0,
+        "before_novel_id": 10011210,
+        "after_novel_id": 0
+    },
+    {
+        "id": 814,
+        "m_quest_stage_id": 1121011,
+        "series_no": 0,
+        "before_novel_id": 10011211,
         "after_novel_id": 0
     }
 ]

@@ -1,0 +1,4272 @@
+[
+    {
+        "id": 1,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010101,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010102,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 3,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010103,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 4,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010201,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 5,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010202,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 6,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010203,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 7,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010301,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 8,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010302,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 9,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010303,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 10,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010401,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 11,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010402,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 12,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010403,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 13,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010501,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 14,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010502,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 15,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010503,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 16,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010601,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 17,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010602,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 18,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010603,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 19,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010701,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 20,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010702,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 21,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010703,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 22,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010801,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 23,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010802,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 24,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010803,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 25,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010901,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 26,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010902,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 27,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010903,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 28,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011001,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 29,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011002,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 30,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011003,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 31,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011101,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 32,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011102,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 33,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011103,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 34,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011201,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 35,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011202,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 36,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011203,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 37,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020003,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 38,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020005,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 39,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020006,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 40,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020007,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 41,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020008,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 42,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020009,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 43,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020010,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 44,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020011,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 45,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020013,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020014,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 47,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020015,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 48,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020016,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 49,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020017,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 50,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020019,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 51,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020020,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 52,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020024,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 53,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020025,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 54,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020030,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 55,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020032,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 56,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020033,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 57,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020034,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 58,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020041,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 59,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020043,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 60,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020044,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 61,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020045,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 62,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020046,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 63,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020047,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 64,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020049,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 65,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020050,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 66,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020059,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 67,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020063,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 412,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010101,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 413,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010102,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 414,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010103,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 415,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010201,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 416,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010202,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 417,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010203,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 418,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010301,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 419,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010302,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 420,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010303,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 421,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010401,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 422,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010402,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 423,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010403,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 424,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010501,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 425,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010502,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 426,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010503,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 427,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010601,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 428,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010602,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 429,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010603,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 430,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010701,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 431,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010702,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 432,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010703,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 433,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010801,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 434,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010802,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 435,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010803,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 436,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010901,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 437,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010902,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 438,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010903,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 439,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011001,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 440,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011002,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 441,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011003,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 442,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011101,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 443,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011102,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 444,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011103,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 445,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011201,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 446,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011202,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 447,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011203,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 448,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020003,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 449,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020005,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 450,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020006,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 451,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020007,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 452,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020008,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 453,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020009,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 454,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020010,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 455,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020011,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 456,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020013,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 457,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020014,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 458,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020015,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 459,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020016,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 460,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020017,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 461,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020019,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 462,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020020,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 463,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020024,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 464,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020025,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 465,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020030,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 466,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020032,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 467,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020033,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 468,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020034,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 469,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020041,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 470,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020043,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 471,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020044,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 472,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020045,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 473,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020046,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 474,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020047,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 475,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020049,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 476,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020050,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 477,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020059,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 478,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020063,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 639,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010506,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 640,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010105,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 641,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010804,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 642,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020001,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 643,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020018,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 644,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020022,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 713,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010705,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 921,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020029,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1080,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020037,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1280,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011301,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1281,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011302,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1282,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011303,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1283,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011301,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1284,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011302,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1285,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011303,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1468,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011005,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1469,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010304,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1600,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020026,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1601,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010206,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1602,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020036,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1700,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020012,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1902,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020027,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1903,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010406,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 1976,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020054,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2354,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010805,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2355,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010905,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2356,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010709,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2357,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020031,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2430,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020055,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2632,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011006,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2633,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010504,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2634,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020038,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2765,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010305,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 2812,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020056,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 3015,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010806,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 3016,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011204,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 3088,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020040,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 3219,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010605,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 3338,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020002,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 3594,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011501,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-09 13:30:00"
+    },
+    {
+        "id": 3595,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011502,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-09 13:30:00"
+    },
+    {
+        "id": 3596,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011503,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-09 13:30:00"
+    },
+    {
+        "id": 3597,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011501,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-09 13:30:00"
+    },
+    {
+        "id": 3598,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011502,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-09 13:30:00"
+    },
+    {
+        "id": 3599,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011503,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-09 13:30:00"
+    },
+    {
+        "id": 3740,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020039,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-16 13:30:00"
+    },
+    {
+        "id": 4100,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020051,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-31 13:30:00"
+    },
+    {
+        "id": 4101,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010104,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-05-24 13:30:00"
+    },
+    {
+        "id": 4313,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011105,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-06-10 13:30:00"
+    },
+    {
+        "id": 4314,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010904,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-06-10 13:30:00"
+    },
+    {
+        "id": 4315,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020028,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-06-17 13:30:00"
+    },
+    {
+        "id": 4526,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011305,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-06-24 13:30:00"
+    },
+    {
+        "id": 4963,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010306,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-07-08 13:30:00"
+    },
+    {
+        "id": 4964,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010606,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-07-08 13:30:00"
+    },
+    {
+        "id": 4965,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020060,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-07-08 13:30:00"
+    },
+    {
+        "id": 5450,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010708,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-07-23 13:30:00"
+    },
+    {
+        "id": 5451,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010106,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-07-23 13:30:00"
+    },
+    {
+        "id": 5452,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020004,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-07-23 13:30:00"
+    },
+    {
+        "id": 5692,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020065,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-07-31 13:30:00"
+    },
+    {
+        "id": 5979,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010404,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-08-09 13:30:00"
+    },
+    {
+        "id": 5980,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010205,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-08-09 13:30:00"
+    },
+    {
+        "id": 6031,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020066,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-08-16 13:30:00"
+    },
+    {
+        "id": 6705,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011106,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-08-30 13:30:00"
+    },
+    {
+        "id": 6706,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011205,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-08-30 13:30:00"
+    },
+    {
+        "id": 6707,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011401,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-09 13:30:00"
+    },
+    {
+        "id": 6708,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011402,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-09 13:30:00"
+    },
+    {
+        "id": 6709,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011403,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-09 13:30:00"
+    },
+    {
+        "id": 6710,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011401,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-09 13:30:00"
+    },
+    {
+        "id": 6711,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011402,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-09 13:30:00"
+    },
+    {
+        "id": 6712,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011403,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-09 13:30:00"
+    },
+    {
+        "id": 7033,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020067,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-09 13:30:00"
+    },
+    {
+        "id": 7483,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011504,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-24 13:30:00"
+    },
+    {
+        "id": 7484,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010604,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-24 13:30:00"
+    },
+    {
+        "id": 7485,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020023,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-09-24 13:30:00"
+    },
+    {
+        "id": 8005,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020035,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-10-09 13:30:00"
+    },
+    {
+        "id": 8403,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020058,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-10-24 13:30:00"
+    },
+    {
+        "id": 8404,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010906,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-10-31 13:30:00"
+    },
+    {
+        "id": 8405,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011004,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-10-31 13:30:00"
+    },
+    {
+        "id": 9303,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020064,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-11-08 13:30:00"
+    },
+    {
+        "id": 9304,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010109,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-11-15 13:30:00"
+    },
+    {
+        "id": 9305,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010207,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-11-15 13:30:00"
+    },
+    {
+        "id": 9578,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010407,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-11-22 13:30:00"
+    },
+    {
+        "id": 9579,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010505,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-11-22 13:30:00"
+    },
+    {
+        "id": 9580,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010706,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-11-29 13:30:00"
+    },
+    {
+        "id": 9581,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010807,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-11-29 13:30:00"
+    },
+    {
+        "id": 9582,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020048,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-11-29 13:30:00"
+    },
+    {
+        "id": 10574,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011206,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-09 13:30:00"
+    },
+    {
+        "id": 10575,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010307,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-09 13:30:00"
+    },
+    {
+        "id": 10779,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010506,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10780,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010105,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10781,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010705,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10782,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010304,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10783,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011005,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10784,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010206,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10785,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010406,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10786,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010905,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10787,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010709,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10788,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010805,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10789,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010504,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10790,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011006,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10791,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020018,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10792,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020029,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10793,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020012,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10794,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020037,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10795,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020026,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10796,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020036,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10797,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020027,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10798,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020054,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10799,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020031,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10800,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020055,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10801,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020038,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 10802,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020056,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-16 13:30:00"
+    },
+    {
+        "id": 11306,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020061,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2024-12-25 13:30:00"
+    },
+    {
+        "id": 12173,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011404,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-01-10 13:30:00"
+    },
+    {
+        "id": 12174,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011304,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-01-10 13:30:00"
+    },
+    {
+        "id": 12175,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020062,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-01-10 13:30:00"
+    },
+    {
+        "id": 12188,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010108,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-01-15 13:30:00"
+    },
+    {
+        "id": 12189,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010607,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-01-15 13:30:00"
+    },
+    {
+        "id": 13152,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020021,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-01-24 13:30:00"
+    },
+    {
+        "id": 13985,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020052,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-02-10 13:30:00"
+    },
+    {
+        "id": 13986,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010208,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-02-17 13:30:00"
+    },
+    {
+        "id": 13987,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011104,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-02-17 13:30:00"
+    },
+    {
+        "id": 14709,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020053,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-02-25 13:30:00"
+    },
+    {
+        "id": 15416,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020057,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-03-07 13:30:00"
+    },
+    {
+        "id": 15417,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011505,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-03-14 13:30:00"
+    },
+    {
+        "id": 15418,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010704,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-03-14 13:30:00"
+    },
+    {
+        "id": 15675,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011007,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-03-31 13:30:00"
+    },
+    {
+        "id": 15676,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010408,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-03-31 13:30:00"
+    },
+    {
+        "id": 16116,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020068,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-03-24 13:30:00"
+    },
+    {
+        "id": 16743,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020069,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-08 13:30:00"
+    },
+    {
+        "id": 16744,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011306,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-14 13:30:00"
+    },
+    {
+        "id": 16745,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010808,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-14 13:30:00"
+    },
+    {
+        "id": 17253,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010908,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 17254,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010507,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 17916,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020070,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-24 13:30:00"
+    },
+    {
+        "id": 19134,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020074,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-05-09 13:30:00"
+    },
+    {
+        "id": 19733,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010305,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19734,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011204,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19735,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010806,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19736,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010605,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19737,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010104,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19738,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011105,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19739,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010904,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19740,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011305,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19741,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010606,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19742,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010306,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19743,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010708,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19744,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010106,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19745,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020040,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19746,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020002,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19747,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020039,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19748,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020051,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19749,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020028,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19750,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020060,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19751,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020004,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-04-30 13:30:00"
+    },
+    {
+        "id": 19828,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011008,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-05-16 13:30:00"
+    },
+    {
+        "id": 19829,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011107,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-05-16 13:30:00"
+    },
+    {
+        "id": 20072,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010608,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-05-30 13:30:00"
+    },
+    {
+        "id": 20073,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011405,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-05-30 13:30:00"
+    },
+    {
+        "id": 20402,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020073,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-05-23 13:30:00"
+    },
+    {
+        "id": 21349,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020076,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-06-06 13:30:00"
+    },
+    {
+        "id": 21350,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010309,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-06-13 13:30:00"
+    },
+    {
+        "id": 21351,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010707,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-06-13 13:30:00"
+    },
+    {
+        "id": 22028,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010809,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-06-30 13:30:00"
+    },
+    {
+        "id": 22029,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011506,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-06-30 13:30:00"
+    },
+    {
+        "id": 22839,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020075,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-07-09 13:30:00"
+    },
+    {
+        "id": 22840,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011207,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-07-15 13:30:00"
+    },
+    {
+        "id": 22841,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010409,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-07-15 13:30:00"
+    },
+    {
+        "id": 23247,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010909,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-07-31 13:30:00"
+    },
+    {
+        "id": 23248,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010209,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-07-31 13:30:00"
+    },
+    {
+        "id": 23915,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020078,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-07-24 13:30:00"
+    },
+    {
+        "id": 24540,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020077,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-08-08 13:30:00"
+    },
+    {
+        "id": 24541,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010508,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-08-14 13:30:00"
+    },
+    {
+        "id": 24542,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011307,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-08-14 13:30:00"
+    },
+    {
+        "id": 25156,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010107,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-08-29 13:30:00"
+    },
+    {
+        "id": 25157,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011108,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-08-29 13:30:00"
+    },
+    {
+        "id": 25782,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020080,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-08-22 13:30:00"
+    },
+    {
+        "id": 26288,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020079,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-09-08 13:30:00"
+    },
+    {
+        "id": 26289,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011406,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-09-12 13:30:00"
+    },
+    {
+        "id": 26290,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011507,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-09-12 13:30:00"
+    },
+    {
+        "id": 27203,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020082,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-09-30 13:30:00"
+    },
+    {
+        "id": 27204,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010609,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-09-30 13:30:00"
+    },
+    {
+        "id": 27205,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011009,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-09-30 13:30:00"
+    },
+    {
+        "id": 28327,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010311,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-14 13:30:00"
+    },
+    {
+        "id": 28328,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010910,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-14 13:30:00"
+    },
+    {
+        "id": 28329,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020081,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-14 13:30:00"
+    },
+    {
+        "id": 29572,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020071,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 29573,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010210,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 29574,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011308,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30766,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010205,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30767,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010404,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30768,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011106,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30769,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011205,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30770,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010604,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30771,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011504,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30772,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010906,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30773,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011004,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30774,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020065,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30775,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020066,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30776,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020067,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30777,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020023,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30778,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020035,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30779,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020058,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30780,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020064,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-10-31 13:30:00"
+    },
+    {
+        "id": 30977,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020083,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-11-17 13:30:00"
+    },
+    {
+        "id": 30978,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010509,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-11-17 13:30:00"
+    },
+    {
+        "id": 30979,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011010,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-11-17 13:30:00"
+    },
+    {
+        "id": 31909,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011208,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-11-28 13:30:00"
+    },
+    {
+        "id": 31910,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010710,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-11-28 13:30:00"
+    },
+    {
+        "id": 31911,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010810,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-11-28 13:30:00"
+    },
+    {
+        "id": 31912,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011109,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-11-28 13:30:00"
+    },
+    {
+        "id": 33364,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020085,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-12-15 13:30:00"
+    },
+    {
+        "id": 33365,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010610,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-12-15 13:30:00"
+    },
+    {
+        "id": 33366,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011309,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-12-15 13:30:00"
+    },
+    {
+        "id": 34338,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020087,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2025-12-25 13:30:00"
+    },
+    {
+        "id": 35695,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020086,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-01-13 13:30:00"
+    },
+    {
+        "id": 35696,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010411,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-01-13 13:30:00"
+    },
+    {
+        "id": 35697,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011508,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-01-13 13:30:00"
+    },
+    {
+        "id": 37519,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020088,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-10 13:30:00"
+    },
+    {
+        "id": 38817,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011601,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 38818,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011602,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 38819,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011603,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 39916,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010911,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-10 13:30:00"
+    },
+    {
+        "id": 39917,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011407,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-10 13:30:00"
+    },
+    {
+        "id": 39918,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011209,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-10 13:30:00"
+    },
+    {
+        "id": 39925,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010312,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 39926,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010611,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 39927,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011601,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 39928,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011602,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 39929,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011603,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 39930,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010111,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 39931,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011011,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-02-27 13:30:00"
+    },
+    {
+        "id": 42314,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010212,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-03-31 13:30:00"
+    },
+    {
+        "id": 42315,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010405,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-03-31 13:30:00"
+    },
+    {
+        "id": 42316,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010712,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-03-31 13:30:00"
+    },
+    {
+        "id": 42609,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020090,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-04-13 13:30:00"
+    },
+    {
+        "id": 46777,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010706,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46778,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010807,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46779,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010307,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46780,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011206,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46781,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011304,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46782,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011404,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46783,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010108,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46784,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010607,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46785,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010208,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46786,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011104,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46787,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010704,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46788,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011505,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46789,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4010408,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46790,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011007,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46791,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020048,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46792,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020061,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46793,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020062,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46794,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020021,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46795,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020052,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46796,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020053,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46797,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020057,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46798,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020068,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 46799,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 301,
+        "item_id": 4020069,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2000-01-01 00:00:00"
+    },
+    {
+        "id": 48037,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011210,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-04-13 13:30:00"
+    },
+    {
+        "id": 48038,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011604,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-04-13 13:30:00"
+    },
+    {
+        "id": 48039,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011012,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-04-30 13:30:00"
+    },
+    {
+        "id": 48040,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010112,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-04-30 13:30:00"
+    },
+    {
+        "id": 48041,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010912,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-04-30 13:30:00"
+    },
+    {
+        "id": 48042,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020089,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-05-12 13:30:00"
+    },
+    {
+        "id": 48043,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010612,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-05-29 13:30:00"
+    },
+    {
+        "id": 48044,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010213,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-05-29 13:30:00"
+    },
+    {
+        "id": 48045,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011311,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-05-29 13:30:00"
+    },
+    {
+        "id": 48046,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011110,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-05-29 13:30:00"
+    },
+    {
+        "id": 48047,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011509,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-05-29 13:30:00"
+    },
+    {
+        "id": 48621,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020072,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-11 13:30:00"
+    },
+    {
+        "id": 49753,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010511,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49754,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010412,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49755,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011701,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49756,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011702,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49757,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011703,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49758,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011013,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49759,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010713,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49760,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011701,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49761,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011702,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 49762,
+        "gacha_item_weight_group_id": 1,
+        "item_type": 202,
+        "item_id": 4011703,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-06-30 13:30:00"
+    },
+    {
+        "id": 52063,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010313,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-07-31 13:30:00"
+    },
+    {
+        "id": 52064,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010613,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-07-31 13:30:00"
+    },
+    {
+        "id": 52065,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011312,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-07-31 13:30:00"
+    },
+    {
+        "id": 52066,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011111,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-07-31 13:30:00"
+    },
+    {
+        "id": 52067,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011409,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-07-31 13:30:00"
+    },
+    {
+        "id": 52068,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020091,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-07-31 13:30:00"
+    },
+    {
+        "id": 53636,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010812,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-08-31 13:30:00"
+    },
+    {
+        "id": 53637,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011014,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-08-31 13:30:00"
+    },
+    {
+        "id": 53638,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011704,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-08-31 13:30:00"
+    },
+    {
+        "id": 53639,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4010113,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-08-31 13:30:00"
+    },
+    {
+        "id": 53640,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 202,
+        "item_id": 4011605,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-08-31 13:30:00"
+    },
+    {
+        "id": 53641,
+        "gacha_item_weight_group_id": 11,
+        "item_type": 301,
+        "item_id": 4020093,
+        "item_count": 1,
+        "weight": 1,
+        "selectable_flag": false,
+        "start_time": "2026-08-31 13:30:00"
+    }
+]
