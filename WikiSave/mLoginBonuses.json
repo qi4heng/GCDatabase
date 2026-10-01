@@ -945,6 +945,66 @@
         "duration": 0
     },
     {
+        "id": 2067,
+        "ml_name": [
+            "ハロウィンSPログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 515,
+        "start_time": "2026-09-30 13:30:00",
+        "end_time": "2026-10-23 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2068,
+        "ml_name": [
+            "カムバックログインボーナスキャンペーン 第6弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 6,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 500,
+        "start_time": "2026-10-15 04:00:00",
+        "end_time": "2026-11-28 03:59:59",
+        "comeback_span": 30,
+        "duration": 10
+    },
+    {
+        "id": 2069,
+        "ml_name": [
+            "3rdアニバーサリーカウントダウンログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 500,
+        "start_time": "2026-10-15 13:00:00",
+        "end_time": "2026-10-23 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2070,
+        "ml_name": [
+            "スキッピオ祭ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 500,
+        "start_time": "2026-10-15 13:00:00",
+        "end_time": "2026-10-23 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 2071,
         "ml_name": [
             "くまさんブランドタイトル特別ログインボーナス",
@@ -2175,6 +2235,21 @@
         "duration": 0
     },
     {
+        "id": 13240,
+        "ml_name": [
+            "猫とナースとモンスターログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-10-09 13:00:00",
+        "end_time": "2026-10-22 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13301,
         "ml_name": [
             "アートバレンタインログインボーナス",
@@ -2670,6 +2745,21 @@
         "duration": 0
     },
     {
+        "id": 13334,
+        "ml_name": [
+            "憧憬と不信のハロウィンログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-09-30 13:30:00",
+        "end_time": "2026-10-14 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13601,
         "ml_name": [
             "ありえない出会いと最初の試練ログインボーナス",
@@ -2831,6 +2921,21 @@
         "priority": 202,
         "start_time": "2026-09-19 13:00:00",
         "end_time": "2026-09-27 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13612,
+        "ml_name": [
+            "高潔と金貨ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-10-13 13:00:00",
+        "end_time": "2026-10-21 12:59:59",
         "comeback_span": 0,
         "duration": 0
     },
@@ -3071,6 +3176,21 @@
         "priority": 201,
         "start_time": "2026-09-22 13:00:00",
         "end_time": "2026-09-30 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 15017,
+        "ml_name": [
+            "吸血騎士スキッピオは眠らないログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-10-15 13:00:00",
+        "end_time": "2026-10-23 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }
