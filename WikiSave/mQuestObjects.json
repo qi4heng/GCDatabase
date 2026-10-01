@@ -25,7 +25,8 @@
         "flavor_text": "接触すると獲得",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000021,
@@ -53,7 +54,8 @@
         "flavor_text": "破壊時、範囲内の対象に威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000031,
@@ -81,7 +83,8 @@
         "flavor_text": "浮遊で移動可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000032,
@@ -109,7 +112,8 @@
         "flavor_text": "浮遊で移動可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000041,
@@ -137,7 +141,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000042,
@@ -165,7 +170,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000043,
@@ -193,7 +199,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000051,
@@ -221,7 +228,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000061,
@@ -249,7 +257,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000071,
@@ -277,7 +286,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000081,
@@ -305,7 +315,8 @@
         "flavor_text": "通り抜け不可",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000121,
@@ -333,7 +344,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000141,
@@ -361,7 +373,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000171,
@@ -389,7 +402,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000181,
@@ -417,7 +431,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000211,
@@ -445,7 +460,8 @@
         "flavor_text": "エネミーの攻撃や接触に反応して爆発/威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）/弾き飛ばし引き寄せ可",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": true
+        "force_movable": true,
+        "overlap_type": 0
     },
     {
         "id": 32000212,
@@ -473,7 +489,8 @@
         "flavor_text": "破壊時、範囲内の敵に威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）/藝術家の移動[[side_effects_power_1]]増加＜[[side_effects_turn_1]ターン]＞/弾き飛ばし引き寄せ可",
         "through_ally": 0,
         "through_unit_types": 1,
-        "force_movable": true
+        "force_movable": true,
+        "overlap_type": 0
     },
     {
         "id": 32000213,
@@ -501,7 +518,8 @@
         "flavor_text": "エネミーの攻撃や接触に反応して爆発/威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）/弾き飛ばし引き寄せ可/確率で自己複製/藝術家の移動[[side_effects_power_2]]増加＜[[side_effects_turn_2]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 1,
-        "force_movable": true
+        "force_movable": true,
+        "overlap_type": 0
     },
     {
         "id": 32000221,
@@ -529,7 +547,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000231,
@@ -557,7 +576,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000241,
@@ -585,7 +605,8 @@
         "flavor_text": "通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000251,
@@ -613,7 +634,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000252,
@@ -641,7 +663,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000253,
@@ -669,7 +692,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000254,
@@ -697,7 +721,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000255,
@@ -725,7 +750,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000256,
@@ -753,7 +779,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000257,
@@ -781,7 +808,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000258,
@@ -809,7 +837,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32000259,
@@ -837,7 +866,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 320002510,
@@ -865,7 +895,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 320002511,
@@ -893,7 +924,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 320002512,
@@ -921,7 +953,8 @@
         "flavor_text": "ターン終了時、エネミー「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/通り抜け不可/技法で破壊可能",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010011,
@@ -949,7 +982,8 @@
         "flavor_text": "ターン終了時、味方全体に再生付与",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010021,
@@ -977,7 +1011,8 @@
         "flavor_text": "破壊時、範囲内の敵に威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010031,
@@ -1005,7 +1040,8 @@
         "flavor_text": "ターン終了時、敵全体に防御・精神・器用・敏捷[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010032,
@@ -1033,7 +1069,8 @@
         "flavor_text": "ターン終了時、敵全体に防御・精神・器用・敏捷[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010041,
@@ -1061,7 +1098,8 @@
         "flavor_text": "破壊時、範囲内の敵に威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010051,
@@ -1089,7 +1127,8 @@
         "flavor_text": "ターン終了時、味方全体に奮起付与",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010061,
@@ -1117,7 +1156,8 @@
         "flavor_text": "ターン終了時、藝術家全体に攻撃[[side_effects_power_1]%]減少・幸運[[side_effects_power_2]]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010081,
@@ -1145,7 +1185,8 @@
         "flavor_text": "破壊時、範囲内の対象に威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010091,
@@ -1173,7 +1214,8 @@
         "flavor_text": "ターン終了時、藝術家全体に器用・敏捷[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010101,
@@ -1201,7 +1243,8 @@
         "flavor_text": "ターン終了時、藝術家全体に防御・精神[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010111,
@@ -1229,7 +1272,8 @@
         "flavor_text": "破壊時、範囲内の敵に威力[[main_effects_power_1]%]の物理ダメージ（炎エレメント）",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010121,
@@ -1257,7 +1301,8 @@
         "flavor_text": "ターン終了時、最も体力割合が低い味方1人に体力[[side_effects_power_1]]回復",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010131,
@@ -1285,7 +1330,8 @@
         "flavor_text": "ターン終了時、最も攻撃が高い味方1人に攻撃[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010141,
@@ -1313,7 +1359,8 @@
         "flavor_text": "破壊時、範囲内の敵に威力[[main_effects_power_1]%]の物理ダメージ（炎エレメント）・確率で火傷付与＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010151,
@@ -1341,7 +1388,8 @@
         "flavor_text": "ターン終了時、最も攻撃が高い敵1体に攻撃[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010161,
@@ -1369,7 +1417,8 @@
         "flavor_text": "ターン終了時、敵全体に攻撃[[side_effects_power_1]%]減少・幸運[[side_effects_power_2]]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010171,
@@ -1397,7 +1446,8 @@
         "flavor_text": "ターン終了時、敵全体に攻撃・精神・敏捷[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010181,
@@ -1425,7 +1475,8 @@
         "flavor_text": "ターン終了時、味方全体に攻撃[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞・忍耐付与",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010191,
@@ -1453,7 +1504,8 @@
         "flavor_text": "ターン終了時、味方全体に敏捷[[side_effects_power_1]%]増加＜[[side_effects_turn_1]ターン]＞・一番攻撃が高い味方1人に気炎付与",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010201,
@@ -1481,7 +1533,8 @@
         "flavor_text": "ターン終了時、「[[ml_name_1]]」召喚（最大[[side_effects_power_1]]）/最も入魂ゲージが低い味方1人に入魂ゲージ[[side_effects_power_2]]増加",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010211,
@@ -1509,7 +1562,8 @@
         "flavor_text": "ターン終了時、最も精神が高い敵1体に精神[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010221,
@@ -1537,7 +1591,95 @@
         "flavor_text": "範囲内の敵に威力[[main_effects_power_1]%]の物理ダメージ（物理エレメント）",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
+    },
+    {
+        "id": 32010231,
+        "name": "紅帆魚",
+        "type": 1400,
+        "side": 1,
+        "init_place_side": 0,
+        "hp": 50000,
+        "atk": 2000,
+        "def": 2000,
+        "mnd": 2000,
+        "duration_turn": 5,
+        "skill_id1": 28400003,
+        "skill_level1": 1,
+        "skill_weight1": 0,
+        "skill_id2": 0,
+        "skill_level2": 0,
+        "skill_weight2": 0,
+        "skill_id3": 0,
+        "skill_level3": 0,
+        "skill_weight3": 0,
+        "main_image_index": 3201023,
+        "sub_image_index": 0,
+        "sound_index": 0,
+        "flavor_text": "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/<help=charm>誘惑</help>状態ならダメージ[[side_effects_power_1]%]上昇/命中対象に<help=defence>防御</help>[[side_effects_power_2]%]減少＜[[side_effects_turn_2]ターン]＞",
+        "through_ally": 1,
+        "through_unit_types": 0,
+        "force_movable": false,
+        "overlap_type": 1
+    },
+    {
+        "id": 32010241,
+        "name": "啼獣",
+        "type": 1400,
+        "side": 1,
+        "init_place_side": 0,
+        "hp": 60000,
+        "atk": 3000,
+        "def": 3000,
+        "mnd": 3000,
+        "duration_turn": 5,
+        "skill_id1": 28500076,
+        "skill_level1": 1,
+        "skill_weight1": 0,
+        "skill_id2": 0,
+        "skill_level2": 0,
+        "skill_weight2": 0,
+        "skill_id3": 0,
+        "skill_level3": 0,
+        "skill_weight3": 0,
+        "main_image_index": 3201024,
+        "sub_image_index": 0,
+        "sound_index": 0,
+        "flavor_text": "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/<help=nail>影縫</help>状態ならダメージ[[side_effects_power_1]%]上昇/命中対象に<help=will>精神</help>・<help=luck>幸運</help>[[side_effects_power_2]%]減少＜[[side_effects_turn_2]ターン]＞",
+        "through_ally": 1,
+        "through_unit_types": 0,
+        "force_movable": false,
+        "overlap_type": 1
+    },
+    {
+        "id": 32010251,
+        "name": "耳戦車",
+        "type": 1400,
+        "side": 1,
+        "init_place_side": 0,
+        "hp": 60000,
+        "atk": 3000,
+        "def": 3000,
+        "mnd": 3000,
+        "duration_turn": 5,
+        "skill_id1": 28500077,
+        "skill_level1": 1,
+        "skill_weight1": 0,
+        "skill_id2": 0,
+        "skill_level2": 0,
+        "skill_weight2": 0,
+        "skill_id3": 0,
+        "skill_level3": 0,
+        "skill_weight3": 0,
+        "main_image_index": 3201025,
+        "sub_image_index": 0,
+        "sound_index": 0,
+        "flavor_text": "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/<help=burn>火傷</help>状態ならダメージ[[side_effects_power_1]%]上昇/命中対象に<help=defence>防御</help>・<help=dexterity>器用</help>[[side_effects_power_2]%]減少＜[[side_effects_turn_2]ターン]＞",
+        "through_ally": 1,
+        "through_unit_types": 0,
+        "force_movable": false,
+        "overlap_type": 1
     },
     {
         "id": 32010261,
@@ -1565,7 +1707,8 @@
         "flavor_text": "ターン終了時、最も体力割合が高い敵1体に精神[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32010271,
@@ -1593,7 +1736,8 @@
         "flavor_text": "ターン終了時、近くの味方1人に真眼付与",
         "through_ally": 1,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020001,
@@ -1621,7 +1765,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/体力[[side_effects_power_3]]回復",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020101,
@@ -1649,7 +1794,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/最大体力[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020201,
@@ -1677,7 +1823,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/攻撃[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020301,
@@ -1705,7 +1852,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/精神[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020401,
@@ -1733,7 +1881,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/防御[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020501,
@@ -1761,7 +1910,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/器用[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020601,
@@ -1789,7 +1939,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/敏捷[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020701,
@@ -1817,7 +1968,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/幸運[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32020801,
@@ -1845,7 +1997,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/移動[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32021001,
@@ -1873,7 +2026,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/必殺[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030001,
@@ -1901,7 +2055,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/体力[[side_effects_power_3]]回復",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030101,
@@ -1929,7 +2084,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/最大体力[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030201,
@@ -1957,7 +2113,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/攻撃[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030301,
@@ -1985,7 +2142,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/精神[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030401,
@@ -2013,7 +2171,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/防御[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030501,
@@ -2041,7 +2200,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/器用[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030601,
@@ -2069,7 +2229,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/敏捷[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030701,
@@ -2097,7 +2258,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/幸運[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32030801,
@@ -2125,7 +2287,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/移動[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32031001,
@@ -2153,7 +2316,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/必殺[[side_effects_power_3]]増加＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32040301,
@@ -2181,7 +2345,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/精神[[side_effects_power_3]%]減少＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 32050301,
@@ -2209,7 +2374,8 @@
         "flavor_text": "獲得時、入魂ゲージ[[side_effects_power_1]]増加/熱情[[side_effects_power_2]]増加/精神[[side_effects_power_3]%]減少＜[[side_effects_turn_3]ターン]＞",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 33101201,
@@ -2237,7 +2403,8 @@
         "flavor_text": "何かの禁忌に触れたのか体が柱化しつつある　※オブジェクト扱い",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 33101321,
@@ -2265,7 +2432,8 @@
         "flavor_text": "何かの禁忌に触れたのか体が柱化しつつある　※オブジェクト扱い",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 33105201,
@@ -2293,7 +2461,8 @@
         "flavor_text": "何かの禁忌に触れたのか体が柱化しつつある　※オブジェクト扱い",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 33101351,
@@ -2321,7 +2490,8 @@
         "flavor_text": "何かの禁忌に触れたのか体が柱化しつつある　※オブジェクト扱い",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 33101311,
@@ -2349,7 +2519,8 @@
         "flavor_text": "何かの禁忌に触れたのか体が柱化しつつある　※オブジェクト扱い",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 33101331,
@@ -2377,7 +2548,8 @@
         "flavor_text": "何かの禁忌に触れたのか体が柱化しつつある　※オブジェクト扱い",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     },
     {
         "id": 33101341,
@@ -2405,6 +2577,7 @@
         "flavor_text": "何かの禁忌に触れたのか体が柱化しつつある　※オブジェクト扱い",
         "through_ally": 0,
         "through_unit_types": 0,
-        "force_movable": false
+        "force_movable": false,
+        "overlap_type": 0
     }
 ]

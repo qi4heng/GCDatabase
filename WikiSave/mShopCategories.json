@@ -1960,6 +1960,34 @@
         "end_time": ""
     },
     {
+        "id": 6021,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "猫とナースとモンスター",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
+        "id": 6022,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "吸血騎士スキッピオは眠らない",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 701,
         "type": 5,
         "group_type": 0,
@@ -5163,6 +5191,104 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 23112,
+        "end_time": ""
+    },
+    {
+        "id": 937,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：憧憬と不信のハロウィン",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21174,
+        "end_time": ""
+    },
+    {
+        "id": 938,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：スタイル復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 26611,
+        "end_time": ""
+    },
+    {
+        "id": 939,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：猫とナースとモンスター",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21178,
+        "end_time": ""
+    },
+    {
+        "id": 940,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：スタイル復刻ピックアップガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 26613,
+        "end_time": ""
+    },
+    {
+        "id": 941,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：吸血騎士スキッピオは眠らない",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 23114,
+        "end_time": ""
+    },
+    {
+        "id": 946,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：★5スタイル交換（ハロウィン）",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31022,
+        "end_time": ""
+    },
+    {
+        "id": 947,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：★5イマージュ交換（ハロウィン）",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31023,
         "end_time": ""
     },
     {

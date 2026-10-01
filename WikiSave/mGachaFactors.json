@@ -1876,6 +1876,13 @@
         "weight": 1
     },
     {
+        "id": 1733,
+        "gacha_factor_group_id": 11,
+        "subunit_id": 4020096,
+        "factor_id": "15080002",
+        "weight": 1
+    },
+    {
         "id": 100609,
         "gacha_factor_group_id": 1001,
         "subunit_id": 4020002,
@@ -2835,6 +2842,13 @@
         "weight": 1
     },
     {
+        "id": 100985,
+        "gacha_factor_group_id": 1001,
+        "subunit_id": 4020096,
+        "factor_id": "15080002|14130023|15110006|14130002",
+        "weight": 1
+    },
+    {
         "id": 700009,
         "gacha_factor_group_id": 7,
         "subunit_id": 4020003,
@@ -3462,6 +3476,972 @@
         "gacha_factor_group_id": 7,
         "subunit_id": 4020063,
         "factor_id": "14130010",
+        "weight": 1
+    },
+    {
+        "id": 700273,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020002,
+        "factor_id": "15390005",
+        "weight": 1
+    },
+    {
+        "id": 700277,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020003,
+        "factor_id": "14130004",
+        "weight": 1
+    },
+    {
+        "id": 700278,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020003,
+        "factor_id": "14130006",
+        "weight": 1
+    },
+    {
+        "id": 700279,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020003,
+        "factor_id": "14130016",
+        "weight": 1
+    },
+    {
+        "id": 700281,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020004,
+        "factor_id": "15330000",
+        "weight": 1
+    },
+    {
+        "id": 700285,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020005,
+        "factor_id": "14130002",
+        "weight": 1
+    },
+    {
+        "id": 700286,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020005,
+        "factor_id": "14130003",
+        "weight": 1
+    },
+    {
+        "id": 700287,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020005,
+        "factor_id": "14130014",
+        "weight": 1
+    },
+    {
+        "id": 700289,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020006,
+        "factor_id": "15130002",
+        "weight": 1
+    },
+    {
+        "id": 700293,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020007,
+        "factor_id": "13130001",
+        "weight": 1
+    },
+    {
+        "id": 700294,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020007,
+        "factor_id": "13130002",
+        "weight": 1
+    },
+    {
+        "id": 700295,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020007,
+        "factor_id": "13130005",
+        "weight": 1
+    },
+    {
+        "id": 700296,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020007,
+        "factor_id": "13130006",
+        "weight": 1
+    },
+    {
+        "id": 700297,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020008,
+        "factor_id": "13130001",
+        "weight": 1
+    },
+    {
+        "id": 700298,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020008,
+        "factor_id": "13130003",
+        "weight": 1
+    },
+    {
+        "id": 700299,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020008,
+        "factor_id": "13130004",
+        "weight": 1
+    },
+    {
+        "id": 700300,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020008,
+        "factor_id": "13130006",
+        "weight": 1
+    },
+    {
+        "id": 700301,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020009,
+        "factor_id": "15130003",
+        "weight": 1
+    },
+    {
+        "id": 700305,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020010,
+        "factor_id": "14130003",
+        "weight": 1
+    },
+    {
+        "id": 700306,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020010,
+        "factor_id": "14130006",
+        "weight": 1
+    },
+    {
+        "id": 700307,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020010,
+        "factor_id": "14130016",
+        "weight": 1
+    },
+    {
+        "id": 700309,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020011,
+        "factor_id": "14130001",
+        "weight": 1
+    },
+    {
+        "id": 700310,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020011,
+        "factor_id": "14130004",
+        "weight": 1
+    },
+    {
+        "id": 700311,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020011,
+        "factor_id": "14130015",
+        "weight": 1
+    },
+    {
+        "id": 700313,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020012,
+        "factor_id": "15370000",
+        "weight": 1
+    },
+    {
+        "id": 700317,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020013,
+        "factor_id": "15130004",
+        "weight": 1
+    },
+    {
+        "id": 700321,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020014,
+        "factor_id": "13130003",
+        "weight": 1
+    },
+    {
+        "id": 700322,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020014,
+        "factor_id": "13130004",
+        "weight": 1
+    },
+    {
+        "id": 700323,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020014,
+        "factor_id": "13130005",
+        "weight": 1
+    },
+    {
+        "id": 700324,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020014,
+        "factor_id": "13130006",
+        "weight": 1
+    },
+    {
+        "id": 700325,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020015,
+        "factor_id": "14130003",
+        "weight": 1
+    },
+    {
+        "id": 700326,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020015,
+        "factor_id": "14130004",
+        "weight": 1
+    },
+    {
+        "id": 700327,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020015,
+        "factor_id": "14130013",
+        "weight": 1
+    },
+    {
+        "id": 700329,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020016,
+        "factor_id": "15130005",
+        "weight": 1
+    },
+    {
+        "id": 700333,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020017,
+        "factor_id": "14130002",
+        "weight": 1
+    },
+    {
+        "id": 700334,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020017,
+        "factor_id": "14130006",
+        "weight": 1
+    },
+    {
+        "id": 700335,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020017,
+        "factor_id": "14130015",
+        "weight": 1
+    },
+    {
+        "id": 700337,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020018,
+        "factor_id": "15110008",
+        "weight": 1
+    },
+    {
+        "id": 700341,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020019,
+        "factor_id": "15130003",
+        "weight": 1
+    },
+    {
+        "id": 700345,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020020,
+        "factor_id": "13130001",
+        "weight": 1
+    },
+    {
+        "id": 700346,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020020,
+        "factor_id": "13130002",
+        "weight": 1
+    },
+    {
+        "id": 700347,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020020,
+        "factor_id": "13130003",
+        "weight": 1
+    },
+    {
+        "id": 700348,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020020,
+        "factor_id": "13130004",
+        "weight": 1
+    },
+    {
+        "id": 700349,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020021,
+        "factor_id": "15080002",
+        "weight": 1
+    },
+    {
+        "id": 700357,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020023,
+        "factor_id": "15160003",
+        "weight": 1
+    },
+    {
+        "id": 700361,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020024,
+        "factor_id": "14130003",
+        "weight": 1
+    },
+    {
+        "id": 700362,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020024,
+        "factor_id": "14130005",
+        "weight": 1
+    },
+    {
+        "id": 700363,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020024,
+        "factor_id": "14130015",
+        "weight": 1
+    },
+    {
+        "id": 700365,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020025,
+        "factor_id": "14130001",
+        "weight": 1
+    },
+    {
+        "id": 700366,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020025,
+        "factor_id": "14130003",
+        "weight": 1
+    },
+    {
+        "id": 700367,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020025,
+        "factor_id": "14130014",
+        "weight": 1
+    },
+    {
+        "id": 700369,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020026,
+        "factor_id": "15390002",
+        "weight": 1
+    },
+    {
+        "id": 700373,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020027,
+        "factor_id": "15110015",
+        "weight": 1
+    },
+    {
+        "id": 700377,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020028,
+        "factor_id": "25000005",
+        "weight": 1
+    },
+    {
+        "id": 700381,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020029,
+        "factor_id": "15110007",
+        "weight": 1
+    },
+    {
+        "id": 700385,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020030,
+        "factor_id": "13130001",
+        "weight": 1
+    },
+    {
+        "id": 700386,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020030,
+        "factor_id": "13130004",
+        "weight": 1
+    },
+    {
+        "id": 700387,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020030,
+        "factor_id": "13130005",
+        "weight": 1
+    },
+    {
+        "id": 700388,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020030,
+        "factor_id": "13130006",
+        "weight": 1
+    },
+    {
+        "id": 700389,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020031,
+        "factor_id": "15110010",
+        "weight": 1
+    },
+    {
+        "id": 700393,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020032,
+        "factor_id": "13130001",
+        "weight": 1
+    },
+    {
+        "id": 700394,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020032,
+        "factor_id": "13130002",
+        "weight": 1
+    },
+    {
+        "id": 700395,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020032,
+        "factor_id": "13130004",
+        "weight": 1
+    },
+    {
+        "id": 700396,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020032,
+        "factor_id": "13130006",
+        "weight": 1
+    },
+    {
+        "id": 700397,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020033,
+        "factor_id": "13130001",
+        "weight": 1
+    },
+    {
+        "id": 700398,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020033,
+        "factor_id": "13130002",
+        "weight": 1
+    },
+    {
+        "id": 700399,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020033,
+        "factor_id": "13130004",
+        "weight": 1
+    },
+    {
+        "id": 700400,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020033,
+        "factor_id": "13130005",
+        "weight": 1
+    },
+    {
+        "id": 700401,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020034,
+        "factor_id": "13130002",
+        "weight": 1
+    },
+    {
+        "id": 700402,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020034,
+        "factor_id": "13130003",
+        "weight": 1
+    },
+    {
+        "id": 700403,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020034,
+        "factor_id": "13130005",
+        "weight": 1
+    },
+    {
+        "id": 700404,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020034,
+        "factor_id": "13130006",
+        "weight": 1
+    },
+    {
+        "id": 700405,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020035,
+        "factor_id": "15160007",
+        "weight": 1
+    },
+    {
+        "id": 700409,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020036,
+        "factor_id": "15160004",
+        "weight": 1
+    },
+    {
+        "id": 700413,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020037,
+        "factor_id": "15390001",
+        "weight": 1
+    },
+    {
+        "id": 700417,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020038,
+        "factor_id": "15390003",
+        "weight": 1
+    },
+    {
+        "id": 700421,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020039,
+        "factor_id": "15390004",
+        "weight": 1
+    },
+    {
+        "id": 700425,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020040,
+        "factor_id": "15110005",
+        "weight": 1
+    },
+    {
+        "id": 700429,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020041,
+        "factor_id": "14130005",
+        "weight": 1
+    },
+    {
+        "id": 700430,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020041,
+        "factor_id": "14130006",
+        "weight": 1
+    },
+    {
+        "id": 700431,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020041,
+        "factor_id": "14130013",
+        "weight": 1
+    },
+    {
+        "id": 700437,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020043,
+        "factor_id": "13130002",
+        "weight": 1
+    },
+    {
+        "id": 700438,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020043,
+        "factor_id": "13130003",
+        "weight": 1
+    },
+    {
+        "id": 700439,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020043,
+        "factor_id": "13130004",
+        "weight": 1
+    },
+    {
+        "id": 700440,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020043,
+        "factor_id": "13130005",
+        "weight": 1
+    },
+    {
+        "id": 700441,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020044,
+        "factor_id": "15130005",
+        "weight": 1
+    },
+    {
+        "id": 700445,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020045,
+        "factor_id": "15130006",
+        "weight": 1
+    },
+    {
+        "id": 700449,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020046,
+        "factor_id": "15130001",
+        "weight": 1
+    },
+    {
+        "id": 700453,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020047,
+        "factor_id": "15130005",
+        "weight": 1
+    },
+    {
+        "id": 700457,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020048,
+        "factor_id": "15080005",
+        "weight": 1
+    },
+    {
+        "id": 700461,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020049,
+        "factor_id": "15130003",
+        "weight": 1
+    },
+    {
+        "id": 700465,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020050,
+        "factor_id": "14130001",
+        "weight": 1
+    },
+    {
+        "id": 700466,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020050,
+        "factor_id": "14130002",
+        "weight": 1
+    },
+    {
+        "id": 700467,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020050,
+        "factor_id": "14130015",
+        "weight": 1
+    },
+    {
+        "id": 700469,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020051,
+        "factor_id": "15140007",
+        "weight": 1
+    },
+    {
+        "id": 700473,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020052,
+        "factor_id": "15080003",
+        "weight": 1
+    },
+    {
+        "id": 700477,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020053,
+        "factor_id": "14130019",
+        "weight": 1
+    },
+    {
+        "id": 700481,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020054,
+        "factor_id": "15110009",
+        "weight": 1
+    },
+    {
+        "id": 700485,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020055,
+        "factor_id": "15110014",
+        "weight": 1
+    },
+    {
+        "id": 700489,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020056,
+        "factor_id": "15110012",
+        "weight": 1
+    },
+    {
+        "id": 700493,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020057,
+        "factor_id": "14130022",
+        "weight": 1
+    },
+    {
+        "id": 700497,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020058,
+        "factor_id": "15160002",
+        "weight": 1
+    },
+    {
+        "id": 700501,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020059,
+        "factor_id": "15130003",
+        "weight": 1
+    },
+    {
+        "id": 700505,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020060,
+        "factor_id": "15110015",
+        "weight": 1
+    },
+    {
+        "id": 700509,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020061,
+        "factor_id": "15080001",
+        "weight": 1
+    },
+    {
+        "id": 700513,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020062,
+        "factor_id": "15110008",
+        "weight": 1
+    },
+    {
+        "id": 700517,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020063,
+        "factor_id": "15130002",
+        "weight": 1
+    },
+    {
+        "id": 700521,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020064,
+        "factor_id": "15330000",
+        "weight": 1
+    },
+    {
+        "id": 700525,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020065,
+        "factor_id": "15110013",
+        "weight": 1
+    },
+    {
+        "id": 700529,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020066,
+        "factor_id": "15110011",
+        "weight": 1
+    },
+    {
+        "id": 700533,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020067,
+        "factor_id": "15110005",
+        "weight": 1
+    },
+    {
+        "id": 700537,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020068,
+        "factor_id": "14130027",
+        "weight": 1
+    },
+    {
+        "id": 700541,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020069,
+        "factor_id": "14130024",
+        "weight": 1
+    },
+    {
+        "id": 700545,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020070,
+        "factor_id": "14130020",
+        "weight": 1
+    },
+    {
+        "id": 700549,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020071,
+        "factor_id": "15020001",
+        "weight": 1
+    },
+    {
+        "id": 700553,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020072,
+        "factor_id": "15330000",
+        "weight": 1
+    },
+    {
+        "id": 700557,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020073,
+        "factor_id": "14130025",
+        "weight": 1
+    },
+    {
+        "id": 700561,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020074,
+        "factor_id": "14130021",
+        "weight": 1
+    },
+    {
+        "id": 700565,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020075,
+        "factor_id": "15080003",
+        "weight": 1
+    },
+    {
+        "id": 700569,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020076,
+        "factor_id": "14130026",
+        "weight": 1
+    },
+    {
+        "id": 700573,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020077,
+        "factor_id": "15480013",
+        "weight": 1
+    },
+    {
+        "id": 700577,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020078,
+        "factor_id": "15530001",
+        "weight": 1
+    },
+    {
+        "id": 700581,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020079,
+        "factor_id": "15080003",
+        "weight": 1
+    },
+    {
+        "id": 700585,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020080,
+        "factor_id": "15110003",
+        "weight": 1
+    },
+    {
+        "id": 700589,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020081,
+        "factor_id": "15080002",
+        "weight": 1
+    },
+    {
+        "id": 700593,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020082,
+        "factor_id": "15110002",
+        "weight": 1
+    },
+    {
+        "id": 700597,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020083,
+        "factor_id": "15390005",
+        "weight": 1
+    },
+    {
+        "id": 700605,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020085,
+        "factor_id": "15080005",
+        "weight": 1
+    },
+    {
+        "id": 700609,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020086,
+        "factor_id": "15390001",
+        "weight": 1
+    },
+    {
+        "id": 700613,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020087,
+        "factor_id": "15110001",
+        "weight": 1
+    },
+    {
+        "id": 700617,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020088,
+        "factor_id": "15390004",
+        "weight": 1
+    },
+    {
+        "id": 700621,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020089,
+        "factor_id": "15390003",
+        "weight": 1
+    },
+    {
+        "id": 700625,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020090,
+        "factor_id": "15390002",
+        "weight": 1
+    },
+    {
+        "id": 700629,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020091,
+        "factor_id": "15080001",
+        "weight": 1
+    },
+    {
+        "id": 700633,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020092,
+        "factor_id": "15330000|14130020|14150001|14130002",
+        "weight": 1
+    },
+    {
+        "id": 700637,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020093,
+        "factor_id": "15080005",
+        "weight": 1
+    },
+    {
+        "id": 700645,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020095,
+        "factor_id": "15390005",
+        "weight": 1
+    },
+    {
+        "id": 700649,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020096,
+        "factor_id": "15080002|14130023|15110006|14130002",
         "weight": 1
     }
 ]

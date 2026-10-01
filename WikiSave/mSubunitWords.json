@@ -20506,7 +20506,7 @@
         "scene_type": 0,
         "trigger": 3,
         "motion": "mypage",
-        "expression": "",
+        "expression": "loop",
         "sound_asset": "stv_4020077_1460",
         "ml_word": [
             "ふわ～ぁ、あけましておめでと～。\n館長サンの見る初めての夢は、どんなだったのかな～？\nもし悪い夢だったら、ワタシがいい夢見せてあげる～。",
@@ -25022,5 +25022,277 @@
         "start_time": "2022-08-01 00:00:00",
         "end_time": "2030-08-01 23:59:59",
         "subunit_id": 4020095
+    },
+    {
+        "id": 1521,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4020096_1400",
+        "ml_word": [
+            "むにゃむにゃ……うぅっ……とても眠いですが、\nまた館長様にご迷惑をおかけする訳には、\nいきません、のでぇ……うぅ……\nでも５分だけぇ……むにゃぁ……。",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1522,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_4020096_1410",
+        "ml_word": [
+            "お菓子をくれなければ悪戯するなど、\nそのような取引は騎士道に反するように思います。\nですので館長様、私は正々堂々と\n館長様からのお菓子を所望いたします。",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1523,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020096_1420",
+        "ml_word": [
+            "この棺桶は、戦闘時に盾として使うのです。\n決して中に入って居眠りなどいたしませんよ。\n……な、なんですか、その疑いの目はっ！",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1524,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020096_1430",
+        "ml_word": [
+            "仮初めの姿とはいえ、私が吸血鬼になろうとは……。\n騎士道に反する姿ではありますが、\n祭りに乗じるのもまた一興でしょう。\nさぁ、館長様……血を吸われる覚悟はよいですか？",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1525,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020096_1440",
+        "ml_word": [
+            "先日、ラファエロ様からワインを\nご馳走になったのですが、\nあれは危険な飲み物ですね……。\n気がついたら夢の中でした。",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1526,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4020096_1450",
+        "ml_word": [
+            "ふぁ〜あ……んん……。\nまだ昼間だというのにこうも眠たいとは、\n本当に吸血鬼になった気分です……。\nとはいえ、夜も変わらず眠たいのですが……。",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1527,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020063_1460",
+        "ml_word": [
+            "お正月といえど、日々の鍛錬は欠かせません。しかし\n一方で、寝正月という言葉の魅力たるや……！　\n早く体を動かして、ひと眠りするとしましょう。えっ？\nいつもとやっていることが同じ……？　ほ、本当です！",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1528,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020063_1470",
+        "ml_word": [
+            "あっ……館長様、いらっしゃいましたか。すみません、\nこんなところで、うたた寝を……。その……実は館長様\nを待っていたのです……。これ……私からのバレン\nタインの贈り物です。受け取っていただけますか？",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1529,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020063_1480",
+        "ml_word": [
+            "菓子をくれねば悪戯するなど、騎士道精神に反します。\n菓子を食べたいのなら、はっきりと所望すべきです。\n館長様も言ってくだされば差し上げますよ。その……\n少しはしゃいでしまい、たくさん準備してきたので。",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1530,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "unique_1",
+        "sound_asset": "stv_4020063_1490",
+        "ml_word": [
+            "ふぁ～あ、眠い……。せっかく館長様と過ごす\nクリスマスなので、意識を保っていたいのですが。\nしかし館長様が添い寝してくださるならそれもまた……\nはっ！　すみません、寝ぼけてつい軽薄なことを！",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1531,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020063_1500",
+        "ml_word": [
+            "館長様。本年のご厚意に感謝申し上げます。できれば\n館長様と一緒に年越しの瞬間を迎えたいのですが、\n私はそれまでに眠ってしまうかもしれません。それでも\n一緒にいてくださるならば……大変嬉しいです。",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1532,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020063_1510",
+        "ml_word": [
+            "館長様、お誕生日、誠におめでとうございます。今日は\n館長様のお望みのことを、なんでも叶えたいと思って\nいます。剣の鍛錬にもおつきあいしますし、それ以外の\nことでも……ぜひとも、じっくりお考えください。",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1533,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020096_1520",
+        "ml_word": [
+            "吸血鬼は、血を吸った相手を眷属にできるようですね。\nもしもラファエロ様や館長様が\n吸血鬼になってしまわれるようなことがあれば、\n私は喜んで血を吸われましょう。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1534,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020096_1530",
+        "ml_word": [
+            "蝙蝠のように闇夜を飛び回ることができれば、\nなかなか楽しいかもしれませんね。\n……ですが、逆さに宙吊りになって眠るのは\n寝心地が悪そうなので、遠慮しておきましょう。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1535,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020096_1540",
+        "ml_word": [
+            "流石、ラファエロ様の選んでくださった仮装。\n街でも様々な方から声をかけていただけます。\n吸血鬼としてもてはやされるのは複雑ですが……\n正直、悪い気はしません。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
+    },
+    {
+        "id": 1536,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020096_1550",
+        "ml_word": [
+            "とうっ！　はぁ！　やぁーっ！　がぶり。\n……ふぅ。せっかく吸血騎士になったので、\n相手の間合いに入って噛みつく鍛錬を\nしているのですが、なかなか難しいですね。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020096
     }
 ]

@@ -6279,8 +6279,8 @@
       "ml_roots": [
          "黄昏の巫女",
          "en",
-         "",
-         "<span lang=\"\"></span>"
+         "黄昏之巫女（原创）",
+         "<span lang=\"ja\">黄昏の巫女</span>"
       ],
       "ml_get_message": [
          "私がみなさんと本当に同じ存在かはわかりません。\nでも、ココロはきっと同じだから……ここにいて、いいですか？",
@@ -6438,6 +6438,76 @@
       "creator_nation": "意大利",
       "created_date": "1498-1499",
       "museum": "罗马梵蒂冈圣彼得大教堂"
+   },
+   {
+      "id": 4020096,
+      "ml_name": [
+         "スキッピオ(眠れる吸血騎士)",
+         "en",
+         "西庇阿（睡着的吸血骑士）"
+      ],
+      "level_group_id": 5,
+      "rarity": 5,
+      "weapon_type": 2,
+      "buff_skill_id": 25096001,
+      "attack_skill_id": 15096001,
+      "ultimate_skill_id": 35096001,
+      "fusion_skill_id": 44200001,
+      "change_turn": 3,
+      "image_index": 4020096,
+      "sound_index": 4020096,
+      "ml_personality": [
+         "性格",
+         "en"
+      ],
+      "ml_birthday": [
+         "99/99",
+         "en"
+      ],
+      "ml_height": [
+         "135cm",
+         "en"
+      ],
+      "ml_size": [
+         "B85・W55・H71",
+         "en"
+      ],
+      "unit_id": 1,
+      "ml_cv_name": [
+         "瀬波あお",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "ラファエロが生み出したイマージュの少女。\nハロウィンの仮装で吸血鬼の姿となった彼女は、\n月光を浴び眠れぬ夜を過ごす――ことはなく、\n相変わらずいつでもどこでもウトウト。しまいには\n棺桶の中に入り込み、本格的な睡眠をとることも……。",
+         "en",
+         "拉斐尔创造出的形象少女。以万圣节装扮变成吸血鬼模样的她，沐浴月光度过不眠之夜——并没有这样的事，她依然随时随地打瞌睡。到最后甚至钻进棺材里，正经地睡上了一觉..."
+      ],
+      "ml_illustrator_name": [
+         "未記入",
+         "en"
+      ],
+      "ml_roots": [
+         "騎士の夢",
+         "en",
+         "骑士之梦",
+         "<span lang=\"it\">Sogno del cavaliere</span>"
+      ],
+      "ml_get_message": [
+         "祭りの喧騒に乗じて狼藉を働く輩もいるやもしれません。\nそんな時はこのスキッピオが血を吸い……もとい、成敗いたします。",
+         "en",
+         "也许会有人趁祭典的喧闹胡作非为。这种时候，就由我西庇阿来吸血...不对，来惩处。"
+      ],
+      "favorite_type": 5,
+      "virtue_types": "3",
+      "start_time": "2026-10-15 13:00:00",
+      "adult_no_voice": 0,
+      "ml_creator": [
+         "拉斐尔·桑西",
+         "<span lang=\"it\">Raffaello Sanzio da Urbino</span>"
+      ],
+      "creator_nation": "意大利",
+      "created_date": "约1504",
+      "museum": "英国伦敦国家美术馆"
    },
    {
       "id": 99910,

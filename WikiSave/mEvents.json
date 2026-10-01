@@ -2158,6 +2158,32 @@
         "close_time": "2026-09-29 12:59:59"
     },
     {
+        "id": 3240,
+        "ml_title": [
+            "猫とナースとモンスター",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 440,
+        "top_character_id": 4010414,
+        "top_background_image": "3001308",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3240,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1178,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6021,
+        "latter_half_shop_category_id": 0,
+        "priority": 145,
+        "banner_image_index": 13240,
+        "start_time": "2026-10-09 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-10-22 12:59:59",
+        "close_time": "2026-10-24 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",
@@ -3016,6 +3042,32 @@
         "close_time": "2026-09-17 12:59:59"
     },
     {
+        "id": 3334,
+        "ml_title": [
+            "憧憬と不信のハロウィン",
+            ""
+        ],
+        "event_type": 3,
+        "m_quest_id": 734,
+        "top_character_id": 4011801,
+        "top_background_image": "3001308",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3334,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3300,
+        "m_event_top_ranking_group_id": 3300,
+        "m_gacha_group_id": 1174,
+        "latter_half_gacha_group_id": 1176,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 144,
+        "banner_image_index": 13334,
+        "start_time": "2026-09-30 13:30:00",
+        "latter_half_start_time": "2026-10-04 13:00:00",
+        "end_time": "2026-10-14 12:59:59",
+        "close_time": "2026-10-16 12:59:59"
+    },
+    {
         "id": 3601,
         "ml_title": [
             "【A.S.】ありえない出会いと最初の試練",
@@ -3300,6 +3352,32 @@
         "latter_half_start_time": "",
         "end_time": "2026-09-27 12:59:59",
         "close_time": "2026-09-29 12:59:59"
+    },
+    {
+        "id": 3612,
+        "ml_title": [
+            "【A.S.】高潔と金貨",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1111,
+        "top_character_id": 4011112,
+        "top_background_image": "3009401",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3612,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1180,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 146,
+        "banner_image_index": 13612,
+        "start_time": "2026-10-13 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-10-21 12:59:59",
+        "close_time": "2026-10-23 12:59:59"
     },
     {
         "id": 5001,
@@ -3716,5 +3794,31 @@
         "latter_half_start_time": "",
         "end_time": "2026-09-30 12:59:59",
         "close_time": "2026-10-02 12:59:59"
+    },
+    {
+        "id": 5017,
+        "ml_title": [
+            "吸血騎士スキッピオは眠らない【P.C.】",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 617,
+        "top_character_id": 4020096,
+        "top_background_image": "3001310",
+        "m_event_bgm_setting_id": 2,
+        "m_event_bonus_group_id": 5017,
+        "m_event_point_group_id": 5017,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3114,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6022,
+        "latter_half_shop_category_id": 0,
+        "priority": 147,
+        "banner_image_index": 15017,
+        "start_time": "2026-10-15 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-10-23 12:59:59",
+        "close_time": "2026-10-25 12:59:59"
     }
 ]

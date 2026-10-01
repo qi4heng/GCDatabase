@@ -121,6 +121,61 @@
         "description": "自身含めず味方のみオブジェクト含む"
     },
     {
+        "id": 12,
+        "type_bits": 5,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "自身と範囲内の味方オブジェクト"
+    },
+    {
+        "id": 13,
+        "type_bits": 5,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 0,
+        "ignore_range": 1,
+        "description": "自身と範囲内外問わず味方オブジェクト"
+    },
+    {
+        "id": 14,
+        "type_bits": 7,
+        "sort_type": 1,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 0,
+        "ignore_range": 1,
+        "description": "範囲内外問わず味方全員と味方オブジェクト"
+    },
+    {
+        "id": 15,
+        "type_bits": 7,
+        "sort_type": 1,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "範囲内の味方全員と味方オブジェクト"
+    },
+    {
+        "id": 88,
+        "type_bits": 2,
+        "sort_type": 1,
+        "sort_param": 0,
+        "filter_type": 0,
+        "filter_param": 0,
+        "target_num": 0,
+        "ignore_range": 1,
+        "description": "自身含まない範囲内外問わず味方全員"
+    },
+    {
         "id": 89,
         "type_bits": 1,
         "sort_type": 0,
@@ -2165,6 +2220,61 @@
         "target_num": 0,
         "ignore_range": 0,
         "description": "バイオレットの発動者自身のみ"
+    },
+    {
+        "id": 2206,
+        "type_bits": 2,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 1,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "対象のカーマインの味方のみ"
+    },
+    {
+        "id": 2207,
+        "type_bits": 2,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 2,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "対象のセルリアンの味方のみ"
+    },
+    {
+        "id": 2208,
+        "type_bits": 2,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 3,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "対象のビリジアンの味方のみ"
+    },
+    {
+        "id": 2209,
+        "type_bits": 2,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 4,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "対象のアイボリーの味方のみ"
+    },
+    {
+        "id": 2210,
+        "type_bits": 2,
+        "sort_type": 0,
+        "sort_param": 0,
+        "filter_type": 1,
+        "filter_param": 5,
+        "target_num": 0,
+        "ignore_range": 0,
+        "description": "対象のバイオレットの味方のみ"
     },
     {
         "id": 2211,

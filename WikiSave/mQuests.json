@@ -1632,6 +1632,23 @@
         ]
     },
     {
+        "id": 440,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "440",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-10-09 13:00:00",
+        "end_time": "2026-10-22 12:59:59",
+        "ml_name": [
+            "猫とナースとモンスター",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2193,6 +2210,23 @@
         ]
     },
     {
+        "id": 734,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-09-30 13:30:00",
+        "end_time": "2026-10-14 12:59:59",
+        "ml_name": [
+            "憧憬と不信のハロウィン",
+            ""
+        ]
+    },
+    {
         "id": 800,
         "chapter_no": 0,
         "quest_type": 4,
@@ -2618,6 +2652,23 @@
         ]
     },
     {
+        "id": 827,
+        "chapter_no": 0,
+        "quest_type": 4,
+        "order": 1,
+        "first_reward_reset_type": 3,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-10-01 04:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_name": [
+            "ダンジョンシーズン27",
+            ""
+        ]
+    },
+    {
         "id": 601,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2886,6 +2937,23 @@
         "end_time": "2026-09-30 12:59:59",
         "ml_name": [
             "想いによって生まれるものは",
+            ""
+        ]
+    },
+    {
+        "id": 617,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-10-15 13:00:00",
+        "end_time": "2026-10-23 12:59:59",
+        "ml_name": [
+            "吸血騎士スキッピオは眠らない",
             ""
         ]
     },
@@ -3315,6 +3383,23 @@
         ]
     },
     {
+        "id": 924,
+        "chapter_no": 0,
+        "quest_type": 5,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 924,
+        "start_time": "2026-10-01 04:00:00",
+        "end_time": "2026-11-01 03:59:59",
+        "ml_name": [
+            "リサーチクエスト：インスピレーション10月",
+            ""
+        ]
+    },
+    {
         "id": 1000,
         "chapter_no": 0,
         "quest_type": 999,
@@ -3515,6 +3600,23 @@
         "end_time": "2026-09-27 12:59:59",
         "ml_name": [
             "【A.S.】魅了する最悪の強欲",
+            ""
+        ]
+    },
+    {
+        "id": 1111,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-10-13 13:00:00",
+        "end_time": "2026-10-21 12:59:59",
+        "ml_name": [
+            "【A.S.】高潔と金貨",
             ""
         ]
     }

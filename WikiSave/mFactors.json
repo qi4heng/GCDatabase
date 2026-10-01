@@ -1197,6 +1197,25 @@
         ]
     },
     {
+      "id": 14130023,
+      "rarity": 5,
+      "inheritance_rate": 250,
+      "image_index": 1150002,
+      "inheritance_group": 0,
+      "ml_name": [
+         "攻器魂・中",
+         "攻器魂・中"
+      ],
+      "ml_description": [
+         "<help=offence>攻撃</help>[[effects_power_1]%]増加/<help=dexterity>器用</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
+         "<help=offence>攻击</help>增加[[effects_power_1]%]/<help=dexterity>器用</help>增加[[effects_power_2]%]/战斗开始时的入魂值增加[[effects_power_3]]%"
+      ],
+        "category": [
+            1,
+            274
+        ]
+    },
+    {
         "id": 14130024,
         "rarity": 5,
         "inheritance_rate": 250,

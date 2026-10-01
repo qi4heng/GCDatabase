@@ -2002,6 +2002,28 @@
       "source": "商店付费礼包（伦勃朗生诞祭2025）"
    },
    {
+      "id": 4110605,
+      "enhance_group_id": 25,
+      "disassemble_group_id": 125,
+      "rarity": 5,
+      "site_type": 2,
+      "unit_id": 6,
+      "lock_type": 2,
+      "reduce_element_type": 3,
+      "image_index": 4110605,
+      "country_type": 0,
+      "ml_name": [
+         "マリンスイムスリーブ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "マリンカラーが爽やかなアームスリーブ。水中でも着用可能。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包（伦勃朗生诞祭2026）"
+   },
+   {
       "id": 4110606,
       "enhance_group_id": 34,
       "disassemble_group_id": 134,
@@ -2640,6 +2662,28 @@
       "source": "常驻商店兑换"
    },
    {
+      "id": 4111112,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 201,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 11,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4111112,
+      "country_type": 0,
+      "ml_name": [
+         "利欲の結晶短銃",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるフェルメールの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
+   },
+   {
       "id": 4111192,
       "enhance_group_id": 45,
       "disassemble_group_id": 145,
@@ -2858,6 +2902,28 @@
       ],
       "ml_effect_flavor": [],
       "source": "商店付费礼包（塞尚生诞祭2025）"
+   },
+   {
+      "id": 4111304,
+      "enhance_group_id": 15,
+      "disassemble_group_id": 115,
+      "rarity": 5,
+      "site_type": 1,
+      "unit_id": 13,
+      "lock_type": 2,
+      "reduce_element_type": 4,
+      "image_index": 4111304,
+      "country_type": 0,
+      "ml_name": [
+         "セザンヌのベール",
+         ""
+      ],
+      "ml_flavor_text": [
+         "セザンヌ【しあわせ色の花嫁】が着用しているベール。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包（塞尚生诞祭2026）"
    },
    {
       "id": 4111305,
@@ -3250,6 +3316,72 @@
       ],
       "ml_flavor_text": [
          "セッシュウ【流浪の留学生】が着用している腰袋。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "常驻商店兑换"
+   },
+   {
+      "id": 4111801,
+      "enhance_group_id": 14,
+      "disassemble_group_id": 114,
+      "rarity": 4,
+      "site_type": 1,
+      "unit_id": 18,
+      "lock_type": 2,
+      "reduce_element_type": 2,
+      "image_index": 4111801,
+      "country_type": 0,
+      "ml_name": [
+         "ボシュのショートベール",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ボシュ【異形礼賛】が着用しているショートベール。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "常驻商店兑换"
+   },
+   {
+      "id": 4111802,
+      "enhance_group_id": 45,
+      "disassemble_group_id": 145,
+      "rarity": 5,
+      "site_type": 4,
+      "unit_id": 18,
+      "lock_type": 2,
+      "reduce_element_type": 2,
+      "image_index": 4111802,
+      "country_type": 0,
+      "ml_name": [
+         "ボシュのブーツ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ボシュ【ようこそ楽園へ】が着用しているブーツ。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "常驻商店兑换"
+   },
+   {
+      "id": 4111803,
+      "enhance_group_id": 34,
+      "disassemble_group_id": 134,
+      "rarity": 4,
+      "site_type": 3,
+      "unit_id": 18,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4111803,
+      "country_type": 0,
+      "ml_name": [
+         "ボシュのペンダント",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ボシュ【奇想の体現者】が着用しているペンダント。",
          ""
       ],
       "ml_effect_flavor": [],
@@ -3935,7 +4067,7 @@
          ""
       ],
       "ml_effect_flavor": [],
-      "source": ""
+      "source": "商店付费礼包"
    },
    {
       "id": 4116102,
@@ -3957,7 +4089,7 @@
          ""
       ],
       "ml_effect_flavor": [],
-      "source": ""
+      "source": "活动商店兑换"
    },
    {
       "id": 4116103,
@@ -3979,7 +4111,7 @@
          ""
       ],
       "ml_effect_flavor": [],
-      "source": ""
+      "source": "信爱Lv10任务"
    },
    {
       "id": 4116201,
@@ -4001,7 +4133,7 @@
          ""
       ],
       "ml_effect_flavor": [],
-      "source": ""
+      "source": "商店付费礼包"
    },
    {
       "id": 4116202,
@@ -4023,7 +4155,7 @@
          ""
       ],
       "ml_effect_flavor": [],
-      "source": ""
+      "source": "活动商店兑换"
    },
    {
       "id": 4116203,
@@ -4045,6 +4177,6 @@
          ""
       ],
       "ml_effect_flavor": [],
-      "source": ""
+      "source": "信爱Lv10任务"
    }
 ]

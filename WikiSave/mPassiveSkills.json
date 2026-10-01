@@ -1092,6 +1092,19 @@
       ]
    },
    {
+      "id": 14130023,
+      "rarity": 5,
+      "image_index": 1150002,
+      "ml_name": [
+         "攻器魂・中",
+         ""
+      ],
+      "ml_description": [
+         "<help=offence>攻撃</help>[[effects_power_1]%]増加/<help=dexterity>器用</help>[[effects_power_2]%]増加/バトル開始時の入魂ゲージ[[effects_power_3]]%増加",
+         "<help=offence>攻击</help>增加[[effects_power_1]%]/<help=dexterity>器用</help>增加[[effects_power_2]%]/战斗开始时的入魂值增加[[effects_power_3]]%"
+      ]
+   },
+   {
       "id": 14130024,
       "rarity": 5,
       "image_index": 1150002,
@@ -2180,7 +2193,7 @@
       ],
       "ml_description": [
          "バトル開始時、自身に物理シールド付与・防御[[effects_power_2]%]増加（重複可）/一定体力以下で防御[[effects_power_3]%]増加（重複可）",
-         "战斗开始时，赋予自身物理护盾・防御增加[[effects_power_2]%]（可叠加）/一定体力以下时，防御增加[[effects_power_3]%]（可叠加）"
+         "战斗开始时，赋予自身物理护盾·防御增加[[effects_power_2]%]（可叠加）/一定体力以下时，防御增加[[effects_power_3]%]（可叠加）"
       ]
    },
    {
@@ -2193,7 +2206,7 @@
       ],
       "ml_description": [
          "追加行動（技法のみ＋[[effects_power]]）/一定体力以下で攻撃・精神・防御・器用・敏捷[[effects_power_2]%]増加（解除不可）",
-         "追加行动（仅技法＋[[effects_power]]）/一定体力以下时，攻击・精神・防御・器用・敏捷增加[[effects_power_2]%]（不可解除）"
+         "追加行动（仅技法＋[[effects_power]]）/一定体力以下时，攻击·精神·防御·器用·敏捷增加[[effects_power_2]%]（不可解除）"
       ]
    },
    {
@@ -2206,7 +2219,7 @@
       ],
       "ml_description": [
          "追加行動（技法のみ＋[[effects_power]]）/一定体力以下で攻撃・精神・防御・器用・敏捷[[effects_power_2]%]増加（解除不可）",
-         "追加行动（仅技法＋[[effects_power]]）/一定体力以下时，攻击・精神・防御・器用・敏捷增加[[effects_power_2]%]（不可解除）"
+         "追加行动（仅技法＋[[effects_power]]）/一定体力以下时，攻击·精神·防御·器用·敏捷增加[[effects_power_2]%]（不可解除）"
       ]
    },
    {
@@ -3900,6 +3913,84 @@
       ]
    },
    {
+      "id": 54131801,
+      "rarity": 4,
+      "image_index": 4131801,
+      "ml_name": [
+         "ボシュ体力アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの体力[[effects_power]%]増加",
+         "博斯的体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131802,
+      "rarity": 4,
+      "image_index": 4131802,
+      "ml_name": [
+         "ボシュ攻撃アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの攻撃[[effects_power]%]増加",
+         "博斯的攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131803,
+      "rarity": 4,
+      "image_index": 4131803,
+      "ml_name": [
+         "ボシュ精神アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの精神[[effects_power]%]増加",
+         "博斯的精神增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131804,
+      "rarity": 4,
+      "image_index": 4131804,
+      "ml_name": [
+         "ボシュ防御アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの防御[[effects_power]%]増加",
+         "博斯的防御增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131805,
+      "rarity": 4,
+      "image_index": 4131805,
+      "ml_name": [
+         "ボシュ器用アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの器用[[effects_power]%]増加",
+         "博斯的器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 54131806,
+      "rarity": 4,
+      "image_index": 4131806,
+      "ml_name": [
+         "ボシュ敏捷アップ・中",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの敏捷[[effects_power]%]増加",
+         "博斯的敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
       "id": 55130101,
       "rarity": 5,
       "image_index": 4130101,
@@ -5223,6 +5314,84 @@
       "ml_description": [
          "セッシュウの敏捷[[effects_power]%]増加",
          "雪舟的敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131801,
+      "rarity": 5,
+      "image_index": 4131801,
+      "ml_name": [
+         "ボシュ体力アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの体力[[effects_power]%]増加",
+         "博斯的体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131802,
+      "rarity": 5,
+      "image_index": 4131802,
+      "ml_name": [
+         "ボシュ攻撃アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの攻撃[[effects_power]%]増加",
+         "博斯的攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131803,
+      "rarity": 5,
+      "image_index": 4131803,
+      "ml_name": [
+         "ボシュ精神アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの精神[[effects_power]%]増加",
+         "博斯的精神增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131804,
+      "rarity": 5,
+      "image_index": 4131804,
+      "ml_name": [
+         "ボシュ防御アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの防御[[effects_power]%]増加",
+         "博斯的防御增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131805,
+      "rarity": 5,
+      "image_index": 4131805,
+      "ml_name": [
+         "ボシュ器用アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの器用[[effects_power]%]増加",
+         "博斯的器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 55131806,
+      "rarity": 5,
+      "image_index": 4131806,
+      "ml_name": [
+         "ボシュ敏捷アップ・大",
+         ""
+      ],
+      "ml_description": [
+         "ボシュの敏捷[[effects_power]%]増加",
+         "博斯的敏捷增加[[effects_power]%]"
       ]
    },
    {
@@ -6708,6 +6877,45 @@
       ]
    },
    {
+      "id": 75130028,
+      "rarity": 5,
+      "image_index": 1390005,
+      "ml_name": [
+         "紫属性有利＋（50%）",
+         ""
+      ],
+      "ml_description": [
+         "味方のバイオレット（紫）のアイボリー（白）に対してのダメージ[[effects_power]%]上昇",
+         "紫色属性己方对白色属性目标造成的伤害提升[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 74130028,
+      "rarity": 4,
+      "image_index": 1130002,
+      "ml_name": [
+         "エネミーのアイボリー(白)の攻撃+70%",
+         ""
+      ],
+      "ml_description": [
+         "エネミーのアイボリー(白)の攻撃+[[effects_power]%]",
+         "白色属性敌方的攻击+[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 73130028,
+      "rarity": 4,
+      "image_index": 1130004,
+      "ml_name": [
+         "エネミーのアイボリー(白)の防御+40%",
+         ""
+      ],
+      "ml_description": [
+         "エネミーのアイボリー(白)の防御+[[effects_power]%]",
+         "白色属性敌方的防御+[[effects_power]%]"
+      ]
+   },
+   {
       "id": 90130001,
       "rarity": 5,
       "image_index": 1130001,
@@ -7917,6 +8125,19 @@
       ]
    },
    {
+      "id": 45060601,
+      "rarity": 5,
+      "image_index": 1300002,
+      "ml_name": [
+         "精髄：【涼を呼ぶ水沫】",
+         ""
+      ],
+      "ml_description": [
+         "水エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技で体力消費時、自身の熱情[[effects_power_3]]増加・入魂ゲージ[[effects_power_4]]増加",
+         "水元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技消耗体力时，自身的热情增加[[effects_power_3]]·入魂值增加[[effects_power_4]]"
+      ]
+   },
+   {
       "id": 45080701,
       "rarity": 5,
       "image_index": 1080000,
@@ -8381,7 +8602,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技で移動攻撃発生時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・入魂ゲージ[[effects_power_4]]増加",
-         "雷元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动移动攻击时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞・入魂值增加[[effects_power_4]]"
+         "雷元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技发动移动攻击时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·入魂值增加[[effects_power_4]]"
       ]
    },
    {
@@ -8394,7 +8615,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/炎エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の体力[[effects_power_3]]増加・精神[[effects_power_4]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_5]]増加・入魂ゲージ[[effects_power_6]]増加・幻影付与",
-         "战斗开始时的热情增加[[effects_power]]/火元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身体力增加[[effects_power_3]]・精神增加[[effects_power_4]%]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_5]]・入魂值增加[[effects_power_6]]・赋予幻影"
+         "战斗开始时的热情增加[[effects_power]]/火元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身体力增加[[effects_power_3]]·精神增加[[effects_power_4]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_5]]·入魂值增加[[effects_power_6]]·赋予幻影"
       ]
    },
    {
@@ -8433,7 +8654,7 @@
       ],
       "ml_description": [
          "物理エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/領域展開時自身の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "物理元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/领域展开时自身敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "物理元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/领域展开时自身敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -8446,7 +8667,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/水エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の最大体力[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・入魂ゲージ[[effects_power_5]]増加・拒絶付与",
-         "战斗开始时的热情增加[[effects_power]]/水元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的最大体力增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_4]]・入魂值增加[[effects_power_5]]・赋予自身拒绝"
+         "战斗开始时的热情增加[[effects_power]]/水元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的最大体力增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·入魂值增加[[effects_power_5]]·赋予自身拒绝"
       ]
    },
    {
@@ -8459,7 +8680,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/雷エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・不変付与・敵全体の器用[[effects_power_6]%]減少＜[[effects_turn_6]ターン]＞",
-         "战斗开始时的热情增加[[effects_power]]/雷元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_4]]・赋予自身不变・敌方全体的器用减少[[effects_power_6]%]＜[[effects_turn_6]回合]＞"
+         "战斗开始时的热情增加[[effects_power]]/雷元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·赋予自身不变·敌方全体的器用减少[[effects_power_6]%]＜[[effects_turn_6]回合]＞"
       ]
    },
    {
@@ -8472,7 +8693,7 @@
       ],
       "ml_description": [
          "水エレメントの攻撃を[[effects_power]%]強化/攻撃[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、味方全員の幸運[[effects_power_3]]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "水元素的攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技召唤放置物时，己方全员的幸运增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞"
+         "水元素攻击强化[[effects_power]%]/攻击增加[[effects_power_2]%]/技法或绝技召唤放置物时，己方全员的幸运增加[[effects_power_3]]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -8485,7 +8706,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/物理エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・熱情[[effects_power_4]]増加・入魂ゲージ[[effects_power_5]]増加・敵全体の防御[[effects_power_6]%]減少＜[[effects_turn_6]ターン]＞",
-         "战斗开始时的热情增加[[effects_power]]/物理元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞・热情增加[[effects_power_4]]・入魂值增加[[effects_power_5]]・敌方全体的防御减少[[effects_power_6]%]＜[[effects_turn_6]回合]＞"
+         "战斗开始时的热情增加[[effects_power]]/物理元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·热情增加[[effects_power_4]]·入魂值增加[[effects_power_5]]·敌方全体的防御减少[[effects_power_6]%]＜[[effects_turn_6]回合]＞"
       ]
    },
    {
@@ -8497,8 +8718,8 @@
          ""
       ],
       "ml_description": [
-         "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/バフ付与時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・入魂ゲージ[[effects_power_4]]増加",
-         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/赋予增益效果时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞・入魂值增加[[effects_power_4]]"
+         "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技でバフ付与時、自身の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞・入魂ゲージ[[effects_power_4]]増加",
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技赋予增益效果时，自身的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞·入魂值增加[[effects_power_4]]"
       ]
    },
    {
@@ -8511,7 +8732,7 @@
       ],
       "ml_description": [
          "雷エレメントの攻撃を[[effects_power]%]強化/精神[[effects_power_2]%]増加/技法または絶技でデバフ付与時、命中対象に攻撃[[effects_power_3]%]減少＜[[effects_turn_3]ターン]＞",
-         "雷元素的攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技赋予减益效果时，使命中目标的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+         "雷元素攻击强化[[effects_power]%]/精神增加[[effects_power_2]%]/技法或绝技赋予减益效果时，使命中目标的攻击减少[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -8550,7 +8771,7 @@
       ],
       "ml_description": [
          "炎エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技でバフ付与時、自身と近くの味方１人に攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
-         "火元素的攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予增益效果时，赋予自身和附近的一名己方攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+         "火元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予增益效果时，赋予自身和附近的一名己方攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
       ]
    },
    {
@@ -8589,7 +8810,7 @@
       ],
       "ml_description": [
          "バトル開始時の熱情[[effects_power]]増加/炎エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加＜[[effects_turn_3]ターン]＞（重複可）・防御[[effects_power_4]%]増加＜[[effects_turn_4]ターン]＞（重複可）・熱情[[effects_power_5]]増加・自身の体力[[effects_power_6]]回復",
-         "战斗开始时的热情增加[[effects_power]]/火元素的攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]＜[[effects_turn_3]回合]＞（可叠加）・防御增加[[effects_power_4]%]＜[[effects_turn_4]回合]＞（可叠加）・热情增加[[effects_power_5]]・自身体力回复[[effects_power_6]]"
+         "战斗开始时的热情增加[[effects_power]]/火元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]＜[[effects_turn_3]回合]＞（可叠加）·防御增加[[effects_power_4]%]＜[[effects_turn_4]回合]＞（可叠加）·热情增加[[effects_power_5]]·自身体力回复[[effects_power_6]]"
       ]
    },
    {
@@ -8603,6 +8824,71 @@
       "ml_description": [
          "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技で弱点付与時、自身に敏捷[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
          "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技赋予弱点时，自身敏捷增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+      ]
+   },
+   {
+      "id": 43180101,
+      "rarity": 5,
+      "image_index": 1080000,
+      "ml_name": [
+         "精髄：【奇想の体現者】",
+         ""
+      ],
+      "ml_description": [
+         "系統：芸道に対してダメージ[[effects_power]%]上昇/防御[[effects_power_2]%]増加/技法でオブジェクト召喚時、自身の敏捷[[effects_power_3]%]増加＜[[effects_turn_3]ターン]＞",
+         "对系统：艺道造成的伤害提升[[effects_power]%]/防御增加[[effects_power_2]%]/技法召唤放置物时，自身的敏捷增加[[effects_power_3]%]＜[[effects_turn_3]回合]＞"
+      ]
+   },
+   {
+      "id": 44180201,
+      "rarity": 5,
+      "image_index": 1300001,
+      "ml_name": [
+         "精髄：【異形礼賛】",
+         ""
+      ],
+      "ml_description": [
+         "炎エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法でオブジェクト召喚時、自身の幸運[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞",
+         "火元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法召唤放置物时，自身的幸运增加[[effects_power_3]]＜[[effects_turn_3]回合]＞"
+      ]
+   },
+   {
+      "id": 45180301,
+      "rarity": 5,
+      "image_index": 1320000,
+      "ml_name": [
+         "精髄：【ようこそ楽園へ】",
+         ""
+      ],
+      "ml_description": [
+         "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法でオブジェクト召喚時、自身とオブジェクトの攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法召唤放置物时，使自身和放置物的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+      ]
+   },
+   {
+      "id": 45111201,
+      "rarity": 5,
+      "image_index": 1150001,
+      "ml_name": [
+         "精髄：【利欲のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "バトル開始時の熱情[[effects_power]]増加/物理エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の攻撃[[effects_power_3]%]増加＜[[effects_turn_3]ターン]＞（重複可）・熱情[[effects_power_4]]増加・自身の影縫状態解除・敵全体の器用[[effects_power_6]%]減少＜[[effects_turn_6]ターン]＞（重複可）",
+         "战斗开始时的热情增加[[effects_power]]/物理元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的攻击增加[[effects_power_3]%]＜[[effects_turn_3]回合]＞（可叠加）·热情增加[[effects_power_4]]·解除自身的影缝状态·敌方全体的器用减少[[effects_power_6]%]＜[[effects_turn_6]回合]＞（可叠加）"
+      ]
+   },
+   {
+      "id": 45130501,
+      "rarity": 5,
+      "image_index": 1300003,
+      "ml_name": [
+         "精髄：【しあわせ色の花嫁】",
+         ""
+      ],
+      "ml_description": [
+         "風エレメントの攻撃を[[effects_power]%]強化/体力[[effects_power_2]%]増加/技法または絶技で補助効果付与時、味方全員の体力[[effects_power_3]]回復",
+         "风元素攻击强化[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技赋予辅助效果时，己方全体的体力回复[[effects_power_3]]"
       ]
    },
    {
@@ -9031,7 +9317,7 @@
       ],
       "ml_description": [
          "自身の技法または絶技効果で弱点付与時、対象の精神・敏捷[[effects_power_1]%]減少＜[[effects_turn_1]ターン]＞",
-         "因自身技法或绝技效果赋予弱点时，使目标的·精神·敏捷减少[[effects_power_1]%]＜[[effects_turn_1]回合]＞"
+         "因自身技法或绝技效果赋予弱点时，使命中目标的·精神·敏捷减少[[effects_power_1]%]＜[[effects_turn_1]回合]＞"
       ]
    },
    {
@@ -9097,6 +9383,19 @@
       "ml_description": [
          "自身の技法または絶技効果でデバフ付与時、攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
          "因自身技法或绝技效果赋予减益效果时，攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
+      ]
+   },
+   {
+      "id": 80011112,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "至粋：【利欲のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "自身が技法または絶技でフォーム付与時、自身の攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞・確率でクールタイム[[effects_power_2]]短縮",
+         "自身技法或绝技赋予形态时，自身的攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞·概率缩短冷却时间[[effects_power_2]]"
       ]
    },
    {

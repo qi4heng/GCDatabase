@@ -40,5 +40,12 @@
         "priority": 90,
         "message": "無料ガチャ開催中！",
         "ml_message": "無料ガチャ開催中！|"
+    },
+    {
+        "id": 10,
+        "m_gacha_id": 50001,
+        "priority": 1,
+        "message": "72時間限定ガチャ\nあとhh:mm:ss",
+        "ml_message": "72時間限定ガチャ\nあとhh:mm:ss|"
     }
 ]

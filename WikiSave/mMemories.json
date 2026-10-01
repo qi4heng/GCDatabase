@@ -2413,5 +2413,95 @@
       "sub_effect_id1": 63130002,
       "sell_price": 10656,
       "start_time": "2026-09-26 13:00:00"
+   },
+   {
+      "id": 4120163,
+      "ml_name": [
+         "仮装現実は奇想より奇なり？",
+         "伪装现实比奇想更离奇？"
+      ],
+      "index": "162",
+      "rarity": 4,
+      "image_index": 4120170,
+      "main_effect_id1": 54130006,
+      "main_effect_id2": 54131803,
+      "sub_effect_id1": 63130001,
+      "sell_price": 3552,
+      "start_time": "2026-09-30 13:00:00"
+   },
+   {
+      "id": 4120164,
+      "ml_name": [
+         "召しませアテネスハロウィン光景",
+         "请欣赏雅典万圣节光景"
+      ],
+      "index": "163",
+      "rarity": 5,
+      "image_index": 4120142,
+      "main_effect_id1": 55131802,
+      "main_effect_id2": 55390002,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-09-30 13:00:00"
+   },
+   {
+      "id": 4120165,
+      "ml_name": [
+         "傲慢を打ち砕いたその先に",
+         "击碎傲慢后的未来"
+      ],
+      "index": "164",
+      "rarity": 5,
+      "image_index": 4120180,
+      "main_effect_id1": 55130702,
+      "main_effect_id2": 55300000,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-10-07 13:00:00"
+   },
+   {
+      "id": 4120166,
+      "ml_name": [
+         "ナースと猫又、調査中！",
+         "护士与猫又，调查中！"
+      ],
+      "index": "165",
+      "rarity": 4,
+      "image_index": 4120171,
+      "main_effect_id1": 54130001,
+      "main_effect_id2": 54130804,
+      "sub_effect_id1": 63130002,
+      "sell_price": 3552,
+      "start_time": "2026-10-09 13:00:00"
+   },
+   {
+      "id": 4120167,
+      "ml_name": [
+         "狼姫と吸血騎士",
+         "狼公主与吸血骑士"
+      ],
+      "index": "166",
+      "rarity": 4,
+      "image_index": 4120172,
+      "main_effect_id1": 54130001,
+      "main_effect_id2": 54131003,
+      "sub_effect_id1": 63130003,
+      "sell_price": 3552,
+      "start_time": "2026-10-15 13:00:00"
+   },
+   {
+      "id": 4120168,
+      "ml_name": [
+         "誰にイタズラされたいの？",
+         "想被谁恶作剧呢？"
+      ],
+      "index": "167",
+      "rarity": 5,
+      "image_index": 4120143,
+      "main_effect_id1": 55130802,
+      "main_effect_id2": 55390001,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-10-15 13:00:00"
    }
 ]

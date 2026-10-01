@@ -222,5 +222,19 @@
         "last_boss_open_time": "2026-09-27 13:00:00",
         "bonus_rate1": 3000,
         "bonus_rate2": 1000
+    },
+    {
+        "id": 17,
+        "m_event_id": 5017,
+        "advantage_element": 1,
+        "boss1_id": 50171,
+        "boss2_id": 50172,
+        "boss2_open_time": "2026-10-17 13:00:00",
+        "boss3_id": 50173,
+        "boss3_open_time": "2026-10-19 13:00:00",
+        "last_boss_id": 50174,
+        "last_boss_open_time": "2026-10-20 13:00:00",
+        "bonus_rate1": 3000,
+        "bonus_rate2": 1000
     }
 ]

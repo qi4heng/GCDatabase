@@ -2046,5 +2046,133 @@
         "m_raid_event_boss_id": 50164,
         "difficulty": 4,
         "difficulty_score_rate": 70000
+    },
+    {
+        "id": 257,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172101,
+        "m_raid_event_boss_id": 50171,
+        "difficulty": 1,
+        "difficulty_score_rate": 10000
+    },
+    {
+        "id": 258,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172102,
+        "m_raid_event_boss_id": 50171,
+        "difficulty": 2,
+        "difficulty_score_rate": 30000
+    },
+    {
+        "id": 259,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172103,
+        "m_raid_event_boss_id": 50171,
+        "difficulty": 3,
+        "difficulty_score_rate": 50000
+    },
+    {
+        "id": 260,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172104,
+        "m_raid_event_boss_id": 50171,
+        "difficulty": 4,
+        "difficulty_score_rate": 70000
+    },
+    {
+        "id": 261,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172201,
+        "m_raid_event_boss_id": 50172,
+        "difficulty": 1,
+        "difficulty_score_rate": 10000
+    },
+    {
+        "id": 262,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172202,
+        "m_raid_event_boss_id": 50172,
+        "difficulty": 2,
+        "difficulty_score_rate": 30000
+    },
+    {
+        "id": 263,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172203,
+        "m_raid_event_boss_id": 50172,
+        "difficulty": 3,
+        "difficulty_score_rate": 50000
+    },
+    {
+        "id": 264,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172204,
+        "m_raid_event_boss_id": 50172,
+        "difficulty": 4,
+        "difficulty_score_rate": 70000
+    },
+    {
+        "id": 265,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172301,
+        "m_raid_event_boss_id": 50173,
+        "difficulty": 1,
+        "difficulty_score_rate": 10000
+    },
+    {
+        "id": 266,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172302,
+        "m_raid_event_boss_id": 50173,
+        "difficulty": 2,
+        "difficulty_score_rate": 30000
+    },
+    {
+        "id": 267,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172303,
+        "m_raid_event_boss_id": 50173,
+        "difficulty": 3,
+        "difficulty_score_rate": 50000
+    },
+    {
+        "id": 268,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172304,
+        "m_raid_event_boss_id": 50173,
+        "difficulty": 4,
+        "difficulty_score_rate": 70000
+    },
+    {
+        "id": 269,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172401,
+        "m_raid_event_boss_id": 50174,
+        "difficulty": 1,
+        "difficulty_score_rate": 10000
+    },
+    {
+        "id": 270,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172402,
+        "m_raid_event_boss_id": 50174,
+        "difficulty": 2,
+        "difficulty_score_rate": 30000
+    },
+    {
+        "id": 271,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172403,
+        "m_raid_event_boss_id": 50174,
+        "difficulty": 3,
+        "difficulty_score_rate": 50000
+    },
+    {
+        "id": 272,
+        "m_event_id": 5017,
+        "m_quest_stage_id": 6172404,
+        "m_raid_event_boss_id": 50174,
+        "difficulty": 4,
+        "difficulty_score_rate": 70000
     }
 ]

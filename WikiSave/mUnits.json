@@ -935,6 +935,61 @@
       ]
    },
    {
+      "id": 18,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4011801,
+      "collabo_type": 0,
+      "hp": 10400,
+      "atk": 408,
+      "mnd": 240,
+      "def": 288,
+      "dex": 312,
+      "luk": 360,
+      "spd": 384,
+      "passion": 100,
+      "sort_order": 18,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 1,
+      "main_art_type": 4,
+      "sub_art_type": 1,
+      "default_max_level": 55,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "ボシュ",
+         "en",
+         "博斯"
+      ],
+      "ml_cv_name": [
+         "白月かなめ",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "幻想的かつ猟奇的、醜悪であれどどこか目が離せない\n地獄を多様な価値で描く異端の奇想画家。\n見た目に反した作風のギャップのせいで\n誤解されがちではあるが、性格はいたって温厚で\n穏やかと親しい者たちは認識している。",
+         "en",
+         "奇幻又猎奇，虽然丑恶却总让人移不开眼，\n以多样的价值描绘地狱的异端奇想画家。\n因为外表与作品风格的反差，\n虽然容易被人误解，但性格极为温厚，\n亲近的人都知道她的温和。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_ボシュ",
+         "en"
+      ],
+      "ml_birthday": [
+         "8月9日",
+         "en"
+      ],
+      "ml_height": [
+         "155cm",
+         "en"
+      ],
+      "ml_size": [
+         "B92・W59・H81",
+         "en"
+      ]
+   },
+   {
       "id": 51,
       "level_group_id": 1,
       "love_point_level_group_id": 1,

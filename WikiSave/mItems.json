@@ -525,6 +525,31 @@
         "is_visible": false
     },
     {
+        "id": 1010022,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※10/31まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-10-13 13:00:00",
+        "end_time": "2026-10-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1015001,
         "item_type": 101,
         "value1": 120,
@@ -922,6 +947,31 @@
         ],
         "start_time": "2026-09-22 13:00:00",
         "end_time": "2026-09-30 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1015017,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※10/23まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-10-15 13:00:00",
+        "end_time": "2026-10-23 23:59:59",
         "is_visible": false
     },
     {
@@ -1450,6 +1500,31 @@
         "is_visible": false
     },
     {
+        "id": 1020022,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※10/31まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-10-13 13:00:00",
+        "end_time": "2026-10-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1025001,
         "item_type": 102,
         "value1": 12,
@@ -1847,6 +1922,31 @@
         ],
         "start_time": "2026-09-22 13:00:00",
         "end_time": "2026-09-30 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1025017,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※10/23まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-10-15 13:00:00",
+        "end_time": "2026-10-23 23:59:59",
         "is_visible": false
     },
     {
@@ -3200,6 +3300,81 @@
         "is_visible": false
     },
     {
+        "id": 1111801,
+        "item_type": 111,
+        "value1": 18,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1111801,
+        "ml_name": [
+            "ボシュの命鏡・小",
+            "EN"
+        ],
+        "ml_description": [
+            "ボシュのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボシュに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、小さな発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1111802,
+        "item_type": 111,
+        "value1": 18,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1111802,
+        "ml_name": [
+            "ボシュの命鏡・中",
+            "EN"
+        ],
+        "ml_description": [
+            "ボシュのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボシュに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、新鮮な発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1111803,
+        "item_type": 111,
+        "value1": 18,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1111803,
+        "ml_name": [
+            "ボシュの命鏡・大",
+            "EN"
+        ],
+        "ml_description": [
+            "ボシュのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボシュに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、大いなる発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1115101,
         "item_type": 111,
         "value1": 0,
@@ -3960,6 +4135,31 @@
         "image_index": 1120113,
         "ml_name": [
             "【炎天のアタッカー】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アルテの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120114,
+        "item_type": 112,
+        "value1": 4010114,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120114,
+        "ml_name": [
+            "【自称・魔法美少女】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -4935,6 +5135,31 @@
         "image_index": 1120413,
         "ml_name": [
             "【謎追いし走者】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "セキエンの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120414,
+        "item_type": 112,
+        "value1": 4010414,
+        "value2": 0,
+        "sort": 69,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120414,
+        "ml_name": [
+            "【化け猫が鳴く夜】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -6225,6 +6450,31 @@
         "is_visible": false
     },
     {
+        "id": 1120813,
+        "item_type": 112,
+        "value1": 4010813,
+        "value2": 0,
+        "sort": 92,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120813,
+        "ml_name": [
+            "【ナースのマネゴト】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "マネの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120901,
         "item_type": 112,
         "value1": 4010901,
@@ -7175,6 +7425,31 @@
         "is_visible": false
     },
     {
+        "id": 1121112,
+        "item_type": 112,
+        "value1": 4011112,
+        "value2": 0,
+        "sort": 107,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121112,
+        "ml_name": [
+            "【利欲のオルタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "フェルメールの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121201,
         "item_type": 112,
         "value1": 4011201,
@@ -7435,6 +7710,31 @@
         "image_index": 1121211,
         "ml_name": [
             "【願望のオルタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ブグローの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121212,
+        "item_type": 112,
+        "value1": 4011212,
+        "value2": 0,
+        "sort": 112,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121212,
+        "ml_name": [
+            "【囚われしエロス】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -8443,6 +8743,81 @@
         ],
         "ml_flavor_text": [
             "セッシュウの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121801,
+        "item_type": 112,
+        "value1": 4011801,
+        "value2": 0,
+        "sort": 120,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1121801,
+        "ml_name": [
+            "【奇想の体現者】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボシュの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、微かな光を放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121802,
+        "item_type": 112,
+        "value1": 4011802,
+        "value2": 0,
+        "sort": 120,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1121802,
+        "ml_name": [
+            "【異形礼賛】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボシュの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、鮮やかな輝きを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121803,
+        "item_type": 112,
+        "value1": 4011803,
+        "value2": 0,
+        "sort": 120,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121803,
+        "ml_name": [
+            "【ようこそ楽園へ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボシュの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -10968,6 +11343,31 @@
         ],
         "ml_flavor_text": [
             "セッシュウの心を激しく揺さぶる書物。その技術やセンスを\n飛躍させる哲学や技術について豊富に記されている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1161801,
+        "item_type": 116,
+        "value1": 18,
+        "value2": 0,
+        "sort": 200,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1161801,
+        "ml_name": [
+            "【ボシュ】の藝術家の書",
+            "EN"
+        ],
+        "ml_description": [
+            "ボシュに経験値を与えることのできるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボシュの心を激しく揺さぶる書物。その技術やセンスを\n飛躍させる哲学や技術について豊富に記されている。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -15168,6 +15568,56 @@
         ],
         "ml_flavor_text": [
             "レクイエムの物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1511128,
+        "item_type": 151,
+        "value1": 734,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511128,
+        "ml_name": [
+            "ストーリーキー【憧憬と不信のハロウィン】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「憧憬と不信のハロウィン」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "奇想のハロウィンの扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1511129,
+        "item_type": 151,
+        "value1": 440,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511129,
+        "ml_name": [
+            "ストーリーキー【猫とナースとモンスター】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「猫とナースとモンスター」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "モンスターが騒がすハロウィンの物語の扉を開くための鍵。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -21100,6 +21550,206 @@
         "is_visible": false
     },
     {
+        "id": 1630248,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630248,
+        "ml_name": [
+            "憧憬と不信のハロウィンガチャチケットA",
+            "EN"
+        ],
+        "ml_description": [
+            "憧憬と不信のハロウィンピックアップガチャAを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-14 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630249,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630249,
+        "ml_name": [
+            "憧憬と不信のハロウィンガチャチケットB",
+            "EN"
+        ],
+        "ml_description": [
+            "憧憬と不信のハロウィンピックアップガチャBを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-14 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630250,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630220,
+        "ml_name": [
+            "アナザーサイド復刻ガチャチケット5",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきアナザーサイド復刻ガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "アナザーサイド復刻ガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-13 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630251,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630251,
+        "ml_name": [
+            "猫とナースとモンスターガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "猫とナースとモンスターピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-22 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630252,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット42",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-15 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630253,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630142,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～フェルメール～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～フェルメール～を1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-21 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630254,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630254,
+        "ml_name": [
+            "吸血騎士スキッピオは眠らないガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "吸血騎士スキッピオは眠らないピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-25 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630255,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630099,
+        "ml_name": [
+            "スタイル復刻ピックアップガチャチケット43",
+            "EN"
+        ],
+        "ml_description": [
+            "1枚につきスタイル復刻ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "スタイル復刻ピックアップガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-23 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1630256,
         "item_type": 702,
         "value1": 0,
@@ -26875,6 +27525,181 @@
         "is_visible": false
     },
     {
+        "id": 1640236,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640236,
+        "ml_name": [
+            "憧憬と不信のハロウィンのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で憧憬と不信のハロウィンピックアップガチャAのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-16 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640237,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640135,
+        "ml_name": [
+            "★5スタイルのしおり（ハロウィン）",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-25 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640238,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640136,
+        "ml_name": [
+            "★5イマージュのしおり（ハロウィン）",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5イマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-25 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640239,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640239,
+        "ml_name": [
+            "猫とナースとモンスターのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で猫とナースとモンスターピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-24 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640240,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640240,
+        "ml_name": [
+            "スタイル復刻のしおり42",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-17 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640241,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640241,
+        "ml_name": [
+            "吸血騎士スキッピオは眠らないのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で吸血騎士スキッピオは眠らないピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-27 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640242,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640242,
+        "ml_name": [
+            "スタイル復刻のしおり43",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換でスタイル復刻ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-10-25 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1650000,
         "item_type": 801,
         "value1": 3200,
@@ -30850,6 +31675,106 @@
         "is_visible": false
     },
     {
+        "id": 1650162,
+        "item_type": 801,
+        "value1": 3334,
+        "value2": 0,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650162,
+        "ml_name": [
+            "コウモリカボチャの人形・A",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「憧憬と不信のハロウィン」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ハロウィン定番のかぼちゃにコウモリの羽を付け加えた人形。\n好きな場所に置いて、手軽にハロウィン気分を味わえる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650163,
+        "item_type": 801,
+        "value1": 0,
+        "value2": 3334,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650163,
+        "ml_name": [
+            "コウモリカボチャの人形・B",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「憧憬と不信のハロウィン」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ハロウィン定番のかぼちゃにコウモリの羽を付け加えた人形。\n好きな場所に置いて、手軽にハロウィン気分を味わえる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650164,
+        "item_type": 801,
+        "value1": 3240,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650164,
+        "ml_name": [
+            "ハロウィンのロリポップ",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「猫とナースとモンスター」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "オレンジと紫のハロウィンカラーが渦巻く、大きな飴。\n舐めるとほんのりカボチャの味がするという噂がある。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650165,
+        "item_type": 803,
+        "value1": 5017,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650094,
+        "ml_name": [
+            "死の結晶・緑",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「吸血騎士スキッピオは眠らない【P.C.】」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1660003,
         "item_type": 171,
         "value1": 3106,
@@ -32189,6 +33114,31 @@
         ],
         "ml_description": [
             "レイドイベント「想いによって生まれるものは」に挑戦するために必要となる挑戦券。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大規模な戦闘に挑戦するために必要となるスクロール。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1661017,
+        "item_type": 171,
+        "value1": 5017,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1661001,
+        "ml_name": [
+            "レイド挑戦券",
+            "EN"
+        ],
+        "ml_description": [
+            "レイドイベント「吸血騎士スキッピオは眠らない」に挑戦するために必要となる挑戦券。",
             "EN"
         ],
         "ml_flavor_text": [
