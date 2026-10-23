@@ -875,6 +875,55 @@
         "weight": 1
     },
     {
+        "id": 377,
+        "gacha_factor_group_id": 1,
+        "subunit_id": 4020070,
+        "factor_id": "14130020",
+        "weight": 1
+    },
+    {
+        "id": 389,
+        "gacha_factor_group_id": 1,
+        "subunit_id": 4020073,
+        "factor_id": "14130025",
+        "weight": 1
+    },
+    {
+        "id": 393,
+        "gacha_factor_group_id": 1,
+        "subunit_id": 4020074,
+        "factor_id": "14130021",
+        "weight": 1
+    },
+    {
+        "id": 397,
+        "gacha_factor_group_id": 1,
+        "subunit_id": 4020075,
+        "factor_id": "15080003",
+        "weight": 1
+    },
+    {
+        "id": 401,
+        "gacha_factor_group_id": 1,
+        "subunit_id": 4020076,
+        "factor_id": "14130026",
+        "weight": 1
+    },
+    {
+        "id": 405,
+        "gacha_factor_group_id": 1,
+        "subunit_id": 4020077,
+        "factor_id": "15480013",
+        "weight": 1
+    },
+    {
+        "id": 409,
+        "gacha_factor_group_id": 1,
+        "subunit_id": 4020078,
+        "factor_id": "15530001",
+        "weight": 1
+    },
+    {
         "id": 1353,
         "gacha_factor_group_id": 11,
         "subunit_id": 4020001,
@@ -1869,6 +1918,13 @@
         "weight": 1
     },
     {
+        "id": 1725,
+        "gacha_factor_group_id": 11,
+        "subunit_id": 4020094,
+        "factor_id": "15330000",
+        "weight": 1
+    },
+    {
         "id": 1729,
         "gacha_factor_group_id": 11,
         "subunit_id": 4020095,
@@ -2824,7 +2880,7 @@
         "id": 100969,
         "gacha_factor_group_id": 1001,
         "subunit_id": 4020092,
-        "factor_id": "15330000|14130020|14150001|14130002",
+        "factor_id": "15330000",
         "weight": 1
     },
     {
@@ -2832,6 +2888,13 @@
         "gacha_factor_group_id": 1001,
         "subunit_id": 4020093,
         "factor_id": "15080005",
+        "weight": 1
+    },
+    {
+        "id": 100977,
+        "gacha_factor_group_id": 1001,
+        "subunit_id": 4020094,
+        "factor_id": "15330000",
         "weight": 1
     },
     {
@@ -2845,7 +2908,7 @@
         "id": 100985,
         "gacha_factor_group_id": 1001,
         "subunit_id": 4020096,
-        "factor_id": "15080002|14130023|15110006|14130002",
+        "factor_id": "15080002",
         "weight": 1
     },
     {
@@ -4428,6 +4491,13 @@
         "gacha_factor_group_id": 1101,
         "subunit_id": 4020093,
         "factor_id": "15080005",
+        "weight": 1
+    },
+    {
+        "id": 700641,
+        "gacha_factor_group_id": 1101,
+        "subunit_id": 4020094,
+        "factor_id": "15330000|14130027|15110012|15110010",
         "weight": 1
     },
     {

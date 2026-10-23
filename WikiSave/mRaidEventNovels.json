@@ -404,5 +404,33 @@
         "m_quest_stage_id": 6171002,
         "defeat_boss_number": 4,
         "open_time": "2026-10-21 13:00:00"
+    },
+    {
+        "id": 59,
+        "m_event_id": 5018,
+        "m_quest_stage_id": 6181001,
+        "defeat_boss_number": 0,
+        "open_time": "2026-11-16 13:00:00"
+    },
+    {
+        "id": 60,
+        "m_event_id": 5018,
+        "m_quest_stage_id": 6181002,
+        "defeat_boss_number": 1,
+        "open_time": "2026-11-18 13:00:00"
+    },
+    {
+        "id": 61,
+        "m_event_id": 5018,
+        "m_quest_stage_id": 6181003,
+        "defeat_boss_number": 3,
+        "open_time": "2026-11-21 13:00:00"
+    },
+    {
+        "id": 62,
+        "m_event_id": 5018,
+        "m_quest_stage_id": 6181004,
+        "defeat_boss_number": 4,
+        "open_time": "2026-11-22 13:00:00"
     }
 ]

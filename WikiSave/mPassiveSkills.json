@@ -2249,6 +2249,19 @@
       ]
    },
    {
+      "id": 35330065,
+      "rarity": 5,
+      "image_index": 1130003,
+      "ml_name": [
+         "バトル開始時、自身に物理シールド付与/一定体力以下で自身に攻撃増加（重複可）・精神増加（重複可）・雷シールド付与",
+         ""
+      ],
+      "ml_description": [
+         "バトル開始時、自身に物理シールド付与/一定体力以下で自身に攻撃[[effects_power_2]%]増加（重複可）・精神[[effects_power_3]%]増加（重複可）・雷シールド付与",
+         "战斗开始时，赋予自身物理护盾/一定体力以下时，赋予自身攻击增加[[effects_power_2]%]（可叠加）·精神增加[[effects_power_3]%]（可叠加）·赋予雷护盾"
+      ]
+   },
+   {
       "id": 53130001,
       "rarity": 3,
       "image_index": 1130001,
@@ -6019,6 +6032,526 @@
       ]
    },
    {
+      "id": 70013011,
+      "rarity": 5,
+      "image_index": 1130001,
+      "ml_name": [
+         "体力強化：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの体力[[effects_power]%]増加",
+         "敌方的体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013012,
+      "rarity": 5,
+      "image_index": 1130001,
+      "ml_name": [
+         "体力強化：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの体力[[effects_power]%]増加",
+         "敌方的体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013013,
+      "rarity": 5,
+      "image_index": 1130001,
+      "ml_name": [
+         "体力強化：Ⅲ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの体力[[effects_power]%]増加",
+         "敌方的体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013021,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "攻撃強化：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの攻撃[[effects_power]%]増加",
+         "敌方的攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013022,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "攻撃強化：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの攻撃[[effects_power]%]増加",
+         "敌方的攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013023,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "攻撃強化：Ⅲ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの攻撃[[effects_power]%]増加",
+         "敌方的攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013051,
+      "rarity": 5,
+      "image_index": 1130005,
+      "ml_name": [
+         "器用強化：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの器用[[effects_power]%]増加",
+         "敌方的器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013052,
+      "rarity": 5,
+      "image_index": 1130005,
+      "ml_name": [
+         "器用強化：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの器用[[effects_power]%]増加",
+         "敌方的器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013053,
+      "rarity": 5,
+      "image_index": 1130005,
+      "ml_name": [
+         "器用強化：Ⅲ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの器用[[effects_power]%]増加",
+         "敌方的器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013061,
+      "rarity": 5,
+      "image_index": 1130006,
+      "ml_name": [
+         "敏捷強化：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの敏捷[[effects_power]%]増加",
+         "敌方的敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013062,
+      "rarity": 5,
+      "image_index": 1130006,
+      "ml_name": [
+         "敏捷強化：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの敏捷[[effects_power]%]増加",
+         "敌方的敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70013063,
+      "rarity": 5,
+      "image_index": 1130006,
+      "ml_name": [
+         "敏捷強化：Ⅲ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの敏捷[[effects_power]%]増加",
+         "敌方的敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70049991,
+      "rarity": 5,
+      "image_index": 1130017,
+      "ml_name": [
+         "状態異常抵抗増加(7種)：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの状態異常抵抗[[effects_power]]増加",
+         "敌方的状态异常抵抗增加[[effects_power]]"
+      ]
+   },
+   {
+      "id": 70049992,
+      "rarity": 5,
+      "image_index": 1130017,
+      "ml_name": [
+         "状態異常抵抗増加(7種)：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーの状態異常抵抗[[effects_power]]増加",
+         "敌方的状态异常抵抗增加[[effects_power]]"
+      ]
+   },
+   {
+      "id": 70091021,
+      "rarity": 5,
+      "image_index": 8710001,
+      "ml_name": [
+         "セルリアン以外ダメージ軽減",
+         ""
+      ],
+      "ml_description": [
+         "エネミーはセルリアン以外からの被ダメージを[[effects_power]%]軽減",
+         "敌方受到来自蓝色属性以外的伤害减轻[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70083111,
+      "rarity": 5,
+      "image_index": 8710001,
+      "ml_name": [
+         "節、正、虚相以外ダメージ軽減",
+         ""
+      ],
+      "ml_description": [
+         "エネミーは節、正、虚相以外からの被ダメージを[[effects_power]%]軽減",
+         "敌方受到来自节、正、虚相以外的伤害减轻[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70092051,
+      "rarity": 5,
+      "image_index": 8710001,
+      "ml_name": [
+         "雷以外ダメージ軽減：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーは雷エレメント以外からの被ダメージを[[effects_power]%]軽減",
+         "敌方受到来自雷元素以外的伤害减轻[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70092052,
+      "rarity": 5,
+      "image_index": 8710001,
+      "ml_name": [
+         "雷以外ダメージ軽減：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーは雷エレメント以外からの被ダメージを[[effects_power]%]軽減",
+         "敌方受到来自雷元素以外的伤害减轻[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 70087001,
+      "rarity": 5,
+      "image_index": 8710001,
+      "ml_name": [
+         "被ダメージ軽減：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーは被ダメージを軽減",
+         "敌方减轻受到的伤害"
+      ]
+   },
+   {
+      "id": 70087002,
+      "rarity": 5,
+      "image_index": 8710001,
+      "ml_name": [
+         "被ダメージ軽減：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "エネミーは被ダメージを大きく軽減",
+         "敌方大幅减轻受到的伤害"
+      ]
+   },
+   {
+      "id": 70033001,
+      "rarity": 5,
+      "image_index": 1330000,
+      "ml_name": [
+         "行動回数増加：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "ボスエネミーの行動回数[[effects_power]]増加",
+         "首领敌方的行动次数增加[[effects_power]]"
+      ]
+   },
+   {
+      "id": 70033002,
+      "rarity": 5,
+      "image_index": 1330000,
+      "ml_name": [
+         "行動回数増加：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "ボスエネミーの行動回数[[effects_power]]増加",
+         "首领敌方的行动次数增加[[effects_power]]"
+      ]
+   },
+   {
+      "id": 70001121,
+      "rarity": 5,
+      "image_index": 1110021,
+      "ml_name": [
+         "毎ターン拒絶付与",
+         ""
+      ],
+      "ml_description": [
+         "エネミーに毎ターン拒絶を付与",
+         "每回合赋予敌方拒绝"
+      ]
+   },
+   {
+      "id": 70056051,
+      "rarity": 5,
+      "image_index": 5640005,
+      "ml_name": [
+         "毎ターン雷シールド付与",
+         ""
+      ],
+      "ml_description": [
+         "エネミーに毎ターン雷シールド[[effects_power]](40%軽減)を付与",
+         "每回合赋予敌方雷护盾[[effects_power]]（减轻40%）"
+      ]
+   },
+   {
+      "id": 71016051,
+      "rarity": 5,
+      "image_index": 1160005,
+      "ml_name": [
+         "器用弱化",
+         ""
+      ],
+      "ml_description": [
+         "味方の器用[[effects_power]%]減少",
+         "己方的器用减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71016061,
+      "rarity": 5,
+      "image_index": 1160006,
+      "ml_name": [
+         "敏捷弱化",
+         ""
+      ],
+      "ml_description": [
+         "味方の敏捷[[effects_power]%]減少",
+         "己方的敏捷减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71016005,
+      "rarity": 5,
+      "image_index": 1160002,
+      "ml_name": [
+         "絶技が雷以外パラメータ弱化",
+         ""
+      ],
+      "ml_description": [
+         "絶技が雷以外のイマージュ装備時、味方のパラメータ減少",
+         "装备雷属性以外的意象绝技时，己方的参数减少"
+      ]
+   },
+   {
+      "id": 71017081,
+      "rarity": 5,
+      "image_index": 1160006,
+      "ml_name": [
+         "移動弱化：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "味方の移動[[effects_power]]減少",
+         "己方的移动减少[[effects_power]]"
+      ]
+   },
+   {
+      "id": 71017082,
+      "rarity": 5,
+      "image_index": 1160006,
+      "ml_name": [
+         "移動弱化：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "味方の移動[[effects_power]]減少",
+         "己方的移动减少[[effects_power]]"
+      ]
+   },
+   {
+      "id": 71093001,
+      "rarity": 5,
+      "image_index": 1160003,
+      "ml_name": [
+         "入魂ゲージ獲得量減少",
+         ""
+      ],
+      "ml_description": [
+         "味方の入魂ゲージ獲得量[[effects_power]%]減少",
+         "己方的入魂值获得量减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71094001,
+      "rarity": 5,
+      "image_index": 1160007,
+      "ml_name": [
+         "回復量減少：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "味方の回復量[[effects_power]%]減少",
+         "己方的回复量减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71094002,
+      "rarity": 5,
+      "image_index": 1160007,
+      "ml_name": [
+         "回復量減少：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "味方の回復量[[effects_power]%]減少",
+         "己方的回复量减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71096001,
+      "rarity": 5,
+      "image_index": 1160004,
+      "ml_name": [
+         "バトル中バフ効果減少：Ⅰ",
+         ""
+      ],
+      "ml_description": [
+         "バトル中に発生した味方のバフ効果[[effects_power]%]減少",
+         "战斗中产生的己方增益效果减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71096002,
+      "rarity": 5,
+      "image_index": 1160004,
+      "ml_name": [
+         "バトル中バフ効果減少：Ⅱ",
+         ""
+      ],
+      "ml_description": [
+         "バトル中に発生した味方のバフ効果[[effects_power]%]減少",
+         "战斗中产生的己方增益效果减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71097011,
+      "rarity": 5,
+      "image_index": 1160002,
+      "ml_name": [
+         "通常攻撃のダメージ減少",
+         ""
+      ],
+      "ml_description": [
+         "味方の通常攻撃のダメージ[[effects_power]%]減少",
+         "己方的普通攻击伤害减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71097021,
+      "rarity": 5,
+      "image_index": 1160002,
+      "ml_name": [
+         "技法のダメージ減少",
+         ""
+      ],
+      "ml_description": [
+         "味方の技法のダメージ[[effects_power]%]減少",
+         "己方的技法伤害减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71097031,
+      "rarity": 5,
+      "image_index": 1160002,
+      "ml_name": [
+         "絶技のダメージ減少",
+         ""
+      ],
+      "ml_description": [
+         "味方の絶技のダメージ[[effects_power]%]減少",
+         "己方的绝技伤害减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71097071,
+      "rarity": 5,
+      "image_index": 1160002,
+      "ml_name": [
+         "インスピレーションのダメージ減少",
+         ""
+      ],
+      "ml_description": [
+         "味方のインスピレーションのダメージ[[effects_power]%]減少",
+         "己方的灵感伤害减少[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 71900003,
+      "rarity": 5,
+      "image_index": 1160007,
+      "ml_name": [
+         "味方が3人戦闘不能時敗北",
+         ""
+      ],
+      "ml_description": [
+         "味方が3人戦闘不能時敗北",
+         "己方3人无法战斗时败北"
+      ]
+   },
+   {
+      "id": 71900015,
+      "rarity": 5,
+      "image_index": 1160007,
+      "ml_name": [
+         "5ターン経過時敗北",
+         ""
+      ],
+      "ml_description": [
+         "5ターン経過時敗北",
+         "经过5回合时败北"
+      ]
+   },
+   {
       "id": 75130002,
       "rarity": 5,
       "image_index": 1390004,
@@ -6913,6 +7446,45 @@
       "ml_description": [
          "エネミーのアイボリー(白)の防御+[[effects_power]%]",
          "白色属性敌方的防御+[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 75130029,
+      "rarity": 5,
+      "image_index": 1390002,
+      "ml_name": [
+         "青属性有利＋（50%）",
+         ""
+      ],
+      "ml_description": [
+         "味方のセルリアン（青）のカーマイン（赤）に対してのダメージ[[effects_power]%]上昇",
+         "蓝色属性己方对红色属性目标造成的伤害提升[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 74130029,
+      "rarity": 4,
+      "image_index": 1130002,
+      "ml_name": [
+         "エネミーのカーマイン(赤)の攻撃+70%",
+         ""
+      ],
+      "ml_description": [
+         "エネミーのカーマイン(赤)の攻撃+[[effects_power]%]",
+         "红色属性敌方的攻击+[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 73130029,
+      "rarity": 4,
+      "image_index": 1130004,
+      "ml_name": [
+         "エネミーのカーマイン(赤)の防御+40%",
+         ""
+      ],
+      "ml_description": [
+         "エネミーのカーマイン(赤)の防御+[[effects_power]%]",
+         "红色属性敌方的防御+[[effects_power]%]"
       ]
    },
    {
@@ -8892,6 +9464,84 @@
       ]
    },
    {
+      "id": 45190101,
+      "rarity": 5,
+      "image_index": 1300004,
+      "ml_name": [
+         "真髄：【夢幻の可能性】",
+         ""
+      ],
+      "ml_description": [
+         "雷エレメントの攻撃を[[effects_power]%]強化/防御[[effects_power_2]%]増加/技法発動時、自身の攻撃[[effects_power_3]%]増加＜[[effects_turn_3]ターン]＞（重複可）・確率で自身の<help=cool_time>クールタイム</help>[[effects_power_4]]短縮",
+         "雷元素攻击强化[[effects_power]%]/防御增加[[effects_power_2]%]/技法发动时，自身的攻击增加[[effects_power_3]%]＜[[effects_turn_3]回合]＞（可叠加）·概率缩短自身的<help=cool_time>冷却时间</help>[[effects_power_4]]"
+      ]
+   },
+   {
+      "id": 45190102,
+      "rarity": 5,
+      "image_index": 1080000,
+      "ml_name": [
+         "精粋：【夢幻の可能性】",
+         ""
+      ],
+      "ml_description": [
+         "系統：工芸に対してダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法または絶技でバフ付与時、自身に迅雷付与・味方全員の器用[[effects_power_4]%]増加＜[[effects_turn_4]ターン]＞",
+         "对系统：工艺造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/技法或绝技赋予增益时，赋予自身迅雷·己方全体的器用增加[[effects_power_4]%]＜[[effects_turn_4]回合]＞"
+      ]
+   },
+   {
+      "id": 45190103,
+      "rarity": 5,
+      "image_index": 1320000,
+      "ml_name": [
+         "精髄：【夢幻の可能性】",
+         ""
+      ],
+      "ml_description": [
+         "与えるダメージ[[effects_power]%]上昇/幸運[[effects_power_2]]増加/技法の威力で体力回復時、味方全員の精神[[effects_power_3]%]増加＜[[effects_turn_3]ターン]＞・体力[[effects_power_4]]回復",
+         "造成的伤害提升[[effects_power]%]/幸运增加[[effects_power_2]]/以技法的威力回复体力时，己方全体的精神增加[[effects_power_3]%]＜[[effects_turn_3]回合]＞·体力回复[[effects_power_4]]"
+      ]
+   },
+   {
+      "id": 45101501,
+      "rarity": 5,
+      "image_index": 1150001,
+      "ml_name": [
+         "精髄：【嫉妬のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "バトル開始時の熱情[[effects_power]]増加/物理エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の移動[[effects_power_3]]増加＜[[effects_turn_3]ターン]＞（重複可）・熱情[[effects_power_4]]増加・入魂ゲージ[[effects_power_5]]増加",
+         "战斗开始时的热情增加[[effects_power]]/物理元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的移动增加[[effects_power_3]]＜[[effects_turn_3]回合]＞（可叠加）·热情增加[[effects_power_4]]·入魂值增加[[effects_power_5]]"
+      ]
+   },
+   {
+      "id": 41109041,
+      "rarity": 5,
+      "image_index": 1080000,
+      "ml_name": [
+         "精髄：【小悪魔のくちづけ】",
+         ""
+      ],
+      "ml_description": [
+         "系統：工芸に対してダメージ[[effects_power]%]上昇/体力[[effects_power_2]%]増加/技法または絶技でオブジェクト召喚時、カーマインの味方全員の攻撃[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞",
+         "对系统：工艺造成的伤害提升[[effects_power]%]/体力增加[[effects_power_2]%]/技法或绝技召唤放置物时，红色属性的己方全体的攻击增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞"
+      ]
+   },
+   {
+      "id": 41114101,
+      "rarity": 5,
+      "image_index": 1150001,
+      "ml_name": [
+         "精髄：【虚飾のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "バトル開始時の熱情[[effects_power]]増加/雷エレメントの攻撃を[[effects_power_2]%]強化/技法または絶技で熱情消費時、自身の器用[[effects_power_3]%]増加（重複可）＜[[effects_turn_3]ターン]＞、熱情[[effects_power_4]]増加、敵全体の精神[[effects_power_5]%]減少（重複可）＜[[effects_turn_5]ターン]＞",
+         "战斗开始时的热情增加[[effects_power]]/雷元素攻击强化[[effects_power_2]%]/技法或绝技消耗热情时，自身的器用增加[[effects_power_3]%]（可叠加）＜[[effects_turn_3]回合]＞，热情增加[[effects_power_4]]，敌方全体的精神减少[[effects_power_5]%]（可叠加）＜[[effects_turn_5]回合]＞"
+      ]
+   },
+   {
       "id": 1130001,
       "rarity": 3,
       "image_index": 1130001,
@@ -9269,6 +9919,45 @@
       ]
    },
    {
+      "id": 80010914,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "至粋：【移ろう時の中で】",
+         ""
+      ],
+      "ml_description": [
+         "技法または絶技でバフ付与時、自身の攻撃・敏捷[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
+         "技法或绝技赋予增益时，自身的攻击·敏捷增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
+      ]
+   },
+   {
+      "id": 80010314,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "至粋：【純真フィオリーレ】",
+         ""
+      ],
+      "ml_description": [
+         "技法または絶技でバフ付与時、自身の攻撃・防御[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
+         "技法或绝技赋予增益时，自身的攻击·防御增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
+      ]
+   },
+   {
+      "id": 80010215,
+      "rarity": 5,
+      "image_index": 1130003,
+      "ml_name": [
+         "至粋：【いつか満ちる月】",
+         ""
+      ],
+      "ml_description": [
+         "技法または絶技でオブジェクト召喚時、自身の精神・器用[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
+         "技法或绝技召唤放置物时，自身的精神·器用增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞"
+      ]
+   },
+   {
       "id": 80010110,
       "rarity": 5,
       "image_index": 1130002,
@@ -9386,6 +10075,19 @@
       ]
    },
    {
+      "id": 80011015,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "至粋：【嫉妬のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "火傷無効/技法発動時に自身の攻撃[[effects_power_2]%]増加（重複可）＜[[effects_turn_2]ターン]＞<hidden=effects_power_3>/バトル開始時、[[Askill_name_21015001]]のクールタイムを0にする</hidden>",
+         "火伤无效/技法发动时自身攻击增加[[effects_power_2]%]（可叠加）＜[[effects_turn_2]回合]＞<hidden=effects_power_3>/战斗开始时，将[[Askill_name_21015001]]的冷却时间归零</hidden>"
+      ]
+   },
+   {
       "id": 80011112,
       "rarity": 5,
       "image_index": 1130002,
@@ -9422,6 +10124,370 @@
       "ml_description": [
          "自身が技法効果で味方の体力消費時、自身と対象の攻撃[[effects_power]%]増加（重複可）＜[[effects_turn_1]ターン]＞",
          "自身因技法效果消耗己方体力时，使自身和被消耗体力对象的攻击增加[[effects_power]%]（可叠加）＜[[effects_turn_1]回合]＞"
+      ]
+   },
+   {
+      "id": 80011410,
+      "rarity": 5,
+      "image_index": 2000002,
+      "ml_name": [
+         "至粋：【虚飾のオルタ】",
+         ""
+      ],
+      "ml_description": [
+         "位置移動攻撃発動時、自身の攻撃[[effects_power_1]%]増加（重複可）＜[[effects_turn_1]ターン]＞、自身に<help=ignite>気炎</help>付与",
+         "位置移动攻击发动时，自身攻击增加[[effects_power_1]%]（可叠加）＜[[effects_turn_1]回合]＞，赋予自身<help=ignite>气焰</help>"
+      ]
+   },
+   {
+      "id": 80011901,
+      "rarity": 5,
+      "image_index": 1150002,
+      "ml_name": [
+         "至粋：【夢幻の可能性】",
+         ""
+      ],
+      "ml_description": [
+         "技法発動時、自身の入魂ゲージ[[effects_power_1]]増加",
+         "技法发动时，自身的入魂值增加[[effects_power_1]]"
+      ]
+   },
+   {
+      "id": 81000001,
+      "rarity": 5,
+      "image_index": 1130001,
+      "ml_name": [
+         "体力アップ",
+         ""
+      ],
+      "ml_description": [
+         "体力[[effects_power]%]増加",
+         "体力增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000002,
+      "rarity": 5,
+      "image_index": 1130002,
+      "ml_name": [
+         "攻撃アップ",
+         ""
+      ],
+      "ml_description": [
+         "攻撃[[effects_power]%]増加",
+         "攻击增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000003,
+      "rarity": 5,
+      "image_index": 1130003,
+      "ml_name": [
+         "精神アップ",
+         ""
+      ],
+      "ml_description": [
+         "精神[[effects_power]%]増加",
+         "精神增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000004,
+      "rarity": 5,
+      "image_index": 1130004,
+      "ml_name": [
+         "防御アップ",
+         ""
+      ],
+      "ml_description": [
+         "防御[[effects_power]%]増加",
+         "防御增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000005,
+      "rarity": 5,
+      "image_index": 1130005,
+      "ml_name": [
+         "器用アップ",
+         ""
+      ],
+      "ml_description": [
+         "器用[[effects_power]%]増加",
+         "器用增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000006,
+      "rarity": 5,
+      "image_index": 1130006,
+      "ml_name": [
+         "敏捷アップ",
+         ""
+      ],
+      "ml_description": [
+         "敏捷[[effects_power]%]増加",
+         "敏捷增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000007,
+      "rarity": 5,
+      "image_index": 1130007,
+      "ml_name": [
+         "幸運アップ",
+         ""
+      ],
+      "ml_description": [
+         "幸運[[effects_power]]増加",
+         "幸运增加[[effects_power]]"
+      ]
+   },
+   {
+      "id": 81000009,
+      "rarity": 5,
+      "image_index": 1130009,
+      "ml_name": [
+         "命中アップ",
+         ""
+      ],
+      "ml_description": [
+         "命中[[effects_power]%]増加",
+         "命中增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000010,
+      "rarity": 5,
+      "image_index": 1130010,
+      "ml_name": [
+         "必殺アップ",
+         ""
+      ],
+      "ml_description": [
+         "必殺[[effects_power]%]増加",
+         "必杀增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000011,
+      "rarity": 5,
+      "image_index": 1130011,
+      "ml_name": [
+         "受流しアップ",
+         ""
+      ],
+      "ml_description": [
+         "受流し[[effects_power]%]増加",
+         "格挡增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 81000012,
+      "rarity": 5,
+      "image_index": 1130012,
+      "ml_name": [
+         "回避アップ",
+         ""
+      ],
+      "ml_description": [
+         "回避[[effects_power]%]増加",
+         "回避增加[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000001,
+      "rarity": 5,
+      "image_index": 1300000,
+      "ml_name": [
+         "物理強化",
+         ""
+      ],
+      "ml_description": [
+         "物理エレメントの攻撃を[[effects_power]%]強化",
+         "物理元素攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000002,
+      "rarity": 5,
+      "image_index": 1300001,
+      "ml_name": [
+         "炎強化",
+         ""
+      ],
+      "ml_description": [
+         "炎エレメントの攻撃を[[effects_power]%]強化",
+         "火元素攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000003,
+      "rarity": 5,
+      "image_index": 1300002,
+      "ml_name": [
+         "水強化",
+         ""
+      ],
+      "ml_description": [
+         "水エレメントの攻撃を[[effects_power]%]強化",
+         "水元素攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000004,
+      "rarity": 5,
+      "image_index": 1300003,
+      "ml_name": [
+         "風強化",
+         ""
+      ],
+      "ml_description": [
+         "風エレメントの攻撃を[[effects_power]%]強化",
+         "风元素攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000005,
+      "rarity": 5,
+      "image_index": 1300004,
+      "ml_name": [
+         "雷強化",
+         ""
+      ],
+      "ml_description": [
+         "雷エレメントの攻撃を[[effects_power]%]強化",
+         "雷元素攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000100,
+      "rarity": 5,
+      "image_index": 8410000,
+      "ml_name": [
+         "ダメージ増加",
+         ""
+      ],
+      "ml_description": [
+         "攻撃を[[effects_power]%]強化",
+         "攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000101,
+      "rarity": 5,
+      "image_index": 8410001,
+      "ml_name": [
+         "通常攻撃ダメージ増加",
+         ""
+      ],
+      "ml_description": [
+         "通常攻撃を[[effects_power]%]強化",
+         "普通攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000102,
+      "rarity": 5,
+      "image_index": 8410002,
+      "ml_name": [
+         "技法ダメージ増加",
+         ""
+      ],
+      "ml_description": [
+         "技法攻撃を[[effects_power]%]強化",
+         "技法攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000103,
+      "rarity": 5,
+      "image_index": 8410003,
+      "ml_name": [
+         "絶技ダメージ増加",
+         ""
+      ],
+      "ml_description": [
+         "絶技攻撃を[[effects_power]%]強化",
+         "绝技攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 82000104,
+      "rarity": 5,
+      "image_index": 8510000,
+      "ml_name": [
+         "クリティカルダメージ増加",
+         ""
+      ],
+      "ml_description": [
+         "クリティカル攻撃を[[effects_power]%]強化",
+         "暴击攻击强化[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 83000001,
+      "rarity": 5,
+      "image_index": 8710001,
+      "ml_name": [
+         "被ダメージ軽減",
+         ""
+      ],
+      "ml_description": [
+         "受けるダメージを[[effects_power]%]軽減",
+         "受到的伤害减轻[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 83000002,
+      "rarity": 5,
+      "image_index": 1420001,
+      "ml_name": [
+         "入魂ゲージ増加量アップ",
+         ""
+      ],
+      "ml_description": [
+         "入魂ゲージ増加時に補正（増加量×[[effects_power]%]分）",
+         "入魂值增加时补正（增加量×[[effects_power]%]）"
+      ]
+   },
+   {
+      "id": 83000003,
+      "rarity": 5,
+      "image_index": 1150001,
+      "ml_name": [
+         "ターン開始時熱情獲得",
+         ""
+      ],
+      "ml_description": [
+         "ターン開始時、熱情[[effects_power]]増加",
+         "回合开始时，热情增加[[effects_power]]"
+      ]
+   },
+   {
+      "id": 83000004,
+      "rarity": 5,
+      "image_index": 1390000,
+      "ml_name": [
+         "属性有利+",
+         ""
+      ],
+      "ml_description": [
+         "スタイルが有利属性時、対象属性に対してのダメージ[[effects_power]%]上昇",
+         "服装属性为有利属性时，对目标属性造成的伤害提升[[effects_power]%]"
+      ]
+   },
+   {
+      "id": 83000005,
+      "rarity": 5,
+      "image_index": 8810001,
+      "ml_name": [
+         "ダメージ上限緩和",
+         ""
+      ],
+      "ml_description": [
+         "与えられるダメージの上限を[[effects_power]]引き上げ",
+         "将可造成的伤害上限提升[[effects_power]]"
       ]
    }
 ]

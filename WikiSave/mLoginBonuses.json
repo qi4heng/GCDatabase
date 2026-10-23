@@ -1020,6 +1020,51 @@
         "duration": 0
     },
     {
+        "id": 2072,
+        "ml_name": [
+            "3rdアニバーサリーログインボーナス 第1弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 4,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 100,
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-04 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2073,
+        "ml_name": [
+            "3rdアニバーサリーログインボーナス 第2弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 4,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 100,
+        "start_time": "2026-11-04 13:00:00",
+        "end_time": "2026-11-16 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 2074,
+        "ml_name": [
+            "3rdアニバーサリーログインボーナス 第3弾",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 4,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 100,
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-28 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13101,
         "ml_name": [
             "藝術の繭と深淵の声ログインボーナス",
@@ -2250,6 +2295,21 @@
         "duration": 0
     },
     {
+        "id": 13241,
+        "ml_name": [
+            "仲間たちと彩る後夜祭ログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13301,
         "ml_name": [
             "アートバレンタインログインボーナス",
@@ -2760,6 +2820,21 @@
         "duration": 0
     },
     {
+        "id": 13335,
+        "ml_name": [
+            "輝きを刻みながらログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
         "id": 13601,
         "ml_name": [
             "ありえない出会いと最初の試練ログインボーナス",
@@ -2936,6 +3011,36 @@
         "priority": 202,
         "start_time": "2026-10-13 13:00:00",
         "end_time": "2026-10-21 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13613,
+        "ml_name": [
+            "天才を突き動かすものログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-05 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 13614,
+        "ml_name": [
+            "虚飾を乗り越える純真な想いログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 202,
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-18 12:59:59",
         "comeback_span": 0,
         "duration": 0
     },
@@ -3191,6 +3296,21 @@
         "priority": 201,
         "start_time": "2026-10-15 13:00:00",
         "end_time": "2026-10-23 12:59:59",
+        "comeback_span": 0,
+        "duration": 0
+    },
+    {
+        "id": 15018,
+        "ml_name": [
+            "忘却の彼方から、悠久の償いをログインボーナス",
+            "ダミーテキスト"
+        ],
+        "login_bonus_type": 1,
+        "count_type": 1,
+        "reset_type": 0,
+        "priority": 201,
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-24 12:59:59",
         "comeback_span": 0,
         "duration": 0
     }

@@ -2181,7 +2181,33 @@
         "start_time": "2026-10-09 13:00:00",
         "latter_half_start_time": "",
         "end_time": "2026-10-22 12:59:59",
-        "close_time": "2026-10-24 12:59:59"
+        "close_time": "2026-10-26 12:59:59"
+    },
+    {
+        "id": 3241,
+        "ml_title": [
+            "仲間たちと彩る後夜祭",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 441,
+        "top_character_id": 4010314,
+        "top_background_image": "3000310",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3241,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1188,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6023,
+        "latter_half_shop_category_id": 0,
+        "priority": 150,
+        "banner_image_index": 13241,
+        "start_time": "2026-11-06 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-11-19 12:59:59",
+        "close_time": "2026-11-21 12:59:59"
     },
     {
         "id": 3301,
@@ -3068,6 +3094,32 @@
         "close_time": "2026-10-16 12:59:59"
     },
     {
+        "id": 3335,
+        "ml_title": [
+            "輝きを刻みながら",
+            ""
+        ],
+        "event_type": 3,
+        "m_quest_id": 735,
+        "top_character_id": 4011901,
+        "top_background_image": "3004111",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3335,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3300,
+        "m_event_top_ranking_group_id": 3300,
+        "m_gacha_group_id": 1182,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 148,
+        "banner_image_index": 13335,
+        "start_time": "2026-10-23 13:30:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-11-06 12:59:59",
+        "close_time": "2026-11-08 12:59:59"
+    },
+    {
         "id": 3601,
         "ml_title": [
             "【A.S.】ありえない出会いと最初の試練",
@@ -3377,7 +3429,59 @@
         "start_time": "2026-10-13 13:00:00",
         "latter_half_start_time": "",
         "end_time": "2026-10-21 12:59:59",
-        "close_time": "2026-10-23 12:59:59"
+        "close_time": "2026-10-26 12:59:59"
+    },
+    {
+        "id": 3613,
+        "ml_title": [
+            "【A.S.】天才を突き動かすもの",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1112,
+        "top_character_id": 4011015,
+        "top_background_image": "3006400",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3613,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1186,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 149,
+        "banner_image_index": 13613,
+        "start_time": "2026-10-31 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-11-05 12:59:59",
+        "close_time": "2026-11-07 12:59:59"
+    },
+    {
+        "id": 3614,
+        "ml_title": [
+            "【A.S.】虚飾を乗り越える純真な想い",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1113,
+        "top_character_id": 4011410,
+        "top_background_image": "3000600",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3614,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1190,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 151,
+        "banner_image_index": 13614,
+        "start_time": "2026-11-13 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-11-18 12:59:59",
+        "close_time": "2026-11-20 12:59:59"
     },
     {
         "id": 5001,
@@ -3818,7 +3922,33 @@
         "banner_image_index": 15017,
         "start_time": "2026-10-15 13:00:00",
         "latter_half_start_time": "",
-        "end_time": "2026-10-23 12:59:59",
-        "close_time": "2026-10-25 12:59:59"
+        "end_time": "2026-10-26 12:59:59",
+        "close_time": "2026-10-28 12:59:59"
+    },
+    {
+        "id": 5018,
+        "ml_title": [
+            "【A.D.F.】忘却の彼方から、悠久の償いを",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 618,
+        "top_character_id": 4020094,
+        "top_background_image": "3011000",
+        "m_event_bgm_setting_id": 6,
+        "m_event_bonus_group_id": 5018,
+        "m_event_point_group_id": 5018,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3116,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6024,
+        "latter_half_shop_category_id": 0,
+        "priority": 152,
+        "banner_image_index": 15018,
+        "start_time": "2026-11-16 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-11-24 12:59:59",
+        "close_time": "2026-11-26 12:59:59"
     }
 ]

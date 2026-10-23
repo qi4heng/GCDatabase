@@ -1,0 +1,32 @@
+[
+    {
+        "id": 111,
+        "slot": 1,
+        "custom_passive_weight_group_id": 11,
+        "rank_weight1": 35,
+        "rank_weight2": 25,
+        "rank_weight3": 20,
+        "rank_weight4": 12,
+        "rank_weight5": 8
+    },
+    {
+        "id": 221,
+        "slot": 2,
+        "custom_passive_weight_group_id": 21,
+        "rank_weight1": 35,
+        "rank_weight2": 25,
+        "rank_weight3": 20,
+        "rank_weight4": 12,
+        "rank_weight5": 8
+    },
+    {
+        "id": 331,
+        "slot": 3,
+        "custom_passive_weight_group_id": 31,
+        "rank_weight1": 35,
+        "rank_weight2": 25,
+        "rank_weight3": 20,
+        "rank_weight4": 12,
+        "rank_weight5": 8
+    }
+]

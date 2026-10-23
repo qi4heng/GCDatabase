@@ -1649,6 +1649,23 @@
         ]
     },
     {
+        "id": 441,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "441",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_name": [
+            "仲間たちと彩る後夜祭",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2227,6 +2244,23 @@
         ]
     },
     {
+        "id": 735,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_name": [
+            "輝きを刻みながら",
+            ""
+        ]
+    },
+    {
         "id": 800,
         "chapter_no": 0,
         "quest_type": 4,
@@ -2669,6 +2703,23 @@
         ]
     },
     {
+        "id": 828,
+        "chapter_no": 0,
+        "quest_type": 4,
+        "order": 1,
+        "first_reward_reset_type": 3,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_name": [
+            "ダンジョンシーズン28",
+            ""
+        ]
+    },
+    {
         "id": 601,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2951,9 +3002,26 @@
         "search_reward_limit_reset_count": 0,
         "m_quest_total_evaluate_reward_group_id": 0,
         "start_time": "2026-10-15 13:00:00",
-        "end_time": "2026-10-23 12:59:59",
+        "end_time": "2026-10-26 12:59:59",
         "ml_name": [
             "吸血騎士スキッピオは眠らない",
+            ""
+        ]
+    },
+    {
+        "id": 618,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-24 12:59:59",
+        "ml_name": [
+            "忘却の彼方から、悠久の償いを",
             ""
         ]
     },
@@ -3400,6 +3468,23 @@
         ]
     },
     {
+        "id": 925,
+        "chapter_no": 0,
+        "quest_type": 5,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 925,
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_name": [
+            "リサーチクエスト：インスピレーション11月",
+            ""
+        ]
+    },
+    {
         "id": 1000,
         "chapter_no": 0,
         "quest_type": 999,
@@ -3617,6 +3702,40 @@
         "end_time": "2026-10-21 12:59:59",
         "ml_name": [
             "【A.S.】高潔と金貨",
+            ""
+        ]
+    },
+    {
+        "id": 1112,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-05 12:59:59",
+        "ml_name": [
+            "【A.S.】天才を突き動かすもの",
+            ""
+        ]
+    },
+    {
+        "id": 1113,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-18 12:59:59",
+        "ml_name": [
+            "【A.S.】虚飾を乗り越える純真な想い",
             ""
         ]
     }

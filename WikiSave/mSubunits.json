@@ -6293,11 +6293,11 @@
       "adult_no_voice": 0,
       "ml_creator": [
          "",
-         "<span lang=\"\"></span>"
+         ""
       ],
-      "creator_nation": "",
-      "created_date": "",
-      "museum": ""
+      "creator_nation": "アデネス",
+      "created_date": "不详",
+      "museum": "梦幻美术馆"
    },
    {
       "id": 4020093,
@@ -6349,7 +6349,7 @@
       "ml_roots": [
          "落涙の鼠",
          "en",
-         "泪鼠",
+         "泪鼠（典故）",
          "<span lang=\"ja\">落涙の鼠</span>"
       ],
       "ml_get_message": [
@@ -6368,6 +6368,76 @@
       "creator_nation": "日本",
       "created_date": "不明",
       "museum": ""
+   },
+   {
+      "id": 4020094,
+      "ml_name": [
+         "ヴィレンタン",
+         "en",
+         "维伦坦"
+      ],
+      "level_group_id": 5,
+      "rarity": 5,
+      "weapon_type": 2,
+      "buff_skill_id": 25094001,
+      "attack_skill_id": 15094001,
+      "ultimate_skill_id": 35094001,
+      "fusion_skill_id": 44200001,
+      "change_turn": 3,
+      "image_index": 4020094,
+      "sound_index": 4020094,
+      "ml_personality": [
+         "性格",
+         "en"
+      ],
+      "ml_birthday": [
+         "99/99",
+         "en"
+      ],
+      "ml_height": [
+         "140cm",
+         "en"
+      ],
+      "ml_size": [
+         "B66・W50・H70",
+         "en"
+      ],
+      "unit_id": 1,
+      "ml_cv_name": [
+         "小春日和",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "廃棄神殿の主である、忘れられた文化の女神の献上品。\n女神の力を宿した彼女は、その姿を模して生まれた――\nはずだった。けれど女神を忘れた世界への憎しみを抱く\n彼女の姿は女神とは遠のいていた。だからこそ、彼女は\n自分の世界を取り戻すために災害となったのだ。",
+         "en",
+         "废弃神殿之主、被遗忘的文化女神的祭品。\n寄宿女神之力的她，本是模仿女神姿态而诞生——\n本该如此。然而，怀抱着对遗忘女神之世界的憎恨，\n她的身影渐渐与女神疏远。正因如此，她为了\n夺回属于自己的世界，化作了灾害。"
+      ],
+      "ml_illustrator_name": [
+         "未記入",
+         "en"
+      ],
+      "ml_roots": [
+         "衰退した文化の神",
+         "en",
+         "衰落文化之神（原创）",
+         "<span lang=\"ja\">衰退した文化の神</span>"
+      ],
+      "ml_get_message": [
+         "あたしはこの世界のゲージュツじゃない、イマージュでもない。\nでも、そっちががそう呼ぶなら……好きにすればいーよ。",
+         "en",
+         "我既不是这个世界的艺术，也不是形象。\n不过，既然你要这么称呼，那就随你便吧。"
+      ],
+      "favorite_type": 6,
+      "virtue_types": "1",
+      "start_time": "2026-11-16 13:00:00",
+      "adult_no_voice": 0,
+      "ml_creator": [
+         "",
+         ""
+      ],
+      "creator_nation": "アデネス",
+      "created_date": "不详",
+      "museum": "梦幻美术馆"
    },
    {
       "id": 4020095,

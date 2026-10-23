@@ -2420,6 +2420,28 @@
       "source": "商店付费礼包（罗丹生诞祭2025）"
    },
    {
+      "id": 4110904,
+      "enhance_group_id": 35,
+      "disassemble_group_id": 135,
+      "rarity": 5,
+      "site_type": 3,
+      "unit_id": 9,
+      "lock_type": 2,
+      "reduce_element_type": 2,
+      "image_index": 4110904,
+      "country_type": 0,
+      "ml_name": [
+         "ロダンのスカート",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ロダン【小悪魔のくちづけ】が着用しているスカート。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包（罗丹生诞祭2026）"
+   },
+   {
       "id": 4110905,
       "enhance_group_id": 14,
       "disassemble_group_id": 114,
@@ -2572,6 +2594,28 @@
       ],
       "ml_effect_flavor": [],
       "source": "常驻商店兑换"
+   },
+   {
+      "id": 4111015,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 205,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 10,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4111015,
+      "country_type": 0,
+      "ml_name": [
+         "嫉妬の結晶三叉槍",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるラファエロの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
    },
    {
       "id": 4111101,
@@ -3080,6 +3124,28 @@
       "source": "商店付费礼包（波提切利生诞祭2026）"
    },
    {
+      "id": 4111410,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 205,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 14,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4111410,
+      "country_type": 0,
+      "ml_name": [
+         "虚飾の結晶戦棍",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるボッティチェリの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
+   },
+   {
       "id": 4111501,
       "enhance_group_id": 24,
       "disassemble_group_id": 124,
@@ -3386,6 +3452,72 @@
       ],
       "ml_effect_flavor": [],
       "source": "常驻商店兑换"
+   },
+   {
+      "id": 4111901,
+      "enhance_group_id": 15,
+      "disassemble_group_id": 115,
+      "rarity": 5,
+      "site_type": 1,
+      "unit_id": 19,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4111901,
+      "country_type": 0,
+      "ml_name": [
+         "サンソヴィーノのカチューシャ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "サンソヴィーノ【夢幻の可能性】が着用しているカチューシャ。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "限定池累抽奖励/商店付费礼包"
+   },
+   {
+      "id": 4111902,
+      "enhance_group_id": 35,
+      "disassemble_group_id": 135,
+      "rarity": 5,
+      "site_type": 3,
+      "unit_id": 19,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4111902,
+      "country_type": 0,
+      "ml_name": [
+         "サンソヴィーノのベルト",
+         ""
+      ],
+      "ml_flavor_text": [
+         "サンソヴィーノ【夢幻の可能性】が着用しているベルト。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "活动商店获取"
+   },
+   {
+      "id": 4111903,
+      "enhance_group_id": 45,
+      "disassemble_group_id": 145,
+      "rarity": 5,
+      "site_type": 4,
+      "unit_id": 19,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4111903,
+      "country_type": 0,
+      "ml_name": [
+         "サンソヴィーノのパンプス",
+         ""
+      ],
+      "ml_flavor_text": [
+         "サンソヴィーノ【夢幻の可能性】が着用しているパンプス。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "信爱Lv10任务"
    },
    {
       "id": 4115101,

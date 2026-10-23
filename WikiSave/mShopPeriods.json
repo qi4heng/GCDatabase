@@ -190,5 +190,21 @@
         "receive_days": 5,
         "period_days": 11,
         "is_stackable": 1
+    },
+    {
+        "id": 25,
+        "m_shop_product_id": 1681,
+        "mission_condition_id": 410185,
+        "receive_days": 5,
+        "period_days": 11,
+        "is_stackable": 1
+    },
+    {
+        "id": 26,
+        "m_shop_product_id": 1700,
+        "mission_condition_id": 410190,
+        "receive_days": 5,
+        "period_days": 11,
+        "is_stackable": 1
     }
 ]

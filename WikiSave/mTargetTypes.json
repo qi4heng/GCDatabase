@@ -2739,6 +2739,17 @@
         "description": "範囲内外問わず入魂ゲージが一番高い味方3体"
     },
     {
+        "id": 2701,
+        "type_bits": 2,
+        "sort_type": 2,
+        "sort_param": 2,
+        "filter_type": 1,
+        "filter_param": 1,
+        "target_num": 1,
+        "ignore_range": 1,
+        "description": "攻撃のステータスが高いカーマインの味方1体"
+    },
+    {
         "id": 9000,
         "type_bits": 256,
         "sort_type": 0,

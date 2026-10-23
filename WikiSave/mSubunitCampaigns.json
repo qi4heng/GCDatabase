@@ -420,6 +420,27 @@
         "end_time": "2026-10-23 12:59:59"
     },
     {
+        "id": 1061,
+        "campaign_type": 1,
+        "campaign_value": 11500,
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-04 12:59:59"
+    },
+    {
+        "id": 1062,
+        "campaign_type": 1,
+        "campaign_value": 11500,
+        "start_time": "2026-11-04 13:00:00",
+        "end_time": "2026-11-16 12:59:59"
+    },
+    {
+        "id": 1063,
+        "campaign_type": 1,
+        "campaign_value": 11500,
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-28 12:59:59"
+    },
+    {
         "id": 2001,
         "campaign_type": 2,
         "campaign_value": 15000,
@@ -663,5 +684,12 @@
         "campaign_value": 20000,
         "start_time": "2026-09-30 13:30:00",
         "end_time": "2026-10-23 12:59:59"
+    },
+    {
+        "id": 2036,
+        "campaign_type": 2,
+        "campaign_value": 20000,
+        "start_time": "2026-11-04 13:00:00",
+        "end_time": "2026-11-16 12:59:59"
     }
 ]

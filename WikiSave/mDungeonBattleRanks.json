@@ -1,0 +1,682 @@
+[
+    {
+        "id": 2801,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "体力強化：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの体力[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001301,
+        "m_passive_skill_id": 70013011,
+        "rank_value": 25,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2802,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "体力強化：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの体力[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001301,
+        "m_passive_skill_id": 70013012,
+        "rank_value": 45,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2803,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "体力強化：Ⅲ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの体力[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001301,
+        "m_passive_skill_id": 70013013,
+        "rank_value": 65,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2804,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "攻撃強化：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの攻撃[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001302,
+        "m_passive_skill_id": 70013021,
+        "rank_value": 30,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2805,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "攻撃強化：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの攻撃[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001302,
+        "m_passive_skill_id": 70013022,
+        "rank_value": 50,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2806,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "攻撃強化：Ⅲ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの攻撃[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001302,
+        "m_passive_skill_id": 70013023,
+        "rank_value": 70,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2807,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "器用強化：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの器用[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001305,
+        "m_passive_skill_id": 70013051,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2808,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "器用強化：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの器用[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001305,
+        "m_passive_skill_id": 70013052,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2809,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "器用強化：Ⅲ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの器用[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001305,
+        "m_passive_skill_id": 70013053,
+        "rank_value": 15,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2810,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "敏捷強化：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの敏捷[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001306,
+        "m_passive_skill_id": 70013061,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2811,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "敏捷強化：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの敏捷[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001306,
+        "m_passive_skill_id": 70013062,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2812,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "敏捷強化：Ⅲ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの敏捷[[effects_power]%]増加",
+            ""
+        ],
+        "rank_group": 7001306,
+        "m_passive_skill_id": 70013063,
+        "rank_value": 15,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2813,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "状態異常抵抗増加(7種)：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの状態異常抵抗[[effects_power]]増加",
+            ""
+        ],
+        "rank_group": 7004999,
+        "m_passive_skill_id": 70049991,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2814,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "状態異常抵抗増加(7種)：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーの状態異常抵抗[[effects_power]]増加",
+            ""
+        ],
+        "rank_group": 7004999,
+        "m_passive_skill_id": 70049992,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2815,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "セルリアン以外ダメージ軽減",
+            ""
+        ],
+        "ml_description": [
+            "エネミーはセルリアン以外からの被ダメージを[[effects_power]%]軽減",
+            ""
+        ],
+        "rank_group": 7009102,
+        "m_passive_skill_id": 70091021,
+        "rank_value": 15,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2816,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "節、正、虚相以外ダメージ軽減",
+            ""
+        ],
+        "ml_description": [
+            "エネミーは節、正、虚相以外からの被ダメージを[[effects_power]%]軽減",
+            ""
+        ],
+        "rank_group": 7008311,
+        "m_passive_skill_id": 70083111,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2817,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "雷以外ダメージ軽減：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーは雷エレメント以外からの被ダメージを[[effects_power]%]軽減",
+            ""
+        ],
+        "rank_group": 7009205,
+        "m_passive_skill_id": 70092051,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2818,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "雷以外ダメージ軽減：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーは雷エレメント以外からの被ダメージを[[effects_power]%]軽減",
+            ""
+        ],
+        "rank_group": 7009205,
+        "m_passive_skill_id": 70092052,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2819,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "被ダメージ軽減：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーは被ダメージを軽減",
+            ""
+        ],
+        "rank_group": 7008700,
+        "m_passive_skill_id": 70087001,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2820,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "被ダメージ軽減：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "エネミーは被ダメージを大きく軽減",
+            ""
+        ],
+        "rank_group": 7008700,
+        "m_passive_skill_id": 70087002,
+        "rank_value": 20,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2821,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "行動回数増加：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "ボスエネミーの行動回数[[effects_power]]増加",
+            ""
+        ],
+        "rank_group": 7003300,
+        "m_passive_skill_id": 70033001,
+        "rank_value": 20,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2822,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "行動回数増加：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "ボスエネミーの行動回数[[effects_power]]増加",
+            ""
+        ],
+        "rank_group": 7003300,
+        "m_passive_skill_id": 70033002,
+        "rank_value": 30,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2823,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "毎ターン拒絶付与",
+            ""
+        ],
+        "ml_description": [
+            "エネミーに毎ターン拒絶を付与",
+            ""
+        ],
+        "rank_group": 7000112,
+        "m_passive_skill_id": 70001121,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2824,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "毎ターン雷シールド付与",
+            ""
+        ],
+        "ml_description": [
+            "エネミーに毎ターン雷シールド[[effects_power]](40%軽減)を付与",
+            ""
+        ],
+        "rank_group": 7005605,
+        "m_passive_skill_id": 70056051,
+        "rank_value": 40,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2825,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "器用弱化",
+            ""
+        ],
+        "ml_description": [
+            "味方の器用[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7101605,
+        "m_passive_skill_id": 71016051,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2826,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "敏捷弱化",
+            ""
+        ],
+        "ml_description": [
+            "味方の敏捷[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7101606,
+        "m_passive_skill_id": 71016061,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2827,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "絶技が雷以外パラメータ弱化",
+            ""
+        ],
+        "ml_description": [
+            "絶技が雷以外のイマージュ装備時、味方のパラメータ減少",
+            ""
+        ],
+        "rank_group": 7101600,
+        "m_passive_skill_id": 71016005,
+        "rank_value": 10,
+        "condition_type": 2,
+        "condition_value": 5
+    },
+    {
+        "id": 2828,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "移動弱化：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "味方の移動[[effects_power]]減少",
+            ""
+        ],
+        "rank_group": 7101708,
+        "m_passive_skill_id": 71017081,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2829,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "移動弱化：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "味方の移動[[effects_power]]減少",
+            ""
+        ],
+        "rank_group": 7101708,
+        "m_passive_skill_id": 71017082,
+        "rank_value": 20,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2830,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "入魂ゲージ獲得量減少",
+            ""
+        ],
+        "ml_description": [
+            "味方の入魂ゲージ獲得量[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109300,
+        "m_passive_skill_id": 71093001,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2831,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "回復量減少：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "味方の回復量[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109400,
+        "m_passive_skill_id": 71094001,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2832,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "回復量減少：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "味方の回復量[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109400,
+        "m_passive_skill_id": 71094002,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2833,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "バトル中バフ効果減少：Ⅰ",
+            ""
+        ],
+        "ml_description": [
+            "バトル中に発生した味方のバフ効果[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109600,
+        "m_passive_skill_id": 71096001,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2834,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "バトル中バフ効果減少：Ⅱ",
+            ""
+        ],
+        "ml_description": [
+            "バトル中に発生した味方のバフ効果[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109600,
+        "m_passive_skill_id": 71096002,
+        "rank_value": 10,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2835,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "通常攻撃のダメージ減少",
+            ""
+        ],
+        "ml_description": [
+            "味方の通常攻撃のダメージ[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109701,
+        "m_passive_skill_id": 71097011,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2836,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "技法のダメージ減少",
+            ""
+        ],
+        "ml_description": [
+            "味方の技法のダメージ[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109702,
+        "m_passive_skill_id": 71097021,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2837,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "絶技のダメージ減少",
+            ""
+        ],
+        "ml_description": [
+            "味方の絶技のダメージ[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109703,
+        "m_passive_skill_id": 71097031,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2838,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "インスピレーションのダメージ減少",
+            ""
+        ],
+        "ml_description": [
+            "味方のインスピレーションのダメージ[[effects_power]%]減少",
+            ""
+        ],
+        "rank_group": 7109707,
+        "m_passive_skill_id": 71097071,
+        "rank_value": 5,
+        "condition_type": 0,
+        "condition_value": 0
+    },
+    {
+        "id": 2839,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "味方が3人戦闘不能時敗北",
+            ""
+        ],
+        "ml_description": [
+            "味方が3人戦闘不能時敗北",
+            ""
+        ],
+        "rank_group": 7190000,
+        "m_passive_skill_id": 0,
+        "rank_value": 5,
+        "condition_type": 1,
+        "condition_value": 16
+    },
+    {
+        "id": 2840,
+        "m_dungeon_rule_group_id": 28,
+        "ml_name": [
+            "5ターン経過時敗北",
+            ""
+        ],
+        "ml_description": [
+            "5ターン経過時敗北",
+            ""
+        ],
+        "rank_group": 7190001,
+        "m_passive_skill_id": 0,
+        "rank_value": 5,
+        "condition_type": 1,
+        "condition_value": 17
+    }
+]

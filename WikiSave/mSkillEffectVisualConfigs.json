@@ -2715,5 +2715,291 @@
         "invoke_effect_id": 28000,
         "invoke_unit_color": "",
         "view_unit_type": 0
+    },
+    {
+        "id": 210,
+        "effect_type": 89,
+        "effect_attributes": 1,
+        "ml_name": [
+            "体力ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2001,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 211,
+        "effect_type": 89,
+        "effect_attributes": 2,
+        "ml_name": [
+            "攻撃ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2002,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 212,
+        "effect_type": 89,
+        "effect_attributes": 3,
+        "ml_name": [
+            "精神ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2003,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 213,
+        "effect_type": 89,
+        "effect_attributes": 4,
+        "ml_name": [
+            "防御ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2004,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 214,
+        "effect_type": 89,
+        "effect_attributes": 5,
+        "ml_name": [
+            "器用ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2005,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 215,
+        "effect_type": 89,
+        "effect_attributes": 6,
+        "ml_name": [
+            "敏捷ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2006,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 216,
+        "effect_type": 89,
+        "effect_attributes": 7,
+        "ml_name": [
+            "幸運ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2007,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 217,
+        "effect_type": 89,
+        "effect_attributes": 8,
+        "ml_name": [
+            "移動ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2008,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 218,
+        "effect_type": 89,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2009,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 219,
+        "effect_type": 89,
+        "effect_attributes": 10,
+        "ml_name": [
+            "必殺ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2010,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 220,
+        "effect_type": 89,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2011,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 221,
+        "effect_type": 90,
+        "effect_attributes": 1,
+        "ml_name": [
+            "体力ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2001,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 222,
+        "effect_type": 90,
+        "effect_attributes": 2,
+        "ml_name": [
+            "攻撃ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2002,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 223,
+        "effect_type": 90,
+        "effect_attributes": 3,
+        "ml_name": [
+            "精神ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2003,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 224,
+        "effect_type": 90,
+        "effect_attributes": 4,
+        "ml_name": [
+            "防御ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2004,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 225,
+        "effect_type": 90,
+        "effect_attributes": 5,
+        "ml_name": [
+            "器用ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2005,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 226,
+        "effect_type": 90,
+        "effect_attributes": 6,
+        "ml_name": [
+            "敏捷ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2006,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 227,
+        "effect_type": 90,
+        "effect_attributes": 7,
+        "ml_name": [
+            "幸運ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2007,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 228,
+        "effect_type": 90,
+        "effect_attributes": 8,
+        "ml_name": [
+            "移動ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2008,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 229,
+        "effect_type": 90,
+        "effect_attributes": 9,
+        "ml_name": [
+            "命中ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2009,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 230,
+        "effect_type": 90,
+        "effect_attributes": 10,
+        "ml_name": [
+            "必殺ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2010,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
+    },
+    {
+        "id": 231,
+        "effect_type": 90,
+        "effect_attributes": 11,
+        "ml_name": [
+            "回避ダウン（解除不可）",
+            ""
+        ],
+        "image_index": 2011,
+        "invoke_effect_id": 23000,
+        "invoke_unit_color": "",
+        "view_unit_type": 1
     }
 ]

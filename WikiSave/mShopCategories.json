@@ -1988,6 +1988,34 @@
         "end_time": ""
     },
     {
+        "id": 6023,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "仲間たちと彩る後夜祭",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
+        "id": 6024,
+        "type": 1,
+        "group_type": 0,
+        "ml_name": [
+            "忘却の彼方から、悠久の償いを",
+            ""
+        ],
+        "m_shop_tab_id": 6,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 0,
+        "end_time": ""
+    },
+    {
         "id": 701,
         "type": 5,
         "group_type": 0,
@@ -5264,6 +5292,34 @@
         "end_time": ""
     },
     {
+        "id": 942,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：仲間たちと彩る後夜祭",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 21188,
+        "end_time": ""
+    },
+    {
+        "id": 943,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：忘却の彼方から、悠久の償いを",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 23116,
+        "end_time": ""
+    },
+    {
         "id": 946,
         "type": 5,
         "group_type": 0,
@@ -5289,6 +5345,62 @@
         "priority": 0,
         "size_type": 0,
         "image_index": 31023,
+        "end_time": ""
+    },
+    {
+        "id": 955,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：3rdアニバーサリー復刻ガチャ（SPしおり）",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 28095,
+        "end_time": ""
+    },
+    {
+        "id": 956,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：3rdアニバーサリー復刻ガチャ",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31106,
+        "end_time": ""
+    },
+    {
+        "id": 957,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：★5スタイル交換（3rdアニバ）",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31107,
+        "end_time": ""
+    },
+    {
+        "id": 958,
+        "type": 5,
+        "group_type": 0,
+        "ml_name": [
+            "キャラ交換所：★5イマージュ交換（3rdアニバ）",
+            ""
+        ],
+        "m_shop_tab_id": 7,
+        "priority": 0,
+        "size_type": 0,
+        "image_index": 31108,
         "end_time": ""
     },
     {

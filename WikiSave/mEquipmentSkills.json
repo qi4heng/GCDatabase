@@ -5120,6 +5120,86 @@
         "limit_break_skill_id": 45090401
     },
     {
+        "id": 751,
+        "equipment_id": 4110904,
+        "level": 1,
+        "skill_id": 44080001,
+        "skill_level": 0,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 752,
+        "equipment_id": 4110904,
+        "level": 2,
+        "skill_id": 44080001,
+        "skill_level": 0,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 753,
+        "equipment_id": 4110904,
+        "level": 3,
+        "skill_id": 44080001,
+        "skill_level": 3,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 754,
+        "equipment_id": 4110904,
+        "level": 4,
+        "skill_id": 44080001,
+        "skill_level": 3,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 755,
+        "equipment_id": 4110904,
+        "level": 5,
+        "skill_id": 44080001,
+        "skill_level": 3,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 756,
+        "equipment_id": 4110904,
+        "level": 6,
+        "skill_id": 44080001,
+        "skill_level": 3,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 757,
+        "equipment_id": 4110904,
+        "level": 7,
+        "skill_id": 44080001,
+        "skill_level": 4,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 758,
+        "equipment_id": 4110904,
+        "level": 8,
+        "skill_id": 44080001,
+        "skill_level": 4,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 759,
+        "equipment_id": 4110904,
+        "level": 9,
+        "skill_id": 44080001,
+        "skill_level": 4,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 760,
+        "equipment_id": 4110904,
+        "level": 10,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41109041
+    },
+    {
         "id": 761,
         "equipment_id": 4111001,
         "level": 1,
@@ -11678,6 +11758,46 @@
         "skill_id": 44300005,
         "skill_level": 5,
         "limit_break_skill_id": 45090401
+    },
+    {
+        "id": 1716,
+        "equipment_id": 4110904,
+        "level": 11,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 1717,
+        "equipment_id": 4110904,
+        "level": 12,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 1718,
+        "equipment_id": 4110904,
+        "level": 13,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 1719,
+        "equipment_id": 4110904,
+        "level": 14,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41109041
+    },
+    {
+        "id": 1720,
+        "equipment_id": 4110904,
+        "level": 15,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41109041
     },
     {
         "id": 1721,
@@ -20678,5 +20798,605 @@
         "skill_id": 15150001,
         "skill_level": 5,
         "limit_break_skill_id": 45111201
+    },
+    {
+        "id": 2851,
+        "equipment_id": 4111901,
+        "level": 1,
+        "skill_id": 44300005,
+        "skill_level": 0,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2852,
+        "equipment_id": 4111901,
+        "level": 2,
+        "skill_id": 44300005,
+        "skill_level": 0,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2853,
+        "equipment_id": 4111901,
+        "level": 3,
+        "skill_id": 44300005,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2854,
+        "equipment_id": 4111901,
+        "level": 4,
+        "skill_id": 44300005,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2855,
+        "equipment_id": 4111901,
+        "level": 5,
+        "skill_id": 44300005,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2856,
+        "equipment_id": 4111901,
+        "level": 6,
+        "skill_id": 44300005,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2857,
+        "equipment_id": 4111901,
+        "level": 7,
+        "skill_id": 44300005,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2858,
+        "equipment_id": 4111901,
+        "level": 8,
+        "skill_id": 44300005,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2859,
+        "equipment_id": 4111901,
+        "level": 9,
+        "skill_id": 44300005,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2860,
+        "equipment_id": 4111901,
+        "level": 10,
+        "skill_id": 44300005,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2861,
+        "equipment_id": 4111901,
+        "level": 11,
+        "skill_id": 44300005,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2862,
+        "equipment_id": 4111901,
+        "level": 12,
+        "skill_id": 44300005,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2863,
+        "equipment_id": 4111901,
+        "level": 13,
+        "skill_id": 44300005,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2864,
+        "equipment_id": 4111901,
+        "level": 14,
+        "skill_id": 44300005,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2865,
+        "equipment_id": 4111901,
+        "level": 15,
+        "skill_id": 44300005,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190101
+    },
+    {
+        "id": 2866,
+        "equipment_id": 4111902,
+        "level": 1,
+        "skill_id": 44080001,
+        "skill_level": 0,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2867,
+        "equipment_id": 4111902,
+        "level": 2,
+        "skill_id": 44080001,
+        "skill_level": 0,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2868,
+        "equipment_id": 4111902,
+        "level": 3,
+        "skill_id": 44080001,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2869,
+        "equipment_id": 4111902,
+        "level": 4,
+        "skill_id": 44080001,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2870,
+        "equipment_id": 4111902,
+        "level": 5,
+        "skill_id": 44080001,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2871,
+        "equipment_id": 4111902,
+        "level": 6,
+        "skill_id": 44080001,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2872,
+        "equipment_id": 4111902,
+        "level": 7,
+        "skill_id": 44080001,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2873,
+        "equipment_id": 4111902,
+        "level": 8,
+        "skill_id": 44080001,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2874,
+        "equipment_id": 4111902,
+        "level": 9,
+        "skill_id": 44080001,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2875,
+        "equipment_id": 4111902,
+        "level": 10,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2876,
+        "equipment_id": 4111902,
+        "level": 11,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2877,
+        "equipment_id": 4111902,
+        "level": 12,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2878,
+        "equipment_id": 4111902,
+        "level": 13,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2879,
+        "equipment_id": 4111902,
+        "level": 14,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2880,
+        "equipment_id": 4111902,
+        "level": 15,
+        "skill_id": 44080001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190102
+    },
+    {
+        "id": 2881,
+        "equipment_id": 4111903,
+        "level": 1,
+        "skill_id": 44320000,
+        "skill_level": 0,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2882,
+        "equipment_id": 4111903,
+        "level": 2,
+        "skill_id": 44320000,
+        "skill_level": 0,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2883,
+        "equipment_id": 4111903,
+        "level": 3,
+        "skill_id": 44320000,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2884,
+        "equipment_id": 4111903,
+        "level": 4,
+        "skill_id": 44320000,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2885,
+        "equipment_id": 4111903,
+        "level": 5,
+        "skill_id": 44320000,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2886,
+        "equipment_id": 4111903,
+        "level": 6,
+        "skill_id": 44320000,
+        "skill_level": 3,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2887,
+        "equipment_id": 4111903,
+        "level": 7,
+        "skill_id": 44320000,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2888,
+        "equipment_id": 4111903,
+        "level": 8,
+        "skill_id": 44320000,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2889,
+        "equipment_id": 4111903,
+        "level": 9,
+        "skill_id": 44320000,
+        "skill_level": 4,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2890,
+        "equipment_id": 4111903,
+        "level": 10,
+        "skill_id": 44320000,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2891,
+        "equipment_id": 4111903,
+        "level": 11,
+        "skill_id": 44320000,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2892,
+        "equipment_id": 4111903,
+        "level": 12,
+        "skill_id": 44320000,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2893,
+        "equipment_id": 4111903,
+        "level": 13,
+        "skill_id": 44320000,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2894,
+        "equipment_id": 4111903,
+        "level": 14,
+        "skill_id": 44320000,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2895,
+        "equipment_id": 4111903,
+        "level": 15,
+        "skill_id": 44320000,
+        "skill_level": 5,
+        "limit_break_skill_id": 45190103
+    },
+    {
+        "id": 2896,
+        "equipment_id": 4111015,
+        "level": 1,
+        "skill_id": 15150001,
+        "skill_level": 0,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2897,
+        "equipment_id": 4111015,
+        "level": 2,
+        "skill_id": 15150001,
+        "skill_level": 0,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2898,
+        "equipment_id": 4111015,
+        "level": 3,
+        "skill_id": 15150001,
+        "skill_level": 3,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2899,
+        "equipment_id": 4111015,
+        "level": 4,
+        "skill_id": 15150001,
+        "skill_level": 3,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2900,
+        "equipment_id": 4111015,
+        "level": 5,
+        "skill_id": 15150001,
+        "skill_level": 3,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2901,
+        "equipment_id": 4111015,
+        "level": 6,
+        "skill_id": 15150001,
+        "skill_level": 3,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2902,
+        "equipment_id": 4111015,
+        "level": 7,
+        "skill_id": 15150001,
+        "skill_level": 4,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2903,
+        "equipment_id": 4111015,
+        "level": 8,
+        "skill_id": 15150001,
+        "skill_level": 4,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2904,
+        "equipment_id": 4111015,
+        "level": 9,
+        "skill_id": 15150001,
+        "skill_level": 4,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2905,
+        "equipment_id": 4111015,
+        "level": 10,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2906,
+        "equipment_id": 4111015,
+        "level": 11,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2907,
+        "equipment_id": 4111015,
+        "level": 12,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2908,
+        "equipment_id": 4111015,
+        "level": 13,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2909,
+        "equipment_id": 4111015,
+        "level": 14,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2910,
+        "equipment_id": 4111015,
+        "level": 15,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 45101501
+    },
+    {
+        "id": 2911,
+        "equipment_id": 4111410,
+        "level": 1,
+        "skill_id": 15150001,
+        "skill_level": 0,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2912,
+        "equipment_id": 4111410,
+        "level": 2,
+        "skill_id": 15150001,
+        "skill_level": 0,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2913,
+        "equipment_id": 4111410,
+        "level": 3,
+        "skill_id": 15150001,
+        "skill_level": 3,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2914,
+        "equipment_id": 4111410,
+        "level": 4,
+        "skill_id": 15150001,
+        "skill_level": 3,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2915,
+        "equipment_id": 4111410,
+        "level": 5,
+        "skill_id": 15150001,
+        "skill_level": 3,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2916,
+        "equipment_id": 4111410,
+        "level": 6,
+        "skill_id": 15150001,
+        "skill_level": 3,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2917,
+        "equipment_id": 4111410,
+        "level": 7,
+        "skill_id": 15150001,
+        "skill_level": 4,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2918,
+        "equipment_id": 4111410,
+        "level": 8,
+        "skill_id": 15150001,
+        "skill_level": 4,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2919,
+        "equipment_id": 4111410,
+        "level": 9,
+        "skill_id": 15150001,
+        "skill_level": 4,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2920,
+        "equipment_id": 4111410,
+        "level": 10,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2921,
+        "equipment_id": 4111410,
+        "level": 11,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2922,
+        "equipment_id": 4111410,
+        "level": 12,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2923,
+        "equipment_id": 4111410,
+        "level": 13,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2924,
+        "equipment_id": 4111410,
+        "level": 14,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41114101
+    },
+    {
+        "id": 2925,
+        "equipment_id": 4111410,
+        "level": 15,
+        "skill_id": 15150001,
+        "skill_level": 5,
+        "limit_break_skill_id": 41114101
     }
 ]

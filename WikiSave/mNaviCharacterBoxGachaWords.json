@@ -2558,5 +2558,85 @@
             "新しいボックスです。\n存分にお引きください。",
             "en"
         ]
+    },
+    {
+        "id": 1126,
+        "type": 0,
+        "timing": 1,
+        "motion": "ease",
+        "expression": "ease",
+        "sound_asset": "stv_4010900_1660",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "event_box_gacha_group_id": 33350,
+        "layer_id": 4010914,
+        "ml_word": [
+            "あ、館長……。\n報酬は一応沢山用意したかも。\nたぶん……有用なものだと思う。",
+            "en"
+        ]
+    },
+    {
+        "id": 1127,
+        "type": 0,
+        "timing": 2,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010900_1670",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "event_box_gacha_group_id": 33350,
+        "layer_id": 4010914,
+        "ml_word": [
+            "それ、結構役立つものかも。\nでも……もっと引いてもいいかもしれない……。",
+            "en"
+        ]
+    },
+    {
+        "id": 1128,
+        "type": 0,
+        "timing": 3,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010900_1680",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "event_box_gacha_group_id": 33350,
+        "layer_id": 4010914,
+        "ml_word": [
+            "すごい……もしかしたら、当たりを引いたかも……。\n館長なら有効に使える気がする。",
+            "en"
+        ]
+    },
+    {
+        "id": 1129,
+        "type": 0,
+        "timing": 5,
+        "motion": "surprise",
+        "expression": "surprise",
+        "sound_asset": "stv_4010900_1690",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "event_box_gacha_group_id": 33350,
+        "layer_id": 4010914,
+        "ml_word": [
+            "もう空っぽになったのかな……。\n次のボックス、用意してくる。\nちょっとだけ、待ってて……？",
+            "en"
+        ]
+    },
+    {
+        "id": 1130,
+        "type": 0,
+        "timing": 6,
+        "motion": "joy",
+        "expression": "joy",
+        "sound_asset": "stv_4010900_1700",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "event_box_gacha_group_id": 33350,
+        "layer_id": 4010914,
+        "ml_word": [
+            "新しいボックスを用意したよ。\nまたいいものが引ける、かも？\nがんばって、館長。",
+            "en"
+        ]
     }
 ]

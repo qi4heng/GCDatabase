@@ -450,6 +450,16 @@
         "description": "主効果回復発動時"
     },
     {
+        "id": 3003,
+        "timing_bits": 0,
+        "condition_bits": 0,
+        "damage_bits": 13,
+        "trigger_param": 0,
+        "trigger_param2": "0|1|2",
+        "skill_types": "2",
+        "description": "技法発動時"
+    },
+    {
         "id": 4000,
         "timing_bits": 0,
         "condition_bits": 0,

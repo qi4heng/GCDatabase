@@ -550,6 +550,56 @@
         "is_visible": false
     },
     {
+        "id": 1010023,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※11/15まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-15 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1010024,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※11/28まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-28 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1015001,
         "item_type": 101,
         "value1": 120,
@@ -959,7 +1009,7 @@
         "rarity": 4,
         "image_index": 1010003,
         "ml_name": [
-            "AP回復薬（大）※10/23まで",
+            "AP回復薬（大）※10/26まで",
             "EN"
         ],
         "ml_description": [
@@ -971,7 +1021,32 @@
             "EN"
         ],
         "start_time": "2026-10-15 13:00:00",
-        "end_time": "2026-10-23 23:59:59",
+        "end_time": "2026-10-26 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1015018,
+        "item_type": 101,
+        "value1": 120,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1010003,
+        "ml_name": [
+            "AP回復薬（大）※11/24まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとAPを120回復。\nAP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-24 23:59:59",
         "is_visible": false
     },
     {
@@ -1525,6 +1600,56 @@
         "is_visible": false
     },
     {
+        "id": 1020023,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※11/15まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-15 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1020024,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※11/28まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-28 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1025001,
         "item_type": 102,
         "value1": 12,
@@ -1934,7 +2059,7 @@
         "rarity": 4,
         "image_index": 1020003,
         "ml_name": [
-            "BP回復薬（大）※10/23まで",
+            "BP回復薬（大）※10/26まで",
             "EN"
         ],
         "ml_description": [
@@ -1946,7 +2071,32 @@
             "EN"
         ],
         "start_time": "2026-10-15 13:00:00",
-        "end_time": "2026-10-23 23:59:59",
+        "end_time": "2026-10-26 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1025018,
+        "item_type": 102,
+        "value1": 12,
+        "value2": 0,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1020003,
+        "ml_name": [
+            "BP回復薬（大）※11/24まで",
+            "EN"
+        ],
+        "ml_description": [
+            "使用するとBPを12回復。\nBP上限値を超えて回復可能。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ぐいっと飲むと仕事の疲れが吹き飛ぶともっぱら評判。\n大サイズはボトル自体に上品なデザインが施されている。",
+            "EN"
+        ],
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-24 23:59:59",
         "is_visible": false
     },
     {
@@ -3375,6 +3525,81 @@
         "is_visible": false
     },
     {
+        "id": 1111901,
+        "item_type": 111,
+        "value1": 19,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1111901,
+        "ml_name": [
+            "サンソヴィーノの命鏡・小",
+            "EN"
+        ],
+        "ml_description": [
+            "サンソヴィーノのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "サンソヴィーノに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、小さな発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1111902,
+        "item_type": 111,
+        "value1": 19,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1111902,
+        "ml_name": [
+            "サンソヴィーノの命鏡・中",
+            "EN"
+        ],
+        "ml_description": [
+            "サンソヴィーノのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "サンソヴィーノに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、新鮮な発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1111903,
+        "item_type": 111,
+        "value1": 19,
+        "value2": 0,
+        "sort": 53,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1111903,
+        "ml_name": [
+            "サンソヴィーノの命鏡・大",
+            "EN"
+        ],
+        "ml_description": [
+            "サンソヴィーノのベースアップ強化に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "サンソヴィーノに眠る秘められた才能を引き出すといわれる鏡。\n鏡面に映る己の姿に、大いなる発見をするという。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1115101,
         "item_type": 111,
         "value1": 0,
@@ -4500,6 +4725,31 @@
         "is_visible": false
     },
     {
+        "id": 1120215,
+        "item_type": 112,
+        "value1": 4010215,
+        "value2": 0,
+        "sort": 59,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120215,
+        "ml_name": [
+            "【いつか満ちる月】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ゴッホの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1120301,
         "item_type": 112,
         "value1": 4010301,
@@ -4810,6 +5060,31 @@
         "image_index": 1120313,
         "ml_name": [
             "【逢瀬は星河の下で】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ドナテッロの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1120314,
+        "item_type": 112,
+        "value1": 4010314,
+        "value2": 0,
+        "sort": 65,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120314,
+        "ml_name": [
+            "【純真フィオリーレ】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -6800,6 +7075,31 @@
         "is_visible": false
     },
     {
+        "id": 1120914,
+        "item_type": 112,
+        "value1": 4010914,
+        "value2": 0,
+        "sort": 97,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1120914,
+        "ml_name": [
+            "【移ろう時の中で】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ロダンの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121001,
         "item_type": 112,
         "value1": 4011001,
@@ -7135,6 +7435,31 @@
         "image_index": 1121014,
         "ml_name": [
             "【Ride the Wave】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ラファエロの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121015,
+        "item_type": 112,
+        "value1": 4011015,
+        "value2": 0,
+        "sort": 103,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121015,
+        "ml_name": [
+            "【嫉妬のオルタ】のオーブ",
             "EN"
         ],
         "ml_description": [
@@ -8275,6 +8600,31 @@
         "is_visible": false
     },
     {
+        "id": 1121410,
+        "item_type": 112,
+        "value1": 4011410,
+        "value2": 0,
+        "sort": 124,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121410,
+        "ml_name": [
+            "【虚飾のオルタ】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "ボッティチェリの新たな才能を引き出すと言われているオーブ\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1121501,
         "item_type": 112,
         "value1": 4011501,
@@ -8818,6 +9168,31 @@
         ],
         "ml_flavor_text": [
             "ボシュの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1121901,
+        "item_type": 112,
+        "value1": 4011901,
+        "value2": 0,
+        "sort": 120,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1121901,
+        "ml_name": [
+            "【夢幻の可能性】のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "同名のスタイルの限界突破（強化）に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "サンソヴィーノの新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -10350,6 +10725,31 @@
         "is_visible": false
     },
     {
+        "id": 1140011,
+        "item_type": 112,
+        "value1": 0,
+        "value2": 0,
+        "sort": 162,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1140001,
+        "ml_name": [
+            "無名のオーブ",
+            "EN"
+        ],
+        "ml_description": [
+            "特定のオーブと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "新たな才能を引き出すと言われているオーブ。\nその性質は謎に包まれており、目映い煌めきを放っている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-30 12:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1150001,
         "item_type": 115,
         "value1": 1,
@@ -11375,6 +11775,31 @@
         "is_visible": false
     },
     {
+        "id": 1161901,
+        "item_type": 116,
+        "value1": 19,
+        "value2": 0,
+        "sort": 200,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1161901,
+        "ml_name": [
+            "【サンソヴィーノ】の藝術家の書",
+            "EN"
+        ],
+        "ml_description": [
+            "サンソヴィーノに経験値を与えることのできるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "サンソヴィーノの心を激しく揺さぶる書物。その技術やセンスを\n飛躍させる哲学や技術について豊富に記されている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1165101,
         "item_type": 116,
         "value1": 0,
@@ -11693,6 +12118,81 @@
         ],
         "ml_flavor_text": [
             "美しい水晶があしらわれた、古びたペンデュラム。\n館長が掃除中に見つけたもので、琥珀色に輝いている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1190001,
+        "item_type": 119,
+        "value1": 0,
+        "value2": 0,
+        "sort": 200,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1190001,
+        "ml_name": [
+            "発現の石刻板",
+            "EN"
+        ],
+        "ml_description": [
+            "カスタムスタイルパッシブで効果抽選を行うために必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "触れて感じるための文字が刻まれている古い石板。\n秘められた力を引き出すために用いられる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1200001,
+        "item_type": 120,
+        "value1": 0,
+        "value2": 0,
+        "sort": 200,
+        "is_visible_quest_detail": 1,
+        "rarity": 4,
+        "image_index": 1200001,
+        "ml_name": [
+            "真力の神石",
+            "EN"
+        ],
+        "ml_description": [
+            "カスタムスタイルパッシブのアイテム抽選で★4以上のランクが保証されるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "石刻板と引かれ合う玲瓏な神石。\n顕現する潜在能力を引き上げる。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1200002,
+        "item_type": 120,
+        "value1": 0,
+        "value2": 0,
+        "sort": 200,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1200002,
+        "ml_name": [
+            "真力の至晶",
+            "EN"
+        ],
+        "ml_description": [
+            "カスタムスタイルパッシブのアイテム抽選で★5ランクが保証されるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "石刻板と引かれ合う玲瓏な至晶。\n深い自我に触れ、顕現する潜在能力を大きく引き上げる。",
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
@@ -15625,6 +16125,56 @@
         "is_visible": false
     },
     {
+        "id": 1511130,
+        "item_type": 151,
+        "value1": 735,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511130,
+        "ml_name": [
+            "ストーリーキー【輝きを刻みながら】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「輝きを刻みながら」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "芸術への向き合いの物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1511131,
+        "item_type": 151,
+        "value1": 441,
+        "value2": 1,
+        "sort": 1,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1511131,
+        "ml_name": [
+            "ストーリーキー【仲間たちと彩る後夜祭】",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「仲間たちと彩る後夜祭」のストーリー解放に必要なアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "賑やかな後夜祭の物語の扉を開くための鍵。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1520001,
         "item_type": 152,
         "value1": 0,
@@ -15747,6 +16297,31 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-06-03 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1610105,
+        "item_type": 132,
+        "value1": 0,
+        "value2": 0,
+        "sort": 243,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1610103,
+        "ml_name": [
+            "ミラージュダイヤ",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップ交換所にて様々な★5専用アクセサリと交換することのできる記念硬貨。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "交換所にて別のアイテムと交換してもらえる記念品。\n青鏡の意匠がほどこされた収集癖をくすぐられる一品。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-30 12:59:59",
         "is_visible": false
     },
     {
@@ -21646,7 +22221,7 @@
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
-        "end_time": "2026-10-22 12:59:59",
+        "end_time": "2026-10-24 12:59:59",
         "is_visible": false
     },
     {
@@ -21721,7 +22296,7 @@
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
-        "end_time": "2026-10-25 12:59:59",
+        "end_time": "2026-10-28 12:59:59",
         "is_visible": false
     },
     {
@@ -21746,7 +22321,7 @@
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
-        "end_time": "2026-10-23 12:59:59",
+        "end_time": "2026-10-26 12:59:59",
         "is_visible": false
     },
     {
@@ -21797,6 +22372,181 @@
         ],
         "start_time": "2001-01-01 00:00:00",
         "end_time": "2026-10-05 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630258,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630258,
+        "ml_name": [
+            "輝きを刻みながらガチャ～ロダン～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "輝きを刻みながらピックアップガチャ～ロダン～を1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-06 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630259,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630259,
+        "ml_name": [
+            "3rdアニバーサリー復刻ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "3rdアニバーサリー復刻ガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "3rdアニバーサリー復刻ガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-28 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630260,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630142,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～ラファエロ～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～ラファエロ～を1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-05 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630261,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630261,
+        "ml_name": [
+            "仲間たちと彩る後夜祭ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "仲間たちと彩る後夜祭ピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630262,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630142,
+        "ml_name": [
+            "アテネス藝術祭ガチャ～ボッティチェリ～チケット",
+            "EN"
+        ],
+        "ml_description": [
+            "アテネス藝術祭ガチャ～ボッティチェリ～を1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-18 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630263,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 3,
+        "image_index": 1630263,
+        "ml_name": [
+            "忘却の彼方から、悠久の償いをガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "忘却の彼方から、悠久の償いをピックアップガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "該当イベントで開かれるガチャを引くことができるチケット。\n夢幻美術館の荘厳な佇まいが描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-26 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1630264,
+        "item_type": 702,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1630264,
+        "ml_name": [
+            "★5×1体確定10連ガチャチケット",
+            "EN"
+        ],
+        "ml_description": [
+            "★5×1体確定10連ガチャを1回、実行することができるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "★5×1体確定10連ガチャを引くことができるチケット。\n絵筆を持つ女神の石像が描かれている。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
         "is_visible": false
     },
     {
@@ -27571,7 +28321,7 @@
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
-        "end_time": "2026-10-25 12:59:59",
+        "end_time": "2026-10-28 12:59:59",
         "is_visible": false
     },
     {
@@ -27596,7 +28346,7 @@
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
-        "end_time": "2026-10-25 12:59:59",
+        "end_time": "2026-10-28 12:59:59",
         "is_visible": false
     },
     {
@@ -27621,7 +28371,7 @@
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
-        "end_time": "2026-10-24 12:59:59",
+        "end_time": "2026-10-26 12:59:59",
         "is_visible": false
     },
     {
@@ -27671,7 +28421,7 @@
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
-        "end_time": "2026-10-27 12:59:59",
+        "end_time": "2026-10-30 12:59:59",
         "is_visible": false
     },
     {
@@ -27696,7 +28446,157 @@
             "EN"
         ],
         "start_time": "2001-01-01 00:00:00",
-        "end_time": "2026-10-25 12:59:59",
+        "end_time": "2026-10-28 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640244,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640244,
+        "ml_name": [
+            "★5スタイルのしおり（3rdアニバ）",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5スタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-06 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640245,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640245,
+        "ml_name": [
+            "★5イマージュのしおり（3rdアニバ）",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で★5イマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "特定の商品を購入すると、おまけでもらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-06 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640246,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640246,
+        "ml_name": [
+            "3rdアニバーサリー復刻のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で2026年07月23日までにリリースされた★5キャラクター(一部除く)と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-30 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640247,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640247,
+        "ml_name": [
+            "3rdアニバーサリー復刻のしおりSP",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で2026年07月23日までにリリースされた★5キャラクター＋オルタ(一部除く)と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-30 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640248,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640248,
+        "ml_name": [
+            "仲間たちと彩る後夜祭のしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で仲間たちと彩る後夜祭ピックアップガチャのピックアップスタイルと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-21 12:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1640249,
+        "item_type": 162,
+        "value1": 0,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 1,
+        "rarity": 5,
+        "image_index": 1640249,
+        "ml_name": [
+            "忘却の彼方から、悠久の償いをのしおり",
+            "EN"
+        ],
+        "ml_description": [
+            "ショップのキャラ交換で忘却の彼方から、悠久の償いをピックアップガチャのピックアップイマージュと交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "イベントのガチャを一定回数引くともらえるしおり。\n推しのあの人と会えるのだとか。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "2026-11-28 12:59:59",
         "is_visible": false
     },
     {
@@ -31775,6 +32675,81 @@
         "is_visible": false
     },
     {
+        "id": 1650166,
+        "item_type": 801,
+        "value1": 3335,
+        "value2": 0,
+        "sort": 258,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650166,
+        "ml_name": [
+            "芸術祭の記念プレート",
+            "EN"
+        ],
+        "ml_description": [
+            "イベント「輝きを刻みながら」のボックスガチャを引けるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "オータムアートフェスティバル開催記念に作られたプレート。\n光り輝く表面は、明るい未来を象徴している。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650167,
+        "item_type": 801,
+        "value1": 3241,
+        "value2": 0,
+        "sort": 260,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650167,
+        "ml_name": [
+            "金の小鳥のガラス細工",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「仲間たちと彩る後夜祭」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "黄金色に輝く、ガラス細工で作られた愛らしい小鳥の置物。\n小さな白い花をくわえ、翼を広げた姿は部屋を華やかに彩る。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1650168,
+        "item_type": 803,
+        "value1": 5018,
+        "value2": 0,
+        "sort": 259,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1650099,
+        "ml_name": [
+            "死の結晶・青",
+            "EN"
+        ],
+        "ml_description": [
+            "獲得数に応じてイベント「【A.D.F.】忘却の彼方から、悠久の償いを」の報酬と交換できるアイテム。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "『告使』に由来するものと考えられる禍々しい結晶体。\n漏れ出るオーラに触れると背筋がゾクゾクするらしい。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
         "id": 1660003,
         "item_type": 171,
         "value1": 3106,
@@ -33139,6 +34114,31 @@
         ],
         "ml_description": [
             "レイドイベント「吸血騎士スキッピオは眠らない」に挑戦するために必要となる挑戦券。",
+            "EN"
+        ],
+        "ml_flavor_text": [
+            "大規模な戦闘に挑戦するために必要となるスクロール。",
+            "EN"
+        ],
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "is_visible": false
+    },
+    {
+        "id": 1661018,
+        "item_type": 171,
+        "value1": 5018,
+        "value2": 0,
+        "sort": 999,
+        "is_visible_quest_detail": 0,
+        "rarity": 2,
+        "image_index": 1661001,
+        "ml_name": [
+            "レイド挑戦券",
+            "EN"
+        ],
+        "ml_description": [
+            "レイドイベント「忘却の彼方から、悠久の償いを」に挑戦するために必要となる挑戦券。",
             "EN"
         ],
         "ml_flavor_text": [

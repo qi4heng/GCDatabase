@@ -368,5 +368,89 @@
             "右の箱",
             ""
         ]
+    },
+    {
+        "id": 207201,
+        "login_bonus_id": 2072,
+        "lottery_group_id": 207201,
+        "login_count": 0,
+        "campaign_text_asset": "201102",
+        "layer_id": 4011901,
+        "subunit_id": 4020092,
+        "sound_asset": "stv_4050010_1610",
+        "ml_box_name": [
+            "左の箱",
+            ""
+        ]
+    },
+    {
+        "id": 207202,
+        "login_bonus_id": 2072,
+        "lottery_group_id": 207207,
+        "login_count": 0,
+        "campaign_text_asset": "201102",
+        "layer_id": 4011901,
+        "subunit_id": 4020092,
+        "sound_asset": "stv_4050010_1610",
+        "ml_box_name": [
+            "右の箱",
+            ""
+        ]
+    },
+    {
+        "id": 207301,
+        "login_bonus_id": 2073,
+        "lottery_group_id": 207301,
+        "login_count": 0,
+        "campaign_text_asset": "201102",
+        "layer_id": 4010914,
+        "subunit_id": 4020092,
+        "sound_asset": "stv_4010900_1610",
+        "ml_box_name": [
+            "左の箱",
+            ""
+        ]
+    },
+    {
+        "id": 207302,
+        "login_bonus_id": 2073,
+        "lottery_group_id": 207307,
+        "login_count": 0,
+        "campaign_text_asset": "201102",
+        "layer_id": 4010914,
+        "subunit_id": 4020092,
+        "sound_asset": "stv_4010900_1610",
+        "ml_box_name": [
+            "右の箱",
+            ""
+        ]
+    },
+    {
+        "id": 207401,
+        "login_bonus_id": 2074,
+        "lottery_group_id": 207401,
+        "login_count": 0,
+        "campaign_text_asset": "201102",
+        "layer_id": 4010215,
+        "subunit_id": 4020092,
+        "sound_asset": "stv_4010200_1610",
+        "ml_box_name": [
+            "左の箱",
+            ""
+        ]
+    },
+    {
+        "id": 207402,
+        "login_bonus_id": 2074,
+        "lottery_group_id": 207407,
+        "login_count": 0,
+        "campaign_text_asset": "201102",
+        "layer_id": 4010215,
+        "subunit_id": 4020092,
+        "sound_asset": "stv_4010200_1610",
+        "ml_box_name": [
+            "右の箱",
+            ""
+        ]
     }
 ]

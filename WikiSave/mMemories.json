@@ -2503,5 +2503,96 @@
       "sub_effect_id1": 63130002,
       "sell_price": 10656,
       "start_time": "2026-10-15 13:00:00"
+   },
+   
+   {
+      "id": 4120169,
+      "ml_name": [
+         "共に創り上げる未来",
+         "共同创造的未来"
+      ],
+      "index": "168",
+      "rarity": 5,
+      "image_index": 4120144,
+      "main_effect_id1": 55440035,
+      "main_effect_id2": 55440034,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-10-23 13:00:00"
+   },
+   {
+      "id": 4120170,
+      "ml_name": [
+         "夢幻美術館 開館3周年記念！",
+         "梦幻美术馆 开馆3周年纪念！"
+      ],
+      "index": "169",
+      "rarity": 3,
+      "image_index": 4120146,
+      "main_effect_id1": 53130006,
+      "main_effect_id2": 53130002,
+      "sub_effect_id1": 63130001,
+      "sell_price": 1296,
+      "start_time": "2026-10-23 13:00:00"
+   },
+   {
+      "id": 4120171,
+      "ml_name": [
+         "謙虚な藝術家のささやかな誇り",
+         "谦虚艺术家的小小骄傲"
+      ],
+      "index": "170",
+      "rarity": 4,
+      "image_index": 4120173,
+      "main_effect_id1": 54130004,
+      "main_effect_id2": 54130905,
+      "sub_effect_id1": 63130004,
+      "sell_price": 3552,
+      "start_time": "2026-10-23 13:00:00"
+   },
+   {
+      "id": 4120172,
+      "ml_name": [
+         "後夜祭を楽しもう！",
+         "享受后夜祭吧！"
+      ],
+      "index": "171",
+      "rarity": 4,
+      "image_index": 4120174,
+      "main_effect_id1": 54130003,
+      "main_effect_id2": 54130306,
+      "sub_effect_id1": 63130005,
+      "sell_price": 3552,
+      "start_time": "2026-11-06 13:00:00"
+   },
+   {
+      "id": 4120173,
+      "ml_name": [
+         "最後の嵐を乗り越えて",
+         "跨越最后的暴风"
+      ],
+      "index": "172",
+      "rarity": 4,
+      "image_index": 4120175,
+      "main_effect_id1": 54130004,
+      "main_effect_id2": 54131203,
+      "sub_effect_id1": 63130006,
+      "sell_price": 3552,
+      "start_time": "2026-11-16 13:00:00"
+   },
+   {
+      "id": 4120174,
+      "ml_name": [
+         "幸せな日々が続きますように",
+         "愿幸福的日子延续下去"
+      ],
+      "index": "173",
+      "rarity": 5,
+      "image_index": 4120145,
+      "main_effect_id1": 55440031,
+      "main_effect_id2": 55440030,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-11-16 13:00:00"
    }
 ]

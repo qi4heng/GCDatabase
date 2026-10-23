@@ -26,7 +26,9 @@ mCollaboLayerSkills.json
 mCurrencies.json
 mDmmSubscriptions.json
 mDungeonBattleBlocks.json
+mDungeonBattleRanks.json
 mDungeonBlocks.json
+mDungeonChallenges.json
 mDungeonEventBlockGroups.json
 mDungeonEventBlocks.json
 mDungeonFloors.json
@@ -79,6 +81,9 @@ mInspirationLevels.json
 mInspirations.json
 mIntermissionNovels.json
 mItems.json
+mLayerCustomPassiveLotteryCosts.json
+mLayerCustomPassives.json
+mLayerCustomPassiveWeights.json
 mLayerOpenNovels.json
 mLayerPassiveSkills.json
 mLayers.json
@@ -206,6 +211,7 @@ pSideEffectLevels2_2.json
 pSideEffectLevels2_3.json
 pSideEffectLevels2_4.json
 pSideEffectLevels2_5.json
+pSideEffectLevels2_6.json
 pSideEffectLevels3.json
 pSideEffectLevelsx.json
 pslimGachaItemWeights.json

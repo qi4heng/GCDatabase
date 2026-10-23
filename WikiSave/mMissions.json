@@ -6776,6 +6776,258 @@
         ]
     },
     {
+        "id": 103163,
+        "type": 1,
+        "series_no": 2001,
+        "sub_series_no": 1,
+        "condition_id": 103163,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103127,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv2達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv2達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103164,
+        "type": 1,
+        "series_no": 2001,
+        "sub_series_no": 2,
+        "condition_id": 103163,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103128,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv3達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv3達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103165,
+        "type": 1,
+        "series_no": 2001,
+        "sub_series_no": 3,
+        "condition_id": 103163,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103129,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv4達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv4達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103166,
+        "type": 1,
+        "series_no": 2001,
+        "sub_series_no": 4,
+        "condition_id": 103163,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103130,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv5達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv5達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103167,
+        "type": 1,
+        "series_no": 2001,
+        "sub_series_no": 5,
+        "condition_id": 103163,
+        "condition_value": 6,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103131,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv6達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv6達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103168,
+        "type": 1,
+        "series_no": 2001,
+        "sub_series_no": 6,
+        "condition_id": 103163,
+        "condition_value": 7,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103132,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv7達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv7達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103169,
+        "type": 1,
+        "series_no": 2001,
+        "sub_series_no": 7,
+        "condition_id": 103163,
+        "condition_value": 8,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103133,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv8達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv8達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103170,
+        "type": 1,
+        "series_no": 2001,
+        "sub_series_no": 8,
+        "condition_id": 103163,
+        "condition_value": 9,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103134,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv9達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv9達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 103171,
+        "type": 1,
+        "series_no": 2011,
+        "sub_series_no": 1,
+        "condition_id": 103163,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 103171,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ信愛Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ信愛Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 103501,
         "type": 1,
         "series_no": 5101,
@@ -19873,6 +20125,202 @@
         ],
         "ml_description": [
             "ボシュLv200達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104361,
+        "type": 1,
+        "series_no": 2002,
+        "sub_series_no": 1,
+        "condition_id": 104361,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104281,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104362,
+        "type": 1,
+        "series_no": 2002,
+        "sub_series_no": 2,
+        "condition_id": 104361,
+        "condition_value": 20,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104282,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノLv20達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノLv20達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104363,
+        "type": 1,
+        "series_no": 2002,
+        "sub_series_no": 3,
+        "condition_id": 104361,
+        "condition_value": 30,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104283,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノLv30達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノLv30達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104364,
+        "type": 1,
+        "series_no": 2002,
+        "sub_series_no": 4,
+        "condition_id": 104361,
+        "condition_value": 40,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104284,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノLv40達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノLv40達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104365,
+        "type": 1,
+        "series_no": 2002,
+        "sub_series_no": 5,
+        "condition_id": 104361,
+        "condition_value": 50,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104285,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノLv50達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノLv50達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104366,
+        "type": 1,
+        "series_no": 2002,
+        "sub_series_no": 6,
+        "condition_id": 104361,
+        "condition_value": 60,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104286,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノLv60達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノLv60達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 104367,
+        "type": 1,
+        "series_no": 2002,
+        "sub_series_no": 7,
+        "condition_id": 104361,
+        "condition_value": 70,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 104287,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノLv70達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノLv70達成",
             "en"
         ],
         "ml_hint": [
@@ -36960,6 +37408,342 @@
         ]
     },
     {
+        "id": 108430,
+        "type": 1,
+        "series_no": 1080914,
+        "sub_series_no": 1,
+        "condition_id": 1080914,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ロダン【移ろう時の中で】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【移ろう時の中で】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108431,
+        "type": 1,
+        "series_no": 1080914,
+        "sub_series_no": 2,
+        "condition_id": 1080914,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ロダン【移ろう時の中で】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【移ろう時の中で】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108432,
+        "type": 1,
+        "series_no": 1081901,
+        "sub_series_no": 1,
+        "condition_id": 1081901,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ【夢幻の可能性】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ【夢幻の可能性】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108433,
+        "type": 1,
+        "series_no": 1081901,
+        "sub_series_no": 2,
+        "condition_id": 1081901,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノ【夢幻の可能性】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ【夢幻の可能性】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108434,
+        "type": 1,
+        "series_no": 1081015,
+        "sub_series_no": 1,
+        "condition_id": 1081015,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ラファエロ【嫉妬のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【嫉妬のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108435,
+        "type": 1,
+        "series_no": 1081015,
+        "sub_series_no": 2,
+        "condition_id": 1081015,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ラファエロ【嫉妬のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【嫉妬のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108436,
+        "type": 1,
+        "series_no": 1080314,
+        "sub_series_no": 1,
+        "condition_id": 1080314,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ドナテッロ【純真フィオリーレ】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【純真フィオリーレ】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108437,
+        "type": 1,
+        "series_no": 1080314,
+        "sub_series_no": 2,
+        "condition_id": 1080314,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ドナテッロ【純真フィオリーレ】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【純真フィオリーレ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108438,
+        "type": 1,
+        "series_no": 1080215,
+        "sub_series_no": 1,
+        "condition_id": 1080215,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ゴッホ【いつか満ちる月】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【いつか満ちる月】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108439,
+        "type": 1,
+        "series_no": 1080215,
+        "sub_series_no": 2,
+        "condition_id": 1080215,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ゴッホ【いつか満ちる月】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【いつか満ちる月】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108440,
+        "type": 1,
+        "series_no": 1081410,
+        "sub_series_no": 1,
+        "condition_id": 1081410,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ボッティチェリ【虚飾のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ボッティチェリ【虚飾のオルタ】ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 108441,
+        "type": 1,
+        "series_no": 1081410,
+        "sub_series_no": 2,
+        "condition_id": 1081410,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 108001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ボッティチェリ【虚飾のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ボッティチェリ【虚飾のオルタ】ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 109004,
         "type": 1,
         "series_no": 53,
@@ -42161,6 +42945,62 @@
         ],
         "ml_description": [
             "スキッピオ(眠れる吸血騎士)信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109277,
+        "type": 1,
+        "series_no": 40200941,
+        "sub_series_no": 1,
+        "condition_id": 109277,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109277,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ヴィレンタン信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_description": [
+            "ヴィレンタン信愛ストーリー1開放",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 109278,
+        "type": 1,
+        "series_no": 40200941,
+        "sub_series_no": 2,
+        "condition_id": 109277,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 109278,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ヴィレンタン信愛ストーリー2開放",
+            "en"
+        ],
+        "ml_description": [
+            "ヴィレンタン信愛ストーリー2開放",
             "en"
         ],
         "ml_hint": [
@@ -48377,6 +49217,34 @@
         ],
         "ml_description": [
             "スキッピオ(眠れる吸血騎士)がレベル上限に到達",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 114096,
+        "type": 1,
+        "series_no": 40200942,
+        "sub_series_no": 1,
+        "condition_id": 114096,
+        "condition_value": 80,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 114096,
+        "next_mission": 400,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ヴィレンタンがレベル上限に到達",
+            "en"
+        ],
+        "ml_description": [
+            "ヴィレンタンがレベル上限に到達",
             "en"
         ],
         "ml_hint": [
@@ -59696,6 +60564,174 @@
         ]
     },
     {
+        "id": 118122,
+        "type": 1,
+        "series_no": 118122,
+        "sub_series_no": 1,
+        "condition_id": 118158,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノのカチューシャLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノのカチューシャLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118123,
+        "type": 1,
+        "series_no": 118123,
+        "sub_series_no": 1,
+        "condition_id": 118159,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノのベルトLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノのベルトLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118124,
+        "type": 1,
+        "series_no": 118124,
+        "sub_series_no": 1,
+        "condition_id": 118160,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "サンソヴィーノのパンプスLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノのパンプスLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118125,
+        "type": 1,
+        "series_no": 118125,
+        "sub_series_no": 1,
+        "condition_id": 118161,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "嫉妬の結晶三叉槍Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "嫉妬の結晶三叉槍Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118126,
+        "type": 1,
+        "series_no": 118126,
+        "sub_series_no": 1,
+        "condition_id": 118162,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "虚飾の結晶戦棍Lv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "虚飾の結晶戦棍Lv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 118127,
+        "type": 1,
+        "series_no": 118127,
+        "sub_series_no": 1,
+        "condition_id": 118163,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-17 13:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "ロダンのスカートLv10達成",
+            "en"
+        ],
+        "ml_description": [
+            "ロダンのスカートLv10達成",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 118501,
         "type": 1,
         "series_no": 118501,
@@ -68777,6 +69813,286 @@
         ],
         "ml_description": [
             "通算ログイン5日(芸相記念ミッションパス)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410185,
+        "type": 2,
+        "series_no": 625,
+        "sub_series_no": 1,
+        "condition_id": 410185,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン1日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン1日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410186,
+        "type": 2,
+        "series_no": 625,
+        "sub_series_no": 2,
+        "condition_id": 410185,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン2日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン2日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410187,
+        "type": 2,
+        "series_no": 625,
+        "sub_series_no": 3,
+        "condition_id": 410185,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン3日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン3日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410188,
+        "type": 2,
+        "series_no": 625,
+        "sub_series_no": 4,
+        "condition_id": 410185,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン4日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン4日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410189,
+        "type": 2,
+        "series_no": 625,
+        "sub_series_no": 5,
+        "condition_id": 410185,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン5日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン5日(3rdアニバ藝晶石ミッションパス1)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410190,
+        "type": 2,
+        "series_no": 626,
+        "sub_series_no": 1,
+        "condition_id": 410190,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン1日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン1日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410191,
+        "type": 2,
+        "series_no": 626,
+        "sub_series_no": 2,
+        "condition_id": 410190,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン2日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン2日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410192,
+        "type": 2,
+        "series_no": 626,
+        "sub_series_no": 3,
+        "condition_id": 410190,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン3日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン3日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410193,
+        "type": 2,
+        "series_no": 626,
+        "sub_series_no": 4,
+        "condition_id": 410190,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン4日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン4日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 410194,
+        "type": 2,
+        "series_no": 626,
+        "sub_series_no": 5,
+        "condition_id": 410190,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 410011,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2001-01-01 00:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_title": [
+            "通算ログイン5日(3rdアニバ藝晶石ミッションパス2)",
+            "en"
+        ],
+        "ml_description": [
+            "通算ログイン5日(3rdアニバ藝晶石ミッションパス2)",
             "en"
         ],
         "ml_hint": [
@@ -117896,6 +119212,1938 @@
         ]
     },
     {
+        "id": 747001,
+        "type": 5,
+        "series_no": 7470,
+        "sub_series_no": 1,
+        "condition_id": 747001,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 559001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "DMM GAMES PLAYERでログインしよう",
+            "en"
+        ],
+        "ml_description": [
+            "DMM GAMES PLAYERでログインしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747101,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 1,
+        "condition_id": 747101,
+        "condition_value": 30,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747101,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP30消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP30消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747102,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 2,
+        "condition_id": 747101,
+        "condition_value": 90,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747102,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP90消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP90消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747103,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 3,
+        "condition_id": 747101,
+        "condition_value": 200,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747103,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP200消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP200消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747104,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 4,
+        "condition_id": 747101,
+        "condition_value": 340,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747104,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP340消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP340消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747105,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 5,
+        "condition_id": 747101,
+        "condition_value": 520,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747105,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP520消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP520消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747106,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 6,
+        "condition_id": 747101,
+        "condition_value": 750,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747106,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP750消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP750消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747107,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 7,
+        "condition_id": 747101,
+        "condition_value": 1040,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747107,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP1040消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP1040消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747108,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 8,
+        "condition_id": 747101,
+        "condition_value": 1300,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747108,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP1300消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP1300消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747109,
+        "type": 107,
+        "series_no": 7471,
+        "sub_series_no": 9,
+        "condition_id": 747101,
+        "condition_value": 2000,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747109,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "AP2000消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "AP2000消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747201,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 1,
+        "condition_id": 747201,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747201,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP3消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP3消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747202,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 2,
+        "condition_id": 747201,
+        "condition_value": 9,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747202,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP9消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP9消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747203,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 3,
+        "condition_id": 747201,
+        "condition_value": 20,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747203,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP20消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP20消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747204,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 4,
+        "condition_id": 747201,
+        "condition_value": 34,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747204,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP34消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP34消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747205,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 5,
+        "condition_id": 747201,
+        "condition_value": 52,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747205,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP52消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP52消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747206,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 6,
+        "condition_id": 747201,
+        "condition_value": 75,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747206,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP75消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP75消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747207,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 7,
+        "condition_id": 747201,
+        "condition_value": 104,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747207,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP104消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP104消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747208,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 8,
+        "condition_id": 747201,
+        "condition_value": 130,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747208,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP130消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP130消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747209,
+        "type": 107,
+        "series_no": 7472,
+        "sub_series_no": 9,
+        "condition_id": 747201,
+        "condition_value": 200,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747209,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "BP200消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "BP200消費（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747301,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 1,
+        "condition_id": 747301,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747301,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作1回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作1回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747302,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 2,
+        "condition_id": 747301,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747302,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作2回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作2回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747303,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 3,
+        "condition_id": 747301,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747303,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作4回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作4回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747304,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 4,
+        "condition_id": 747301,
+        "condition_value": 7,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747304,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作7回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作7回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747305,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 5,
+        "condition_id": 747301,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747305,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作10回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作10回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747306,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 6,
+        "condition_id": 747301,
+        "condition_value": 14,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747306,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作14回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作14回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747307,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 7,
+        "condition_id": 747301,
+        "condition_value": 19,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747307,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作19回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作19回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747308,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 8,
+        "condition_id": 747301,
+        "condition_value": 23,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747308,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作23回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作23回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747309,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 9,
+        "condition_id": 747301,
+        "condition_value": 27,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747309,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作27回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作27回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747310,
+        "type": 107,
+        "series_no": 7473,
+        "sub_series_no": 10,
+        "condition_id": 747301,
+        "condition_value": 32,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747310,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "創作32回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "創作32回完了（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747401,
+        "type": 107,
+        "series_no": 7474,
+        "sub_series_no": 1,
+        "condition_id": 747401,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747401,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "カスタムスタイルパッシブ抽選5回（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "カスタムスタイルパッシブ抽選5回（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747402,
+        "type": 107,
+        "series_no": 7474,
+        "sub_series_no": 2,
+        "condition_id": 747401,
+        "condition_value": 10,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747402,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "カスタムスタイルパッシブ抽選10回（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "カスタムスタイルパッシブ抽選10回（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747403,
+        "type": 107,
+        "series_no": 7474,
+        "sub_series_no": 3,
+        "condition_id": 747401,
+        "condition_value": 20,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747403,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "カスタムスタイルパッシブ抽選20回（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "カスタムスタイルパッシブ抽選20回（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747404,
+        "type": 107,
+        "series_no": 7474,
+        "sub_series_no": 4,
+        "condition_id": 747401,
+        "condition_value": 30,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747404,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "カスタムスタイルパッシブ抽選30回（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_description": [
+            "カスタムスタイルパッシブ抽選30回（3rdアニバミッション）",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747501,
+        "type": 107,
+        "series_no": 7475,
+        "sub_series_no": 1,
+        "condition_id": 747501,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 747501,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59",
+        "ml_title": [
+            "3rdアニバミッション全クリア",
+            "en"
+        ],
+        "ml_description": [
+            "3rdアニバミッション全クリア",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747601,
+        "type": 5,
+        "series_no": 7476,
+        "sub_series_no": 1,
+        "condition_id": 747601,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "ロダン【移ろう時の中で】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【移ろう時の中で】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747602,
+        "type": 5,
+        "series_no": 7476,
+        "sub_series_no": 2,
+        "condition_id": 747601,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "ロダン【移ろう時の中で】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【移ろう時の中で】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747603,
+        "type": 5,
+        "series_no": 7476,
+        "sub_series_no": 3,
+        "condition_id": 747601,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "ロダン【移ろう時の中で】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【移ろう時の中で】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747604,
+        "type": 5,
+        "series_no": 7476,
+        "sub_series_no": 4,
+        "condition_id": 747601,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "ロダン【移ろう時の中で】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【移ろう時の中で】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747605,
+        "type": 5,
+        "series_no": 7476,
+        "sub_series_no": 5,
+        "condition_id": 747601,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "ロダン【移ろう時の中で】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ロダン【移ろう時の中で】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747701,
+        "type": 5,
+        "series_no": 7477,
+        "sub_series_no": 1,
+        "condition_id": 747701,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747702,
+        "type": 5,
+        "series_no": 7477,
+        "sub_series_no": 2,
+        "condition_id": 747701,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747703,
+        "type": 5,
+        "series_no": 7477,
+        "sub_series_no": 3,
+        "condition_id": 747701,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747704,
+        "type": 5,
+        "series_no": 7477,
+        "sub_series_no": 4,
+        "condition_id": 747701,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747705,
+        "type": 5,
+        "series_no": 7477,
+        "sub_series_no": 5,
+        "condition_id": 747701,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-06 12:59:59",
+        "ml_title": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "サンソヴィーノ【夢幻の可能性】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747801,
+        "type": 5,
+        "series_no": 7478,
+        "sub_series_no": 1,
+        "condition_id": 747801,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-05 12:59:59",
+        "ml_title": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747802,
+        "type": 5,
+        "series_no": 7478,
+        "sub_series_no": 2,
+        "condition_id": 747801,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-05 12:59:59",
+        "ml_title": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747803,
+        "type": 5,
+        "series_no": 7478,
+        "sub_series_no": 3,
+        "condition_id": 747801,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-05 12:59:59",
+        "ml_title": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747804,
+        "type": 5,
+        "series_no": 7478,
+        "sub_series_no": 4,
+        "condition_id": 747801,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-05 12:59:59",
+        "ml_title": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747805,
+        "type": 5,
+        "series_no": 7478,
+        "sub_series_no": 5,
+        "condition_id": 747801,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-10-31 13:00:00",
+        "end_time": "2026-11-05 12:59:59",
+        "ml_title": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ラファエロ【嫉妬のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747901,
+        "type": 5,
+        "series_no": 7479,
+        "sub_series_no": 1,
+        "condition_id": 747901,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747902,
+        "type": 5,
+        "series_no": 7479,
+        "sub_series_no": 2,
+        "condition_id": 747901,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747903,
+        "type": 5,
+        "series_no": 7479,
+        "sub_series_no": 3,
+        "condition_id": 747901,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747904,
+        "type": 5,
+        "series_no": 7479,
+        "sub_series_no": 4,
+        "condition_id": 747901,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 747905,
+        "type": 5,
+        "series_no": 7479,
+        "sub_series_no": 5,
+        "condition_id": 747901,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ドナテッロ【純真フィオリーレ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748001,
+        "type": 5,
+        "series_no": 7480,
+        "sub_series_no": 1,
+        "condition_id": 748001,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ゴッホ【いつか満ちる月】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【いつか満ちる月】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748002,
+        "type": 5,
+        "series_no": 7480,
+        "sub_series_no": 2,
+        "condition_id": 748001,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ゴッホ【いつか満ちる月】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【いつか満ちる月】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748003,
+        "type": 5,
+        "series_no": 7480,
+        "sub_series_no": 3,
+        "condition_id": 748001,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ゴッホ【いつか満ちる月】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【いつか満ちる月】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748004,
+        "type": 5,
+        "series_no": 7480,
+        "sub_series_no": 4,
+        "condition_id": 748001,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ゴッホ【いつか満ちる月】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【いつか満ちる月】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748005,
+        "type": 5,
+        "series_no": 7480,
+        "sub_series_no": 5,
+        "condition_id": 748001,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-06 13:00:00",
+        "end_time": "2026-11-19 12:59:59",
+        "ml_title": [
+            "ゴッホ【いつか満ちる月】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ゴッホ【いつか満ちる月】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748101,
+        "type": 5,
+        "series_no": 7481,
+        "sub_series_no": 1,
+        "condition_id": 748101,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-18 12:59:59",
+        "ml_title": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748102,
+        "type": 5,
+        "series_no": 7481,
+        "sub_series_no": 2,
+        "condition_id": 748101,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-18 12:59:59",
+        "ml_title": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748103,
+        "type": 5,
+        "series_no": 7481,
+        "sub_series_no": 3,
+        "condition_id": 748101,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-18 12:59:59",
+        "ml_title": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748104,
+        "type": 5,
+        "series_no": 7481,
+        "sub_series_no": 4,
+        "condition_id": 748101,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-18 12:59:59",
+        "ml_title": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748105,
+        "type": 5,
+        "series_no": 7481,
+        "sub_series_no": 5,
+        "condition_id": 748101,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 118001,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-13 13:00:00",
+        "end_time": "2026-11-18 12:59:59",
+        "ml_title": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ボッティチェリ【虚飾のオルタ】を限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748201,
+        "type": 5,
+        "series_no": 7482,
+        "sub_series_no": 1,
+        "condition_id": 748201,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 748201,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-26 12:59:59",
+        "ml_title": [
+            "ヴィレンタンを限界突破+1にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ヴィレンタンを限界突破+1にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748202,
+        "type": 5,
+        "series_no": 7482,
+        "sub_series_no": 2,
+        "condition_id": 748201,
+        "condition_value": 2,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 748202,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-26 12:59:59",
+        "ml_title": [
+            "ヴィレンタンを限界突破+2にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ヴィレンタンを限界突破+2にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748203,
+        "type": 5,
+        "series_no": 7482,
+        "sub_series_no": 3,
+        "condition_id": 748201,
+        "condition_value": 3,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 748203,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-26 12:59:59",
+        "ml_title": [
+            "ヴィレンタンを限界突破+3にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ヴィレンタンを限界突破+3にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748204,
+        "type": 5,
+        "series_no": 7482,
+        "sub_series_no": 4,
+        "condition_id": 748201,
+        "condition_value": 4,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 748204,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-26 12:59:59",
+        "ml_title": [
+            "ヴィレンタンを限界突破+4にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ヴィレンタンを限界突破+4にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 748205,
+        "type": 5,
+        "series_no": 7482,
+        "sub_series_no": 5,
+        "condition_id": 748201,
+        "condition_value": 5,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 748205,
+        "next_mission": 0,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-26 12:59:59",
+        "ml_title": [
+            "ヴィレンタンを限界突破+5にしよう",
+            "en"
+        ],
+        "ml_description": [
+            "ヴィレンタンを限界突破+5にしよう",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
         "id": 800101,
         "type": 5,
         "series_no": 800101,
@@ -125113,6 +128361,286 @@
         ],
         "ml_description": [
             "ダンジョンシーズン27フロア10を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800359,
+        "type": 5,
+        "series_no": 800359,
+        "sub_series_no": 1,
+        "condition_id": 800359,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800149,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア1を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア1を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800360,
+        "type": 5,
+        "series_no": 800360,
+        "sub_series_no": 2,
+        "condition_id": 800360,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800150,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア2を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア2を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800361,
+        "type": 5,
+        "series_no": 800361,
+        "sub_series_no": 3,
+        "condition_id": 800361,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800151,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア3を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア3を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800362,
+        "type": 5,
+        "series_no": 800362,
+        "sub_series_no": 4,
+        "condition_id": 800362,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800152,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア4を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア4を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800363,
+        "type": 5,
+        "series_no": 800363,
+        "sub_series_no": 5,
+        "condition_id": 800363,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800153,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア5を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア5を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800364,
+        "type": 5,
+        "series_no": 800364,
+        "sub_series_no": 6,
+        "condition_id": 800364,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800154,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア6を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア6を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800365,
+        "type": 5,
+        "series_no": 800365,
+        "sub_series_no": 7,
+        "condition_id": 800365,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800155,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア7を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア7を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800366,
+        "type": 5,
+        "series_no": 800366,
+        "sub_series_no": 8,
+        "condition_id": 800366,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800156,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア8を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア8を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800367,
+        "type": 5,
+        "series_no": 800367,
+        "sub_series_no": 9,
+        "condition_id": 800367,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800157,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア9を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア9を攻略",
+            "en"
+        ],
+        "ml_hint": [
+            ""
+        ]
+    },
+    {
+        "id": 800368,
+        "type": 5,
+        "series_no": 800368,
+        "sub_series_no": 10,
+        "condition_id": 800368,
+        "condition_value": 1,
+        "open_condition_id": 0,
+        "mission_reward_group_id": 800158,
+        "next_mission": 50,
+        "image_index": 0,
+        "country_type": 0,
+        "reset_interval": "",
+        "mission_reward_accept_limit_time": "9999-12-31 23:59:59",
+        "start_time": "2026-11-01 04:00:00",
+        "end_time": "2026-12-01 03:59:59",
+        "ml_title": [
+            "ダンジョンシーズン28フロア10を攻略",
+            "en"
+        ],
+        "ml_description": [
+            "ダンジョンシーズン28フロア10を攻略",
             "en"
         ],
         "ml_hint": [

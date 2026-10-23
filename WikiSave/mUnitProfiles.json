@@ -2697,7 +2697,7 @@
          "烦恼"
       ],
       "ml_content": [
-         "作風のせいで\n人として誤解される",
+         "作風のせいで人として誤解される",
          "因为作风常常遭人误解"
       ]
    },
@@ -2711,7 +2711,7 @@
          "不擅长的事"
       ],
       "ml_content": [
-         "掃除洗濯などの\n家事全般",
+         "掃除洗濯などの家事全般",
          "打扫、洗衣等全部家务"
       ]
    },
@@ -2769,6 +2769,160 @@
       "ml_content": [
          "館長の裸を描かせて欲しい",
          "想画馆长的裸体"
+      ]
+   },
+   {
+      "id": 199,
+      "unit_id": 19,
+      "release_level": 2,
+      "position": 1,
+      "ml_title": [
+         "好きなもの",
+         "喜欢的东西"
+      ],
+      "ml_content": [
+         "魚介のフリット",
+         "海鲜炸物"
+      ]
+   },
+   {
+      "id": 200,
+      "unit_id": 19,
+      "release_level": 2,
+      "position": 2,
+      "ml_title": [
+         "嫌いなもの",
+         "讨厌的东西"
+      ],
+      "ml_content": [
+         "きゅうり",
+         "黄瓜"
+      ]
+   },
+   {
+      "id": 201,
+      "unit_id": 19,
+      "release_level": 2,
+      "position": 3,
+      "ml_title": [
+         "特技",
+         "特长"
+      ],
+      "ml_content": [
+         "美術品の修復",
+         "美术品修复"
+      ]
+   },
+   {
+      "id": 202,
+      "unit_id": 19,
+      "release_level": 3,
+      "position": 4,
+      "ml_title": [
+         "趣味",
+         "爱好"
+      ],
+      "ml_content": [
+         "掃除、料理",
+         "打扫、做饭"
+      ]
+   },
+   {
+      "id": 203,
+      "unit_id": 19,
+      "release_level": 4,
+      "position": 5,
+      "ml_title": [
+         "館長への第一印象",
+         "对馆长的第一印象"
+      ],
+      "ml_content": [
+         "優しくて頼れそうな人",
+         "温柔可靠的人"
+      ]
+   },
+   {
+      "id": 204,
+      "unit_id": 19,
+      "release_level": 5,
+      "position": 6,
+      "ml_title": [
+         "悩み",
+         "烦恼"
+      ],
+      "ml_content": [
+         "胸が成長しないこと",
+         "胸部没有发育"
+      ]
+   },
+   {
+      "id": 205,
+      "unit_id": 19,
+      "release_level": 6,
+      "position": 7,
+      "ml_title": [
+         "苦手なこと",
+         "不擅长的事"
+      ],
+      "ml_content": [
+         "人や物を傷付けること",
+         "伤害他人或物品"
+      ]
+   },
+   {
+      "id": 206,
+      "unit_id": 19,
+      "release_level": 7,
+      "position": 8,
+      "ml_title": [
+         "癖になっていること",
+         "癖好"
+      ],
+      "ml_content": [
+         "身を乗り出す",
+         "探出身子"
+      ]
+   },
+   {
+      "id": 207,
+      "unit_id": 19,
+      "release_level": 8,
+      "position": 9,
+      "ml_title": [
+         "アンジェラ",
+         "安洁拉"
+      ],
+      "ml_content": [
+         "素直に甘えられる姉",
+         "能坦率撒娇的姐姐"
+      ]
+   },
+   {
+      "id": 208,
+      "unit_id": 19,
+      "release_level": 9,
+      "position": 10,
+      "ml_title": [
+         "意外な一面",
+         "意外的一面"
+      ],
+      "ml_content": [
+         "美術館の風紀に厳しい",
+         "对美术馆的风纪要求严格"
+      ]
+   },
+   {
+      "id": 209,
+      "unit_id": 19,
+      "release_level": 10,
+      "position": 11,
+      "ml_title": [
+         "こっそり抱く夢",
+         "悄悄怀抱着的梦想"
+      ],
+      "ml_content": [
+         "学芸員と藝術家の両立",
+         "兼顾学艺员与艺术家"
       ]
    },
    {

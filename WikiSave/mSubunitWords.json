@@ -24752,6 +24752,278 @@
         "subunit_id": 4020093
     },
     {
+        "id": 1489,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020094_1400",
+        "ml_word": [
+            "あたしをこんな場所に立たせるなんてね。\nいい度胸してるじゃない、カンチョーサン。\n……でも、悪くない、かもしれないわ……。",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1490,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020094_1410",
+        "ml_word": [
+            "あたしがこのビジュツカンにこうして居るのは、\nやっぱり変なカンジだわ。あんなにずっと、\nここを見上げて過ごしてたのにね……。",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1491,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020094_1420",
+        "ml_word": [
+            "あたしは、自分のしたことからは逃げない。\n逃げたらいけないの。\nだから償うのよ。\nそのためだけに、この力を使うわ。",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1492,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020094_1430",
+        "ml_word": [
+            "ビジュツカンは不思議。\n賑やかなのに静か……。\n来る人はみんな、ゲージュツヒンを楽しんでるわ……。\n……ここなら、寂しくないかもしれない。",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1493,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020094_1440",
+        "ml_word": [
+            "あたしはもう独りじゃない。\n独りじゃない、けど……\nそれでも少し寂しいから、また抱き締めて、くれる？",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1494,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "loop",
+        "sound_asset": "stv_4020094_1450",
+        "ml_word": [
+            "クレプスキュルはどこにいるのかしら。\n……まぁ、あの子はあたしと違って友達が多そうだし。\n暇することもないのかもね。フンだ……。",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1495,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020094_1460",
+        "ml_word": [
+            "オショウガツ……ってなんなのよ。\nコヨミって、まだ慣れないわ。\nとにかくお祝いをするの？\nフーン……。",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1496,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020094_1470",
+        "ml_word": [
+            "これ？\nクレプスキュルからもらったの。\nチョコレートとかいう……まだ食べてないわ。\n食べたことないし……でも、いい匂いがする……。",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1497,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020094_1480",
+        "ml_word": [
+            "今日は怖いものの姿になる日だって聞いたから、\nあたしが蘇らせたシノゲージュツを並べてみたわ。\nそしたら怖いから片付けてくださいだって。\nなによ。",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1498,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020094_1490",
+        "ml_word": [
+            "ねえ、ラッピング……？　ってどうやるの。\nクレプスキュルがプレゼントを\n欲しがってるみたいだから……\nなにかあげてもいいかもと思って……。",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1499,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020094_1500",
+        "ml_word": [
+            "みんな慌ただしいけど、なんなの？\n１年が終わるからその準備？\nフーン……変なことしてるのね。",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1500,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020094_1510",
+        "ml_word": [
+            "タンジョウビ、って生まれた日のことね？\nそれを祝うのね。で、なにをすればいいの？\nなにか作ろうかしら。\nシノゲージュツとかで。",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1501,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020094_1520",
+        "ml_word": [
+            "ルナーリヤはその……元気？\nあの子も変な子ね。あたしと似てるんですって。\n……ゲージュツヒンとして、\nなにか重なるところでもあるのかしら。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1502,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020094_1530",
+        "ml_word": [
+            "あなたたちが原始藝術って呼んでる子たち。\nあたしの神殿で、毎日楽しそうにしてる。\n賑やかよ。すごくね。\n……懐かしい。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1503,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020094_1540",
+        "ml_word": [
+            "クレプスキュルは、あたしがもう怖くないんですって。\n変な子。あんなに怯えてたくせに。\n……本当に、変な子。バカね……。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
+        "id": 1504,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020094_1550",
+        "ml_word": [
+            "……あたしの世界は、ないの。わかってる。\nもう取り戻そうなんて思わない。安心なさい。\nあなたたちを全員見送るまで、ここにいるわ……。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020094
+    },
+    {
         "id": 1505,
         "scene_type": 0,
         "trigger": 5,

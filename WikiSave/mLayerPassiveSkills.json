@@ -175,6 +175,20 @@
         "category": 0
     },
     {
+        "id": 401021501,
+        "layer_id": 4010215,
+        "order": 1,
+        "skill_id": 80010215,
+        "category": 1
+    },
+    {
+        "id": 401021502,
+        "layer_id": 4010215,
+        "order": 2,
+        "skill_id": 80000002,
+        "category": 0
+    },
+    {
         "id": 401030301,
         "layer_id": 4010303,
         "order": 1,
@@ -255,6 +269,20 @@
         "id": 401031301,
         "layer_id": 4010313,
         "order": 1,
+        "skill_id": 80000006,
+        "category": 0
+    },
+    {
+        "id": 401031401,
+        "layer_id": 4010314,
+        "order": 1,
+        "skill_id": 80010314,
+        "category": 1
+    },
+    {
+        "id": 401031402,
+        "layer_id": 4010314,
+        "order": 2,
         "skill_id": 80000006,
         "category": 0
     },
@@ -763,6 +791,20 @@
         "category": 0
     },
     {
+        "id": 401091401,
+        "layer_id": 4010914,
+        "order": 1,
+        "skill_id": 80010914,
+        "category": 1
+    },
+    {
+        "id": 401091402,
+        "layer_id": 4010914,
+        "order": 2,
+        "skill_id": 80000003,
+        "category": 0
+    },
+    {
         "id": 401100301,
         "layer_id": 4011003,
         "order": 1,
@@ -844,6 +886,20 @@
         "layer_id": 4011014,
         "order": 1,
         "skill_id": 80000005,
+        "category": 0
+    },
+    {
+        "id": 401101501,
+        "layer_id": 4011015,
+        "order": 1,
+        "skill_id": 80011015,
+        "category": 1
+    },
+    {
+        "id": 401101502,
+        "layer_id": 4011015,
+        "order": 2,
+        "skill_id": 80000002,
         "category": 0
     },
     {
@@ -1127,6 +1183,20 @@
         "category": 0
     },
     {
+        "id": 401141001,
+        "layer_id": 4011410,
+        "order": 1,
+        "skill_id": 80011410,
+        "category": 1
+    },
+    {
+        "id": 401141002,
+        "layer_id": 4011410,
+        "order": 2,
+        "skill_id": 80000002,
+        "category": 0
+    },
+    {
         "id": 401150301,
         "layer_id": 4011503,
         "order": 1,
@@ -1222,6 +1292,20 @@
         "layer_id": 4011803,
         "order": 1,
         "skill_id": 80000004,
+        "category": 0
+    },
+    {
+        "id": 401190101,
+        "layer_id": 4011901,
+        "order": 1,
+        "skill_id": 80011901,
+        "category": 1
+    },
+    {
+        "id": 401190102,
+        "layer_id": 4011901,
+        "order": 2,
+        "skill_id": 80000002,
         "category": 0
     },
     {

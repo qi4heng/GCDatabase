@@ -446,5 +446,26 @@
         "campaign_value": 135,
         "start_time": "2026-09-30 13:30:00",
         "end_time": "2026-10-23 12:59:59"
+    },
+    {
+        "id": 1065,
+        "campaign_type": 1,
+        "campaign_value": 135,
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-04 12:59:59"
+    },
+    {
+        "id": 1066,
+        "campaign_type": 1,
+        "campaign_value": 135,
+        "start_time": "2026-11-04 13:00:00",
+        "end_time": "2026-11-16 12:59:59"
+    },
+    {
+        "id": 1067,
+        "campaign_type": 1,
+        "campaign_value": 135,
+        "start_time": "2026-11-16 13:00:00",
+        "end_time": "2026-11-28 12:59:59"
     }
 ]

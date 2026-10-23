@@ -214,5 +214,23 @@
         "tab_asset": "ebs31053",
         "start_time": "2026-05-21 13:00:00",
         "end_time": "2026-06-01 12:59:59"
+    },
+    {
+        "id": 15,
+        "type": 107,
+        "chapter_no": 0,
+        "sort_priority": 100,
+        "group_id": 1000,
+        "priority": 1000,
+        "banner_flag": 1,
+        "banner_priority": 1000,
+        "progress_mission_id": 747501,
+        "ml_type_name": [
+            "3rdアニバ",
+            "en"
+        ],
+        "tab_asset": "ebs31105",
+        "start_time": "2026-10-23 13:30:00",
+        "end_time": "2026-11-28 12:59:59"
     }
 ]

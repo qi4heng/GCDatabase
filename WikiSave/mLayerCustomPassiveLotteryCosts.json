@@ -1,0 +1,41 @@
+[
+    {
+        "id": 11,
+        "lottery_type": 1,
+        "main_count": 2,
+        "main_rarity": 5,
+        "sub_count": 2,
+        "sub_rarity": 5,
+        "crystal_count": 1,
+        "crystal_rarity": 5,
+        "lottery_item_count": 1,
+        "guarantee_item1_count": 0,
+        "guarantee_item2_count": 0
+    },
+    {
+        "id": 21,
+        "lottery_type": 2,
+        "main_count": 6,
+        "main_rarity": 5,
+        "sub_count": 4,
+        "sub_rarity": 5,
+        "crystal_count": 4,
+        "crystal_rarity": 5,
+        "lottery_item_count": 1,
+        "guarantee_item1_count": 0,
+        "guarantee_item2_count": 0
+    },
+    {
+        "id": 31,
+        "lottery_type": 3,
+        "main_count": 6,
+        "main_rarity": 5,
+        "sub_count": 4,
+        "sub_rarity": 5,
+        "crystal_count": 4,
+        "crystal_rarity": 5,
+        "lottery_item_count": 1,
+        "guarantee_item1_count": 1,
+        "guarantee_item2_count": 1
+    }
+]
