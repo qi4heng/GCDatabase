@@ -276,9 +276,27 @@
         "value2": 4
     },
     {
+        "id": 41013,
+        "unlock_type": 1,
+        "value1": 4011606,
+        "value2": 2
+    },
+    {
+        "id": 41014,
+        "unlock_type": 1,
+        "value1": 4011606,
+        "value2": 4
+    },
+    {
         "id": 42001,
         "unlock_type": 2,
         "value1": 4020090,
+        "value2": 3
+    },
+    {
+        "id": 42002,
+        "unlock_type": 2,
+        "value1": 4020097,
         "value2": 3
     },
     {
@@ -423,6 +441,18 @@
         "id": 61010,
         "unlock_type": 1,
         "value1": 4010614,
+        "value2": 4
+    },
+    {
+        "id": 61011,
+        "unlock_type": 1,
+        "value1": 4011511,
+        "value2": 2
+    },
+    {
+        "id": 61012,
+        "unlock_type": 1,
+        "value1": 4011511,
         "value2": 4
     },
     {

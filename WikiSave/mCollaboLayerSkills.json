@@ -232,5 +232,41 @@
         "layer_id": 4011901,
         "love_point_level": 8,
         "skill_id": 21901005
+    },
+    {
+        "id": 40,
+        "layer_id": 4016301,
+        "love_point_level": 1,
+        "skill_id": 27301003
+    },
+    {
+        "id": 41,
+        "layer_id": 4016301,
+        "love_point_level": 3,
+        "skill_id": 27301004
+    },
+    {
+        "id": 42,
+        "layer_id": 4016301,
+        "love_point_level": 8,
+        "skill_id": 27301005
+    },
+    {
+        "id": 43,
+        "layer_id": 4016401,
+        "love_point_level": 1,
+        "skill_id": 27401003
+    },
+    {
+        "id": 44,
+        "layer_id": 4016401,
+        "love_point_level": 3,
+        "skill_id": 27401004
+    },
+    {
+        "id": 45,
+        "layer_id": 4016401,
+        "love_point_level": 8,
+        "skill_id": 27401005
     }
 ]

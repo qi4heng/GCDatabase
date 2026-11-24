@@ -5784,5 +5784,148 @@
             ""
         ],
         "image_count": 1
+    },
+    {
+        "id": 33361,
+        "event_id": 3336,
+        "latter_half_event_id": 0,
+        "type": 1,
+        "ml_title": [
+            "イベントの遊び方",
+            ""
+        ],
+        "image_count": 3
+    },
+    {
+        "id": 33362,
+        "event_id": 3336,
+        "latter_half_event_id": 0,
+        "type": 2,
+        "ml_title": [
+            "ボーナススタイル",
+            ""
+        ],
+        "image_count": 2
+    },
+    {
+        "id": 33363,
+        "event_id": 3336,
+        "latter_half_event_id": 0,
+        "type": 3,
+        "ml_title": [
+            "イベント注意事項",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 33364,
+        "event_id": 3336,
+        "latter_half_event_id": 0,
+        "type": 4,
+        "ml_title": [
+            "ボーナスメモリー",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 32421,
+        "event_id": 3242,
+        "latter_half_event_id": 3242,
+        "type": 1,
+        "ml_title": [
+            "イベントの遊び方",
+            ""
+        ],
+        "image_count": 3
+    },
+    {
+        "id": 32422,
+        "event_id": 3242,
+        "latter_half_event_id": 3242,
+        "type": 2,
+        "ml_title": [
+            "ボーナススタイル",
+            ""
+        ],
+        "image_count": 2
+    },
+    {
+        "id": 32423,
+        "event_id": 3242,
+        "latter_half_event_id": 3242,
+        "type": 3,
+        "ml_title": [
+            "イベント注意事項",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 32424,
+        "event_id": 3242,
+        "latter_half_event_id": 3242,
+        "type": 4,
+        "ml_title": [
+            "ボーナスメモリー",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 50191,
+        "event_id": 5019,
+        "latter_half_event_id": 0,
+        "type": 1,
+        "ml_title": [
+            "イベントの遊び方",
+            ""
+        ],
+        "image_count": 2
+    },
+    {
+        "id": 50192,
+        "event_id": 5019,
+        "latter_half_event_id": 0,
+        "type": 2,
+        "ml_title": [
+            "ボーナスイマージュ",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 50193,
+        "event_id": 5019,
+        "latter_half_event_id": 0,
+        "type": 3,
+        "ml_title": [
+            "イベント注意事項",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 50194,
+        "event_id": 5019,
+        "latter_half_event_id": 0,
+        "type": 4,
+        "ml_title": [
+            "ボーナスメモリー",
+            ""
+        ],
+        "image_count": 1
+    },
+    {
+        "id": 50195,
+        "event_id": 5019,
+        "latter_half_event_id": 0,
+        "type": 5,
+        "ml_title": [
+            "アテネスの防衛に成功",
+            ""
+        ],
+        "image_count": 1
     }
 ]

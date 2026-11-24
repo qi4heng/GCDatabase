@@ -4772,5 +4772,313 @@
          "文明ギルドに親友が処刑されたこと",
          "好友被文明公会处刑"
       ]
+   },
+   {
+      "id": 683,
+      "unit_id": 63,
+      "release_level": 2,
+      "position": 1,
+      "ml_title": [
+         "好きなもの",
+         "喜欢的东西"
+      ],
+      "ml_content": [
+         "観葉植物",
+         "观叶植物"
+      ]
+   },
+   {
+      "id": 684,
+      "unit_id": 63,
+      "release_level": 2,
+      "position": 2,
+      "ml_title": [
+         "嫌いなもの",
+         "讨厌的东西"
+      ],
+      "ml_content": [
+         "欲にまみれた大人",
+         "满脑子欲望的大人"
+      ]
+   },
+   {
+      "id": 685,
+      "unit_id": 63,
+      "release_level": 2,
+      "position": 3,
+      "ml_title": [
+         "特技",
+         "特长"
+      ],
+      "ml_content": [
+         "特になし",
+         "无"
+      ]
+   },
+   {
+      "id": 686,
+      "unit_id": 63,
+      "release_level": 3,
+      "position": 4,
+      "ml_title": [
+         "趣味",
+         "爱好"
+      ],
+      "ml_content": [
+         "英雄譚を読むこと",
+         "阅读英雄传"
+      ]
+   },
+   {
+      "id": 687,
+      "unit_id": 63,
+      "release_level": 4,
+      "position": 5,
+      "ml_title": [
+         "夢",
+         "梦想"
+      ],
+      "ml_content": [
+         "イリスクラウドの霧を晴らすこと",
+         "驱散伊利斯云的雾"
+      ]
+   },
+   {
+      "id": 688,
+      "unit_id": 63,
+      "release_level": 5,
+      "position": 6,
+      "ml_title": [
+         "悩み",
+         "烦恼"
+      ],
+      "ml_content": [
+         "ノリと勢いに任せてしまうことがあるところ",
+         "有时会凭着一股劲头行事"
+      ]
+   },
+   {
+      "id": 689,
+      "unit_id": 63,
+      "release_level": 6,
+      "position": 7,
+      "ml_title": [
+         "好きな食べ物",
+         "喜欢的食物"
+      ],
+      "ml_content": [
+         "キャロットケーキ",
+         "胡萝卜蛋糕"
+      ]
+   },
+   {
+      "id": 690,
+      "unit_id": 63,
+      "release_level": 7,
+      "position": 8,
+      "ml_title": [
+         "癖になっていること",
+         "癖好"
+      ],
+      "ml_content": [
+         "街中で聞き耳を立ててしまうこと",
+         "在街上竖起耳朵偷听"
+      ]
+   },
+   {
+      "id": 691,
+      "unit_id": 63,
+      "release_level": 8,
+      "position": 9,
+      "ml_title": [
+         "大切にしていること",
+         "珍视的事物"
+      ],
+      "ml_content": [
+         "姉妹で過ごす時間",
+         "与姐妹共度的时光"
+      ]
+   },
+   {
+      "id": 692,
+      "unit_id": 63,
+      "release_level": 9,
+      "position": 10,
+      "ml_title": [
+         "密かに練習していること",
+         "暗中练习的事"
+      ],
+      "ml_content": [
+         "エルロンドビーム！",
+         "艾尔隆德光束！"
+      ]
+   },
+   {
+      "id": 693,
+      "unit_id": 63,
+      "release_level": 10,
+      "position": 11,
+      "ml_title": [
+         "パディントン",
+         "(关于)帕丁顿（雾车小助手）"
+      ],
+      "ml_content": [
+         "愛してやまない妹！",
+         "深爱不已的妹妹！"
+      ]
+   },
+   {
+      "id": 694,
+      "unit_id": 64,
+      "release_level": 2,
+      "position": 1,
+      "ml_title": [
+         "好きなもの",
+         "喜欢的东西"
+      ],
+      "ml_content": [
+         "お金では得られないもの",
+         "金钱无法得到的东西"
+      ]
+   },
+   {
+      "id": 695,
+      "unit_id": 64,
+      "release_level": 2,
+      "position": 2,
+      "ml_title": [
+         "嫌いなもの",
+         "讨厌的东西"
+      ],
+      "ml_content": [
+         "社交辞令",
+         "社交辞令"
+      ]
+   },
+   {
+      "id": 696,
+      "unit_id": 64,
+      "release_level": 2,
+      "position": 3,
+      "ml_title": [
+         "特技",
+         "特长"
+      ],
+      "ml_content": [
+         "魔法、家事全般",
+         "魔法、家务"
+      ]
+   },
+   {
+      "id": 697,
+      "unit_id": 64,
+      "release_level": 3,
+      "position": 4,
+      "ml_title": [
+         "趣味",
+         "爱好"
+      ],
+      "ml_content": [
+         "ネイルアート",
+         "美甲"
+      ]
+   },
+   {
+      "id": 698,
+      "unit_id": 64,
+      "release_level": 4,
+      "position": 5,
+      "ml_title": [
+         "夢",
+         "梦想"
+      ],
+      "ml_content": [
+         "イズリントンの夢を叶えること",
+         "实现伊斯灵顿的梦想"
+      ]
+   },
+   {
+      "id": 699,
+      "unit_id": 64,
+      "release_level": 5,
+      "position": 6,
+      "ml_title": [
+         "悩み",
+         "烦恼"
+      ],
+      "ml_content": [
+         "愛想笑いができず、気の利いたことが言えない",
+         "不会陪笑，也说不出机灵话"
+      ]
+   },
+   {
+      "id": 700,
+      "unit_id": 64,
+      "release_level": 6,
+      "position": 7,
+      "ml_title": [
+         "好きな食べ物",
+         "喜欢的食物"
+      ],
+      "ml_content": [
+         "特になし",
+         "无"
+      ]
+   },
+   {
+      "id": 701,
+      "unit_id": 64,
+      "release_level": 7,
+      "position": 8,
+      "ml_title": [
+         "癖になっていること",
+         "癖好"
+      ],
+      "ml_content": [
+         "爪のケア",
+         "护理指甲"
+      ]
+   },
+   {
+      "id": 702,
+      "unit_id": 64,
+      "release_level": 8,
+      "position": 9,
+      "ml_title": [
+         "至上命題",
+         "最高使命"
+      ],
+      "ml_content": [
+         "イズリントンの護衛",
+         "护卫伊斯灵顿"
+      ]
+   },
+   {
+      "id": 703,
+      "unit_id": 64,
+      "release_level": 9,
+      "position": 10,
+      "ml_title": [
+         "最近気になっていること",
+         "最近在意的事"
+      ],
+      "ml_content": [
+         "姉弟子（チャリングクロス）が脳筋すぎること",
+         "师姐（查令十字）太肌肉脑了"
+      ]
+   },
+   {
+      "id": 704,
+      "unit_id": 64,
+      "release_level": 10,
+      "position": 11,
+      "ml_title": [
+         "最近気になっていること２",
+         "最近在意的事２"
+      ],
+      "ml_content": [
+         "ヴィクトリアの力が有り余っていること",
+         "维多利亚（帕丁顿的女仆，设定上喜欢健身）太有力气了"
+      ]
    }
 ]

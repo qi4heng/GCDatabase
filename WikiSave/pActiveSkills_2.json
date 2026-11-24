@@ -1,5 +1,1163 @@
 [
     {
+        "id": 15094001,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 40,
+        "usable_times": 0,
+        "timeline_id": 15094001,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 5,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 25094001,
+        "type": 6,
+        "rarity": 5,
+        "image_index": "1302",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 25094001,
+        "icon_frame_id": 133,
+        "is_show_range": false,
+        "show_element_type": 0,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "攻撃",
+            "攻击"
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "<help=move_buff>すれ違いバフ</help>：<help=offence>攻撃</help>",
+            "<help=move_buff>路过增益</help>：<help=offence>攻击</help>"
+        ]
+    },
+    {
+        "id": 35094001,
+        "type": 3,
+        "rarity": 5,
+        "image_index": "1130",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 11,
+        "usable_times": 0,
+        "timeline_id": 35094001,
+        "icon_frame_id": 310,
+        "is_show_range": true,
+        "show_element_type": 5,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "宵闇の",
+            ""
+        ],
+        "ml_name2": [
+            "絶望",
+            ""
+        ],
+        "ml_description": [
+            "命中対象の<help=will>精神</help>[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞(解除不可・重複可)/命中対象に確率で雷の<help=stamp>刻印</help>・<help=stagnation>停滞</help>付与＜[[side_effects_turn_2]ターン]＞",
+            "使命中对象<help=will>精神</help>减少[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞（不可解除·可叠加）/以一定概率赋予命中对象雷之<help=stamp>刻印</help>·<help=stagnation>停滞</help>＜[[side_effects_turn_2]回合]＞"
+        ]
+    },
+    {
+        "id": 15095001,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 40,
+        "usable_times": 0,
+        "timeline_id": 15095001,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 25095001,
+        "type": 6,
+        "rarity": 5,
+        "image_index": "1302",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 25095001,
+        "icon_frame_id": 133,
+        "is_show_range": false,
+        "show_element_type": 0,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "攻撃",
+            "攻击"
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "<help=move_buff>すれ違いバフ</help>：<help=offence>攻撃</help>",
+            "<help=move_buff>路过增益</help>：<help=offence>攻击</help>"
+        ]
+    },
+    {
+        "id": 35095001,
+        "type": 3,
+        "rarity": 5,
+        "image_index": "1124",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 117,
+        "usable_times": 0,
+        "timeline_id": 35095001,
+        "icon_frame_id": 310,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "ビーチ・",
+            ""
+        ],
+        "ml_name2": [
+            "ピーチ",
+            ""
+        ],
+        "ml_description": [
+            "味方全員に<help=constitution>体力</help>[[side_effects_power_1]]回復/バイオレットの味方全員に<help=offence>攻撃</help>[[side_effects_power_3]%]増加＜[[side_effects_turn_3]ターン]＞(重複可)/命中対象に確率で物理の<help=stamp>刻印</help>付与＜[[side_effects_turn_2]ターン]＞",
+            "己方全员回复[[side_effects_power_1]]<help=constitution>体力</help>/赋予紫色属性的己方全员<help=offence>攻击</help>增加[[side_effects_power_3]%]＜[[side_effects_turn_3]回合]＞（可叠加）/以一定概率赋予命中对象物理之<help=stamp>刻印</help>＜[[side_effects_turn_2]回合]＞"
+        ]
+    },
+    {
+        "id": 15096001,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 40,
+        "usable_times": 0,
+        "timeline_id": 15096001,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 25096001,
+        "type": 6,
+        "rarity": 5,
+        "image_index": "1302",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 25096001,
+        "icon_frame_id": 133,
+        "is_show_range": false,
+        "show_element_type": 0,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "攻撃",
+            "攻击"
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "<help=move_buff>すれ違いバフ</help>：<help=offence>攻撃</help>",
+            "<help=move_buff>路过增益</help>：<help=offence>攻击</help>"
+        ]
+    },
+    {
+        "id": 35096001,
+        "type": 3,
+        "rarity": 5,
+        "image_index": "0802",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 125,
+        "usable_times": 0,
+        "timeline_id": 35096001,
+        "icon_frame_id": 310,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "宵闇コウモリの",
+            ""
+        ],
+        "ml_name2": [
+            "羽搏き",
+            ""
+        ],
+        "ml_description": [
+            "系統：絵画にダメージ[[side_effects_power_1]%]上昇/命中対象に<help=defence>防御</help>[[side_effects_power_2]%]減少＜[[side_effects_turn_2]ターン]＞/自身と最も体力数値が低い味方1人に<help=physical_shield>物理シールド</help>付与[[side_effects_power_3]]",
+            "对系统：绘画造成的伤害提升[[side_effects_power_1]%]/使命中对象<help=defence>防御</help>减少[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞/赋予自身与体力数值最低的1名己方<help=physical_shield>物理护盾</help>[[side_effects_power_3]]"
+        ]
+    },
+    {
+        "id": 15097001,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 40,
+        "usable_times": 0,
+        "timeline_id": 15097001,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 3,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 25097001,
+        "type": 6,
+        "rarity": 5,
+        "image_index": "1304",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 25097001,
+        "icon_frame_id": 133,
+        "is_show_range": false,
+        "show_element_type": 0,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "防御",
+            "防御"
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "<help=move_buff>すれ違いバフ</help>：<help=offence>防御</help>",
+            "<help=move_buff>路过增益</help>：<help=offence>防御</help>"
+        ]
+    },
+    {
+        "id": 35097001,
+        "type": 3,
+        "rarity": 5,
+        "image_index": "6803",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 116,
+        "usable_times": 0,
+        "timeline_id": 35097001,
+        "icon_frame_id": 310,
+        "is_show_range": true,
+        "show_element_type": 3,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            "慈しみの",
+            ""
+        ],
+        "ml_name2": [
+            "掌",
+            ""
+        ],
+        "ml_description": [
+            "系統：芸道にダメージ[[side_effects_power_1]%]上昇/命中対象の<help=water_shield>水シールド</help>解除/自身に<help=ignite>気炎</help>付与/アイボリーの味方全員に<help=Immutability>不変</help>付与",
+            "对系统：艺道造成的伤害提升[[side_effects_power_1]%]/解除命中对象的<help=water_shield>水护盾</help>/赋予自身<help=ignite>气焰</help>/赋予白色属性的己方全员<help=Immutability>不变</help>"
+        ]
+    },
+    {
+        "id": 19300001,
+        "type": 1,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 0,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": false,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 19400001,
+        "type": 1,
+        "rarity": 4,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 0,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 114,
+        "is_show_range": false,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 19500001,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 0,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 115,
+        "is_show_range": false,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 19500002,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 400,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 19500003,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 40,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 19500004,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 3007,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "通常攻撃",
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 19500005,
+        "type": 1,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 400,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "威力[[main_effects_power_1]%]",
+            "威力[[main_effects_power_1]%]"
+        ]
+    },
+    {
+        "id": 29300001,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 110,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ダーティスタブ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）"
+        ]
+    },
+    {
+        "id": 29300002,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 110,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 2,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ファイアスタブ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）"
+        ]
+    },
+    {
+        "id": 29300003,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 110,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 3,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "アクアスタブ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）"
+        ]
+    },
+    {
+        "id": 29300004,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 110,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 4,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ウィンドスタブ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）"
+        ]
+    },
+    {
+        "id": 29300005,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 110,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 5,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ライトニングスタブ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）"
+        ]
+    },
+    {
+        "id": 29300006,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0300",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "3",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 1,
+        "range_end_point": 1,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": false,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "突き飛ばし",
+            ""
+        ],
+        "ml_description": [
+            "敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>",
+            "对敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/将命中对象<help=knock_back>弹飞</help>[[side_effects_power_1]]格"
+        ]
+    },
+    {
+        "id": 29300007,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0300",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "3",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 1,
+        "range_end_point": 1,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": false,
+        "show_element_type": 2,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "火炎突き飛ばし",
+            ""
+        ],
+        "ml_description": [
+            "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>",
+            "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/将命中对象<help=knock_back>弹飞</help>[[side_effects_power_1]]格"
+        ]
+    },
+    {
+        "id": 29300008,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0300",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "3",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 1,
+        "range_end_point": 1,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": false,
+        "show_element_type": 3,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "水流突き飛ばし",
+            ""
+        ],
+        "ml_description": [
+            "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>",
+            "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）/将命中对象<help=knock_back>弹飞</help>[[side_effects_power_1]]格"
+        ]
+    },
+    {
+        "id": 29300009,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0300",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "3",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 1,
+        "range_end_point": 1,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": false,
+        "show_element_type": 4,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "風撃突き飛ばし",
+            ""
+        ],
+        "ml_description": [
+            "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>",
+            "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）/将命中对象<help=knock_back>弹飞</help>[[side_effects_power_1]]格"
+        ]
+    },
+    {
+        "id": 29300010,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0300",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "3",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 1,
+        "range_end_point": 1,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": false,
+        "show_element_type": 5,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "雷電突き飛ばし",
+            ""
+        ],
+        "ml_description": [
+            "敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（雷<help=element>エレメント</help>）/命中対象を[[side_effects_power_1]]マス<help=knock_back>弾き飛ばし</help>",
+            "对敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（雷<help=element>元素</help>）/将命中对象<help=knock_back>弹飞</help>[[side_effects_power_1]]格"
+        ]
+    },
+    {
+        "id": 29300011,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": -1,
+        "range_end_point": -1,
+        "range_ids": "42|43|44|45|41|40|40",
+        "effect_range_id": 80,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ハードバリスタ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）"
+        ]
+    },
+    {
+        "id": 29300012,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": -1,
+        "range_end_point": -1,
+        "range_ids": "42|43|44|45|41|40|40",
+        "effect_range_id": 80,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 2,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ファイアーバリスタ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）"
+        ]
+    },
+    {
+        "id": 29300013,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": -1,
+        "range_end_point": -1,
+        "range_ids": "42|43|44|45|41|40|40",
+        "effect_range_id": 80,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 3,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ウォーターバリスタ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（水<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（水<help=element>元素</help>）"
+        ]
+    },
+    {
+        "id": 29300014,
+        "type": 2,
+        "rarity": 3,
+        "image_index": "0001",
+        "need_passion": 100,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": -1,
+        "range_end_point": -1,
+        "range_ids": "42|43|44|45|41|40|40",
+        "effect_range_id": 80,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 113,
+        "is_show_range": true,
+        "show_element_type": 4,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ウィンドバリスタ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（風<help=element>エレメント</help>）",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（风<help=element>元素</help>）"
+        ]
+    },
+    {
         "id": 29300015,
         "type": 2,
         "rarity": 3,
@@ -14035,6 +15193,111 @@
         ]
     },
     {
+        "id": 29500291,
+        "type": 2,
+        "rarity": 5,
+        "image_index": "1107",
+        "need_passion": 125,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": -1,
+        "range_end_point": -1,
+        "range_ids": "600|601|602|603|607|608|609",
+        "effect_range_id": 150,
+        "usable_times": 0,
+        "timeline_id": 29500179,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 1,
+        "condition_type": 1,
+        "condition_param1": 0,
+        "condition_param2": 5000,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ダークブレイズ",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=physical_dmg>物理ダメージ</help>（物理<help=element>エレメント</help>）/命中対象を[[side_effects_power_1]]マス<help=tractor>引き寄せ</help>/命中対象に確率で<help=nail>影縫</help>・<help=stagnation>停滞</help>付与＜[[side_effects_turn_2]ターン]＞",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=physical_dmg>物理伤害</help>（物理<help=element>元素</help>）/将命中对象<help=tractor>吸引</help>[[side_effects_power_1]]格/以一定概率赋予命中对象<help=nail>影缝</help>·<help=stagnation>停滞</help>＜[[side_effects_turn_2]回合]＞"
+        ]
+    },
+    {
+        "id": 29500292,
+        "type": 2,
+        "rarity": 5,
+        "image_index": "4407",
+        "need_passion": 130,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 641,
+        "usable_times": 0,
+        "timeline_id": 29500182,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 2,
+        "condition_type": 1,
+        "condition_param1": 0,
+        "condition_param2": 5000,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "パルベライズフレア",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/<help=nail>影縫</help>状態ならダメージ[[side_effects_power_1]%]上昇/自身の<help=offence>攻撃</help>・<help=defence>防御</help>[[side_effects_power_2]%]増加＜[[side_effects_turn_2]ターン]＞(重複可)",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/若处于<help=nail>影缝</help>状态则伤害提升[[side_effects_power_1]%]/自身的<help=offence>攻击</help>·<help=defence>防御</help>增加[[side_effects_power_2]%]＜[[side_effects_turn_2]回合]＞（可叠加）"
+        ]
+    },
+    {
+        "id": 29500293,
+        "type": 2,
+        "rarity": 5,
+        "image_index": "1608",
+        "need_passion": 120,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "2",
+        "ignore_first_cool_times": 1,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 515,
+        "usable_times": 0,
+        "timeline_id": 29500180,
+        "icon_frame_id": 115,
+        "is_show_range": true,
+        "show_element_type": 2,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            "ダルフレイム",
+            ""
+        ],
+        "ml_description": [
+            "範囲内の敵に威力[[main_effects_power_1]%]の<help=magical_dmg>特殊ダメージ</help>（炎<help=element>エレメント</help>）/命中対象の<help=move>移動</help>[[side_effects_power_1]]減少＜[[side_effects_turn_1]ターン]＞/自身に<help=true_sight>真眼</help>付与",
+            "对范围内敌方造成威力[[main_effects_power_1]%]的<help=magical_dmg>特殊伤害</help>（火<help=element>元素</help>）/使命中对象的<help=move>移动</help>减少[[side_effects_power_1]]＜[[side_effects_turn_1]回合]＞/赋予自身<help=true_sight>真眼</help>"
+        ]
+    },
+    {
         "id": 28300001,
         "type": 2,
         "rarity": 3,
@@ -19755,7 +21018,7 @@
         "id": 86000001,
         "type": 2,
         "rarity": 5,
-        "image_index": "1603",
+        "image_index": "0001",
         "need_passion": 0,
         "use_passion": 0,
         "gain_gauge": 0,
@@ -19789,7 +21052,7 @@
         "id": 86000002,
         "type": 2,
         "rarity": 5,
-        "image_index": "1302",
+        "image_index": "0001",
         "need_passion": 0,
         "use_passion": 0,
         "gain_gauge": 0,
@@ -19857,7 +21120,7 @@
         "id": 86000004,
         "type": 2,
         "rarity": 5,
-        "image_index": "0002",
+        "image_index": "0001",
         "need_passion": 0,
         "use_passion": 0,
         "gain_gauge": 0,
@@ -19891,7 +21154,7 @@
         "id": 86000005,
         "type": 2,
         "rarity": 5,
-        "image_index": "1606",
+        "image_index": "0001",
         "need_passion": 0,
         "use_passion": 0,
         "gain_gauge": 0,
@@ -19959,7 +21222,7 @@
         "id": 86000007,
         "type": 2,
         "rarity": 5,
-        "image_index": "1604",
+        "image_index": "0001",
         "need_passion": 0,
         "use_passion": 0,
         "gain_gauge": 0,
@@ -19987,6 +21250,108 @@
         "ml_description": [
             "マス通過時、敵の<help=defence>防御</help>[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
             "通过格子时，使敌方的<help=defence>防御</help>减少[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞。"
+        ]
+    },
+    {
+        "id": 81606001,
+        "type": 2,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 115,
+        "is_show_range": false,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "マス通過時、敵に威力[[main_effects_power_1]%]のダメージ",
+            "通过格子时，对敌方造成威力[[main_effects_power_1]%]的伤害"
+        ]
+    },
+    {
+        "id": 81606002,
+        "type": 2,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 115,
+        "is_show_range": false,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "マス通過時、敵の<help=offence>攻撃</help>[[side_effects_power_1]%]減少＜[[side_effects_turn_1]ターン]＞",
+            "通过格子时，敌方<help=offence>攻击</help>减少[[side_effects_power_1]%]＜[[side_effects_turn_1]回合]＞"
+        ]
+    },
+    {
+        "id": 91606001,
+        "type": 2,
+        "rarity": 5,
+        "image_index": "0001",
+        "need_passion": 0,
+        "use_passion": 0,
+        "gain_gauge": 0,
+        "cool_times": "0",
+        "ignore_first_cool_times": 0,
+        "range_start_point": 0,
+        "range_end_point": 0,
+        "range_ids": "0",
+        "effect_range_id": 1,
+        "usable_times": 0,
+        "timeline_id": 0,
+        "icon_frame_id": 115,
+        "is_show_range": false,
+        "show_element_type": 1,
+        "condition_type": 0,
+        "condition_param1": 0,
+        "condition_param2": 0,
+        "is_seal_protection": false,
+        "ml_name1": [
+            ""
+        ],
+        "ml_name2": [
+            ""
+        ],
+        "ml_description": [
+            "マス通過時、敵の<help=offence>移動</help>[[side_effects_power_1]]減少＜[[side_effects_turn_1]ターン]＞",
+            "通过格子时，敌方<help=offence>移动</help>减少[[side_effects_power_1]]＜[[side_effects_turn_1]回合]＞"
         ]
     }
 ]

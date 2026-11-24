@@ -1666,6 +1666,23 @@
         ]
     },
     {
+        "id": 442,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "442",
+        "search_reward_reset_type": 1,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2026-12-20 12:59:59",
+        "ml_name": [
+            "奇跡の出会いは聖なる日に",
+            ""
+        ]
+    },
+    {
         "id": 701,
         "chapter_no": 0,
         "quest_type": 99,
@@ -2261,6 +2278,23 @@
         ]
     },
     {
+        "id": 736,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2026-12-08 12:59:59",
+        "ml_name": [
+            "クリスマス・クライシス",
+            ""
+        ]
+    },
+    {
         "id": 800,
         "chapter_no": 0,
         "quest_type": 4,
@@ -2720,6 +2754,23 @@
         ]
     },
     {
+        "id": 829,
+        "chapter_no": 0,
+        "quest_type": 4,
+        "order": 1,
+        "first_reward_reset_type": 3,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-12-01 04:00:00",
+        "end_time": "9999-12-31 23:59:59",
+        "ml_name": [
+            "ダンジョンシーズン29",
+            ""
+        ]
+    },
+    {
         "id": 601,
         "chapter_no": 0,
         "quest_type": 99,
@@ -3022,6 +3073,23 @@
         "end_time": "2026-11-24 12:59:59",
         "ml_name": [
             "忘却の彼方から、悠久の償いを",
+            ""
+        ]
+    },
+    {
+        "id": 619,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-12-18 13:00:00",
+        "end_time": "2026-12-29 12:59:59",
+        "ml_name": [
+            "白銀の夜、想い合う絆",
             ""
         ]
     },
@@ -3485,6 +3553,23 @@
         ]
     },
     {
+        "id": 926,
+        "chapter_no": 0,
+        "quest_type": 5,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 926,
+        "start_time": "2026-12-01 04:00:00",
+        "end_time": "2027-01-01 03:59:59",
+        "ml_name": [
+            "リサーチクエスト：インスピレーション12月",
+            ""
+        ]
+    },
+    {
         "id": 1000,
         "chapter_no": 0,
         "quest_type": 999,
@@ -3736,6 +3821,40 @@
         "end_time": "2026-11-18 12:59:59",
         "ml_name": [
             "【A.S.】虚飾を乗り越える純真な想い",
+            ""
+        ]
+    },
+    {
+        "id": 1114,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-11-30 13:00:00",
+        "end_time": "2026-12-05 12:59:59",
+        "ml_name": [
+            "【A.S.】幸に不幸に揺れる心",
+            ""
+        ]
+    },
+    {
+        "id": 1115,
+        "chapter_no": 0,
+        "quest_type": 99,
+        "order": 1,
+        "first_reward_reset_type": 0,
+        "m_quest_search_reward_group_ids": "0",
+        "search_reward_reset_type": 0,
+        "search_reward_limit_reset_count": 0,
+        "m_quest_total_evaluate_reward_group_id": 0,
+        "start_time": "2026-12-14 13:00:00",
+        "end_time": "2026-12-19 12:59:59",
+        "ml_name": [
+            "【A.S.】最強の名を賭けた決戦",
             ""
         ]
     }

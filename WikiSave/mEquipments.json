@@ -374,6 +374,28 @@
       "source": ""
    },
    {
+      "id": 4102017,
+      "enhance_group_id": 25,
+      "disassemble_group_id": 25,
+      "rarity": 5,
+      "site_type": 2,
+      "unit_id": 0,
+      "lock_type": 1,
+      "reduce_element_type": 5,
+      "image_index": 4102017,
+      "country_type": 0,
+      "ml_name": [
+         "奮い立ちの腕輪",
+         ""
+      ],
+      "ml_flavor_text": [
+         "苦難を退ける力を持つと言われている、勇壮な意匠の腕輪。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": ""
+   },
+   {
       "id": 4103001,
       "enhance_group_id": 31,
       "disassemble_group_id": 31,
@@ -3256,6 +3278,28 @@
       "source": "商店付费礼包（莫里索生诞祭2026）"
    },
    {
+      "id": 4111511,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 206,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 15,
+      "lock_type": 2,
+      "reduce_element_type": 3,
+      "image_index": 4111511,
+      "country_type": 0,
+      "ml_name": [
+         "狂気の結晶大刃剣",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるモリゾの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
+   },
+   {
       "id": 4111601,
       "enhance_group_id": 34,
       "disassemble_group_id": 134,
@@ -3320,6 +3364,50 @@
       ],
       "ml_effect_flavor": [],
       "source": "常驻商店兑换"
+   },
+   {
+      "id": 4111604,
+      "enhance_group_id": 15,
+      "disassemble_group_id": 115,
+      "rarity": 5,
+      "site_type": 1,
+      "unit_id": 16,
+      "lock_type": 2,
+      "reduce_element_type": 3,
+      "image_index": 4111604,
+      "country_type": 0,
+      "ml_name": [
+         "ルノワールの麦わら帽子",
+         ""
+      ],
+      "ml_flavor_text": [
+         "ルノワール【スプリングガール】が着用している麦わら帽子。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包（雷诺阿生诞祭2026）"
+   },
+   {
+      "id": 4111606,
+      "enhance_group_id": 55,
+      "disassemble_group_id": 204,
+      "rarity": 5,
+      "site_type": 5,
+      "unit_id": 16,
+      "lock_type": 2,
+      "reduce_element_type": 4,
+      "image_index": 4111606,
+      "country_type": 0,
+      "ml_name": [
+         "自虐の結晶両刃剣",
+         ""
+      ],
+      "ml_flavor_text": [
+         "異なる未来を生きるルノワールの力を宿した結晶武器。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "Alter池累抽奖励/商店付费礼包"
    },
    {
       "id": 4111701,
@@ -4306,6 +4394,138 @@
       ],
       "ml_flavor_text": [
          "モーツァルト【光輝の神童】が着用しているパンプス。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "信爱Lv10任务"
+   },
+   {
+      "id": 4116301,
+      "enhance_group_id": 15,
+      "disassemble_group_id": 115,
+      "rarity": 5,
+      "site_type": 1,
+      "unit_id": 63,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4116301,
+      "country_type": 0,
+      "ml_name": [
+         "イズリントンのティアラ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "イズリントン【雷を招く神子】が着用しているティアラ。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包"
+   },
+   {
+      "id": 4116302,
+      "enhance_group_id": 25,
+      "disassemble_group_id": 125,
+      "rarity": 5,
+      "site_type": 2,
+      "unit_id": 63,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4116302,
+      "country_type": 0,
+      "ml_name": [
+         "イズリントンのアームカバー",
+         ""
+      ],
+      "ml_flavor_text": [
+         "イズリントン【雷を招く神子】が着用しているアームカバー。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "活动商店兑换"
+   },
+   {
+      "id": 4116303,
+      "enhance_group_id": 45,
+      "disassemble_group_id": 145,
+      "rarity": 5,
+      "site_type": 4,
+      "unit_id": 63,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4116303,
+      "country_type": 0,
+      "ml_name": [
+         "イズリントンのブーツ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "イズリントン【雷を招く神子】が着用しているブーツ。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "信爱Lv10任务"
+   },
+   {
+      "id": 4116401,
+      "enhance_group_id": 35,
+      "disassemble_group_id": 135,
+      "rarity": 5,
+      "site_type": 3,
+      "unit_id": 64,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4116401,
+      "country_type": 0,
+      "ml_name": [
+         "キングスクロスのセーラーカラー",
+         ""
+      ],
+      "ml_flavor_text": [
+         "キングスクロス【神子の懐刀】が着用しているセーラーカラー。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "商店付费礼包"
+   },
+   {
+      "id": 4116402,
+      "enhance_group_id": 25,
+      "disassemble_group_id": 125,
+      "rarity": 5,
+      "site_type": 2,
+      "unit_id": 64,
+      "lock_type": 2,
+      "reduce_element_type": 1,
+      "image_index": 4116402,
+      "country_type": 0,
+      "ml_name": [
+         "キングスクロスの振袖",
+         ""
+      ],
+      "ml_flavor_text": [
+         "キングスクロス【神子の懐刀】が着用している振袖。",
+         ""
+      ],
+      "ml_effect_flavor": [],
+      "source": "活动商店兑换"
+   },
+   {
+      "id": 4116403,
+      "enhance_group_id": 45,
+      "disassemble_group_id": 145,
+      "rarity": 5,
+      "site_type": 4,
+      "unit_id": 64,
+      "lock_type": 2,
+      "reduce_element_type": 5,
+      "image_index": 4116403,
+      "country_type": 0,
+      "ml_name": [
+         "キングスクロスのブーツ",
+         ""
+      ],
+      "ml_flavor_text": [
+         "キングスクロス【神子の懐刀】が着用しているブーツ。",
          ""
       ],
       "ml_effect_flavor": [],

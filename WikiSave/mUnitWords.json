@@ -11408,6 +11408,742 @@
         ]
     },
     {
+        "id": 16301020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1020",
+        "ml_word": [
+            "あたしはセントイリスの神子。とっても偉いんだゾ？\nなーんて、それはあくまでイリスクラウドでのお話。\nここではそういうの気にせず、のびのび過ごすよ～。",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4016300_1030",
+        "ml_word": [
+            "キングスクロスったら、こっちに来てからも、\nつきっきりで護衛してくれるんだよね～。\nせっかくの異世界だし、少しは羽を伸ばせばいいのに。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1040",
+        "ml_word": [
+            "パディントンを連れてこられたら、\n館長くんにも紹介したかったな～。\n世界一かわいい、あたしの自慢の妹だからさ。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1050",
+        "ml_word": [
+            "館長くんと藝術家のみんなのおかげで、\nアテネスの平和は守られてるんだね。\nあたしたちも負けてられないなーって思うよ。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301460,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1460",
+        "ml_word": [
+            "こっちの世界でも年始はゆったりしてるんだね～。\nせっかくだし、アテネスの初詣を体験してみたいな。\n館長くんも一緒に行かない？",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301470,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1470",
+        "ml_word": [
+            "はい館長くん、バレンタインのチョコ。\nキングスクロスにあげたのと同じやつだよ～。\n結構いいのを選んだから、ありがたく召し上がれ？",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301480,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4016300_1480",
+        "ml_word": [
+            "芸術の街なだけあって、みんな手先が器用だよね～。\n街に出たら凝った仮装をしてる人がたくさんいてさ。\nあたしもすごいの作って対抗しようかな～。",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301490,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1490",
+        "ml_word": [
+            "クリスマスといえば、大切な人と過ごす日だよね～。\nかわいい妹がここにいないのは残念だけど、\n想いは届くと信じて、今をめいっぱい楽しむぞ～。",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301500,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4016300_1500",
+        "ml_word": [
+            "うわぁ、館長くんってば顔色悪くない？\n年末にお仕事溜め込みすぎだって。\n手伝ってあげるから、もっと周りを頼りな～？",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301510,
+        "scene_type": 1,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4016300_1510",
+        "ml_word": [
+            "お誕生日おめでと～！\nふふっ、サンソヴィーノちゃんから聞いてたんだ。\nみんなもお祝いに集まってるよ。今日はパーティーだ！",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4016300_1520",
+        "ml_word": [
+            "イマージュの子たちって、結構過激な服着てるよね～。\n元の世界に戻った時の参考用に、\n詳しく見せてもらっちゃおうかな～。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4016300_1530",
+        "ml_word": [
+            "ん～、なーんか手持ち無沙汰だな～。\n画材もモチーフもたくさんあるし、\n絵でも描きながらのんびりしてようかな。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1540",
+        "ml_word": [
+            "まさか異世界に来ちゃうなんてね～。\nサンソヴィーノちゃんと館長くんがいなかったら、\nさすがに困り果ててたよ。\n本当にありがと。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1550",
+        "ml_word": [
+            "ひとつの街の中で全然違う特色があるなんて、\nアテネスって面白い街だよね～。\n隅々まで見て回りたくなっちゃう感じ。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4016300_1560",
+        "ml_word": [
+            "アテネスじゃあたしのことを誰も知らないから、\nお忍びでこそこそしてなくてもいいんだよね～。\nちょっと解放感があるかも。",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16301570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016300_1570",
+        "ml_word": [
+            "こっちにいる間はなんでも力になるよ？\nお世話になってる分のお返しはしたいし、\nなにより、キミたちはみんないい人だからね～。",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4016400_1020",
+        "ml_word": [
+            "あなたたちに出会えて幸運だったわ。\n私ひとりだけならともかく、\nイズリントン様を危険には晒せないから。",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1030",
+        "ml_word": [
+            "戦いの他にも手伝えることはあると思って、\nキッチンを借りて焼き菓子を作ったの。\nみんなには好評よ。あなたも食べる？",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1040",
+        "ml_word": [
+            "アテネスに来て、視野が広がった気がするわ。\n芸術は教養として学んではいたけど、\nここではもっと生活に身近な存在だものね。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1050",
+        "ml_word": [
+            "あなたと藝術家たちは強い絆で結ばれているのね。\n見ていると親近感が湧いてくるわ。\n私にも、大切な人たちがいるから。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401460,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4016400_1460",
+        "ml_word": [
+            "あけましておめでとう、館長。\nただ、こういう気が緩む時ほど事件は起きるものだし、\n私は見回りをするつもりだけど……あなたも来る？",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401470,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1470",
+        "ml_word": [
+            "はい、どうぞ。バレンタインのチョコよ。\n日頃お世話になってる感謝を込めて作ったの。\n他の人たちの分もあるから、遠慮せず受け取って。",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401480,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1480",
+        "ml_word": [
+            "この街のハロウィンはひときわ華やかね。\n衣装や飾り付けを作るのも、芸術の一種だからかしら？\n背景を考えると、なかなか面白いわ。",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401490,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1490",
+        "ml_word": [
+            "メリークリスマス、館長。\nこの後はイズリントン様と過ごす予定になっているの。\nあなたも一緒にどう？　たまには息抜きも必要よ。",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401500,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4016400_1500",
+        "ml_word": [
+            "最近は特に忙しそうにしているけど、大丈夫？\n年末だし仕方ないけど、無理は禁物よ。\n後で執務室まで手伝いに行くわ。",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401510,
+        "scene_type": 1,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4016400_1510",
+        "ml_word": [
+            "お誕生日おめでとう、館長。\nちゃんと美術館の子たちから聞いてるわよ。\nささやかだけど、私からのお祝いも受け取って。",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1520",
+        "ml_word": [
+            "美術館に来る人たちは、みんな楽しそうね。\nこれから見る芸術作品に期待して、目を輝かせてる。\nこの反応を見られるだけでも、やりがいがあるわね。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4016400_1530",
+        "ml_word": [
+            "館長、さっきからぼーっとしてるけど大丈夫？\n疲れているなら、部屋まで送っていくわよ。\n激務なんでしょうし、遠慮しないで。ほら。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4016400_1540",
+        "ml_word": [
+            "イズリントン様を見なかったかしら？\nこの世界には興味深いものが色々あるからか、\nすぐどこかへ行ってしまわれるのよね……。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1550",
+        "ml_word": [
+            "最初はもちろん戸惑ったけど、\n異世界に飛ばされるなんて貴重な体験よね。\n仲間たちにいい土産話ができそうだわ。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1560",
+        "ml_word": [
+            "ここにいると、美術館の歴史の重みを感じるわね。\n独特の重厚な空気と一体化しているような……。\nそんな不思議な気分を味わえるわ。",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16401570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016400_1570",
+        "ml_word": [
+            "立場上なかなか言えないような愚痴とか抱えてない？\nもしもそういうのがあれば、聞いてあげるわよ。\n身内相手より話しやすいこともあるでしょうしね。",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 1110020,
         "scene_type": 2,
         "trigger": 3,
@@ -14628,6 +15364,466 @@
         ]
     },
     {
+        "id": 15120020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40115119_1020",
+        "ml_word": [
+            "んんぅ？　館長、なんでしょうか？\n急用でないのなら、トレーニングに\n集中させていただきたいのですけれど。",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40115119_1030",
+        "ml_word": [
+            "とうっ！　はぁっ！　どりゃああっ！\nまだまだ、まだまだですわ……。\n全てを振り切って、強さだけに集中するんです。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40115119_1040",
+        "ml_word": [
+            "私は、最強の藝術家を目指すと決めたんです。\nそれなのに、館長のことが頭から離れないなんて……。\n恋にうつつを抜かしている暇など、ないはずですのに。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_40115119_1050",
+        "ml_word": [
+            "館長……もしも、強さに愛が必要なのだとしたら……。\nそれを私に教えてくださるのは、貴方がいい……。\nいいえ、貴方しかいないんですわっ！",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40115119_1520",
+        "ml_word": [
+            "本当の“強さ”とは、一体なんなのか……。\n考えるのが怖いですわ……。\n今までの私が、否定されてしまうような気がして……。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40115119_1530",
+        "ml_word": [
+            "あら、館長がいませんわね……。\n新たに“愛”を教えていただくために、\n一緒にトレーニングをするつもりでしたのに！",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40115119_1540",
+        "ml_word": [
+            "人との繋がりなど、迷いと弱さを生むだけ……。\nなのにオリジナルはどうして、\nそれ以外のことにうつつを抜かすのか……\n理解できませんわ。",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40115119_1550",
+        "ml_word": [
+            "はぁ……またお客さんに呆れられてしまいましたわ。\n常識的なことが、なにもわからず……。\nきっとこれも、強さだけを求めてきた\n代償なのでしょうね。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40115119_1560",
+        "ml_word": [
+            "ジュリエンヌは本当にかわいらしいですわね。\nですが、最強になるためにそんな感情は不要……。\nううぅ……筋肉のことだけを考えなければ。",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 15120570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_40115119_1570",
+        "ml_word": [
+            "ふぅ……出来ましたわ。藝術家の皆さんそれぞれに、\n果し状をしたためておりましたの……。\nえっ、どうしてダメなんですの！？\nせっかく書きましたのに！",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070020,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "anger",
+        "sound_asset": "stv_40116069_1020",
+        "ml_word": [
+            "えと……ルノに関わるのはやめてください！\n館長さんと話したら、幸せな気分になっちゃうので！",
+            "en"
+        ],
+        "word_key": 1020,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": 1,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070030,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40116069_1030",
+        "ml_word": [
+            "館長さん、ルノの頭を叩いてくれませんか？\nうぅぅ……どうしてダメなんですか？\nこのままだと、幸せになっちゃいますっ！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070040,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_40116069_1040",
+        "ml_word": [
+            "館長さんを見ていると、胸が苦しくなってきて……。\nあ、これってもしかして、不幸なことでしょうか？\nだとしたら、このままでもいいのかも……？",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070050,
+        "scene_type": 2,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40116069_1050",
+        "ml_word": [
+            "館長さんと一緒なら、不幸になってもいいかもって、\nだんだん思えてきて……。だから、あの……\nもう少し、ここにいてもいいですか？",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070520,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_40116069_1520",
+        "ml_word": [
+            "あっ、ムーランちゃんだ……。\nあっ、あそこにはシャティちゃんも……。\nうぅ……ルノは隠れなきゃ。\n触れ合っちゃったら、幸せになってしまいます～！",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070530,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40116069_1530",
+        "ml_word": [
+            "はわぁぁ……館長さん、かっこいいなぁ……。\n見てるだけで幸せになっちゃうから、\nこれからは目隠しをして生活しようかなぁ……。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070540,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_40116069_1540",
+        "ml_word": [
+            "あっ、館長さん……今、触ってくれましたよね？\n折角なら、もっと強く叩いてくれませんか？\nはぁ、はぁ……お願いします、ほら、ぺち……って♡",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070550,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_40116069_1550",
+        "ml_word": [
+            "えと、ルノはもっと、大変な思いがしたくて……。\nモリゾさんに一番キツいトレーニングを頼もうかなぁ。\nえへへ、考えただけでドキドキしちゃいますぅ……。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070560,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_40116069_1560",
+        "ml_word": [
+            "え、館長さん、ルノに絆創膏を貼ってくれるんですか？\nんんぅ……そんなふうに優しくされたら、\nもっとケガしたくなっちゃいますぅ……。",
+            "en"
+        ],
+        "word_key": 1560,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16070570,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_40116069_1570",
+        "ml_word": [
+            "えと、ルノのこと、罵ってもらったりとか……\nやっぱりできませんよね？\nうぅ、優しい館長さんにそんなお願いするなんて、\nルノのバカ～！",
+            "en"
+        ],
+        "word_key": 1570,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 10102030,
         "scene_type": 1,
         "trigger": 5,
@@ -16231,6 +17427,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 1,
         "layer_id": 4010114,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10116030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4010115_1030",
+        "ml_word": [
+            "館長は一体どんなプレゼントが欲しいんですか？\n……いえ、別にあげるなんて言ってませんよ！\n私がもらうならなにがいいかと思って、\n参考にするだけですからね！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010115,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10116040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010115_1040",
+        "ml_word": [
+            "メリー・クリスマース！\n私はこの時を待ち侘びていましたよ！\n胃袋の準備は万端です。\nさぁ、どこからでもかかってきてください！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010115,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10116050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010115_1050",
+        "ml_word": [
+            "さて、欲にまみれた者たちのために\nひと仕事といきますか……。\nほら館長、あなたは私のトナカイでしょう。\n一緒についてきてくださいよ。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010115,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10116060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010115_1060",
+        "ml_word": [
+            "しかし、こんなに可愛いサンタが\n存在していいと思います？\n下手したら本家に訴えられてしまうのでは……。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010115,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10116070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4010115_1070",
+        "ml_word": [
+            "う～ん……やっぱり館長にも\nたまにはなにか贈り物でもして、\nご機嫌を取ったほうがいい気がしてきました。\nまたアルバイトでも頑張りましょうかねぇ。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 1,
+        "layer_id": 4010115,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -25546,6 +26857,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 7,
         "layer_id": 4010713,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10715030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4010714_1030",
+        "ml_word": [
+            "……メリークリスマス、館長。\n今日は私がサンタ……の、つもりよ。\n１年で一番忙しい年末に、\n１年で一番忙しい人の格好なんて……はぁ。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010714,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10715040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4010714_1040",
+        "ml_word": [
+            "……わかってるわ、私はサンタなんて柄じゃないって。\nでも、これも仕事の一環だもの。\n真剣に向き合わないといけないわよね。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010714,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10715050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4010714_1050",
+        "ml_word": [
+            "議会前に大きなツリーが\n飾られることになったんだけど……。\nもし良かったら、今度見に来ない？\nとても綺麗だから……あなたにも共有したくて。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010714,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10715060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4010714_1060",
+        "ml_word": [
+            "クランには、ボディクリームを\nプレゼントしようと思ってるの。\nあの子、自慢の体だからって\n毎日ケアを頑張ってるから……。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010714,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 10715070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4010714_1070",
+        "ml_word": [
+            "……やっぱり、似合わないわよね。\nだけど……館長は素敵だって言ってくれた……。\n館長って、趣味が広いわよね……。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-11-24 13:30:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 7,
+        "layer_id": 4010714,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -36823,6 +38249,121 @@
         ]
     },
     {
+        "id": 11512030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4011511_1030",
+        "ml_word": [
+            "決闘やトレーニングに巻き込まれても、\n私達を見捨てないでいてくださる……。\n貴方の優しさには、素直に感謝しておりますのよ？",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-12-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11512040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011511_1040",
+        "ml_word": [
+            "最強の藝術家はふたりもいりません。\nオリジナルを完膚なきまでに潰して、\n私が本物であることを証明してみせますわ！",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-12-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11512050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011511_1050",
+        "ml_word": [
+            "まったく、私はこんな場所で燻っている\n暇なんてないのですけれど……。\nあぁ、こうしている間にも筋肉が落ちてゆく……。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-12-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11512060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011511_1060",
+        "ml_word": [
+            "実家とはとうに縁を切りましたわ。\n親からの愛情など、\n私の人生には必要ありませんもの。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-12-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11512070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4011511_1070",
+        "ml_word": [
+            "はぁ……こうしてひとりでいると、なんだか胸の中が\nモヤモヤしますわ……。ハッ！？　まさかこれが\n“寂しい”という感情ですの？　いや、そんな……\n最強である私が寂しさを知る訳がありませんわ。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-12-14 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 15,
+        "layer_id": 4011511,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
         "id": 11602030,
         "scene_type": 1,
         "trigger": 5,
@@ -37391,6 +38932,121 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 16,
         "layer_id": 4011605,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11607030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4011606_1030",
+        "ml_word": [
+            "あぁ……こんなに穏やかな日は、\nなんだか逆に怖くなって、落ち着きません。\nちょっと街に出て、トラブルに巻き込まれてきますっ！",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-11-30 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11607040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4011606_1040",
+        "ml_word": [
+            "あの、館長さんっ。\nルノにひどいことしてくれませんか？\n今日はまだ３回しか不幸な目に遭ってなくて……。\nえと……ダメでしょうか？",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-11-30 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11607050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4011606_1050",
+        "ml_word": [
+            "はわっ！？　ち、近いですよ館長さん！\nもう、あまりときめかせないでください……。\nルノは恋をする資格なんて、ないんですから。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-11-30 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11607060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4011606_1060",
+        "ml_word": [
+            "オリジナルの幸せそうな顔を見ていると、\n怖くてたまりません……。\nこれから大きな不幸に見舞われた時、\nきっと立ち直れなくなっちゃいますよ。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-11-30 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 11607070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4011606_1070",
+        "ml_word": [
+            "あれ？　館長さんはどこでしょうか……。\nもしかして、ルノを放置して楽しんでいるとか？\nはうぅ……そういうの、ちょっと好きかもしれません。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-11-30 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 16,
+        "layer_id": 4011606,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -39691,6 +41347,236 @@
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 62,
         "layer_id": 4016201,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16302030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016301_1030",
+        "ml_word": [
+            "やっほー、館長くん。\n今日はこれからお出かけ？\n人手がいるなら、あたしもついていくよ？",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 4016301,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16302040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4016301_1040",
+        "ml_word": [
+            "噂には聞いてたけど、芸術の都アテネス、\nいいところじゃないの〜♪\nせっかく来たんだし、色々見て回りたいな。\n館長くん、ちょっと案内してくれない？",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 4016301,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16302050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4016301_1050",
+        "ml_word": [
+            "サンソヴィーノちゃんを見ていると、\nつい愛しの妹と姿を重ねちゃう……。\nあの子、今頃なにしてるかな。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 4016301,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16302060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4016301_1060",
+        "ml_word": [
+            "キングスクロスは確かにめっちゃ強いけど、\nあたしだって負けてないゾ？\nみこみこパワーで雷落としまくっちゃうんだから！",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 4016301,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16302070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4016301_1070",
+        "ml_word": [
+            "美術館って静かで落ち着くよね～。\n少し眠くなっちゃうかも……ふわ～ぁ。\n異世界だとつい気が抜けちゃうな～。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 4016301,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16402030,
+        "scene_type": 1,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016401_1030",
+        "ml_word": [
+            "おかえりなさい、館長。\n今日はどの仕事から手を付ける？\n助力が必要なら、いつでも手を貸すわ。",
+            "en"
+        ],
+        "word_key": 1030,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 4016401,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16402040,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4016401_1040",
+        "ml_word": [
+            "イズリントン様はこの美術館がお気に召したみたい。\nしばらくはここでお世話になるだろうから、\nなにか協力できることがあれば言ってちょうだい。",
+            "en"
+        ],
+        "word_key": 1040,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 4016401,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16402050,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4016401_1050",
+        "ml_word": [
+            "あら館長、上着の袖がほつれてるわよ。\nよかったら後で縫ってあげましょうか？\n騎士になる前は花嫁修業をしていてね、\nひと通りの家事はできるの。",
+            "en"
+        ],
+        "word_key": 1050,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 4016401,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16402060,
+        "scene_type": 1,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4016401_1060",
+        "ml_word": [
+            "私が得意なのは、魔法攻撃。\nでも、剣も槍も斧も人並み以上には扱えるわ。\n戦場で武器を選んでいる余裕はないもの。",
+            "en"
+        ],
+        "word_key": 1060,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 4016401,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            ""
+        ]
+    },
+    {
+        "id": 16402070,
+        "scene_type": 1,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4016401_1070",
+        "ml_word": [
+            "館長は今日も忙しそうね……。\n戻ってくるまで、私も鍛錬をして過ごすことにするわ。\nいざという時に、しっかり貢献できるようにね。",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2026-12-07 13:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 4016401,
         "min_love_point_level": -1,
         "max_love_point_level": -1,
         "ml_title": [
@@ -50057,6 +51943,582 @@
         "start_time": "2022-08-01 00:00:00",
         "end_time": "2030-08-01 23:59:59",
         "unit_id": 62,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "ベースアップ",
+            "en"
+        ]
+    },
+    {
+        "id": 16301070,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1070",
+        "ml_word": [
+            "信愛度Lv2",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 2,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv2",
+            "en"
+        ]
+    },
+    {
+        "id": 16301080,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1080",
+        "ml_word": [
+            "信愛度Lv3",
+            "en"
+        ],
+        "word_key": 1080,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 3,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv3",
+            "en"
+        ]
+    },
+    {
+        "id": 16301090,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1090",
+        "ml_word": [
+            "信愛度Lv4",
+            "en"
+        ],
+        "word_key": 1090,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv4",
+            "en"
+        ]
+    },
+    {
+        "id": 16301100,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1100",
+        "ml_word": [
+            "信愛度Lv5",
+            "en"
+        ],
+        "word_key": 1100,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 5,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv5",
+            "en"
+        ]
+    },
+    {
+        "id": 16301110,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1110",
+        "ml_word": [
+            "信愛度Lv6",
+            "en"
+        ],
+        "word_key": 1110,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 6,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv6",
+            "en"
+        ]
+    },
+    {
+        "id": 16301120,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1120",
+        "ml_word": [
+            "信愛度Lv7",
+            "en"
+        ],
+        "word_key": 1120,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv7",
+            "en"
+        ]
+    },
+    {
+        "id": 16301130,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1130",
+        "ml_word": [
+            "信愛度Lv8",
+            "en"
+        ],
+        "word_key": 1130,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 8,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv8",
+            "en"
+        ]
+    },
+    {
+        "id": 16301140,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1140",
+        "ml_word": [
+            "信愛度Lv9",
+            "en"
+        ],
+        "word_key": 1140,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 9,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv9",
+            "en"
+        ]
+    },
+    {
+        "id": 16301150,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1150",
+        "ml_word": [
+            "信愛度Lv10",
+            "en"
+        ],
+        "word_key": 1150,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv10",
+            "en"
+        ]
+    },
+    {
+        "id": 16301200,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1200",
+        "ml_word": [
+            "レベルアップ",
+            "en"
+        ],
+        "word_key": 1200,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "レベルアップ",
+            "en"
+        ]
+    },
+    {
+        "id": 16301210,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1210",
+        "ml_word": [
+            "技法強化",
+            "en"
+        ],
+        "word_key": 1210,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "技法強化",
+            "en"
+        ]
+    },
+    {
+        "id": 16301220,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1220",
+        "ml_word": [
+            "ベースアップ",
+            "en"
+        ],
+        "word_key": 1220,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 63,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "ベースアップ",
+            "en"
+        ]
+    },
+    {
+        "id": 16401070,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1070",
+        "ml_word": [
+            "信愛度Lv2",
+            "en"
+        ],
+        "word_key": 1070,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 2,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv2",
+            "en"
+        ]
+    },
+    {
+        "id": 16401080,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1080",
+        "ml_word": [
+            "信愛度Lv3",
+            "en"
+        ],
+        "word_key": 1080,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 3,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv3",
+            "en"
+        ]
+    },
+    {
+        "id": 16401090,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1090",
+        "ml_word": [
+            "信愛度Lv4",
+            "en"
+        ],
+        "word_key": 1090,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 4,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv4",
+            "en"
+        ]
+    },
+    {
+        "id": 16401100,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1100",
+        "ml_word": [
+            "信愛度Lv5",
+            "en"
+        ],
+        "word_key": 1100,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 5,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv5",
+            "en"
+        ]
+    },
+    {
+        "id": 16401110,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1110",
+        "ml_word": [
+            "信愛度Lv6",
+            "en"
+        ],
+        "word_key": 1110,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 6,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv6",
+            "en"
+        ]
+    },
+    {
+        "id": 16401120,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1120",
+        "ml_word": [
+            "信愛度Lv7",
+            "en"
+        ],
+        "word_key": 1120,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 7,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv7",
+            "en"
+        ]
+    },
+    {
+        "id": 16401130,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1130",
+        "ml_word": [
+            "信愛度Lv8",
+            "en"
+        ],
+        "word_key": 1130,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 8,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv8",
+            "en"
+        ]
+    },
+    {
+        "id": 16401140,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1140",
+        "ml_word": [
+            "信愛度Lv9",
+            "en"
+        ],
+        "word_key": 1140,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 9,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv9",
+            "en"
+        ]
+    },
+    {
+        "id": 16401150,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1150",
+        "ml_word": [
+            "信愛度Lv10",
+            "en"
+        ],
+        "word_key": 1150,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": 10,
+        "max_love_point_level": 10,
+        "ml_title": [
+            "信愛度Lv10",
+            "en"
+        ]
+    },
+    {
+        "id": 16401200,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1200",
+        "ml_word": [
+            "レベルアップ",
+            "en"
+        ],
+        "word_key": 1200,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "レベルアップ",
+            "en"
+        ]
+    },
+    {
+        "id": 16401210,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1210",
+        "ml_word": [
+            "技法強化",
+            "en"
+        ],
+        "word_key": 1210,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
+        "layer_id": 0,
+        "min_love_point_level": -1,
+        "max_love_point_level": -1,
+        "ml_title": [
+            "技法強化",
+            "en"
+        ]
+    },
+    {
+        "id": 16401220,
+        "scene_type": 3,
+        "trigger": 0,
+        "motion": "",
+        "expression": "",
+        "sound_asset": "1220",
+        "ml_word": [
+            "ベースアップ",
+            "en"
+        ],
+        "word_key": 1220,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "unit_id": 64,
         "layer_id": 0,
         "min_love_point_level": -1,
         "max_love_point_level": -1,

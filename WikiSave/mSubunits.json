@@ -6423,7 +6423,7 @@
          "<span lang=\"ja\">衰退した文化の神</span>"
       ],
       "ml_get_message": [
-         "あたしはこの世界のゲージュツじゃない、イマージュでもない。\nでも、そっちががそう呼ぶなら……好きにすればいーよ。",
+         "あたしはこの世界のゲージュツじゃない、イマージュでもない。\nでも、そっちがそう呼ぶなら……好きにすればいーよ。",
          "en",
          "我既不是这个世界的艺术，也不是形象。\n不过，既然你要这么称呼，那就随你便吧。"
       ],
@@ -6578,6 +6578,76 @@
       "creator_nation": "意大利",
       "created_date": "约1504",
       "museum": "英国伦敦国家美术馆"
+   },
+   {
+      "id": 4020097,
+      "ml_name": [
+         "カティ(しあわせ包む手)",
+         "en",
+         "卡缇（包裹幸福之手）"
+      ],
+      "level_group_id": 5,
+      "rarity": 5,
+      "weapon_type": 2,
+      "buff_skill_id": 25097001,
+      "attack_skill_id": 15097001,
+      "ultimate_skill_id": 35097001,
+      "fusion_skill_id": 44200007,
+      "change_turn": 3,
+      "image_index": 4020097,
+      "sound_index": 4020097,
+      "ml_personality": [
+         "性格",
+         "en"
+      ],
+      "ml_birthday": [
+         "99/99",
+         "en"
+      ],
+      "ml_height": [
+         "148cm",
+         "en"
+      ],
+      "ml_size": [
+         "B76・W52・H72",
+         "en"
+      ],
+      "unit_id": 1,
+      "ml_cv_name": [
+         "有田菜依",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "ロダンが生み出したイマージュの少女。\n大好きなロダンとクリスマスを過ごす為、\nサンタ服に着替えて準備ばっちり！\n手のひらから溢れるほどの幸せに包まれた彼女は、\nいつも感じている寂しさなど忘れているようだ。",
+         "en",
+         "罗丹创造出的形象少女。\n为了与最喜欢的罗丹共度圣诞节，\n换上圣诞服，准备万全！\n被满溢于掌心的幸福所包裹的她，\n似乎已忘记平日里一直感受到的寂寞。"
+      ],
+      "ml_illustrator_name": [
+         "未記入",
+         "en"
+      ],
+      "ml_roots": [
+         "カテドラル",
+         "en",
+         "大教堂",
+         "<span lang=\"fr\">La Cathédrale</span>"
+      ],
+      "ml_get_message": [
+         "メリークリスマスです、館長さん！\nえへへ、素敵な夜を楽しみましょうね！",
+         "en",
+         "圣诞快乐，馆长！\n呵呵，让我们共度美妙的夜晚吧！"
+      ],
+      "favorite_type": 4,
+      "virtue_types": "4",
+      "start_time": "2026-12-18 13:00:00",
+      "adult_no_voice": 0,
+      "ml_creator": [
+         "罗丹",
+         "<span lang=\"fr\">Auguste Rodin</span>"
+      ],
+      "creator_nation": "法国",
+      "created_date": "1914",
+      "museum": "罗丹博物馆"
    },
    {
       "id": 99910,

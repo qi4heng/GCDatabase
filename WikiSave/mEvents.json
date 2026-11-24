@@ -2210,6 +2210,32 @@
         "close_time": "2026-11-21 12:59:59"
     },
     {
+        "id": 3242,
+        "ml_title": [
+            "奇跡の出会いは聖なる日に",
+            ""
+        ],
+        "event_type": 2,
+        "m_quest_id": 442,
+        "top_character_id": 4016301,
+        "top_background_image": "3004101",
+        "m_event_bgm_setting_id": 8,
+        "m_event_bonus_group_id": 3242,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3201,
+        "m_event_top_ranking_group_id": 3201,
+        "m_gacha_group_id": 1196,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6025,
+        "latter_half_shop_category_id": 0,
+        "priority": 155,
+        "banner_image_index": 13242,
+        "start_time": "2026-12-07 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-12-20 12:59:59",
+        "close_time": "2026-12-22 12:59:59"
+    },
+    {
         "id": 3301,
         "ml_title": [
             "アングル・ロダンのアート♡バレンタイン",
@@ -3120,6 +3146,32 @@
         "close_time": "2026-11-08 12:59:59"
     },
     {
+        "id": 3336,
+        "ml_title": [
+            "クリスマス・クライシス",
+            ""
+        ],
+        "event_type": 3,
+        "m_quest_id": 736,
+        "top_character_id": 4010115,
+        "top_background_image": "3004101",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 3336,
+        "m_event_point_group_id": 0,
+        "m_event_tier_ranking_group_id": 3300,
+        "m_event_top_ranking_group_id": 3300,
+        "m_gacha_group_id": 1192,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 153,
+        "banner_image_index": 13336,
+        "start_time": "2026-11-24 13:30:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-12-08 12:59:59",
+        "close_time": "2026-12-10 12:59:59"
+    },
+    {
         "id": 3601,
         "ml_title": [
             "【A.S.】ありえない出会いと最初の試練",
@@ -3482,6 +3534,58 @@
         "latter_half_start_time": "",
         "end_time": "2026-11-18 12:59:59",
         "close_time": "2026-11-20 12:59:59"
+    },
+    {
+        "id": 3615,
+        "ml_title": [
+            "【A.S.】幸に不幸に揺れる心",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1114,
+        "top_character_id": 4011606,
+        "top_background_image": "3001300",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3615,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1194,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 154,
+        "banner_image_index": 13615,
+        "start_time": "2026-11-30 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-12-05 12:59:59",
+        "close_time": "2026-12-07 12:59:59"
+    },
+    {
+        "id": 3616,
+        "ml_title": [
+            "【A.S.】最強の名を賭けた決戦",
+            ""
+        ],
+        "event_type": 6,
+        "m_quest_id": 1115,
+        "top_character_id": 4011511,
+        "top_background_image": "3000312",
+        "m_event_bgm_setting_id": 1,
+        "m_event_bonus_group_id": 0,
+        "m_event_point_group_id": 3616,
+        "m_event_tier_ranking_group_id": 0,
+        "m_event_top_ranking_group_id": 0,
+        "m_gacha_group_id": 1198,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 0,
+        "latter_half_shop_category_id": 0,
+        "priority": 156,
+        "banner_image_index": 13616,
+        "start_time": "2026-12-14 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-12-19 12:59:59",
+        "close_time": "2026-12-21 12:59:59"
     },
     {
         "id": 5001,
@@ -3950,5 +4054,31 @@
         "latter_half_start_time": "",
         "end_time": "2026-11-24 12:59:59",
         "close_time": "2026-11-26 12:59:59"
+    },
+    {
+        "id": 5019,
+        "ml_title": [
+            "白銀の夜、想い合う絆【P.C.】",
+            ""
+        ],
+        "event_type": 5,
+        "m_quest_id": 619,
+        "top_character_id": 4020097,
+        "top_background_image": "3003300",
+        "m_event_bgm_setting_id": 2,
+        "m_event_bonus_group_id": 5019,
+        "m_event_point_group_id": 5019,
+        "m_event_tier_ranking_group_id": 5999,
+        "m_event_top_ranking_group_id": 5999,
+        "m_gacha_group_id": 3118,
+        "latter_half_gacha_group_id": 0,
+        "m_shop_category_id": 6026,
+        "latter_half_shop_category_id": 0,
+        "priority": 157,
+        "banner_image_index": 15019,
+        "start_time": "2026-12-18 13:00:00",
+        "latter_half_start_time": "",
+        "end_time": "2026-12-29 12:59:59",
+        "close_time": "2026-12-31 12:59:59"
     }
 ]

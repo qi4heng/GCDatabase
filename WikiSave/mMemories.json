@@ -2504,7 +2504,6 @@
       "sell_price": 10656,
       "start_time": "2026-10-15 13:00:00"
    },
-   
    {
       "id": 4120169,
       "ml_name": [
@@ -2594,5 +2593,95 @@
       "sub_effect_id1": 63130002,
       "sell_price": 10656,
       "start_time": "2026-11-16 13:00:00"
+   },
+   {
+      "id": 41201830,
+      "ml_name": [
+         "私たち、姉妹サンタに見えますか？",
+         "我们看起来像姐妹圣诞老人吗？"
+      ],
+      "index": "174",
+      "rarity": 4,
+      "image_index": 4120183,
+      "main_effect_id1": 54130006,
+      "main_effect_id2": 54130104,
+      "sub_effect_id1": 63130001,
+      "sell_price": 3552,
+      "start_time": "2026-11-24 13:00:00"
+   },
+   {
+      "id": 41201470,
+      "ml_name": [
+         "サンタガールズのおもてなし",
+         "圣诞女孩们的款待"
+      ],
+      "index": "175",
+      "rarity": 5,
+      "image_index": 4120147,
+      "main_effect_id1": 55130702,
+      "main_effect_id2": 55390004,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-11-24 13:00:00"
+   },
+   {
+      "id": 41201840,
+      "ml_name": [
+         "聖なる日の素敵な巡り合わせ",
+         "神圣之日的美丽邂逅"
+      ],
+      "index": "176",
+      "rarity": 4,
+      "image_index": 4120184,
+      "main_effect_id1": 54130005,
+      "main_effect_id2": 54130001,
+      "sub_effect_id1": 63130013,
+      "sell_price": 3552,
+      "start_time": "2026-12-07 13:00:00"
+   },
+   {
+      "id": 41201810,
+      "ml_name": [
+         "偽善をほどいて素顔を晒す",
+         "卸下伪善，露出真容"
+      ],
+      "index": "177",
+      "rarity": 5,
+      "image_index": 4120181,
+      "main_effect_id1": 55131302,
+      "main_effect_id2": 55300003,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-12-09 13:00:00"
+   },
+   {
+      "id": 41201850,
+      "ml_name": [
+         "猫たちがつなぐ、ふたりの心",
+         "猫咪牵起的两颗心"
+      ],
+      "index": "178",
+      "rarity": 4,
+      "image_index": 4120185,
+      "main_effect_id1": 54130004,
+      "main_effect_id2": 54130901,
+      "sub_effect_id1": 63130003,
+      "sell_price": 3552,
+      "start_time": "2026-12-18 13:00:00"
+   },
+   {
+      "id": 41201490,
+      "ml_name": [
+         "聖夜のパーティーは大盛り上がり！",
+         "圣夜派对热闹非凡！"
+      ],
+      "index": "179",
+      "rarity": 5,
+      "image_index": 4120149,
+      "main_effect_id1": 55130102,
+      "main_effect_id2": 55390001,
+      "sub_effect_id1": 63130002,
+      "sell_price": 10656,
+      "start_time": "2026-12-18 13:00:00"
    }
 ]

@@ -25566,5 +25566,277 @@
         "start_time": "2022-08-01 00:00:00",
         "end_time": "2030-08-01 23:59:59",
         "subunit_id": 4020096
+    },
+    {
+        "id": 1537,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020097_1400",
+        "ml_word": [
+            "メリークリスマース！\nえへへ、びっくりしました？\nこの服着てると、何度でも言いたくなっちゃうんです。\n次は館長さんも一緒に言いましょう？",
+            "en"
+        ],
+        "word_key": 1400,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1538,
+        "scene_type": 0,
+        "trigger": 5,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020097_1410",
+        "ml_word": [
+            "館長さん、ロダンさんを見ませんでした？\nこの季節は彫刻家の血が騒ぐみたいで、\n気が付いたら雪像を彫ってたりするんですよ。",
+            "en"
+        ],
+        "word_key": 1410,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1539,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap1",
+        "expression": "loop",
+        "sound_asset": "stv_4020097_1420",
+        "ml_word": [
+            "ツリーの飾り付けは楽しいですね。\n今年はロダンさんがたくさんオーナメントを\n作ってくれたんです。\n猫さんのもあるんですよ！",
+            "en"
+        ],
+        "word_key": 1420,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1540,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap2",
+        "expression": "loop",
+        "sound_asset": "stv_4020097_1430",
+        "ml_word": [
+            "クリスマスは街もキラキラしててわくわくしますっ！\n館長さんにもプレゼントを用意してますから、\n期待しててくださいね……！",
+            "en"
+        ],
+        "word_key": 1430,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1541,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "tap3",
+        "expression": "loop",
+        "sound_asset": "stv_4020097_1440",
+        "ml_word": [
+            "大きなぬいぐるみって、ぎゅってすると\n包まれてるみたいで安心しますね。\nロダンさん、喜んでくれるといいなって思います……！",
+            "en"
+        ],
+        "word_key": 1440,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1542,
+        "scene_type": 0,
+        "trigger": 4,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020097_1450",
+        "ml_word": [
+            "館長さん、お忙しいみたいですね。\nちょっぴり寂しいですけど、お邪魔にならないように、\nが……我慢しますですっ。",
+            "en"
+        ],
+        "word_key": 1450,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1543,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020046_1460",
+        "ml_word": [
+            "館長さん、あけましておめでとうございます！\n新しい年の始まりは、なんだか気が引き締まりますね。\nいいスタートを切って、\n素敵な一年にしていきましょう！",
+            "en"
+        ],
+        "word_key": 1460,
+        "is_random_voice": 0,
+        "start_time": "2025-01-01 00:00:00",
+        "end_time": "2025-01-15 12:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1544,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020046_1470",
+        "ml_word": [
+            "あ、あのっ、館長さん……これ！\nバレンタインのチョコ、作ってきたんです。\n食べやすい一口サイズでたくさん入ってるので、\nお仕事の合間、疲れた時にでも食べてください！",
+            "en"
+        ],
+        "word_key": 1470,
+        "is_random_voice": 0,
+        "start_time": "2025-01-31 13:30:00",
+        "end_time": "2025-02-15 12:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1545,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "blues",
+        "sound_asset": "stv_4020046_1480",
+        "ml_word": [
+            "うぅぅ～……ハロウィンって、何だか怖くないです？\nお祭りなのに、おどろおどろしい感じもして……。\n館長さん、ぎゅっと手を繋いでてほしいです。",
+            "en"
+        ],
+        "word_key": 1480,
+        "is_random_voice": 0,
+        "start_time": "2025-10-14 13:30:00",
+        "end_time": "2025-10-25 12:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1546,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020046_1490",
+        "ml_word": [
+            "メリークリスマスです！　えへへ、今夜はロダンさんと\nお家でパーティーするんですよ。館長さんにも\n来てほしいって、ロダンさん言ってました！　もちろん\nわたしも同じ気持ちです。待ってますね、館長さん！",
+            "en"
+        ],
+        "word_key": 1490,
+        "is_random_voice": 0,
+        "start_time": "2024-12-16 13:30:00",
+        "end_time": "2024-12-26 12:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1547,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020046_1500",
+        "ml_word": [
+            "年越しの準備でみなさん大忙しですね。お仕事もお掃除\nも、しっかり終わらせておかないと。何かわたしで\nできることがあったら言ってくださいね、館長さん。\n応援でもいいですよ！　がーんばれ！　がーんばれ！",
+            "en"
+        ],
+        "word_key": 1500,
+        "is_random_voice": 0,
+        "start_time": "2024-12-25 13:30:00",
+        "end_time": "2024-12-31 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1548,
+        "scene_type": 0,
+        "trigger": 7,
+        "motion": "mypage",
+        "expression": "ease",
+        "sound_asset": "stv_4020046_1510",
+        "ml_word": [
+            "お誕生日おめでとうございます！　館長さん、\nまた大人の魅力が増したような気がします……。\nわたしも、館長さんの仲間として恥ずかしく\nないように、頑張ってもっと大人っぽくなるです！",
+            "en"
+        ],
+        "word_key": 1510,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1549,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020097_1520",
+        "ml_word": [
+            "館長さん、寒くないですか？\n無理してませんか？\nわたしで良ければいつでも暖めますよ？\nぎゅーって手を繋いであげますから……えへへ。",
+            "en"
+        ],
+        "word_key": 1520,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1550,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "bashful",
+        "sound_asset": "stv_4020097_1530",
+        "ml_word": [
+            "わたし、ちゃんといい子にできてるでしょうか？\nいえ、プレゼントが欲しい訳じゃ……。\n…………すみません、ほんとは欲しいです……。",
+            "en"
+        ],
+        "word_key": 1530,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1551,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "joy",
+        "sound_asset": "stv_4020097_1540",
+        "ml_word": [
+            "苦手な食べ物があったら、教えてくださいね。\nケーキやチキンを用意するつもりですけど、\n館長さんのお好みに合わせますから！",
+            "en"
+        ],
+        "word_key": 1540,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
+    },
+    {
+        "id": 1552,
+        "scene_type": 0,
+        "trigger": 3,
+        "motion": "mypage",
+        "expression": "surprise",
+        "sound_asset": "stv_4020097_1550",
+        "ml_word": [
+            "ひゃんっ……！\nか、館長さん？\n急に抱き付かれると、びっくりしちゃいます……。\nいえ、嫌ではないので……しばらくこのままで……。",
+            "en"
+        ],
+        "word_key": 1550,
+        "is_random_voice": 0,
+        "start_time": "2022-08-01 00:00:00",
+        "end_time": "2030-08-01 23:59:59",
+        "subunit_id": 4020097
     }
 ]

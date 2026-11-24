@@ -1006,5 +1006,61 @@
         "image_index": 4070203,
         "label_image_index": 0,
         "via_area_type": 0
+    },
+    {
+        "id": 50191,
+        "m_event_id": 5019,
+        "ml_name": "MlDictionaryRaidEventBosses.1000050191",
+        "name": "エグゾティ地区",
+        "advantage_area_type": 2,
+        "boss_hp": 400000000,
+        "m_reward_group_id": 5902001,
+        "m_event_tier_ranking_group_id": 5000,
+        "m_event_top_ranking_group_id": 5000,
+        "image_index": 4060033,
+        "label_image_index": 2,
+        "via_area_type": 0
+    },
+    {
+        "id": 50192,
+        "m_event_id": 5019,
+        "ml_name": "MlDictionaryRaidEventBosses.1000050192",
+        "name": "ヴォルカン地区",
+        "advantage_area_type": 4,
+        "boss_hp": 400000000,
+        "m_reward_group_id": 5904001,
+        "m_event_tier_ranking_group_id": 5000,
+        "m_event_top_ranking_group_id": 5000,
+        "image_index": 4060035,
+        "label_image_index": 4,
+        "via_area_type": 0
+    },
+    {
+        "id": 50193,
+        "m_event_id": 5019,
+        "ml_name": "MlDictionaryRaidEventBosses.1000050193",
+        "name": "ノワール地区",
+        "advantage_area_type": 3,
+        "boss_hp": 400000000,
+        "m_reward_group_id": 5903001,
+        "m_event_tier_ranking_group_id": 5000,
+        "m_event_top_ranking_group_id": 5000,
+        "image_index": 4060012,
+        "label_image_index": 3,
+        "via_area_type": 0
+    },
+    {
+        "id": 50194,
+        "m_event_id": 5019,
+        "ml_name": "MlDictionaryRaidEventBosses.1000050194",
+        "name": "アテネス近郊",
+        "advantage_area_type": 0,
+        "boss_hp": 400000000,
+        "m_reward_group_id": 5910001,
+        "m_event_tier_ranking_group_id": 5000,
+        "m_event_top_ranking_group_id": 5000,
+        "image_index": 4070005,
+        "label_image_index": 0,
+        "via_area_type": 0
     }
 ]

@@ -4040,6 +4040,46 @@
         "unlock_condition_id": 1
     },
     {
+        "id": 4001502,
+        "m_athenes_record_area_id": 4,
+        "node_type": 3,
+        "pos_x": 1,
+        "pos_y": -2,
+        "condition_node_id": 0,
+        "passive_skill_id": 0,
+        "unlock_condition_id": 41013
+    },
+    {
+        "id": 4002502,
+        "m_athenes_record_area_id": 4,
+        "node_type": 2,
+        "pos_x": 2,
+        "pos_y": -2,
+        "condition_node_id": 4001502,
+        "passive_skill_id": 1390001,
+        "unlock_condition_id": 1
+    },
+    {
+        "id": 4003502,
+        "m_athenes_record_area_id": 4,
+        "node_type": 3,
+        "pos_x": 3,
+        "pos_y": -2,
+        "condition_node_id": 4002502,
+        "passive_skill_id": 0,
+        "unlock_condition_id": 41014
+    },
+    {
+        "id": 4004502,
+        "m_athenes_record_area_id": 4,
+        "node_type": 2,
+        "pos_x": 4,
+        "pos_y": -2,
+        "condition_node_id": 4003502,
+        "passive_skill_id": 1390001,
+        "unlock_condition_id": 1
+    },
+    {
         "id": 4503502,
         "m_athenes_record_area_id": 4,
         "node_type": 3,
@@ -4057,6 +4097,26 @@
         "pos_y": -2,
         "condition_node_id": 4503502,
         "passive_skill_id": 1300003,
+        "unlock_condition_id": 1
+    },
+    {
+        "id": 4501502,
+        "m_athenes_record_area_id": 4,
+        "node_type": 3,
+        "pos_x": -1,
+        "pos_y": -2,
+        "condition_node_id": 0,
+        "passive_skill_id": 0,
+        "unlock_condition_id": 42002
+    },
+    {
+        "id": 4000502,
+        "m_athenes_record_area_id": 4,
+        "node_type": 2,
+        "pos_x": 0,
+        "pos_y": -2,
+        "condition_node_id": 4501502,
+        "passive_skill_id": 1300002,
         "unlock_condition_id": 1
     },
     {
@@ -6096,6 +6156,46 @@
         "pos_x": 0,
         "pos_y": 2,
         "condition_node_id": 6501002,
+        "passive_skill_id": 1390004,
+        "unlock_condition_id": 1
+    },
+    {
+        "id": 6001002,
+        "m_athenes_record_area_id": 6,
+        "node_type": 3,
+        "pos_x": 1,
+        "pos_y": 2,
+        "condition_node_id": 0,
+        "passive_skill_id": 0,
+        "unlock_condition_id": 61011
+    },
+    {
+        "id": 6002002,
+        "m_athenes_record_area_id": 6,
+        "node_type": 2,
+        "pos_x": 2,
+        "pos_y": 2,
+        "condition_node_id": 6001002,
+        "passive_skill_id": 1390004,
+        "unlock_condition_id": 1
+    },
+    {
+        "id": 6003002,
+        "m_athenes_record_area_id": 6,
+        "node_type": 3,
+        "pos_x": 3,
+        "pos_y": 2,
+        "condition_node_id": 6002002,
+        "passive_skill_id": 0,
+        "unlock_condition_id": 61012
+    },
+    {
+        "id": 6004002,
+        "m_athenes_record_area_id": 6,
+        "node_type": 2,
+        "pos_x": 4,
+        "pos_y": 2,
+        "condition_node_id": 6003002,
         "passive_skill_id": 1390004,
         "unlock_condition_id": 1
     },

@@ -334,5 +334,17 @@
         "bgm_id": 10110,
         "start_time": "2026-11-01 04:00:00",
         "end_time": "2026-12-01 03:59:59"
+    },
+    {
+        "id": 129,
+        "ml_title": [
+            "シーズン29",
+            ""
+        ],
+        "m_dungeon_floor_group_id": 29,
+        "m_dungeon_rule_group_id": 29,
+        "bgm_id": 10110,
+        "start_time": "2026-12-01 04:00:00",
+        "end_time": "2027-01-01 03:59:59"
     }
 ]

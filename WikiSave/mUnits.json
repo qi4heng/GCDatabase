@@ -1736,6 +1736,118 @@
       ]
    },
    {
+      "id": 63,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4016301,
+      "unit_type": 2,
+      "collabo_type": 7,
+      "hp": 14400,
+      "atk": 408,
+      "mnd": 360,
+      "def": 360,
+      "dex": 288,
+      "luk": 288,
+      "spd": 384,
+      "passion": 100,
+      "sort_order": 63,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 1,
+      "main_art_type": 1,
+      "sub_art_type": 5,
+      "default_max_level": 75,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "イズリントン",
+         "en",
+         "伊斯灵顿"
+      ],
+      "ml_cv_name": [
+         "非公開",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "イリスクラウドの霧に立ち向かう神子。\n攻撃魔法が得意分野で、戦闘能力はとても高い。いつでも\n民の声に耳を傾けており、裏表のない性格と正義感の\n高さから人気がある。霧の世界に平和をもたらすべく、\nイズリントンは今日も戦場と市街地に向かう。",
+         "en",
+         "直面伊利斯云之雾的神子。\n擅长攻击魔法，战斗能力极高。随时都\n倾听着民众的声音，凭借表里如一的性格与\n强烈的正义感而广受欢迎。为了让雾之世界迎来和平，\n伊斯灵顿今天也奔赴战场与市区。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_イズリントン",
+         "en"
+      ],
+      "ml_birthday": [
+         "4月1日",
+         "en"
+      ],
+      "ml_height": [
+         "普通\n（<span lang=\"ja\">普通</span>）",
+         "en"
+      ],
+      "ml_size": [
+         "秘密喔？\n（<span lang=\"ja\">秘密だゾ？</span>）",
+         "en"
+      ]
+   },
+   {
+      "id": 64,
+      "level_group_id": 1,
+      "love_point_level_group_id": 1,
+      "default_layer_id": 4016401,
+      "unit_type": 2,
+      "collabo_type": 7,
+      "hp": 12000,
+      "atk": 456,
+      "mnd": 288,
+      "def": 312,
+      "dex": 384,
+      "luk": 288,
+      "spd": 432,
+      "passion": 100,
+      "sort_order": 64,
+      "adult_no_voice": 0,
+      "ai_group_id": 1,
+      "favorite_type": 6,
+      "main_art_type": 3,
+      "sub_art_type": 4,
+      "default_max_level": 75,
+      "factor_id1": 0,
+      "factor_id2": 0,
+      "factor_id3": 0,
+      "ml_name": [
+         "キングスクロス",
+         "en",
+         "国王十字"
+      ],
+      "ml_cv_name": [
+         "非公開",
+         "en"
+      ],
+      "ml_flavor_text": [
+         "セントイリスの騎士であり、彩雲の神子・イズリントンに\n仕える従者。並外れた魔力の持ち主であると同時に剣術や\n槍術にも長けており、戦場では無類の強さを発揮する。\n最近はイズリントンの影響で、お洒落に気を使うという\n女の子らしい一面も暫し。",
+         "en",
+         "圣伊丽丝的骑士，侍奉彩云之神子·伊斯灵顿的\n侍从。拥有非同寻常的魔力，同时也精通剑术与\n枪术，在战场上能发挥出无与伦比的强大。\n最近受伊斯灵顿的影响，也开始在意打扮，\n偶尔会展露出女孩子气的一面。"
+      ],
+      "ml_illustrator_name": [
+         "イラストレーター_キングスクロス",
+         "en"
+      ],
+      "ml_birthday": [
+         "12月9日",
+         "en"
+      ],
+      "ml_height": [
+         "高\n（<span lang=\"ja\">高め</span>）",
+         "en"
+      ],
+      "ml_size": [
+         "秘密哟\n（<span lang=\"ja\">秘密よ</span>）",
+         "en"
+      ]
+   },
+   {
       "id": 998,
       "level_group_id": 1,
       "love_point_level_group_id": 1,

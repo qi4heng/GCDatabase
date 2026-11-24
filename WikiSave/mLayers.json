@@ -742,6 +742,59 @@
       ]
    },
    {
+      "id": 4010115,
+      "unit_id": 1,
+      "rarity": 5,
+      "weapon_type": 1,
+      "color_type": 1,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 2972,
+      "atk": 76,
+      "mnd": 66,
+      "def": 58,
+      "dex": 97,
+      "spd": 56,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130002,
+      "skill_id1": 20115001,
+      "skill_id2": 20115002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10115001,
+      "ultimate_skill_id": 30115001,
+      "duplicated_item_id": 1120115,
+      "duplicated_item_count": 1,
+      "sort_order": 115,
+      "image_index": 4010115,
+      "ai_group_id": 0,
+      "sound_index": 4010115,
+      "country_type": 0,
+      "strong_skill_setting": "0|2|3|0|0",
+      "virtue_types": "2",
+      "start_time": "2026-11-24 13:30:00",
+      "ml_name": [
+         "ホーリーイーター",
+         "神圣吃货"
+      ],
+      "ml_flavor_text": [
+         "クリスマスのご馳走を追い求める\n食いしん坊なサンタクローススタイル。",
+         "追寻圣诞大餐的\n贪吃圣诞老人造型。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "天才美少女サンタが\nプレゼントをあげましょう！",
+         "天才美少女圣诞老人\n送你礼物吧！"
+      ],
+      "ml_get_message": [
+         "プレゼントを渡して相手の喜ぶ顔を見る……素晴らしいことではないですか！\n唯一の問題は、私に贈り物を買うお金がないということですが。",
+         "送出礼物，看到对方开心的表情...这不是很棒的事吗！\n唯一的问题是，我没有钱买礼物。"
+      ]
+   },
+   {
       "id": 4010201,
       "unit_id": 2,
       "rarity": 3,
@@ -5032,6 +5085,59 @@
       "ml_get_message": [
          "あら館長、目の下にクマができてるじゃない。\n……少しだけ、私と一緒に休まない？",
          "哎呀馆长，你眼睛下面都有黑眼圈了呢。...就一小会儿，要不要和我一起休息一下？"
+      ]
+   },
+   {
+      "id": 4010714,
+      "unit_id": 7,
+      "rarity": 5,
+      "weapon_type": 1,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 0,
+      "hp": 4433,
+      "atk": 63,
+      "mnd": 42,
+      "def": 76,
+      "dex": 83,
+      "spd": 105,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15130003,
+      "skill_id1": 20714001,
+      "skill_id2": 20714002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 10714001,
+      "ultimate_skill_id": 30714001,
+      "duplicated_item_id": 1120714,
+      "duplicated_item_count": 1,
+      "sort_order": 714,
+      "image_index": 4010714,
+      "ai_group_id": 0,
+      "sound_index": 4010714,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|3|0|2",
+      "virtue_types": "2",
+      "start_time": "2026-11-24 13:30:00",
+      "ml_name": [
+         "ホーリーワーカー",
+         "神圣工作者"
+      ],
+      "ml_flavor_text": [
+         "もちろんクリスマスも大忙しな市議の\n麗しいサンタクローススタイル。",
+         "当然即使是圣诞节也忙碌不堪的市议员的\n美丽圣诞老人造型。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "……よく眠ってるようね。\nプレゼント、置いておくわ。",
+         "...看来你睡得很熟呢。\n礼物，我就放在这里了。"
+      ],
+      "ml_get_message": [
+         "……メ、メリークリスマス。\n……あの、いくら業務とはいえ、これは……いいのかしら？",
+         "...圣、圣诞快乐。\n...那个，就算这是工作，这样...真的可以吗？"
       ]
    },
    {
@@ -10229,6 +10335,59 @@
       ]
    },
    {
+      "id": 4011511,
+      "unit_id": 15,
+      "rarity": 5,
+      "weapon_type": 0,
+      "color_type": 4,
+      "collabo_type": 0,
+      "another_type": 1,
+      "hp": 4162,
+      "atk": 124,
+      "mnd": 71,
+      "def": 65,
+      "dex": 84,
+      "spd": 82,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15480002,
+      "skill_id1": 21511001,
+      "skill_id2": 21511002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11511001,
+      "ultimate_skill_id": 31511001,
+      "duplicated_item_id": 1121511,
+      "duplicated_item_count": 1,
+      "sort_order": 1511,
+      "image_index": 4011511,
+      "ai_group_id": 0,
+      "sound_index": 4011511,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|3|0|0",
+      "virtue_types": "4|5",
+      "start_time": "2026-12-14 13:00:00",
+      "ml_name": [
+         "狂気のオルタ",
+         "疯狂的Alter"
+      ],
+      "ml_flavor_text": [
+         "最強の藝術家に愛など必要ない。\n狂おしいほどに強さだけを求め続ける。",
+         "最强的艺术家不需要爱。\n只近乎疯狂地不断追求强大。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "私こそが最強だと\n証明してみせますわ",
+         "就由我来证明\n我才是最强"
+      ],
+      "ml_get_message": [
+         "弱き者には興味がありませんわ。私が目指すのは最強の藝術家。\n最強を自負する者だけかかってきなさい……！",
+         "我对弱者没有兴趣。我的目标是成为最强的艺术家。\n只有自认最强的人，才放马过来吧...！"
+      ]
+   },
+   {
       "id": 4011601,
       "unit_id": 16,
       "rarity": 3,
@@ -10491,6 +10650,59 @@
       "ml_get_message": [
          "この夏は、ふたりで色々なところへ行きたいなって思ってて……。\nあ、でもそんなの、勝手に思われても迷惑ですよね、すみませんっ……！",
          "这个夏天，我想和馆长两个人一起去各种地方...啊，但是这样擅自把馆长考虑进来的话馆长会感到困扰吧，对不起...！"
+      ]
+   },
+   {
+      "id": 4011606,
+      "unit_id": 16,
+      "rarity": 5,
+      "weapon_type": 0,
+      "color_type": 1,
+      "collabo_type": 0,
+      "another_type": 1,
+      "hp": 4054,
+      "atk": 115,
+      "mnd": 89,
+      "def": 62,
+      "dex": 63,
+      "spd": 113,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 15480002,
+      "skill_id1": 21606001,
+      "skill_id2": 21606002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 11606001,
+      "ultimate_skill_id": 31606001,
+      "duplicated_item_id": 1121606,
+      "duplicated_item_count": 1,
+      "sort_order": 1606,
+      "image_index": 4011606,
+      "ai_group_id": 0,
+      "sound_index": 4011606,
+      "country_type": 0,
+      "strong_skill_setting": "0|0|2|3|0",
+      "virtue_types": "2|5",
+      "start_time": "2026-11-30 13:00:00",
+      "ml_name": [
+         "自虐のオルタ",
+         "自虐的Alter"
+      ],
+      "ml_flavor_text": [
+         "幸せを恐れ、不幸の道へ突き進む。\nそれが、彼女の心の平穏を保つ生き方。",
+         "害怕幸福，闷头冲向不幸之路。\n那就是她维持内心平静的生活方式。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "幸せになっちゃうなんて\n怖すぎますよぅ～！",
+         "竟然会变得幸福\n太可怕了呀～！"
+      ],
+      "ml_get_message": [
+         "えと、幸せすぎると、失うのが怖くなるから……ルノはもっと、\n不幸になっておく必要があるんです！　館長さん、ぺちんって叩いてください！",
+         "那个，太幸福的话，就会害怕失去...所以雷诺必须更加、\n更加不幸才行！馆长，请啪地拍我一下！"
       ]
    },
    {
@@ -11551,6 +11763,112 @@
       "ml_get_message": [
          "天才登場！　まあ、頼りにしておくれよ。\nちょっとくらいのイタズラは大目に見てさ。",
          "天才登场！嘛，就请多关照了哟。\n稍微恶作剧一下也请多见谅。"
+      ]
+   },
+   {
+      "id": 4016301,
+      "unit_id": 63,
+      "rarity": 5,
+      "weapon_type": 1,
+      "color_type": 4,
+      "collabo_type": 7,
+      "another_type": 0,
+      "hp": 3452,
+      "atk": 103,
+      "mnd": 78,
+      "def": 71,
+      "dex": 48,
+      "spd": 106,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 0,
+      "skill_id1": 27301001,
+      "skill_id2": 27301002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 17301001,
+      "ultimate_skill_id": 37301001,
+      "duplicated_item_id": 1126301,
+      "duplicated_item_count": 1,
+      "sort_order": 6301,
+      "image_index": 4016301,
+      "ai_group_id": 0,
+      "sound_index": 4016301,
+      "country_type": 0,
+      "strong_skill_setting": "2|0|0|0|3",
+      "virtue_types": "3|7",
+      "start_time": "2026-12-07 13:00:00",
+      "ml_name": [
+         "雷を招く神子",
+         "招雷之神子"
+      ],
+      "ml_flavor_text": [
+         "セントイリスの名家エルロンド家の四女。\n時に民の声を聴き、時に戦場へ赴く。",
+         "圣伊丽丝名门艾尔隆德家的四女。\n时而倾听民众之声，时而奔赴战场。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "あたしのみこみこパワーは\n異世界でも健在、ってね～",
+         "我的mikomiko帕瓦（神子之力）\n在异世界也依然健在，对吧～"
+      ],
+      "ml_get_message": [
+         "セントイリスの神子、イズリントン・エルロンド参上～っと。\nお世話になるからには、力を貸してあげるね？",
+         "圣伊丽丝的神子，伊斯灵顿·艾尔隆德登场～。\n既然要受你照顾，我就借你一臂之力吧？"
+      ]
+   },
+   {
+      "id": 4016401,
+      "unit_id": 64,
+      "rarity": 5,
+      "weapon_type": 1,
+      "color_type": 3,
+      "collabo_type": 7,
+      "another_type": 0,
+      "hp": 3290,
+      "atk": 100,
+      "mnd": 46,
+      "def": 82,
+      "dex": 80,
+      "spd": 99,
+      "mov": 5,
+      "mov_type": 1,
+      "factor_id": 0,
+      "skill_id1": 27401001,
+      "skill_id2": 27401002,
+      "limit_passive_skill_id": 15420001,
+      "attack_skill_id": 17401001,
+      "ultimate_skill_id": 37401001,
+      "duplicated_item_id": 1126301,
+      "duplicated_item_count": 1,
+      "sort_order": 6401,
+      "image_index": 4016401,
+      "ai_group_id": 0,
+      "sound_index": 4016401,
+      "country_type": 0,
+      "strong_skill_setting": "3|0|0|0|2",
+      "virtue_types": "3|7",
+      "start_time": "2026-12-07 13:00:00",
+      "ml_name": [
+         "神子の懐刀",
+         "神子的心腹"
+      ],
+      "ml_flavor_text": [
+         "セントイリス騎士団で最も優秀な騎士。\n従者としてイズリントンに随行する。",
+         "圣伊丽丝骑士团中最优秀的骑士。\n以侍从身份随行伊斯灵顿。"
+      ],
+      "ml_illustrator_name": [
+         "（仮）",
+         "en"
+      ],
+      "ml_rare_get_message": [
+         "私は護るべき人のために戦う\nただそれだけよ",
+         "我只为应当守护之人而战\n仅此而已"
+      ],
+      "ml_get_message": [
+         "イズリントン様に仕える騎士、キングスクロスよ。\n当面ここでお世話になるから、その恩は働きで返すわ。",
+         "我是侍奉伊斯灵顿大人的骑士，国王十字。\n既然暂时要在这里叨扰，这份恩情我会用工作来偿还。"
       ]
    },
    {
